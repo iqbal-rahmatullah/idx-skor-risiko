@@ -9,3 +9,5 @@ class Settings(BaseSettings):
 
     telegram_bot_token: SecretStr
     sectors_api_key: SecretStr
+    sectors_offline: bool = False
+    database_url: str = "sqlite:///sectors_hackathon.db"

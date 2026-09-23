@@ -21,9 +21,12 @@ bot/
   __main__.py            entry point
   config.py              pydantic-settings, baca .env
   data/tickers.json      daftar emiten (kode tanpa .JK), dari scripts/fetch_tickers.py
-  sectors/client.py      klien Sectors API (httpx + certifi)
+  tickers.py             validasi ticker terhadap data/tickers.json
+  sectors/client.py      klien Sectors API (httpx + certifi) dan mode offline dari fixture
   idx/                   ambil notasi khusus, papan pemantauan, HSC
-  snapshot/              bangun TickerSnapshot, cache per tanggal
+  snapshot/
+    models.py            skema TickerSnapshot (pydantic)
+    build.py             ambil → normalisasi → simpan; data EOD di-cache per (symbol, as_of), filing/berita/suspensi selalu diambil ulang
   risk/
     indicators/          satu modul per pilar (p1_ukuran.py ... p6_peristiwa.py)
     thresholds.py        semua ambang + sumber + tanggal berlaku
@@ -40,7 +43,7 @@ bot/
     render.py            kartu HTML dari narasi
     render_fallback.py   kartu tanpa AI
   jobs/                  putaran 06.00 WIB Senin–Jumat, mingguan Senin 05.00
-  db/                    model dan repo SQLite
+  db/                    tabel dan repo SQLite
 skills/analisis-risiko-saham/
   SKILL.md
   references/            kamus-istilah.md, nada.md, kombinasi.md, contoh/
@@ -64,12 +67,13 @@ Jangan dilanggar. Kalau sebuah tugas tampaknya menuntut pelanggaran, berhenti da
 
 Diuji 22 September 2026 dengan ANTM, BBCA, dan AEGS. Fixture ada di `tests/fixtures/`.
 
+- **Default live** (`sectors_offline=False`); setiap panggilan memakan kredit. Untuk pengembangan dan demo, set `SECTORS_OFFLINE=true`: klien membaca `tests/fixtures/sectors/{path URL}.json` tanpa kredit, dan fixture yang tidak ada gagal keras.
 - **Autentikasi**: header `Authorization: <key>` tanpa `Bearer`. Varian `Bearer` ditolak 401. Semua panggilan lewat `/v2`; `/v1` sudah mati (410).
 - **Urutan array berbeda antar endpoint.** `historical_financials`, `historical_valuation`, dan `historical_financial_ratio` diurutkan **tertua dulu**. Array dari `/financials/quarterly` dan `/company/shareholders-composition` diurutkan **terbaru dulu**. Jangan pernah memakai indeks 0 di mana pun — cari tahun atau tanggal terbaru yang nilainya tidak null.
 - **`/daily` dibatasi 90 hari kalender**, menghasilkan sekitar 63 baris hari bursa. Rentang lebih panjang dipotong diam-diam tanpa error. Perlakukan `/daily` sebagai alat backfill; deret harga disimpan dan ditambah tiap putaran hari bursa di `bot/db/`, dan semua perhitungan riwayat membaca dari database, bukan langsung dari API.
-- **Format angka campur.** Rasio bank dan `price_change` desimal (`0.27` = 27%). `pe` dan `pb` bukan desimal (`13.2` = 13,2×). `share_percentage` di `major_shareholders` berupa **string** desimal (`"0.35"`), harus di-parse. `share_percentage_transaction` sudah persen. Konversi ke `display` dilakukan kode, tidak pernah oleh LLM.
+- **Format angka campur.** Rasio bank dan `price_change` desimal (`0.27` = 27%). `pe` dan `pb` bukan desimal (`13.2` = 13,2×). `share_percentage` di `major_shareholders` berupa **string** desimal (`"0.35"`), harus di-parse. `share_percentage_*` di `/filings` sudah persen (`0.03` = 0,03%, terverifikasi terhadap `holding_before`); snapshot membaginya 100. Di `TickerSnapshot` semua persentase desimal. Konversi ke `display` dilakukan kode, tidak pernah oleh LLM.
 - **`efficiency_ratio` bernilai sama persis dengan `roa`** — bug data. Jangan dipakai. Untuk efisiensi bank pakai `cost_to_income_ratio`, dan sebut sebagai proksi BOPO.
-- **`allowance_for_loans` bernilai negatif.** Pakai nilai absolutnya sebelum menghitung proksi NPL dan persentil. Urutan hasil dari API juga tidak bisa dipakai langsung karena tanda ini.
+- **Tanda `allowance_for_loans` tidak konsisten**: negatif di data tahunan dan screener, positif di `/financials/quarterly`. Selalu pakai nilai absolutnya sebelum menghitung proksi NPL dan persentil. Urutan hasil dari API juga tidak bisa dipakai langsung karena tanda ini.
 - **`debt_to_equity_ratio` dihitung sebagai total liabilitas ÷ ekuitas**, bukan `total_debt / total_equity` (ANTM: 0,435 versus 0,119). Pakai field `debt_to_equity_ratio` supaya konsisten dengan `/company/report`, dan labeli sebagai "liabilitas terhadap ekuitas".
 - **Nama field beda antara tahunan dan kuartalan**: `current_assets` di `historical_financials`, `total_current_asset` di `/financials/quarterly`.
 - **`corporate_actions`**: kunci kosong bernilai `null`, bukan `[]`. Daftar `dividend` tidak terurut — urutkan berdasarkan `ex_date` sebelum dipakai. `stock_split` hanya ada di sini, tidak ada di `/daily`.
@@ -79,7 +83,9 @@ Diuji 22 September 2026 dengan ANTM, BBCA, dan AEGS. Fixture ada di `tests/fixtu
   - **Null di `where` membuat baris hilang.** Emiten yang tidak muncul di hasil berstatus `tidak_tersedia`, bukan error.
   - **Tahun ditulis eksplisit.** Pilih tahun terbaru yang datanya sudah terisi untuk mayoritas emiten; kalau masih kosong, turun satu tahun.
 - **`top-changes` maksimal 10 emiten.** Tidak boleh dipakai sebagai cakupan pasar. Lonjakan harga dihitung dari return `/daily` saham yang dipantau.
-- **Paginasi default 20** untuk `/filings`, `/news`, dan `/suspensions`.
+- **Paginasi default 20** untuk `/filings`, `/news`, dan `/suspensions`. `get_all_pages` gagal bila `next_offset` tidak maju, supaya tidak berputar sambil memakan kredit.
+- **404 dianggap "tidak ada data"** untuk bagian opsional snapshot (`missing_ok=True`) → bagian kosong, indikatornya `tidak_tersedia`. Report tetap wajib.
+- **Peristiwa tidak dibatasi `as_of` dari atas.** Suspensi diumumkan sore dan berlaku besok (NASI: diumumkan 21 Sep, `suspension_date` 22 Sep) harus tertangkap putaran 06.00 yang `as_of`-nya masih hari sebelumnya.
 - **`null`** → status `tidak_tersedia`, dikeluarkan dari pembagi skor. Jangan pernah diganti 0.
 - **`net_idr`** bisa negatif. Untuk konsentrasi akumulasi, jumlahkan nilai positif saja.
 - **Ritel** = `individual_l + individual_f`, dibagi `total_l + total_f`. `other_*` bukan ritel. Data bulanan, jadi perbandingan antar bulan.
