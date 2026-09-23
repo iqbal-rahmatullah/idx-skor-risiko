@@ -1,0 +1,17 @@
+[project]
+name = "skor-risiko"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "certifi",
+    "httpx>=0.28",
+    "pydantic-settings>=2",
+    "python-telegram-bot>=22,<23",
+]
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

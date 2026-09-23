@@ -1,0 +1,926 @@
+{
+  "results": [
+    {
+      "symbol": "BAJA.JK",
+      "company_name": "Saranacentral Bajatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 31.1779042809246
+      }
+    },
+    {
+      "symbol": "PACK.JK",
+      "company_name": "PT Abadi Nusantara Hijau Investama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 27.4324219672456
+      }
+    },
+    {
+      "symbol": "INAI.JK",
+      "company_name": "Indal Aluminium Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 12.318471637594
+      }
+    },
+    {
+      "symbol": "ZINC.JK",
+      "company_name": "PT Kapuas Prima Coal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 5.54464303316702
+      }
+    },
+    {
+      "symbol": "CMNT.JK",
+      "company_name": "PT Cemindo Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 4.65568556726266
+      }
+    },
+    {
+      "symbol": "ALMI.JK",
+      "company_name": "Alumindo Light Metal Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 3.98764696436594
+      }
+    },
+    {
+      "symbol": "SQMI.JK",
+      "company_name": "Wilton Makmur Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 3.63571434922272
+      }
+    },
+    {
+      "symbol": "NICE.JK",
+      "company_name": "PT Adhi Kartiko Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 3.59100402480168
+      }
+    },
+    {
+      "symbol": "KRAS.JK",
+      "company_name": "Krakatau Steel (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 2.81223802874947
+      }
+    },
+    {
+      "symbol": "DGWG.JK",
+      "company_name": "PT Delta Giri Wacana Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 2.70356775602004
+      }
+    },
+    {
+      "symbol": "EPAC.JK",
+      "company_name": "PT Megalestari Epack Sentosaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 2.44502697205818
+      }
+    },
+    {
+      "symbol": "SULI.JK",
+      "company_name": "PT SLJ Global Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 2.42200995878185
+      }
+    },
+    {
+      "symbol": "PICO.JK",
+      "company_name": "Pelangi Indah Canindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 2.18023972451319
+      }
+    },
+    {
+      "symbol": "DAAZ.JK",
+      "company_name": "PT Daaz Bara Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.90149680939731
+      }
+    },
+    {
+      "symbol": "BRPT.JK",
+      "company_name": "Barito Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.87037169976605
+      }
+    },
+    {
+      "symbol": "ARCI.JK",
+      "company_name": "PT Archi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.82911263882752
+      }
+    },
+    {
+      "symbol": "TPIA.JK",
+      "company_name": "PT Chandra Asri Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.64611314571986
+      }
+    },
+    {
+      "symbol": "AMMN.JK",
+      "company_name": "PT Amman Mineral Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.55392413192731
+      }
+    },
+    {
+      "symbol": "DKFT.JK",
+      "company_name": "Central Omega Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.51399074130532
+      }
+    },
+    {
+      "symbol": "SMKL.JK",
+      "company_name": "PT Satyamitra Kemas Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.50266215650759
+      }
+    },
+    {
+      "symbol": "OKAS.JK",
+      "company_name": "Ancora Indonesia Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.49031304947014
+      }
+    },
+    {
+      "symbol": "GDST.JK",
+      "company_name": "Gunawan Dianjaya Steel Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.47868379789689
+      }
+    },
+    {
+      "symbol": "SMGA.JK",
+      "company_name": "PT Sumber Mineral Global Abadi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.39689459482703
+      }
+    },
+    {
+      "symbol": "TBMS.JK",
+      "company_name": "Tembaga Mulia Semanan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.34646757749008
+      }
+    },
+    {
+      "symbol": "BRNA.JK",
+      "company_name": "Berlina Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.22454563061555
+      }
+    },
+    {
+      "symbol": "MINE.JK",
+      "company_name": "PT Sinar Terang Mandiri Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.22184762856186
+      }
+    },
+    {
+      "symbol": "FWCT.JK",
+      "company_name": "PT Wijaya Cahaya Timber Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.20303844559754
+      }
+    },
+    {
+      "symbol": "AGII.JK",
+      "company_name": "PT Samator Indo Gas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.19889873698378
+      }
+    },
+    {
+      "symbol": "FASW.JK",
+      "company_name": "Fajar Surya Wisesa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.13102387148656
+      }
+    },
+    {
+      "symbol": "IPOL.JK",
+      "company_name": "Indopoly Swakarsa Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.12344203500068
+      }
+    },
+    {
+      "symbol": "NIKL.JK",
+      "company_name": "Pelat Timah Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.11463216948981
+      }
+    },
+    {
+      "symbol": "KKES.JK",
+      "company_name": "PT Kusuma Kemindo Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.08923095341818
+      }
+    },
+    {
+      "symbol": "KMTR.JK",
+      "company_name": "PT Kirana Megatara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.07534974447183
+      }
+    },
+    {
+      "symbol": "AKPI.JK",
+      "company_name": "Argha Karya Prima Ind. Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.04692443447032
+      }
+    },
+    {
+      "symbol": "YPAS.JK",
+      "company_name": "Yanaprima Hastapersada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.02396980423933
+      }
+    },
+    {
+      "symbol": "LTLS.JK",
+      "company_name": "PT Lautan Luas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.02094003949319
+      }
+    },
+    {
+      "symbol": "TRST.JK",
+      "company_name": "Trias Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 1.01384172699098
+      }
+    },
+    {
+      "symbol": "ALDO.JK",
+      "company_name": "Alkindo Naratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.976428513005133
+      }
+    },
+    {
+      "symbol": "MDKA.JK",
+      "company_name": "PT Merdeka Copper Gold Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.951350890206001
+      }
+    },
+    {
+      "symbol": "EMAS.JK",
+      "company_name": "PT Merdeka Gold Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.944249109903499
+      }
+    },
+    {
+      "symbol": "SMLE.JK",
+      "company_name": "PT Sinergi Multi Lestarindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.917261187913158
+      }
+    },
+    {
+      "symbol": "BMSR.JK",
+      "company_name": "Bintang Mitra Semestaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.885444523248701
+      }
+    },
+    {
+      "symbol": "ASPR.JK",
+      "company_name": "PT Asia Pramulia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.8436472960125
+      }
+    },
+    {
+      "symbol": "BLES.JK",
+      "company_name": "PT Superior Prima Sukses Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.818407946399595
+      }
+    },
+    {
+      "symbol": "PSAB.JK",
+      "company_name": "J Resources Asia Pasifik Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.807518704804119
+      }
+    },
+    {
+      "symbol": "INKP.JK",
+      "company_name": "Indah Kiat Pulp & Paper Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.804174787767668
+      }
+    },
+    {
+      "symbol": "CHEM.JK",
+      "company_name": "PT Chemstar Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.706605280493837
+      }
+    },
+    {
+      "symbol": "WTON.JK",
+      "company_name": "Wijaya Karya Beton",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.706578280839463
+      }
+    },
+    {
+      "symbol": "SAMF.JK",
+      "company_name": "PT Saraswanti Anugerah Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.681459571345671
+      }
+    },
+    {
+      "symbol": "FPNI.JK",
+      "company_name": "PT Lotte Chemical Titan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.675170847265956
+      }
+    },
+    {
+      "symbol": "PTMR.JK",
+      "company_name": "PT Master Print Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.662597432429602
+      }
+    },
+    {
+      "symbol": "TINS.JK",
+      "company_name": "PT Timah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.622525684291069
+      }
+    },
+    {
+      "symbol": "SOLA.JK",
+      "company_name": "PT Xolare RCR Energy Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.608514635281552
+      }
+    },
+    {
+      "symbol": "SMGR.JK",
+      "company_name": "Semen Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.604551158782067
+      }
+    },
+    {
+      "symbol": "MBMA.JK",
+      "company_name": "PT Merdeka Battery Materials Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.590821104879465
+      }
+    },
+    {
+      "symbol": "ISSP.JK",
+      "company_name": "PT Steel Pipe Industry of Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.550469483774956
+      }
+    },
+    {
+      "symbol": "SMCB.JK",
+      "company_name": "PT Solusi Bangun Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.543361531294466
+      }
+    },
+    {
+      "symbol": "KDSI.JK",
+      "company_name": "Kedawung Setia Industrial Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.526065807414916
+      }
+    },
+    {
+      "symbol": "PNGO.JK",
+      "company_name": "PT Pinago Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.491410085158414
+      }
+    },
+    {
+      "symbol": "SPMA.JK",
+      "company_name": "Suparma Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.470638857044146
+      }
+    },
+    {
+      "symbol": "BTON.JK",
+      "company_name": "Betonjaya Manunggal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.462996089221085
+      }
+    },
+    {
+      "symbol": "ANTM.JK",
+      "company_name": "Aneka Tambang Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.43526143769956
+      }
+    },
+    {
+      "symbol": "CLPI.JK",
+      "company_name": "Colorpak Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.418548909922913
+      }
+    },
+    {
+      "symbol": "BATR.JK",
+      "company_name": "PT Benteng Api Technic Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.41047423272575
+      }
+    },
+    {
+      "symbol": "SMBR.JK",
+      "company_name": "PT Semen Baturaja Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.39849790439242
+      }
+    },
+    {
+      "symbol": "TALF.JK",
+      "company_name": "PT Tunas Alfin Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.396991661381611
+      }
+    },
+    {
+      "symbol": "CTBN.JK",
+      "company_name": "Citra Tubindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.395756388624959
+      }
+    },
+    {
+      "symbol": "PDPP.JK",
+      "company_name": "PT Primadaya Plastisindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.393777271489117
+      }
+    },
+    {
+      "symbol": "INTP.JK",
+      "company_name": "Indocement Tunggal Prakarsa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.367288924010631
+      }
+    },
+    {
+      "symbol": "ADMG.JK",
+      "company_name": "Polychem Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.354208684447963
+      }
+    },
+    {
+      "symbol": "APLI.JK",
+      "company_name": "Asiaplast Industries Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.3431399626053
+      }
+    },
+    {
+      "symbol": "TKIM.JK",
+      "company_name": "Pabrik Kertas Tjiwi Kimia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.329491621488501
+      }
+    },
+    {
+      "symbol": "NCKL.JK",
+      "company_name": "PT Trimegah Bangun Persada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.321119885173764
+      }
+    },
+    {
+      "symbol": "SRSN.JK",
+      "company_name": "Indo Acidatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.299566391472436
+      }
+    },
+    {
+      "symbol": "BRMS.JK",
+      "company_name": "Bumi Resources Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.254667750373878
+      }
+    },
+    {
+      "symbol": "PPRI.JK",
+      "company_name": "PT Paperocks Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.252080074903869
+      }
+    },
+    {
+      "symbol": "IFII.JK",
+      "company_name": "PT Indonesia Fibreboard Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.231770648782087
+      }
+    },
+    {
+      "symbol": "SBMA.JK",
+      "company_name": "PT Surya Biru Murni Acetylene Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.214113688397457
+      }
+    },
+    {
+      "symbol": "INCO.JK",
+      "company_name": "Vale Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.205677610270854
+      }
+    },
+    {
+      "symbol": "PBID.JK",
+      "company_name": "PT Panca Budi Idaman Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.181870860456801
+      }
+    },
+    {
+      "symbol": "LMSH.JK",
+      "company_name": "Lionmesh Prima Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.172478790196367
+      }
+    },
+    {
+      "symbol": "INCI.JK",
+      "company_name": "Intanwijaya Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.168592951466762
+      }
+    },
+    {
+      "symbol": "AVIA.JK",
+      "company_name": "PT Avia Avian Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.161857310687883
+      }
+    },
+    {
+      "symbol": "IFSH.JK",
+      "company_name": "PT Ifishdeco Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.16166128620361
+      }
+    },
+    {
+      "symbol": "UNIC.JK",
+      "company_name": "Unggul Indah Cahaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.136375493786368
+      }
+    },
+    {
+      "symbol": "IGAR.JK",
+      "company_name": "Champion Pacific Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.128103203224423
+      }
+    },
+    {
+      "symbol": "NICL.JK",
+      "company_name": "PT PAM Mineral Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.124447395794469
+      }
+    },
+    {
+      "symbol": "MOLI.JK",
+      "company_name": "PT Madusari Murni Indah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.119294163632284
+      }
+    },
+    {
+      "symbol": "GGRP.JK",
+      "company_name": "PT Gunung Raja Paksi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.108847416608151
+      }
+    },
+    {
+      "symbol": "ESSA.JK",
+      "company_name": "ESSA Industries Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.107791119165954
+      }
+    },
+    {
+      "symbol": "INTD.JK",
+      "company_name": "Inter-Delta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.106784172580363
+      }
+    },
+    {
+      "symbol": "OBMD.JK",
+      "company_name": "PT OBM Drilchem Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0968171627379029
+      }
+    },
+    {
+      "symbol": "EKAD.JK",
+      "company_name": "Ekadharma International Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0904448125457928
+      }
+    },
+    {
+      "symbol": "MDKI.JK",
+      "company_name": "PT Emdeki Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0680822587026914
+      }
+    },
+    {
+      "symbol": "ALKA.JK",
+      "company_name": "Alakasa Industrindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0675395709732994
+      }
+    },
+    {
+      "symbol": "CITA.JK",
+      "company_name": "Cita Mineral Investindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0411354165641285
+      }
+    },
+    {
+      "symbol": "ESIP.JK",
+      "company_name": "PT Sinergi Inti Plastindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0303274375766617
+      }
+    },
+    {
+      "symbol": "OPMS.JK",
+      "company_name": "PT Optima Prima Metal Sinergi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.0199877733183983
+      }
+    },
+    {
+      "symbol": "AYLS.JK",
+      "company_name": "PT Agro Yasa Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": 0.00447330256700214
+      }
+    },
+    {
+      "symbol": "TIRT.JK",
+      "company_name": "Tirta Mahakam Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": -1.60453131622422
+      }
+    },
+    {
+      "symbol": "WSBP.JK",
+      "company_name": "PT Waskita Beton Precast Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": -2.55329533125147
+      }
+    },
+    {
+      "symbol": "KAYU.JK",
+      "company_name": "PT Darmi Bersaudara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "KBRI.JK",
+      "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "INRU.JK",
+      "company_name": "Toba Pulp Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "PURE.JK",
+      "company_name": "PT Trinitan Metals and Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "BEBS.JK",
+      "company_name": "PT Berkah Beton Sadaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "INCF.JK",
+      "company_name": "PT Indo Komoditi Korpora Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "TDPM.JK",
+      "company_name": "PT Tianrong Chemicals Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "DPNS.JK",
+      "company_name": "Duta Pertiwi Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "ETWA.JK",
+      "company_name": "Eterindo Wahanatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "HKMU.JK",
+      "company_name": "PT HK Metals Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "SWAT.JK",
+      "company_name": "PT Sriwahana Adityakarta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "SIMA.JK",
+      "company_name": "Siwani Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "NPGF.JK",
+      "company_name": "PT Nusa Palapa Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "debt_to_equity_ratio[2025]": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 114,
+    "showing": 114,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

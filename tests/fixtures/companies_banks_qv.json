@@ -1,0 +1,398 @@
+{
+  "results": [
+    {
+      "symbol": "BMAS.JK",
+      "company_name": "PT Bank Maspion Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 366.109834051537
+      }
+    },
+    {
+      "symbol": "SUPA.JK",
+      "company_name": "PT Super Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 314.762392818807
+      }
+    },
+    {
+      "symbol": "BNBA.JK",
+      "company_name": "Bank Bumi Arta Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 246.182172011023
+      }
+    },
+    {
+      "symbol": "BBKP.JK",
+      "company_name": "PT Bank KB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 217.049667535444
+      }
+    },
+    {
+      "symbol": "MAYA.JK",
+      "company_name": "PT Bank Mayapada Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 200.508208949591
+      }
+    },
+    {
+      "symbol": "PNBS.JK",
+      "company_name": "PT Bank Panin Dubai Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 101.746384211661
+      }
+    },
+    {
+      "symbol": "BBSI.JK",
+      "company_name": "PT Krom Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 99.0203304390342
+      }
+    },
+    {
+      "symbol": "ARTO.JK",
+      "company_name": "PT Bank Jago Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 98.1141625940326
+      }
+    },
+    {
+      "symbol": "BANK.JK",
+      "company_name": "PT Bank Aladin Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 92.1699882309616
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 64.2923826925339
+      }
+    },
+    {
+      "symbol": "BSIM.JK",
+      "company_name": "Bank Sinarmas Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 58.742013186864
+      }
+    },
+    {
+      "symbol": "BBHI.JK",
+      "company_name": "PT Allo Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 55.818294898737
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 51.4198917958292
+      }
+    },
+    {
+      "symbol": "BTPN.JK",
+      "company_name": "PT Bank SMBC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 44.1824597875215
+      }
+    },
+    {
+      "symbol": "BACA.JK",
+      "company_name": "PT Bank Capital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 36.6894292560543
+      }
+    },
+    {
+      "symbol": "BABP.JK",
+      "company_name": "PT Bank MNC Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 29.6030366484867
+      }
+    },
+    {
+      "symbol": "BEKS.JK",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 29.3315566141807
+      }
+    },
+    {
+      "symbol": "BBMD.JK",
+      "company_name": "PT Bank Mestika Dharma Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 25.9413882297552
+      }
+    },
+    {
+      "symbol": "MASB.JK",
+      "company_name": "PT Bank Multiarta Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 25.1664768859166
+      }
+    },
+    {
+      "symbol": "DNAR.JK",
+      "company_name": "PT Bank Oke Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 19.4422884541657
+      }
+    },
+    {
+      "symbol": "AGRS.JK",
+      "company_name": "PT Bank IBK Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 19.4338695088971
+      }
+    },
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 17.1278768924663
+      }
+    },
+    {
+      "symbol": "AMAR.JK",
+      "company_name": "PT Bank Amar Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 16.0370237634947
+      }
+    },
+    {
+      "symbol": "BVIC.JK",
+      "company_name": "Bank Victoria International Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 15.9175440334792
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 13.4574241974514
+      }
+    },
+    {
+      "symbol": "BGTG.JK",
+      "company_name": "PT Bank Ganesha Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 12.4352621718729
+      }
+    },
+    {
+      "symbol": "MEGA.JK",
+      "company_name": "Bank Mega Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 11.3307968943765
+      }
+    },
+    {
+      "symbol": "BBYB.JK",
+      "company_name": "PT Bank Neo Commerce Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 11.2148866181831
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 9.69348238563835
+      }
+    },
+    {
+      "symbol": "BNII.JK",
+      "company_name": "PT Bank Maybank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 9.36644735421506
+      }
+    },
+    {
+      "symbol": "PNBN.JK",
+      "company_name": "Bank Pan Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 9.36154391633007
+      }
+    },
+    {
+      "symbol": "MCOR.JK",
+      "company_name": "PT Bank China Construction Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 9.3245856593685
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 8.37105941188351
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 8.05158206599938
+      }
+    },
+    {
+      "symbol": "NOBU.JK",
+      "company_name": "PT Bank Nationalnobu Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 7.84481493517826
+      }
+    },
+    {
+      "symbol": "BTPS.JK",
+      "company_name": "PT Bank BTPN Syariah Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 7.65059252966332
+      }
+    },
+    {
+      "symbol": "BJBR.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 7.27354976461552
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 6.47920646298566
+      }
+    },
+    {
+      "symbol": "NISP.JK",
+      "company_name": "PT Bank OCBC NISP Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 6.15339185475434
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 6.01888901818088
+      }
+    },
+    {
+      "symbol": "BJTM.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 5.19391250994165
+      }
+    },
+    {
+      "symbol": "BBTN.JK",
+      "company_name": "PT Bank Tabungan Negara (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": 4.66291041855771
+      }
+    },
+    {
+      "symbol": "SDRA.JK",
+      "company_name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -3.80980352736999
+      }
+    },
+    {
+      "symbol": "INPC.JK",
+      "company_name": "Bank Artha Graha Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -5.15064156634832
+      }
+    },
+    {
+      "symbol": "BCIC.JK",
+      "company_name": "PT Bank JTrust Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -6.5691004890822
+      }
+    },
+    {
+      "symbol": "AGRO.JK",
+      "company_name": "PT Bank Raya Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -11.2981651645356
+      }
+    },
+    {
+      "symbol": "BKSW.JK",
+      "company_name": "PT Bank QNB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -46.098419890818
+      }
+    },
+    {
+      "symbol": "BINA.JK",
+      "company_name": "PT Bank Ina Perdana Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "pe[2025]": -73.8972869779252
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 48,
+    "showing": 48,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "top_gainers": {
+    "1d": [
+      {
+        "name": "PT Batavia Prosperindo Trans Tbk.",
+        "symbol": "BPTR.JK",
+        "price_change": 0.337837837837838,
+        "last_close_price": 99,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Satria Antaran Prima Tbk",
+        "symbol": "SAPX.JK",
+        "price_change": 0.245033112582781,
+        "last_close_price": 376,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Asia Sejahtera Mina Tbk",
+        "symbol": "AGAR.JK",
+        "price_change": 0.217391304347826,
+        "last_close_price": 2800,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Dafam Property Indonesia Tbk",
+        "symbol": "DFAM.JK",
+        "price_change": 0.195652173913043,
+        "last_close_price": 110,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Calculus Global Ventures Tbk",
+        "symbol": "STAR.JK",
+        "price_change": 0.173684210526316,
+        "last_close_price": 446,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Dyandra Media International Tbk",
+        "symbol": "DYAN.JK",
+        "price_change": 0.151162790697674,
+        "last_close_price": 99,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "Inter-Delta Tbk",
+        "symbol": "INTD.JK",
+        "price_change": 0.130718954248366,
+        "last_close_price": 346,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "Dharma Samudera Fishing Ind. Tbk",
+        "symbol": "DSFI.JK",
+        "price_change": 0.125,
+        "last_close_price": 108,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "PT Jaya Trishindo Tbk",
+        "symbol": "HELI.JK",
+        "price_change": 0.11304347826087,
+        "last_close_price": 256,
+        "latest_close_date": "2026-09-22"
+      },
+      {
+        "name": "Baramulti Suksessarana Tbk",
+        "symbol": "BSSR.JK",
+        "price_change": 0.11280487804878,
+        "last_close_price": 5475,
+        "latest_close_date": "2026-09-22"
+      }
+    ]
+  }
+}

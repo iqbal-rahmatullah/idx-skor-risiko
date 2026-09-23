@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "symbol": "AEGS.JK",
+      "company_name": "PT Anugerah Spareparts Sejahtera Tbk."
+    },
+    {
+      "symbol": "AMMS.JK",
+      "company_name": "PT Agung Menjangan Mas Tbk"
+    },
+    {
+      "symbol": "BMBL.JK",
+      "company_name": "PT Lavender Bina Cendikia Tbk"
+    },
+    {
+      "symbol": "CASH.JK",
+      "company_name": "PT Cashlez Worldwide Indonesia Tbk."
+    },
+    {
+      "symbol": "CHIP.JK",
+      "company_name": "PT Pelita Teknologi Global Tbk"
+    }
+  ],
+  "pagination": {
+    "total_count": 44,
+    "showing": 5,
+    "limit": 5,
+    "offset": 0,
+    "has_next": true,
+    "has_previous": false,
+    "next_offset": 5,
+    "previous_offset": null
+  }
+}

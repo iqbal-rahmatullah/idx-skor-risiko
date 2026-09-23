@@ -1,0 +1,398 @@
+{
+  "results": [
+    {
+      "symbol": "AMAR.JK",
+      "company_name": "PT Bank Amar Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.984749624882523
+      }
+    },
+    {
+      "symbol": "SUPA.JK",
+      "company_name": "PT Super Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.9324331876192
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.877931448404658
+      }
+    },
+    {
+      "symbol": "BGTG.JK",
+      "company_name": "PT Bank Ganesha Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.787306175185305
+      }
+    },
+    {
+      "symbol": "BBHI.JK",
+      "company_name": "PT Allo Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.739394616650045
+      }
+    },
+    {
+      "symbol": "BNBA.JK",
+      "company_name": "Bank Bumi Arta Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.632891924032865
+      }
+    },
+    {
+      "symbol": "BTPS.JK",
+      "company_name": "PT Bank BTPN Syariah Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.577412616439099
+      }
+    },
+    {
+      "symbol": "BKSW.JK",
+      "company_name": "PT Bank QNB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.522232840577201
+      }
+    },
+    {
+      "symbol": "BANK.JK",
+      "company_name": "PT Bank Aladin Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.492905413338359
+      }
+    },
+    {
+      "symbol": "BBYB.JK",
+      "company_name": "PT Bank Neo Commerce Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.490687168829473
+      }
+    },
+    {
+      "symbol": "BBMD.JK",
+      "company_name": "PT Bank Mestika Dharma Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.464934042001161
+      }
+    },
+    {
+      "symbol": "BMAS.JK",
+      "company_name": "PT Bank Maspion Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.457566234135187
+      }
+    },
+    {
+      "symbol": "BBSI.JK",
+      "company_name": "PT Krom Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.453063819896902
+      }
+    },
+    {
+      "symbol": "DNAR.JK",
+      "company_name": "PT Bank Oke Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.422024031152619
+      }
+    },
+    {
+      "symbol": "AGRO.JK",
+      "company_name": "PT Bank Raya Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.402447701574051
+      }
+    },
+    {
+      "symbol": "PNBN.JK",
+      "company_name": "Bank Pan Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.374913474442881
+      }
+    },
+    {
+      "symbol": "BACA.JK",
+      "company_name": "PT Bank Capital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.368556023784864
+      }
+    },
+    {
+      "symbol": "BEKS.JK",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.367314035476796
+      }
+    },
+    {
+      "symbol": "BSIM.JK",
+      "company_name": "Bank Sinarmas Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.351968549301772
+      }
+    },
+    {
+      "symbol": "AGRS.JK",
+      "company_name": "PT Bank IBK Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.348572549159516
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.346370650892019
+      }
+    },
+    {
+      "symbol": "ARTO.JK",
+      "company_name": "PT Bank Jago Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.31630960205089
+      }
+    },
+    {
+      "symbol": "MEGA.JK",
+      "company_name": "Bank Mega Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.304913936761725
+      }
+    },
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.303675089516605
+      }
+    },
+    {
+      "symbol": "MCOR.JK",
+      "company_name": "PT Bank China Construction Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.29479172219301
+      }
+    },
+    {
+      "symbol": "BTPN.JK",
+      "company_name": "PT Bank SMBC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.293089153985648
+      }
+    },
+    {
+      "symbol": "BJTM.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.290888402388002
+      }
+    },
+    {
+      "symbol": "INPC.JK",
+      "company_name": "Bank Artha Graha Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.277656436178327
+      }
+    },
+    {
+      "symbol": "BNII.JK",
+      "company_name": "PT Bank Maybank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.273111240980176
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.253717987592982
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.248878878727082
+      }
+    },
+    {
+      "symbol": "BABP.JK",
+      "company_name": "PT Bank MNC Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.246582527862274
+      }
+    },
+    {
+      "symbol": "NISP.JK",
+      "company_name": "PT Bank OCBC NISP Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.245293691824815
+      }
+    },
+    {
+      "symbol": "BVIC.JK",
+      "company_name": "Bank Victoria International Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.238448278193165
+      }
+    },
+    {
+      "symbol": "MASB.JK",
+      "company_name": "PT Bank Multiarta Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.227546390265999
+      }
+    },
+    {
+      "symbol": "NOBU.JK",
+      "company_name": "PT Bank Nationalnobu Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.222983982043813
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.210671020117154
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.209769888621247
+      }
+    },
+    {
+      "symbol": "BJBR.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.197430781075866
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.193582438133378
+      }
+    },
+    {
+      "symbol": "BINA.JK",
+      "company_name": "PT Bank Ina Perdana Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.19295723498136
+      }
+    },
+    {
+      "symbol": "BBTN.JK",
+      "company_name": "PT Bank Tabungan Negara (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.19024331584505
+      }
+    },
+    {
+      "symbol": "PNBS.JK",
+      "company_name": "PT Bank Panin Dubai Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.18856145011304
+      }
+    },
+    {
+      "symbol": "BBKP.JK",
+      "company_name": "PT Bank KB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.170525970414805
+      }
+    },
+    {
+      "symbol": "MAYA.JK",
+      "company_name": "PT Bank Mayapada Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.101020055530682
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "SDRA.JK",
+      "company_name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "BCIC.JK",
+      "company_name": "PT Bank JTrust Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 48,
+    "showing": 48,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

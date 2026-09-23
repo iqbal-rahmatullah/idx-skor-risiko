@@ -1,0 +1,4812 @@
+{
+ "AADI": {
+  "listing_board": "Main",
+  "name": "PT Adaro Andalan Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "AALI": {
+  "listing_board": "Main",
+  "name": "Astra Agro Lestari Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ABBA": {
+  "listing_board": "Watchlist",
+  "name": "Mahaka Media Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "ABDA": {
+  "listing_board": "Watchlist",
+  "name": "Asuransi Bina Dana Arta Tbk",
+  "sub_sector": "Insurance"
+ },
+ "ABMM": {
+  "listing_board": "Main",
+  "name": "ABM Investama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ACES": {
+  "listing_board": "Main",
+  "name": "PT Aspirasi Hidup Indonesia Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ACRO": {
+  "listing_board": "Development",
+  "name": "PT Samcro Hyosung Adilestari Tbk.",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "ACST": {
+  "listing_board": "Development",
+  "name": "PT Acset Indonusa Tbk.",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "ADCP": {
+  "listing_board": "Development",
+  "name": "PT Adhi Commuter Properti Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ADES": {
+  "listing_board": "Development",
+  "name": "Akasha Wira International Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ADHI": {
+  "listing_board": "Main",
+  "name": "PT Adhi Karya (Persero) Tbk.",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "ADMF": {
+  "listing_board": "Development",
+  "name": "Adira Dinamika Multi Finance Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "ADMG": {
+  "listing_board": "Development",
+  "name": "Polychem Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ADMR": {
+  "listing_board": "Main",
+  "name": "PT Alamtri Minerals Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ADRO": {
+  "listing_board": "Main",
+  "name": "Alamtri Resources Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "AEGS": {
+  "listing_board": "Acceleration",
+  "name": "PT Anugerah Spareparts Sejahtera Tbk.",
+  "sub_sector": "Automobiles & Components"
+ },
+ "AGAR": {
+  "listing_board": "Development",
+  "name": "PT Asia Sejahtera Mina Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "AGII": {
+  "listing_board": "Development",
+  "name": "PT Samator Indo Gas Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "AGRO": {
+  "listing_board": "Main",
+  "name": "PT Bank Raya Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "AGRS": {
+  "listing_board": "Development",
+  "name": "PT Bank IBK Indonesia Tbk.",
+  "sub_sector": "Banks"
+ },
+ "AHAP": {
+  "listing_board": "Development",
+  "name": "Asuransi Harta Aman Pratama Tbk",
+  "sub_sector": "Insurance"
+ },
+ "AIMS": {
+  "listing_board": "Watchlist",
+  "name": "PT Artha Mahiya Investama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "AISA": {
+  "listing_board": "Main",
+  "name": "PT FKS Food Sejahtera Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "AKKU": {
+  "listing_board": "Watchlist",
+  "name": "PT Anugerah Kagum Karya Utama Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "AKPI": {
+  "listing_board": "Development",
+  "name": "Argha Karya Prima Ind. Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "AKRA": {
+  "listing_board": "Main",
+  "name": "PT AKR Corporindo Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "AKSI": {
+  "listing_board": "Development",
+  "name": "PT Mineral Sumberdaya Mandiri Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "ALDO": {
+  "listing_board": "Development",
+  "name": "Alkindo Naratama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ALII": {
+  "listing_board": "Main",
+  "name": "PT Ancara Logistics Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ALKA": {
+  "listing_board": "Development",
+  "name": "Alakasa Industrindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ALMI": {
+  "listing_board": "Watchlist",
+  "name": "Alumindo Light Metal Industry Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ALTO": {
+  "listing_board": "Watchlist",
+  "name": "Tri Banyan Tirta Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "AMAG": {
+  "listing_board": "Development",
+  "name": "Asuransi Multi Artha Guna Tbk",
+  "sub_sector": "Insurance"
+ },
+ "AMAN": {
+  "listing_board": "Development",
+  "name": "PT Makmur Berkah Amanda Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "AMAR": {
+  "listing_board": "Development",
+  "name": "PT Bank Amar Indonesia Tbk.",
+  "sub_sector": "Banks"
+ },
+ "AMFG": {
+  "listing_board": "Development",
+  "name": "Asahimas Flat Glass Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "AMIN": {
+  "listing_board": "Development",
+  "name": "PT Ateliers Mecaniques D Indonesie Tbk.",
+  "sub_sector": "Industrial Goods"
+ },
+ "AMMN": {
+  "listing_board": "Main",
+  "name": "PT Amman Mineral Internasional Tbk.",
+  "sub_sector": "Basic Materials"
+ },
+ "AMMS": {
+  "listing_board": "Acceleration",
+  "name": "PT Agung Menjangan Mas Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "AMOR": {
+  "listing_board": "Development",
+  "name": "PT Ashmore Asset Management Indonesia Tbk.",
+  "sub_sector": "Investment Service"
+ },
+ "AMRT": {
+  "listing_board": "Main",
+  "name": "PT Sumber Alfaria Trijaya Tbk.",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "ANDI": {
+  "listing_board": "Watchlist",
+  "name": "PT Andira Agro Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ANJT": {
+  "listing_board": "Development",
+  "name": "PT Austindo Nusantara Jaya Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "ANTM": {
+  "listing_board": "Main",
+  "name": "Aneka Tambang Tbk.",
+  "sub_sector": "Basic Materials"
+ },
+ "APEX": {
+  "listing_board": "Development",
+  "name": "Apexindo Pratama Duta Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "APIC": {
+  "listing_board": "Development",
+  "name": "Pacific Strategic Financial Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "APII": {
+  "listing_board": "Development",
+  "name": "PT Arita Prima Indonesia Tbk.",
+  "sub_sector": "Industrial Goods"
+ },
+ "APLI": {
+  "listing_board": "Development",
+  "name": "Asiaplast Industries Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "APLN": {
+  "listing_board": "Main",
+  "name": "PT Agung Podomoro Land Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ARCI": {
+  "listing_board": "Development",
+  "name": "PT Archi Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "AREA": {
+  "listing_board": "Development",
+  "name": "PT Dunia Virtual Online Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ARGO": {
+  "listing_board": "Development",
+  "name": "Argo Pantes Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "ARII": {
+  "listing_board": "Development",
+  "name": "Atlas Resources Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ARKA": {
+  "listing_board": "Watchlist",
+  "name": "PT Arkha Jayanti Persada Tbk.",
+  "sub_sector": "Industrial Goods"
+ },
+ "ARKO": {
+  "listing_board": "Development",
+  "name": "PT Arkora Hydro Tbk.",
+  "sub_sector": "Utilities"
+ },
+ "ARMY": {
+  "listing_board": "Watchlist",
+  "name": "PT Armidian Karyatama Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ARNA": {
+  "listing_board": "Main",
+  "name": "Arwana Citramulia Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "ARTA": {
+  "listing_board": "Development",
+  "name": "Arthavest Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "ARTI": {
+  "listing_board": "Watchlist",
+  "name": "Ratu Prabu Energi Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ARTO": {
+  "listing_board": "Main",
+  "name": "PT Bank Jago Tbk.",
+  "sub_sector": "Banks"
+ },
+ "ASBI": {
+  "listing_board": "Development",
+  "name": "Asuransi Bintang Tbk",
+  "sub_sector": "Insurance"
+ },
+ "ASDM": {
+  "listing_board": "Development",
+  "name": "Asuransi Dayin Mitra Tbk",
+  "sub_sector": "Insurance"
+ },
+ "ASGR": {
+  "listing_board": "Main",
+  "name": "Astra Graphia Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "ASHA": {
+  "listing_board": "Watchlist",
+  "name": "PT Cilacap Samudera Fishing Industry Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ASII": {
+  "listing_board": "Main",
+  "name": "Astra International Tbk",
+  "sub_sector": "Multi-sector Holdings"
+ },
+ "ASJT": {
+  "listing_board": "Development",
+  "name": "Asuransi Jasa Tania Tbk",
+  "sub_sector": "Insurance"
+ },
+ "ASLC": {
+  "listing_board": "Development",
+  "name": "PT Autopedia Sukses Lestari Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ASLI": {
+  "listing_board": "Development",
+  "name": "PT Asri Karya Lestari Tbk.",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "ASMI": {
+  "listing_board": "Watchlist",
+  "name": "PT Asuransi Maximus Graha Persada Tbk.",
+  "sub_sector": "Insurance"
+ },
+ "ASPI": {
+  "listing_board": "Development",
+  "name": "PT Andalan Sakti Primaindo Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ASPR": {
+  "listing_board": "Development",
+  "name": "PT Asia Pramulia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ASRI": {
+  "listing_board": "Main",
+  "name": "Alam Sutera Realty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ASRM": {
+  "listing_board": "Development",
+  "name": "Asuransi Ramayana Tbk",
+  "sub_sector": "Insurance"
+ },
+ "ASSA": {
+  "listing_board": "Main",
+  "name": "Adi Sarana Armada Tbk",
+  "sub_sector": "Transportation"
+ },
+ "ATAP": {
+  "listing_board": "Watchlist",
+  "name": "PT Trimitra Prawara Goldland Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "ATIC": {
+  "listing_board": "Development",
+  "name": "PT Anabatic Technologies Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ATLA": {
+  "listing_board": "Development",
+  "name": "PT Atlantis Subsea Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "AUTO": {
+  "listing_board": "Main",
+  "name": "Astra Otoparts Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "AVIA": {
+  "listing_board": "Main",
+  "name": "PT Avia Avian Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "AWAN": {
+  "listing_board": "Development",
+  "name": "PT Era Digital Media Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "AXIO": {
+  "listing_board": "Development",
+  "name": "PT Tera Data Indonusa Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "AYAM": {
+  "listing_board": "Development",
+  "name": "PT Janu Putra Sejahtera Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "AYLS": {
+  "listing_board": "Development",
+  "name": "PT Agro Yasa Lestari Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BABP": {
+  "listing_board": "Development",
+  "name": "PT Bank MNC Internasional Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BABY": {
+  "listing_board": "Development",
+  "name": "PT Multitrend Indo Tbk.",
+  "sub_sector": "Retailing"
+ },
+ "BACA": {
+  "listing_board": "Main",
+  "name": "PT Bank Capital Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BACH": {
+  "listing_board": "Main",
+  "name": "PT Bach Multi Global Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "BAIK": {
+  "listing_board": "Development",
+  "name": "PT Bersama Mencapai Puncak Tbk.",
+  "sub_sector": "Consumer Services"
+ },
+ "BAJA": {
+  "listing_board": "Development",
+  "name": "Saranacentral Bajatama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BALI": {
+  "listing_board": "Main",
+  "name": "PT Bali Towerindo Sentra Tbk.",
+  "sub_sector": "Telecommunication"
+ },
+ "BANK": {
+  "listing_board": "Development",
+  "name": "PT Bank Aladin Syariah Tbk",
+  "sub_sector": "Banks"
+ },
+ "BAPA": {
+  "listing_board": "Development",
+  "name": "Bekasi Asri Pemula Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BAPI": {
+  "listing_board": "Watchlist",
+  "name": "PT Bhakti Agung Propertindo Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BATA": {
+  "listing_board": "Watchlist",
+  "name": "Sepatu Bata Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "BATR": {
+  "listing_board": "Development",
+  "name": "PT Benteng Api Technic Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BAUT": {
+  "listing_board": "Watchlist",
+  "name": "PT Mitra Angkasa Sejahtera Tbk",
+  "sub_sector": "Retailing"
+ },
+ "BAYU": {
+  "listing_board": "Main",
+  "name": "Bayu Buana Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "BBCA": {
+  "listing_board": "Main",
+  "name": "PT Bank Central Asia Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BBHI": {
+  "listing_board": "Main",
+  "name": "PT Allo Bank Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBKP": {
+  "listing_board": "Development",
+  "name": "PT Bank KB Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBLD": {
+  "listing_board": "Development",
+  "name": "Buana Finance Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "BBMD": {
+  "listing_board": "Development",
+  "name": "PT Bank Mestika Dharma Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BBNI": {
+  "listing_board": "Main",
+  "name": "PT Bank Negara Indonesia (Persero) Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBRI": {
+  "listing_board": "Main",
+  "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBRM": {
+  "listing_board": "Development",
+  "name": "Pelayaran Nasional Bina Buana Raya Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BBSI": {
+  "listing_board": "Main",
+  "name": "PT Krom Bank Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBSS": {
+  "listing_board": "Development",
+  "name": "PT Bumi Benowo Sukses Sejahtera Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BBTN": {
+  "listing_board": "Main",
+  "name": "PT Bank Tabungan Negara (Persero) Tbk",
+  "sub_sector": "Banks"
+ },
+ "BBYB": {
+  "listing_board": "Main",
+  "name": "PT Bank Neo Commerce Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BCAP": {
+  "listing_board": "Main",
+  "name": "MNC Kapital Indonesia Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "BCIC": {
+  "listing_board": "Watchlist",
+  "name": "PT Bank JTrust Indonesia Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BCIP": {
+  "listing_board": "Development",
+  "name": "Bumi Citra Permai Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BDKR": {
+  "listing_board": "Main",
+  "name": "PT Berdikari Pondasi Perkasa Tbk.",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "BDMN": {
+  "listing_board": "Main",
+  "name": "PT Bank Danamon Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BEBS": {
+  "listing_board": "Watchlist",
+  "name": "PT Berkah Beton Sadaya Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BEEF": {
+  "listing_board": "Development",
+  "name": "PT Estika Tata Tiara Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "BEER": {
+  "listing_board": "Development",
+  "name": "PT Jobubu Jarum Minahasa Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BEKS": {
+  "listing_board": "Watchlist",
+  "name": "PT Bank Pembangunan Daerah Banten Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BELI": {
+  "listing_board": "New Economy",
+  "name": "PT Global Digital Niaga Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "BELL": {
+  "listing_board": "Development",
+  "name": "PT Trisula Textile Industries Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "BESS": {
+  "listing_board": "Development",
+  "name": "PT Batulicin Nusantara Maritim Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BEST": {
+  "listing_board": "Main",
+  "name": "Bekasi Fajar Industrial Estate Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BFIN": {
+  "listing_board": "Main",
+  "name": "BFI Finance Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "BGTG": {
+  "listing_board": "Development",
+  "name": "PT Bank Ganesha Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BHAT": {
+  "listing_board": "Development",
+  "name": "PT Bhakti Multi Artha Tbk.",
+  "sub_sector": "Insurance"
+ },
+ "BHIT": {
+  "listing_board": "Watchlist",
+  "name": "PT MNC Asia Holding Tbk",
+  "sub_sector": "Multi-sector Holdings"
+ },
+ "BIKA": {
+  "listing_board": "Watchlist",
+  "name": "PT Binakarya Jaya Abadi Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BIKE": {
+  "listing_board": "Development",
+  "name": "PT Sepeda Bersama Indonesia Tbk",
+  "sub_sector": "Leisure Goods"
+ },
+ "BIMA": {
+  "listing_board": "Watchlist",
+  "name": "Primarindo Asia Infrastructure Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "BINA": {
+  "listing_board": "Main",
+  "name": "PT Bank Ina Perdana Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BINO": {
+  "listing_board": "Development",
+  "name": "PT Perma Plasindo Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "BIPI": {
+  "listing_board": "Development",
+  "name": "PT Astrindo Nusantara Infrastruktur Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BIPP": {
+  "listing_board": "Watchlist",
+  "name": "Bhuwanatala Indah Permai Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BIRD": {
+  "listing_board": "Main",
+  "name": "PT Blue Bird Tbk",
+  "sub_sector": "Transportation"
+ },
+ "BISI": {
+  "listing_board": "Main",
+  "name": "BISI INTERNATIONAL Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BJBR": {
+  "listing_board": "Main",
+  "name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+  "sub_sector": "Banks"
+ },
+ "BJTM": {
+  "listing_board": "Main",
+  "name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+  "sub_sector": "Banks"
+ },
+ "BKDP": {
+  "listing_board": "Watchlist",
+  "name": "Bukit Darmo Property Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BKSL": {
+  "listing_board": "Main",
+  "name": "Sentul City Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BKSW": {
+  "listing_board": "Development",
+  "name": "PT Bank QNB Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BLES": {
+  "listing_board": "Development",
+  "name": "PT Superior Prima Sukses Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BLOG": {
+  "listing_board": "Main",
+  "name": "PT Trimitra Trans Persada Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "BLTA": {
+  "listing_board": "Watchlist",
+  "name": "Berlian Laju Tanker Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "BLTZ": {
+  "listing_board": "Watchlist",
+  "name": "PT Graha Layar Prima Tbk.",
+  "sub_sector": "Consumer Services"
+ },
+ "BLUE": {
+  "listing_board": "Watchlist",
+  "name": "PT Berkah Prima Perkasa Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "BMAS": {
+  "listing_board": "Development",
+  "name": "PT Bank Maspion Indonesia Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BMBL": {
+  "listing_board": "Acceleration",
+  "name": "PT Lavender Bina Cendikia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "BMHS": {
+  "listing_board": "Main",
+  "name": "PT Bundamedik Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "BMRI": {
+  "listing_board": "Main",
+  "name": "PT Bank Mandiri (Persero) Tbk",
+  "sub_sector": "Banks"
+ },
+ "BMSR": {
+  "listing_board": "Development",
+  "name": "Bintang Mitra Semestaraya Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BMTR": {
+  "listing_board": "Main",
+  "name": "PT Global Mediacom Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "BNBA": {
+  "listing_board": "Development",
+  "name": "Bank Bumi Arta Tbk",
+  "sub_sector": "Banks"
+ },
+ "BNBR": {
+  "listing_board": "Watchlist",
+  "name": "Bakrie & Brothers Tbk",
+  "sub_sector": "Multi-sector Holdings"
+ },
+ "BNGA": {
+  "listing_board": "Main",
+  "name": "PT Bank CIMB Niaga Tbk",
+  "sub_sector": "Banks"
+ },
+ "BNII": {
+  "listing_board": "Main",
+  "name": "PT Bank Maybank Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BNLI": {
+  "listing_board": "Main",
+  "name": "Bank Permata Tbk",
+  "sub_sector": "Banks"
+ },
+ "BOAT": {
+  "listing_board": "Development",
+  "name": "PT Newport Marine Services Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BOBA": {
+  "listing_board": "Development",
+  "name": "PT Formosa Ingredient Factory Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BOGA": {
+  "listing_board": "Development",
+  "name": "PT Apollo Global Interactive Tbk",
+  "sub_sector": "Retailing"
+ },
+ "BOLA": {
+  "listing_board": "Main",
+  "name": "PT Bali Bintang Sejahtera Tbk.",
+  "sub_sector": "Consumer Services"
+ },
+ "BOLT": {
+  "listing_board": "Development",
+  "name": "PT Garuda Metalindo Tbk.",
+  "sub_sector": "Automobiles & Components"
+ },
+ "BOSS": {
+  "listing_board": "Watchlist",
+  "name": "PT Borneo Olah Sarana Sukses Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BPFI": {
+  "listing_board": "Development",
+  "name": "PT Woori Finance Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "BPII": {
+  "listing_board": "Development",
+  "name": "PT Batavia Prosperindo Internasional Tbk.",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "BPTR": {
+  "listing_board": "Development",
+  "name": "PT Batavia Prosperindo Trans Tbk.",
+  "sub_sector": "Transportation"
+ },
+ "BRAM": {
+  "listing_board": "Development",
+  "name": "Indo Kordsa Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "BREN": {
+  "listing_board": "Main",
+  "name": "PT Barito Renewables Energy Tbk.",
+  "sub_sector": "Utilities"
+ },
+ "BRIS": {
+  "listing_board": "Main",
+  "name": "PT Bank Syariah Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BRMS": {
+  "listing_board": "Main",
+  "name": "Bumi Resources Minerals Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BRNA": {
+  "listing_board": "Development",
+  "name": "Berlina Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BRPT": {
+  "listing_board": "Main",
+  "name": "Barito Pacific Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BRRC": {
+  "listing_board": "Development",
+  "name": "PT Raja Roti Cemerlang Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BSBK": {
+  "listing_board": "Development",
+  "name": "PT Wulandari Bangun Laksana Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BSDE": {
+  "listing_board": "Main",
+  "name": "PT Bumi Serpong Damai Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "BSIM": {
+  "listing_board": "Main",
+  "name": "Bank Sinarmas Tbk",
+  "sub_sector": "Banks"
+ },
+ "BSML": {
+  "listing_board": "Development",
+  "name": "PT Bintang Samudera Mandiri Lines Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BSSR": {
+  "listing_board": "Development",
+  "name": "Baramulti Suksessarana Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BSWD": {
+  "listing_board": "Watchlist",
+  "name": "Bank of India Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BTEK": {
+  "listing_board": "Watchlist",
+  "name": "Bumi Teknokultura Unggul Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BTEL": {
+  "listing_board": "Watchlist",
+  "name": "Bakrie Telecom Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "BTON": {
+  "listing_board": "Development",
+  "name": "Betonjaya Manunggal Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "BTPN": {
+  "listing_board": "Main",
+  "name": "PT Bank SMBC Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "BTPS": {
+  "listing_board": "Main",
+  "name": "PT Bank BTPN Syariah Tbk.",
+  "sub_sector": "Banks"
+ },
+ "BUAH": {
+  "listing_board": "Development",
+  "name": "PT Segar Kumala Indonesia Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "BUDI": {
+  "listing_board": "Main",
+  "name": "PT Budi Starch & Sweetener Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "BUKA": {
+  "listing_board": "New Economy",
+  "name": "PT Bukalapak.com Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "BUKK": {
+  "listing_board": "Main",
+  "name": "Bukaka Teknik Utama Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "BULL": {
+  "listing_board": "Development",
+  "name": "PT Buana Lintas Lautan Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BUMI": {
+  "listing_board": "Main",
+  "name": "Bumi Resources Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "BUVA": {
+  "listing_board": "Development",
+  "name": "PT Bukit Uluwatu Villa Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "BVIC": {
+  "listing_board": "Main",
+  "name": "Bank Victoria International Tbk",
+  "sub_sector": "Banks"
+ },
+ "BWPT": {
+  "listing_board": "Main",
+  "name": "Eagle High Plantations Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "BYAN": {
+  "listing_board": "Main",
+  "name": "Bayan Resources Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CAKK": {
+  "listing_board": "Development",
+  "name": "PT Cahayaputra Asa Keramik Tbk.",
+  "sub_sector": "Industrial Goods"
+ },
+ "CAMP": {
+  "listing_board": "Development",
+  "name": "PT Campina Ice Cream Industry Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "CANI": {
+  "listing_board": "Watchlist",
+  "name": "PT Capitol Nusantara Indonesia Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CARE": {
+  "listing_board": "Development",
+  "name": "PT Metro Healthcare Indonesia Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "CARS": {
+  "listing_board": "Main",
+  "name": "PT Industri dan Perdagangan Bintraco Dharma Tbk",
+  "sub_sector": "Retailing"
+ },
+ "CASA": {
+  "listing_board": "Development",
+  "name": "PT Capital Financial Indonesia Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "CASH": {
+  "listing_board": "Acceleration",
+  "name": "PT Cashlez Worldwide Indonesia Tbk.",
+  "sub_sector": "Software & IT Services"
+ },
+ "CASS": {
+  "listing_board": "Main",
+  "name": "Cahaya Aero Services Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "CBDK": {
+  "listing_board": "Main",
+  "name": "PT Bangun Kosambi Sukses Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CBMF": {
+  "listing_board": "Watchlist",
+  "name": "PT Cahaya Bintang Medan Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "CBPE": {
+  "listing_board": "Development",
+  "name": "PT Citra Buana Prasida Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CBRE": {
+  "listing_board": "Development",
+  "name": "PT Cakra Buana Resources Energi Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CBUT": {
+  "listing_board": "Development",
+  "name": "PT Citra Borneo Utama Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CCSI": {
+  "listing_board": "Development",
+  "name": "PT Communication Cable Systems Indonesia Tbk.",
+  "sub_sector": "Industrial Goods"
+ },
+ "CDIA": {
+  "listing_board": "Development",
+  "name": "PT Chandra Daya Investasi Tbk",
+  "sub_sector": "Utilities"
+ },
+ "CEKA": {
+  "listing_board": "Development",
+  "name": "PT Wilmar Cahaya Indonesia Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "CENT": {
+  "listing_board": "Development",
+  "name": "PT Centratama Telekomunikasi Indonesia Tbk.",
+  "sub_sector": "Telecommunication"
+ },
+ "CFIN": {
+  "listing_board": "Main",
+  "name": "Clipan Finance Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "CGAS": {
+  "listing_board": "Development",
+  "name": "PT Citra Nusantara Gemilang Tbk.",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CHEK": {
+  "listing_board": "Development",
+  "name": "PT Diastika Biotekindo Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "CHEM": {
+  "listing_board": "Development",
+  "name": "PT Chemstar Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "CHIP": {
+  "listing_board": "Acceleration",
+  "name": "PT Pelita Teknologi Global Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "CINT": {
+  "listing_board": "Development",
+  "name": "PT Chitose Internasional Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "CITA": {
+  "listing_board": "Development",
+  "name": "Cita Mineral Investindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "CITY": {
+  "listing_board": "Development",
+  "name": "PT Natura City Developments Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CLAY": {
+  "listing_board": "Watchlist",
+  "name": "PT Citra Putra Realty Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "CLEO": {
+  "listing_board": "Main",
+  "name": "PT Sariguna Primatirta Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CLPI": {
+  "listing_board": "Development",
+  "name": "Colorpak Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "CMNP": {
+  "listing_board": "Main",
+  "name": "Citra Marga Nusaphala Persada Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "CMNT": {
+  "listing_board": "Development",
+  "name": "PT Cemindo Gemilang Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "CMPP": {
+  "listing_board": "Watchlist",
+  "name": "PT AirAsia Indonesia Tbk",
+  "sub_sector": "Transportation"
+ },
+ "CMRY": {
+  "listing_board": "Main",
+  "name": "PT Cisarua Mountain Dairy Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CNKO": {
+  "listing_board": "Watchlist",
+  "name": "Exploitasi Energi Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CNMA": {
+  "listing_board": "Main",
+  "name": "PT Nusantara Sejahtera Raya Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "COAL": {
+  "listing_board": "Watchlist",
+  "name": "PT Black Diamond Resources Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "COCO": {
+  "listing_board": "Development",
+  "name": "PT Wahana Interfood Nusantara Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "COIN": {
+  "listing_board": "Development",
+  "name": "PT Indokripto Koin Semesta Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "COWL": {
+  "listing_board": "Watchlist",
+  "name": "Cowell Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CPIN": {
+  "listing_board": "Main",
+  "name": "Charoen Pokphand Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CPRI": {
+  "listing_board": "Watchlist",
+  "name": "PT Capri Nusa Satu Properti Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CPRO": {
+  "listing_board": "Development",
+  "name": "Central Proteina Prima Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CRAB": {
+  "listing_board": "Development",
+  "name": "PT Toba Surimi Industries Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "CRSN": {
+  "listing_board": "Development",
+  "name": "PT Carsurin Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "CSAP": {
+  "listing_board": "Development",
+  "name": "Catur Sentosa Adiprana Tbk",
+  "sub_sector": "Retailing"
+ },
+ "CSIS": {
+  "listing_board": "Development",
+  "name": "PT Cahayasakti Investindo Sukses Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CSMI": {
+  "listing_board": "Development",
+  "name": "PT Cipta Selera Murni Tbk.",
+  "sub_sector": "Consumer Services"
+ },
+ "CSRA": {
+  "listing_board": "Main",
+  "name": "PT Cisadane Sawit Raya Tbk.",
+  "sub_sector": "Food & Beverage"
+ },
+ "CTBN": {
+  "listing_board": "Watchlist",
+  "name": "Citra Tubindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "CTRA": {
+  "listing_board": "Main",
+  "name": "Ciputra Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "CTTH": {
+  "listing_board": "Watchlist",
+  "name": "Citatah Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "CUAN": {
+  "listing_board": "Main",
+  "name": "PT Petrindo Jaya Kreasi Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "CYBR": {
+  "listing_board": "Development",
+  "name": "PT ITSEC Asia Tbk.",
+  "sub_sector": "Software & IT Services"
+ },
+ "DAAZ": {
+  "listing_board": "Main",
+  "name": "PT Daaz Bara Lestari Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "DADA": {
+  "listing_board": "Watchlist",
+  "name": "PT Diamond Citra Propertindo Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "DART": {
+  "listing_board": "Development",
+  "name": "Duta Anggada Realty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "DATA": {
+  "listing_board": "Development",
+  "name": "PT Remala Abadi Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "DAYA": {
+  "listing_board": "Development",
+  "name": "PT Duta Intidaya Tbk.",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "DCII": {
+  "listing_board": "Development",
+  "name": "PT DCI Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "DEAL": {
+  "listing_board": "Watchlist",
+  "name": "PT Dewata Freightinternational Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "DEFI": {
+  "listing_board": "Watchlist",
+  "name": "Danasupra Erapacific Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "DEPO": {
+  "listing_board": "Development",
+  "name": "PT Caturkarda Depo Bangunan Tbk",
+  "sub_sector": "Retailing"
+ },
+ "DEWA": {
+  "listing_board": "Main",
+  "name": "Darma Henwa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "DEWI": {
+  "listing_board": "Development",
+  "name": "PT Dewi Shri Farmindo Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "DFAM": {
+  "listing_board": "Development",
+  "name": "PT Dafam Property Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "DGIK": {
+  "listing_board": "Development",
+  "name": "Nusa Konstruksi Enjiniring  Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "DGNS": {
+  "listing_board": "Development",
+  "name": "PT Diagnos Laboratorium Utama Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "DGWG": {
+  "listing_board": "Main",
+  "name": "PT Delta Giri Wacana Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "DIGI": {
+  "listing_board": "Watchlist",
+  "name": "PT Arkadia Digital Media Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "DILD": {
+  "listing_board": "Main",
+  "name": "Intiland Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "DIVA": {
+  "listing_board": "Development",
+  "name": "PT Distribusi Voucher Nusantara Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "DKFT": {
+  "listing_board": "Development",
+  "name": "Central Omega Resources Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "DKHH": {
+  "listing_board": "Development",
+  "name": "PT Cipta Sarana Medika Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "DLTA": {
+  "listing_board": "Main",
+  "name": "Delta Djakarta Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "DMAS": {
+  "listing_board": "Main",
+  "name": "PT Puradelta Lestari Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "DMMX": {
+  "listing_board": "Development",
+  "name": "PT Digital Mediatama Maxima Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "DMND": {
+  "listing_board": "Watchlist",
+  "name": "PT Diamond Food Indonesia Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "DNAR": {
+  "listing_board": "Development",
+  "name": "PT Bank Oke Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "DNET": {
+  "listing_board": "Development",
+  "name": "PT Indoritel Makmur Internasional Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "DOID": {
+  "listing_board": "Main",
+  "name": "PT BUMA Internasional Grup Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "DOOH": {
+  "listing_board": "Development",
+  "name": "PT Era Media Sejahtera Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "DOSS": {
+  "listing_board": "Development",
+  "name": "PT Global Sukses Digital Tbk",
+  "sub_sector": "Leisure Goods"
+ },
+ "DPNS": {
+  "listing_board": "Development",
+  "name": "Duta Pertiwi Nusantara Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "DPUM": {
+  "listing_board": "Watchlist",
+  "name": "PT Dua Putra Utama Makmur Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "DRMA": {
+  "listing_board": "Main",
+  "name": "PT Dharma Polimetal Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "DSFI": {
+  "listing_board": "Development",
+  "name": "Dharma Samudera Fishing Ind. Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "DSNG": {
+  "listing_board": "Main",
+  "name": "PT Dharma Satya Nusantara Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "DSSA": {
+  "listing_board": "Main",
+  "name": "Dian Swastatika Sentosa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "DUCK": {
+  "listing_board": "Watchlist",
+  "name": "PT Jaya Bersama Indo Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "DUTI": {
+  "listing_board": "Watchlist",
+  "name": "Duta Pertiwi Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "DVLA": {
+  "listing_board": "Development",
+  "name": "Darya-Varia Laboratoria Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "DWGL": {
+  "listing_board": "Development",
+  "name": "PT Dwi Guna Laksana Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "DYAN": {
+  "listing_board": "Development",
+  "name": "PT Dyandra Media International Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "EAST": {
+  "listing_board": "Development",
+  "name": "PT Eastparc Hotel Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "ECII": {
+  "listing_board": "Development",
+  "name": "PT Electronic City Indonesia Tbk",
+  "sub_sector": "Retailing"
+ },
+ "EDGE": {
+  "listing_board": "Development",
+  "name": "PT Indointernet Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "EKAD": {
+  "listing_board": "Development",
+  "name": "Ekadharma International Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ELIT": {
+  "listing_board": "Development",
+  "name": "PT Data Sinergitama Jaya Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ELPI": {
+  "listing_board": "Main",
+  "name": "PT Pelayaran Nasional Ekalya Purnamasari Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "ELSA": {
+  "listing_board": "Main",
+  "name": "Elnusa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ELTY": {
+  "listing_board": "Watchlist",
+  "name": "Bakrieland Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "EMAS": {
+  "listing_board": "Development",
+  "name": "PT Merdeka Gold Resources Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "EMDE": {
+  "listing_board": "Development",
+  "name": "Megapolitan Developments Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "EMMI": {
+  "listing_board": "Development",
+  "name": "PT Esa Medika Mandiri Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "EMTK": {
+  "listing_board": "Main",
+  "name": "Elang Mahkota Teknologi Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ENAK": {
+  "listing_board": "Development",
+  "name": "PT Champ Resto Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "ENRG": {
+  "listing_board": "Main",
+  "name": "Energi Mega Persada Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ENVY": {
+  "listing_board": "Watchlist",
+  "name": "PT Envy Technologies Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ENZO": {
+  "listing_board": "Watchlist",
+  "name": "PT Morenzo Abadi Perkasa Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "EPAC": {
+  "listing_board": "Watchlist",
+  "name": "PT Megalestari Epack Sentosaraya Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "EPMT": {
+  "listing_board": "Development",
+  "name": "Enseval Putera Megatrading Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "ERAA": {
+  "listing_board": "Main",
+  "name": "Erajaya Swasembada Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ERAL": {
+  "listing_board": "Main",
+  "name": "PT Sinar Eka Selaras Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ERTX": {
+  "listing_board": "Development",
+  "name": "Eratex Djaja Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "ESIP": {
+  "listing_board": "Watchlist",
+  "name": "PT Sinergi Inti Plastindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ESSA": {
+  "listing_board": "Main",
+  "name": "ESSA Industries Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ESTA": {
+  "listing_board": "Development",
+  "name": "PT Esta Multi Usaha Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "ESTI": {
+  "listing_board": "Development",
+  "name": "Ever Shine Textile Industry Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "ETWA": {
+  "listing_board": "Watchlist",
+  "name": "Eterindo Wahanatama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "EURO": {
+  "listing_board": "Acceleration",
+  "name": "PT Estee Gold Feet Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "EXCL": {
+  "listing_board": "Main",
+  "name": "PT XLSMART Telecom Sejahtera Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "FAPA": {
+  "listing_board": "Development",
+  "name": "PT FAP Agri Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "FAST": {
+  "listing_board": "Development",
+  "name": "PT Fast Food Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "FASW": {
+  "listing_board": "Watchlist",
+  "name": "Fajar Surya Wisesa Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "FILM": {
+  "listing_board": "Main",
+  "name": "PT MD Entertainment Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "FIMP": {
+  "listing_board": "Acceleration",
+  "name": "PT Fimperkasa Utama Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "FIRE": {
+  "listing_board": "Development",
+  "name": "PT Alfa Energi Investama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "FISH": {
+  "listing_board": "Watchlist",
+  "name": "FKS Multi Agro Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "FITT": {
+  "listing_board": "Development",
+  "name": "PT Hotel Fitra International Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "FLMC": {
+  "listing_board": "Acceleration",
+  "name": "PT Falmaco Nonwoven Industri Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "FMII": {
+  "listing_board": "Development",
+  "name": "Fortune Mate Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "FOLK": {
+  "listing_board": "Development",
+  "name": "PT Multi Garam Utama Tbk",
+  "sub_sector": "Multi-sector Holdings"
+ },
+ "FOOD": {
+  "listing_board": "Development",
+  "name": "PT Sentra Food Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "FORE": {
+  "listing_board": "Development",
+  "name": "PT Fore Kopi Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "FORU": {
+  "listing_board": "Development",
+  "name": "Fortune Indonesia Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "FPNI": {
+  "listing_board": "Development",
+  "name": "PT Lotte Chemical Titan Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "FUJI": {
+  "listing_board": "Development",
+  "name": "PT Fuji Finance Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "FUTR": {
+  "listing_board": "Development",
+  "name": "PT Futura Energi Global Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "FWCT": {
+  "listing_board": "Development",
+  "name": "PT Wijaya Cahaya Timber Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "GAMA": {
+  "listing_board": "Watchlist",
+  "name": "Aksara Global Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "GDST": {
+  "listing_board": "Development",
+  "name": "Gunawan Dianjaya Steel Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "GDYR": {
+  "listing_board": "Development",
+  "name": "Goodyear Indonesia Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "GEMA": {
+  "listing_board": "Development",
+  "name": "Gema Grahasarana Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "GEMS": {
+  "listing_board": "Main",
+  "name": "Golden Energy Mines Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "GGRM": {
+  "listing_board": "Main",
+  "name": "Gudang Garam Tbk",
+  "sub_sector": "Tobacco"
+ },
+ "GGRP": {
+  "listing_board": "Watchlist",
+  "name": "PT Gunung Raja Paksi Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "GHON": {
+  "listing_board": "Development",
+  "name": "PT Gihon Telekomunikasi Indonesia Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "GIAA": {
+  "listing_board": "Watchlist",
+  "name": "Garuda Indonesia (Persero) Tbk",
+  "sub_sector": "Transportation"
+ },
+ "GJTL": {
+  "listing_board": "Main",
+  "name": "Gajah Tunggal Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "GLOB": {
+  "listing_board": "Watchlist",
+  "name": "PT Globe Kita Terang Tbk",
+  "sub_sector": "Retailing"
+ },
+ "GLVA": {
+  "listing_board": "Development",
+  "name": "PT Galva Technologies Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "GMFI": {
+  "listing_board": "Watchlist",
+  "name": "PT Garuda Maintenance Facility Aero Asia Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "GMTD": {
+  "listing_board": "Development",
+  "name": "Gowa Makassar Tourism Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "GOLD": {
+  "listing_board": "Development",
+  "name": "PT Visi Telekomunikasi Infrastruktur Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "GOLF": {
+  "listing_board": "Main",
+  "name": "PT Intra GolfLink Resorts Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "GOLL": {
+  "listing_board": "Watchlist",
+  "name": "PT Golden Plantation Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "GOOD": {
+  "listing_board": "Main",
+  "name": "PT Garudafood Putra Putri Jaya Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "GOTO": {
+  "listing_board": "New Economy",
+  "name": "PT GoTo Gojek Tokopedia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "GPRA": {
+  "listing_board": "Development",
+  "name": "Perdana Gapura Prima Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "GPSO": {
+  "listing_board": "Development",
+  "name": "PT Geoprima Solusi Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "GRIA": {
+  "listing_board": "Development",
+  "name": "PT Ingria Pratama Capitalindo Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "GRPH": {
+  "listing_board": "Development",
+  "name": "PT Griptha Putra Persada Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "GRPM": {
+  "listing_board": "Acceleration",
+  "name": "PT Graha Prima Mentari Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "GSMF": {
+  "listing_board": "Development",
+  "name": "Equity Development Investment Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "GTBO": {
+  "listing_board": "Development",
+  "name": "Garda Tujuh Buana Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "GTRA": {
+  "listing_board": "Development",
+  "name": "PT Grahaprima Suksesmandiri Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "GTSI": {
+  "listing_board": "Watchlist",
+  "name": "PT GTS Internasional Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "GULA": {
+  "listing_board": "Development",
+  "name": "PT Aman Agrindo Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "GUNA": {
+  "listing_board": "Development",
+  "name": "PT Gunanusa Eramandiri Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "GWSA": {
+  "listing_board": "Main",
+  "name": "PT Greenwood Sejahtera Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "GZCO": {
+  "listing_board": "Development",
+  "name": "Gozco Plantations Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "HADE": {
+  "listing_board": "Watchlist",
+  "name": "PT Himalaya Energi Perkasa Tbk",
+  "sub_sector": "Utilities"
+ },
+ "HAIS": {
+  "listing_board": "Development",
+  "name": "PT Hasnur Internasional Shipping Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "HAJJ": {
+  "listing_board": "Acceleration",
+  "name": "PT Arsy Buana Travelindo Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "HALO": {
+  "listing_board": "Development",
+  "name": "PT Haloni Jane Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "HATM": {
+  "listing_board": "Main",
+  "name": "PT Habco Trans Maritima Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "HBAT": {
+  "listing_board": "Acceleration",
+  "name": "PT Minahasa Membangun Hebat Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "HDFA": {
+  "listing_board": "Development",
+  "name": "Radana Bhaskara Finance Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "HDIT": {
+  "listing_board": "Watchlist",
+  "name": "PT Hensel Davest Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "HEAL": {
+  "listing_board": "Main",
+  "name": "PT Medikaloka Hermina Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "HELI": {
+  "listing_board": "Development",
+  "name": "PT Jaya Trishindo Tbk",
+  "sub_sector": "Transportation"
+ },
+ "HERO": {
+  "listing_board": "Development",
+  "name": "Hero Supermarket Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "HEXA": {
+  "listing_board": "Main",
+  "name": "Hexindo Adiperkasa Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "HGII": {
+  "listing_board": "Development",
+  "name": "PT Hero Global Investment Tbk",
+  "sub_sector": "Utilities"
+ },
+ "HILL": {
+  "listing_board": "Main",
+  "name": "PT Hillcon Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "HITS": {
+  "listing_board": "Main",
+  "name": "Humpuss Intermoda Transportasi Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "HKMU": {
+  "listing_board": "Watchlist",
+  "name": "PT HK Metals Utama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "HMSP": {
+  "listing_board": "Development",
+  "name": "HM Sampoerna Tbk",
+  "sub_sector": "Tobacco"
+ },
+ "HOKI": {
+  "listing_board": "Main",
+  "name": "PT Buyung Poetra Sembada Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "HOME": {
+  "listing_board": "Watchlist",
+  "name": "Hotel Mandarine Regency Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "HOMI": {
+  "listing_board": "Development",
+  "name": "PT Grand House Mulia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "HOPE": {
+  "listing_board": "Watchlist",
+  "name": "PT Harapan Duta Pertiwi Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "HOTL": {
+  "listing_board": "Watchlist",
+  "name": "Saraswati Griya Lestari Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "HRME": {
+  "listing_board": "Watchlist",
+  "name": "PT Menteng Heritage Realty Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "HRTA": {
+  "listing_board": "Main",
+  "name": "PT Hartadinata Abadi Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "HRUM": {
+  "listing_board": "Main",
+  "name": "Harum Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "HUMI": {
+  "listing_board": "Main",
+  "name": "PT Humpuss Maritim Internasional Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "HYGN": {
+  "listing_board": "Development",
+  "name": "PT Ecocare Indo Pasifik Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "IATA": {
+  "listing_board": "Watchlist",
+  "name": "PT MNC Energy Investments Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "IBFN": {
+  "listing_board": "Watchlist",
+  "name": "PT Intan Baru Prana Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "IBOS": {
+  "listing_board": "Acceleration",
+  "name": "PT Indo Boga Sukses Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "IBST": {
+  "listing_board": "Watchlist",
+  "name": "Inti Bangun Sejahtera Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "ICBP": {
+  "listing_board": "Main",
+  "name": "Indofood CBP Sukses Makmur Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ICON": {
+  "listing_board": "Watchlist",
+  "name": "Island Concepts Indonesia Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "IDEA": {
+  "listing_board": "Acceleration",
+  "name": "PT Idea Indonesia Akademi Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "IDPR": {
+  "listing_board": "Development",
+  "name": "PT Indonesia Pondasi Raya Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "IFII": {
+  "listing_board": "Development",
+  "name": "PT Indonesia Fibreboard Industry Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "IFSH": {
+  "listing_board": "Development",
+  "name": "PT Ifishdeco Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "IGAR": {
+  "listing_board": "Development",
+  "name": "Champion Pacific Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "IIKP": {
+  "listing_board": "Watchlist",
+  "name": "Inti Agri Resources Tbk",
+  "sub_sector": "Leisure Goods"
+ },
+ "IKAI": {
+  "listing_board": "Watchlist",
+  "name": "Intikeramik Alamasri Industri Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "IKAN": {
+  "listing_board": "Watchlist",
+  "name": "PT Era Mandiri Cemerlang Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "IKBI": {
+  "listing_board": "Development",
+  "name": "Sumi Indo Kabel Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "IKPM": {
+  "listing_board": "Development",
+  "name": "PT Ikapharmindo Putramas Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "IMAS": {
+  "listing_board": "Main",
+  "name": "Indomobil Sukses Internasional Tbk",
+  "sub_sector": "Retailing"
+ },
+ "IMJS": {
+  "listing_board": "Development",
+  "name": "PT Indomobil Multi Jasa Tbk",
+  "sub_sector": "Transportation"
+ },
+ "IMPC": {
+  "listing_board": "Main",
+  "name": "PT Impack Pratama Industri Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "INAF": {
+  "listing_board": "Watchlist",
+  "name": "Indofarma Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "INAI": {
+  "listing_board": "Development",
+  "name": "Indal Aluminium Industry Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INCF": {
+  "listing_board": "Watchlist",
+  "name": "PT Indo Komoditi Korpora Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INCI": {
+  "listing_board": "Development",
+  "name": "Intanwijaya Internasional Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INCO": {
+  "listing_board": "Main",
+  "name": "Vale Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INDF": {
+  "listing_board": "Main",
+  "name": "Indofood Sukses Makmur Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "INDO": {
+  "listing_board": "Development",
+  "name": "PT Royalindo Investa Wijaya Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "INDR": {
+  "listing_board": "Development",
+  "name": "PT Indo-Rama Synthetics Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "INDS": {
+  "listing_board": "Development",
+  "name": "Indospring Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "INDX": {
+  "listing_board": "Development",
+  "name": "Tanah Laut Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "INDY": {
+  "listing_board": "Main",
+  "name": "Indika Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "INET": {
+  "listing_board": "Development",
+  "name": "PT Sinergi Inti Andalan Prima Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "INKP": {
+  "listing_board": "Main",
+  "name": "Indah Kiat Pulp & Paper Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INOV": {
+  "listing_board": "Development",
+  "name": "PT Inocycle Technology Group Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "INPC": {
+  "listing_board": "Main",
+  "name": "Bank Artha Graha Internasional Tbk",
+  "sub_sector": "Banks"
+ },
+ "INPP": {
+  "listing_board": "Development",
+  "name": "Indonesian Paradise Property Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "INPS": {
+  "listing_board": "Development",
+  "name": "PT Indah Prakasa Sentosa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "INRU": {
+  "listing_board": "Development",
+  "name": "Toba Pulp Lestari Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INTA": {
+  "listing_board": "Watchlist",
+  "name": "Intraco Penta Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "INTD": {
+  "listing_board": "Development",
+  "name": "Inter-Delta Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "INTP": {
+  "listing_board": "Main",
+  "name": "Indocement Tunggal Prakarsa Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "IOTF": {
+  "listing_board": "Development",
+  "name": "PT Sumber Sinergi Makmur Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "IPAC": {
+  "listing_board": "Acceleration",
+  "name": "PT Era Graharealty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "IPCC": {
+  "listing_board": "Main",
+  "name": "PT Indonesia Kendaraan Terminal Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "IPCM": {
+  "listing_board": "Development",
+  "name": "PT Jasa Armada Indonesia Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "IPOL": {
+  "listing_board": "Development",
+  "name": "Indopoly Swakarsa Industry Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "IPPE": {
+  "listing_board": "Watchlist",
+  "name": "PT Indo Pureco Pratama Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "IPTV": {
+  "listing_board": "Watchlist",
+  "name": "PT MNC Vision Networks Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "IRRA": {
+  "listing_board": "Development",
+  "name": "PT Itama Ranoraya Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "IRSX": {
+  "listing_board": "Watchlist",
+  "name": "PT Folago Global Nusantara Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "ISAP": {
+  "listing_board": "Acceleration",
+  "name": "PT Isra Presisi Indonesia Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "ISAT": {
+  "listing_board": "Main",
+  "name": "PT Indosat Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "ISEA": {
+  "listing_board": "Development",
+  "name": "PT Indo American Seafoods Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ISSP": {
+  "listing_board": "Main",
+  "name": "PT Steel Pipe Industry of Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ITIC": {
+  "listing_board": "Development",
+  "name": "PT Indonesian Tobacco Tbk",
+  "sub_sector": "Tobacco"
+ },
+ "ITMA": {
+  "listing_board": "Development",
+  "name": "Sumber Energi Andalan Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ITMG": {
+  "listing_board": "Main",
+  "name": "Indo Tambangraya Megah Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "JARR": {
+  "listing_board": "Main",
+  "name": "PT Jhonlin Agro Raya Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "JAST": {
+  "listing_board": "Watchlist",
+  "name": "PT Jasnita Telekomindo Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "JATI": {
+  "listing_board": "Development",
+  "name": "PT Informasi Teknologi Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "JAWA": {
+  "listing_board": "Development",
+  "name": "Jaya Agra Wattie Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "JAYA": {
+  "listing_board": "Development",
+  "name": "PT Armada Berjaya Trans Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "JECC": {
+  "listing_board": "Development",
+  "name": "Jembo Cable Company Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "JECX": {
+  "listing_board": "Main",
+  "name": "PT Nitrasanata Dharma Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "JELI": {
+  "listing_board": "Development",
+  "name": "PT Niramas Utama Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "JGLE": {
+  "listing_board": "Watchlist",
+  "name": "PT Graha Andrasentra Propertindo Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "JIHD": {
+  "listing_board": "Development",
+  "name": "Jakarta International Hotels & Development Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "JKON": {
+  "listing_board": "Main",
+  "name": "Jaya Konstruksi Manggala Pratama Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "JMAS": {
+  "listing_board": "Development",
+  "name": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
+  "sub_sector": "Insurance"
+ },
+ "JPFA": {
+  "listing_board": "Main",
+  "name": "JAPFA Comfeed Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "JRPT": {
+  "listing_board": "Development",
+  "name": "Jaya Real Property Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "JSKY": {
+  "listing_board": "Watchlist",
+  "name": "PT Sky Energy Indonesia Tbk",
+  "sub_sector": "Alternative Energy"
+ },
+ "JSMR": {
+  "listing_board": "Main",
+  "name": "PT Jasa Marga Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "JSPT": {
+  "listing_board": "Development",
+  "name": "Jakarta Setiabudi Internasional Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "JTPE": {
+  "listing_board": "Main",
+  "name": "Jasuindo Tiga Perkasa Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "KAEF": {
+  "listing_board": "Development",
+  "name": "Kimia Farma Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "KAQI": {
+  "listing_board": "Development",
+  "name": "PT Jantra Grupo Indonesia Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "KARW": {
+  "listing_board": "Watchlist",
+  "name": "Meratus Jasa Prima Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "KAYU": {
+  "listing_board": "Watchlist",
+  "name": "PT Darmi Bersaudara Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KBAG": {
+  "listing_board": "Watchlist",
+  "name": "PT Karya Bersama Anugerah Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "KBLI": {
+  "listing_board": "Main",
+  "name": "KMI Wire and Cable Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "KBLM": {
+  "listing_board": "Development",
+  "name": "Kabelindo Murni Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "KBLV": {
+  "listing_board": "Watchlist",
+  "name": "First Media Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "KBRI": {
+  "listing_board": "Watchlist",
+  "name": "Kertas Basuki Rachmat Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KDSI": {
+  "listing_board": "Watchlist",
+  "name": "Kedawung Setia Industrial Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KDTN": {
+  "listing_board": "Development",
+  "name": "PT Puri Sentul Permai Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "KEEN": {
+  "listing_board": "Main",
+  "name": "PT Kencana Energi Lestari Tbk",
+  "sub_sector": "Utilities"
+ },
+ "KEJU": {
+  "listing_board": "Development",
+  "name": "PT Mulia Boga Raya Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "KETR": {
+  "listing_board": "Development",
+  "name": "PT Ketrosden Triasmitra Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "KIAS": {
+  "listing_board": "Watchlist",
+  "name": "Keramika Indonesia Assosiasi Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "KICI": {
+  "listing_board": "Development",
+  "name": "Kedaung Indah Can Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "KIJA": {
+  "listing_board": "Main",
+  "name": "Kawasan Industri Jababeka Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "KING": {
+  "listing_board": "Acceleration",
+  "name": "PT Hoffmen Cleanindo Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "KINO": {
+  "listing_board": "Development",
+  "name": "PT Kino Indonesia Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "KIOS": {
+  "listing_board": "Development",
+  "name": "PT Kioson Komersial Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "KJEN": {
+  "listing_board": "Development",
+  "name": "PT Krida Jaringan Nusantara Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "KKES": {
+  "listing_board": "Watchlist",
+  "name": "PT Kusuma Kemindo Sentosa Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KKGI": {
+  "listing_board": "Main",
+  "name": "Resource Alam Indonesia Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "KLAS": {
+  "listing_board": "Development",
+  "name": "PT Pelayaran Kurnia Lautan Semesta Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "KLBF": {
+  "listing_board": "Main",
+  "name": "Kalbe Farma Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "KLIN": {
+  "listing_board": "Acceleration",
+  "name": "PT Klinko Karya Imaji Tbk",
+  "sub_sector": "Retailing"
+ },
+ "KMDS": {
+  "listing_board": "Development",
+  "name": "PT Kurniamitra Duta Sentosa Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "KMTR": {
+  "listing_board": "Development",
+  "name": "PT Kirana Megatara Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KOBX": {
+  "listing_board": "Development",
+  "name": "Kobexindo Tractors Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "KOCI": {
+  "listing_board": "Development",
+  "name": "PT Kokoh Exa Nusantara",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "KOIN": {
+  "listing_board": "Watchlist",
+  "name": "Kokoh Inti Arebama Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "KOKA": {
+  "listing_board": "Development",
+  "name": "PT Koka Indonesia Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "KONI": {
+  "listing_board": "Development",
+  "name": "Perdana Bangun Pusaka Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "KOPI": {
+  "listing_board": "Development",
+  "name": "PT Mitra Energi Persada Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "KOTA": {
+  "listing_board": "Watchlist",
+  "name": "PT DMS Propertindo Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "KPIG": {
+  "listing_board": "Development",
+  "name": "MNC Tourism Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "KRAS": {
+  "listing_board": "Development",
+  "name": "Krakatau Steel (Persero) Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "KREN": {
+  "listing_board": "Watchlist",
+  "name": "PT Quantum Clovera Investama Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "KRYA": {
+  "listing_board": "Development",
+  "name": "PT Bangun Karya Perkasa Jaya Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "KSIX": {
+  "listing_board": "Main",
+  "name": "PT Kentanix Supra International Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "KUAS": {
+  "listing_board": "Development",
+  "name": "PT Ace Oldfields Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "LABA": {
+  "listing_board": "Development",
+  "name": "PT Green Power Group Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "LABS": {
+  "listing_board": "Development",
+  "name": "PT UBC Medical Indonesia Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "LAJU": {
+  "listing_board": "Development",
+  "name": "PT Jasa Berdikari Logistics Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "LAND": {
+  "listing_board": "Watchlist",
+  "name": "PT Trimitra Propertindo Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "LAPD": {
+  "listing_board": "Watchlist",
+  "name": "Leyand International Tbk",
+  "sub_sector": "Utilities"
+ },
+ "LCGP": {
+  "listing_board": "Watchlist",
+  "name": "PT Eureka Prima Jakarta Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "LCKM": {
+  "listing_board": "Development",
+  "name": "PT LCK Global Kedaton Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "LEAD": {
+  "listing_board": "Development",
+  "name": "PT Logindo Samudramakmur Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "LFLO": {
+  "listing_board": "Acceleration",
+  "name": "PT Imago Mulia Persada Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "LIFE": {
+  "listing_board": "Development",
+  "name": "PT MSIG Life Insurance Indonesia Tbk",
+  "sub_sector": "Insurance"
+ },
+ "LINK": {
+  "listing_board": "Development",
+  "name": "PT Link Net Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "LION": {
+  "listing_board": "Watchlist",
+  "name": "Lion Metal Works Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "LIVE": {
+  "listing_board": "Development",
+  "name": "PT Homeco Victoria Makmur Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "LMAS": {
+  "listing_board": "Watchlist",
+  "name": "Limas Indonesia Makmur Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "LMAX": {
+  "listing_board": "Acceleration",
+  "name": "PT Lupromax Pelumas Indonesia Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "LMPI": {
+  "listing_board": "Watchlist",
+  "name": "Langgeng Makmur Industri Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "LMSH": {
+  "listing_board": "Watchlist",
+  "name": "Lionmesh Prima Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "LOPI": {
+  "listing_board": "Acceleration",
+  "name": "PT Logisticsplus International Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "LPCK": {
+  "listing_board": "Main",
+  "name": "Lippo Cikarang Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "LPGI": {
+  "listing_board": "Development",
+  "name": "Lippo General Insurance Tbk",
+  "sub_sector": "Insurance"
+ },
+ "LPIN": {
+  "listing_board": "Development",
+  "name": "Multi Prima Sejahtera Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "LPKR": {
+  "listing_board": "Main",
+  "name": "Lippo Karawaci Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "LPLI": {
+  "listing_board": "Development",
+  "name": "Star Pacific Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "LPPF": {
+  "listing_board": "Main",
+  "name": "PT MDS Retailing Tbk",
+  "sub_sector": "Retailing"
+ },
+ "LPPS": {
+  "listing_board": "Development",
+  "name": "PT Lenox Pasifik Investama Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "LRNA": {
+  "listing_board": "Development",
+  "name": "PT Eka Sari Lorena Transport Tbk",
+  "sub_sector": "Transportation"
+ },
+ "LSIP": {
+  "listing_board": "Main",
+  "name": "PP London Sumatra Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "LTLS": {
+  "listing_board": "Main",
+  "name": "PT Lautan Luas Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "LUCK": {
+  "listing_board": "Development",
+  "name": "PT Sentral Mitra Informatika Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "LUCY": {
+  "listing_board": "Acceleration",
+  "name": "PT Lima Dua Lima Tiga Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "MABA": {
+  "listing_board": "Watchlist",
+  "name": "PT Marga Abhinaya Abadi Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "MAGP": {
+  "listing_board": "Watchlist",
+  "name": "Multi Agro Gemilang Plantation Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MAHA": {
+  "listing_board": "Main",
+  "name": "PT Mandiri Herindo Adiperkasa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MAIN": {
+  "listing_board": "Main",
+  "name": "Malindo Feedmill Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MANG": {
+  "listing_board": "Acceleration",
+  "name": "PT Manggung Polahraya Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "MAPA": {
+  "listing_board": "Main",
+  "name": "PT MAP Aktif Adiperkasa Tbk",
+  "sub_sector": "Retailing"
+ },
+ "MAPB": {
+  "listing_board": "Development",
+  "name": "PT MAP Boga Adiperkasa Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "MAPI": {
+  "listing_board": "Main",
+  "name": "Mitra Adiperkasa Tbk",
+  "sub_sector": "Retailing"
+ },
+ "MARI": {
+  "listing_board": "Development",
+  "name": "PT Mahaka Radio Integra Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "MARK": {
+  "listing_board": "Main",
+  "name": "PT Mark Dynamics Indonesia Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "MASB": {
+  "listing_board": "Development",
+  "name": "PT Bank Multiarta Sentosa Tbk",
+  "sub_sector": "Banks"
+ },
+ "MAXI": {
+  "listing_board": "Development",
+  "name": "PT Maxindo Karya Anugerah Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MAYA": {
+  "listing_board": "Main",
+  "name": "PT Bank Mayapada Internasional Tbk",
+  "sub_sector": "Banks"
+ },
+ "MBAP": {
+  "listing_board": "Development",
+  "name": "PT Mitrabara Adiperdana Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MBMA": {
+  "listing_board": "Development",
+  "name": "PT Merdeka Battery Materials Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "MBSS": {
+  "listing_board": "Main",
+  "name": "Mitrabahtera Segara Sejati Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MBTO": {
+  "listing_board": "Development",
+  "name": "Martina Berto Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "MCAS": {
+  "listing_board": "Main",
+  "name": "PT M Cash Integrasi Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "MCOL": {
+  "listing_board": "Main",
+  "name": "PT Prima Andalan Mandiri Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MCOR": {
+  "listing_board": "Main",
+  "name": "PT Bank China Construction Bank Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "MDIA": {
+  "listing_board": "Watchlist",
+  "name": "PT Intermedia Capital Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "MDIY": {
+  "listing_board": "Main",
+  "name": "PT Daya Intiguna Yasa Tbk",
+  "sub_sector": "Retailing"
+ },
+ "MDKA": {
+  "listing_board": "Main",
+  "name": "PT Merdeka Copper Gold Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "MDKI": {
+  "listing_board": "Development",
+  "name": "PT Emdeki Utama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "MDLA": {
+  "listing_board": "Main",
+  "name": "PT Medela Potentia Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "MDLN": {
+  "listing_board": "Main",
+  "name": "PT Modernland Realty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MDRN": {
+  "listing_board": "Watchlist",
+  "name": "Modern Internasional Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "MEDC": {
+  "listing_board": "Main",
+  "name": "PT Medco Energi Internasional Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MEDS": {
+  "listing_board": "Development",
+  "name": "PT Hetzer Medical Indonesia Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "MEGA": {
+  "listing_board": "Main",
+  "name": "Bank Mega Tbk",
+  "sub_sector": "Banks"
+ },
+ "MEJA": {
+  "listing_board": "Acceleration",
+  "name": "PT Harta Djaya Karya Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "MENN": {
+  "listing_board": "Acceleration",
+  "name": "PT Menn Teknologi Indonesia Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "MERI": {
+  "listing_board": "Development",
+  "name": "PT Merry Riana Edukasi Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "MERK": {
+  "listing_board": "Development",
+  "name": "Merck Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "META": {
+  "listing_board": "Development",
+  "name": "Nusantara Infrastructure Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "MFMI": {
+  "listing_board": "Watchlist",
+  "name": "Multifiling Mitra Indonesia Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "MGLV": {
+  "listing_board": "Acceleration",
+  "name": "PT Panca Anugrah Wisesa Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "MGNA": {
+  "listing_board": "Watchlist",
+  "name": "PT Magna Investama Mandiri Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "MGRO": {
+  "listing_board": "Development",
+  "name": "PT Mahkota Group Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MHKI": {
+  "listing_board": "Development",
+  "name": "PT Multi Hanna Kreasindo Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "MICE": {
+  "listing_board": "Development",
+  "name": "Multi Indocitra Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "MIDI": {
+  "listing_board": "Main",
+  "name": "Midi Utama Indonesia Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "MIKA": {
+  "listing_board": "Main",
+  "name": "PT Mitra Keluarga Karyasehat Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "MINA": {
+  "listing_board": "Watchlist",
+  "name": "PT Sanurhasta Mitra Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "MINE": {
+  "listing_board": "Main",
+  "name": "PT Sinar Terang Mandiri Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "MIRA": {
+  "listing_board": "Watchlist",
+  "name": "Mitra International Resources Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "MITI": {
+  "listing_board": "Development",
+  "name": "Mitra Investindo Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "MKAP": {
+  "listing_board": "Development",
+  "name": "PT Multikarya Asia Pasifik Raya Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MKNT": {
+  "listing_board": "Watchlist",
+  "name": "PT Mitra Komunikasi Nusantara Tbk",
+  "sub_sector": "Retailing"
+ },
+ "MKPI": {
+  "listing_board": "Development",
+  "name": "Metropolitan Kentjana Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MKTR": {
+  "listing_board": "Main",
+  "name": "PT Menthobi Karyatama Raya Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MLBI": {
+  "listing_board": "Main",
+  "name": "Multi Bintang Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MLIA": {
+  "listing_board": "Main",
+  "name": "Mulia Industrindo Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "MLPL": {
+  "listing_board": "Main",
+  "name": "Multipolar Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "MLPT": {
+  "listing_board": "Development",
+  "name": "PT Multipolar Technology Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "MMIX": {
+  "listing_board": "Development",
+  "name": "PT Multi Medika Internasional Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "MMLP": {
+  "listing_board": "Main",
+  "name": "PT Mega Manunggal Property Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MNCN": {
+  "listing_board": "Main",
+  "name": "Media Nusantara Citra Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "MOLI": {
+  "listing_board": "Development",
+  "name": "PT Madusari Murni Indah Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "MORA": {
+  "listing_board": "Main",
+  "name": "PT Ekamas Mora Republik Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "MPIX": {
+  "listing_board": "Development",
+  "name": "PT Mitra Pedagang Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "MPMX": {
+  "listing_board": "Main",
+  "name": "PT Mitra Pinasthika Mustika Tbk",
+  "sub_sector": "Retailing"
+ },
+ "MPOW": {
+  "listing_board": "Development",
+  "name": "PT Megapower Makmur Tbk",
+  "sub_sector": "Utilities"
+ },
+ "MPPA": {
+  "listing_board": "Main",
+  "name": "Matahari Putra Prima Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "MPRO": {
+  "listing_board": "Development",
+  "name": "PT Maha Properti Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MPXL": {
+  "listing_board": "Development",
+  "name": "PT MPX Logistics International Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "MRAT": {
+  "listing_board": "Development",
+  "name": "Mustika Ratu Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "MREI": {
+  "listing_board": "Development",
+  "name": "Maskapai Reasuransi Indonesia Tbk",
+  "sub_sector": "Insurance"
+ },
+ "MSIE": {
+  "listing_board": "Acceleration",
+  "name": "PT Multisarana Intan Eduka Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MSIN": {
+  "listing_board": "Main",
+  "name": "PT MNC Digital Entertainment Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "MSJA": {
+  "listing_board": "Main",
+  "name": "PT Multi Spunindo Jaya Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "MSKY": {
+  "listing_board": "Development",
+  "name": "MNC Sky Vision Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "MSTI": {
+  "listing_board": "Main",
+  "name": "PT Mastersystem Infotama Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "MTDL": {
+  "listing_board": "Main",
+  "name": "Metrodata Electronics Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "MTEL": {
+  "listing_board": "Main",
+  "name": "PT Dayamitra Telekomunikasi Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "MTFN": {
+  "listing_board": "Watchlist",
+  "name": "Capitalinc Investment Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MTLA": {
+  "listing_board": "Main",
+  "name": "Metropolitan Land Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MTMH": {
+  "listing_board": "Main",
+  "name": "PT Murni Sadar Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "MTPS": {
+  "listing_board": "Watchlist",
+  "name": "PT Meta Epsi Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "MTRA": {
+  "listing_board": "Watchlist",
+  "name": "PT Mitra Pemuda Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "MTSM": {
+  "listing_board": "Watchlist",
+  "name": "Metro Realty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "MTWI": {
+  "listing_board": "Development",
+  "name": "PT Malacca Trust Wuwungan Insurance Tbk",
+  "sub_sector": "Insurance"
+ },
+ "MUTU": {
+  "listing_board": "Development",
+  "name": "PT Mutuagung Lestari Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "MYOH": {
+  "listing_board": "Main",
+  "name": "Samindo Resources Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "MYOR": {
+  "listing_board": "Main",
+  "name": "Mayora Indah Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "MYTX": {
+  "listing_board": "Watchlist",
+  "name": "PT Asia Pacific Investama Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "NAIK": {
+  "listing_board": "Development",
+  "name": "PT Adiwarna Anugerah Abadi Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "NANO": {
+  "listing_board": "Acceleration",
+  "name": "PT Nanotech Indonesia Global Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "NASA": {
+  "listing_board": "Watchlist",
+  "name": "PT Andalan Perkasa Abadi Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "NASI": {
+  "listing_board": "Development",
+  "name": "PT Wahana Inti Makmur Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "NATO": {
+  "listing_board": "Development",
+  "name": "PT Olympus Strategic Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "NAYZ": {
+  "listing_board": "Acceleration",
+  "name": "PT Hassana Boga Sejahtera Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "NCKL": {
+  "listing_board": "Main",
+  "name": "PT Trimegah Bangun Persada Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "NELY": {
+  "listing_board": "Development",
+  "name": "Pelayaran Nelly Dwi Putri Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "NEST": {
+  "listing_board": "Development",
+  "name": "PT Esta Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "NETV": {
+  "listing_board": "Watchlist",
+  "name": "PT MDTV Media Technologies Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "NFCX": {
+  "listing_board": "Development",
+  "name": "PT NFC Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "NICE": {
+  "listing_board": "Development",
+  "name": "PT Adhi Kartiko Pratama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "NICK": {
+  "listing_board": "Development",
+  "name": "PT Charnic Capital Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "NICL": {
+  "listing_board": "Development",
+  "name": "PT PAM Mineral Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "NIKL": {
+  "listing_board": "Development",
+  "name": "Pelat Timah Nusantara Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "NINE": {
+  "listing_board": "Acceleration",
+  "name": "PT Techno9 Indonesia Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "NIRO": {
+  "listing_board": "Development",
+  "name": "City Retail Developments Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "NISP": {
+  "listing_board": "Main",
+  "name": "PT Bank OCBC NISP Tbk",
+  "sub_sector": "Banks"
+ },
+ "NOBU": {
+  "listing_board": "Development",
+  "name": "PT Bank Nationalnobu Tbk",
+  "sub_sector": "Banks"
+ },
+ "NPGF": {
+  "listing_board": "Watchlist",
+  "name": "PT Nusa Palapa Gemilang Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "NRCA": {
+  "listing_board": "Development",
+  "name": "PT Nusa Raya Cipta Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "NSSS": {
+  "listing_board": "Development",
+  "name": "PT Nusantara Sawit Sejahtera Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "NTBK": {
+  "listing_board": "Development",
+  "name": "PT Nusatama Berkah Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "NUSA": {
+  "listing_board": "Watchlist",
+  "name": "PT Sinergi Megah Internusa Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "NZIA": {
+  "listing_board": "Development",
+  "name": "PT Nusantara Almazia, Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "OASA": {
+  "listing_board": "Development",
+  "name": "PT Maharaksa Biru Energi Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "OBAT": {
+  "listing_board": "Development",
+  "name": "PT Brigit Biofarmaka Teknologi Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "OBMD": {
+  "listing_board": "Development",
+  "name": "PT OBM Drilchem Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "OCAP": {
+  "listing_board": "Watchlist",
+  "name": "Onix Capital Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "OILS": {
+  "listing_board": "Development",
+  "name": "PT Indo Oil Perkasa Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "OKAS": {
+  "listing_board": "Development",
+  "name": "Ancora Indonesia Resources Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "OLIV": {
+  "listing_board": "Acceleration",
+  "name": "PT Oscar Mitra Sukses Sejahtera Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "OMED": {
+  "listing_board": "Main",
+  "name": "PT Jayamas Medica Industri Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "OMRE": {
+  "listing_board": "Watchlist",
+  "name": "Indonesia Prima Property Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "OPMS": {
+  "listing_board": "Development",
+  "name": "PT Optima Prima Metal Sinergi Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PACK": {
+  "listing_board": "Acceleration",
+  "name": "PT Abadi Nusantara Hijau Investama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PADA": {
+  "listing_board": "Watchlist",
+  "name": "PT Personel Alih Daya Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "PADI": {
+  "listing_board": "Watchlist",
+  "name": "Minna Padi Investama Sekuritas Tbk",
+  "sub_sector": "Investment Service"
+ },
+ "PALM": {
+  "listing_board": "Development",
+  "name": "PT Provident Investasi Bersama Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "PAMG": {
+  "listing_board": "Development",
+  "name": "PT Bima Sakti Pertiwi Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PANI": {
+  "listing_board": "Development",
+  "name": "PT Pantai Indah Kapuk Dua Tbk.",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PANR": {
+  "listing_board": "Main",
+  "name": "Panorama Sentrawisata Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PANS": {
+  "listing_board": "Main",
+  "name": "Panin Sekuritas Tbk",
+  "sub_sector": "Investment Service"
+ },
+ "PART": {
+  "listing_board": "Development",
+  "name": "PT Cipta Perdana Lancar Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "PBID": {
+  "listing_board": "Main",
+  "name": "PT Panca Budi Idaman Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PBRX": {
+  "listing_board": "Watchlist",
+  "name": "Pan Brothers Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "PBSA": {
+  "listing_board": "Development",
+  "name": "PT Paramita Bangun Sarana Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "PCAR": {
+  "listing_board": "Development",
+  "name": "PT Prima Cakrawala Abadi Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "PDES": {
+  "listing_board": "Development",
+  "name": "Destinasi Tirta Nusantara Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PDPP": {
+  "listing_board": "Development",
+  "name": "PT Primadaya Plastisindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PEGE": {
+  "listing_board": "Development",
+  "name": "PT Panca Global Kapital Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "PEHA": {
+  "listing_board": "Development",
+  "name": "PT Phapros Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "PEVE": {
+  "listing_board": "Development",
+  "name": "PT Penta Valent Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "PGAS": {
+  "listing_board": "Main",
+  "name": "PT Perusahaan Gas Negara Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PGEO": {
+  "listing_board": "Main",
+  "name": "PT Pertamina Geothermal Energy Tbk",
+  "sub_sector": "Utilities"
+ },
+ "PGJO": {
+  "listing_board": "Acceleration",
+  "name": "PT Bahtera Bumi Raya Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "PGLI": {
+  "listing_board": "Development",
+  "name": "Pembangunan Graha Lestari Indah Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PGUN": {
+  "listing_board": "Watchlist",
+  "name": "PT Pradiksi Gunatama Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "PICO": {
+  "listing_board": "Development",
+  "name": "Pelangi Indah Canindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PIPA": {
+  "listing_board": "Watchlist",
+  "name": "PT Multi Makmur Lemindo Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "PJAA": {
+  "listing_board": "Development",
+  "name": "Pembangunan Jaya Ancol Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PJHB": {
+  "listing_board": "Development",
+  "name": "PT Pelayaran Jaya Hidup Baru Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "PKPK": {
+  "listing_board": "Development",
+  "name": "Perdana Karya Perkasa Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PLAN": {
+  "listing_board": "Acceleration",
+  "name": "PT Planet Properindo Jaya Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PLAS": {
+  "listing_board": "Watchlist",
+  "name": "Polaris Investama Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "PLIN": {
+  "listing_board": "Watchlist",
+  "name": "Plaza Indonesia Realty Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PMJS": {
+  "listing_board": "Development",
+  "name": "PT Putra Mandiri Jembar Tbk",
+  "sub_sector": "Retailing"
+ },
+ "PMMP": {
+  "listing_board": "Development",
+  "name": "PT Panca Mitra Multiperdana Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "PMUI": {
+  "listing_board": "Development",
+  "name": "PT Prima Multi Usaha Indonesia Tbk",
+  "sub_sector": "Retailing"
+ },
+ "PNBN": {
+  "listing_board": "Main",
+  "name": "Bank Pan Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "PNBS": {
+  "listing_board": "Development",
+  "name": "PT Bank Panin Dubai Syariah Tbk",
+  "sub_sector": "Banks"
+ },
+ "PNGO": {
+  "listing_board": "Development",
+  "name": "PT Pinago Utama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PNIN": {
+  "listing_board": "Main",
+  "name": "Paninvest Tbk",
+  "sub_sector": "Insurance"
+ },
+ "PNLF": {
+  "listing_board": "Main",
+  "name": "Panin Financial Tbk",
+  "sub_sector": "Insurance"
+ },
+ "PNSE": {
+  "listing_board": "Watchlist",
+  "name": "Pudjiadi & Sons Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "POLA": {
+  "listing_board": "Watchlist",
+  "name": "PT Pool Advista Finance Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "POLI": {
+  "listing_board": "Development",
+  "name": "PT Pollux Hotels Group Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "POLL": {
+  "listing_board": "Development",
+  "name": "PT Pollux Properties Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "POLU": {
+  "listing_board": "Development",
+  "name": "PT Golden Flower Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "POLY": {
+  "listing_board": "Watchlist",
+  "name": "Asia Pacific Fibers Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "POOL": {
+  "listing_board": "Watchlist",
+  "name": "Pool Advista Indonesia Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "PORT": {
+  "listing_board": "Development",
+  "name": "PT Nusantara Pelabuhan Handal Tbk",
+  "sub_sector": "Transportation Infrastructure"
+ },
+ "POSA": {
+  "listing_board": "Watchlist",
+  "name": "PT Bliss Properti Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "POWR": {
+  "listing_board": "Main",
+  "name": "PT Cikarang Listrindo Tbk",
+  "sub_sector": "Utilities"
+ },
+ "PPGL": {
+  "listing_board": "Acceleration",
+  "name": "PT Prima Globalindo Logistik Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "PPRE": {
+  "listing_board": "Development",
+  "name": "PT PP Presisi Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "PPRI": {
+  "listing_board": "Development",
+  "name": "PT Paperocks Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PPRO": {
+  "listing_board": "Watchlist",
+  "name": "PT PP Properti Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PRAY": {
+  "listing_board": "Development",
+  "name": "PT Famon Awal Bros Sedaya Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "PRDA": {
+  "listing_board": "Main",
+  "name": "PT Prodia Widyahusada Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "PRDL": {
+  "listing_board": "Development",
+  "name": "PT Prodia Diagnostic Line Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "PRIM": {
+  "listing_board": "Development",
+  "name": "PT Royal Prima Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "PSAB": {
+  "listing_board": "Development",
+  "name": "J Resources Asia Pasifik Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PSAT": {
+  "listing_board": "Main",
+  "name": "PT Pancaran Samudera Transport Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PSDN": {
+  "listing_board": "Development",
+  "name": "Prasidha Aneka Niaga Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "PSGO": {
+  "listing_board": "Main",
+  "name": "PT Palma Serasih Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "PSKT": {
+  "listing_board": "Watchlist",
+  "name": "PT Red Planet Indonesia Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PSSI": {
+  "listing_board": "Main",
+  "name": "PT IMC Pelita Logistik Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PTBA": {
+  "listing_board": "Main",
+  "name": "Bukit Asam Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PTDU": {
+  "listing_board": "Watchlist",
+  "name": "PT Djasa Ubersakti Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "PTIS": {
+  "listing_board": "Development",
+  "name": "Indo Straits Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PTMP": {
+  "listing_board": "Development",
+  "name": "PT Mitra Pack Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "PTMR": {
+  "listing_board": "Development",
+  "name": "PT Master Print Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PTPP": {
+  "listing_board": "Main",
+  "name": "PP (Persero) Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "PTPS": {
+  "listing_board": "Development",
+  "name": "PT Pulau Subur Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "PTPW": {
+  "listing_board": "Development",
+  "name": "PT Pratama Widya Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "PTRO": {
+  "listing_board": "Main",
+  "name": "Petrosea Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "PTSN": {
+  "listing_board": "Development",
+  "name": "Sat Nusapersada Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ },
+ "PTSP": {
+  "listing_board": "Development",
+  "name": "Pioneerindo Gourmet International Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "PUDP": {
+  "listing_board": "Main",
+  "name": "Pudjiadi Prestige Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PURA": {
+  "listing_board": "Watchlist",
+  "name": "PT Putra Rajawali Kencana Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "PURE": {
+  "listing_board": "Watchlist",
+  "name": "PT Trinitan Metals and Minerals Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "PURI": {
+  "listing_board": "Development",
+  "name": "PT Puri Global Sukses Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PWON": {
+  "listing_board": "Main",
+  "name": "Pakuwon Jati Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "PYFA": {
+  "listing_board": "Development",
+  "name": "PT Pyridam Farma Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "PZZA": {
+  "listing_board": "Development",
+  "name": "PT Sarimelati Kencana Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "RAAM": {
+  "listing_board": "Main",
+  "name": "PT Tripar Multivision Plus Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "RAFI": {
+  "listing_board": "Watchlist",
+  "name": "PT Sari Kreasi Boga Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "RAJA": {
+  "listing_board": "Main",
+  "name": "Rukun Raharja Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RALS": {
+  "listing_board": "Main",
+  "name": "Ramayana Lestari Sentosa Tbk",
+  "sub_sector": "Retailing"
+ },
+ "RANC": {
+  "listing_board": "Development",
+  "name": "Supra Boga Lestari Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "RANS": {
+  "listing_board": "Development",
+  "name": "PT Rans Entertainmen Indonesia Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "RATU": {
+  "listing_board": "Development",
+  "name": "PT Raharja Energi Cepu Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RBMS": {
+  "listing_board": "Watchlist",
+  "name": "Ristia Bintang Mahkotasejati Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RCCC": {
+  "listing_board": "Acceleration",
+  "name": "PT Utama Radar Cahaya Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "RDTX": {
+  "listing_board": "Development",
+  "name": "Roda Vivatex Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "REAL": {
+  "listing_board": "Watchlist",
+  "name": "PT Repower Asia Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RELF": {
+  "listing_board": "Acceleration",
+  "name": "PT Graha Mitra Asia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RELI": {
+  "listing_board": "Development",
+  "name": "Reliance Sekuritas Indonesia Tbk",
+  "sub_sector": "Investment Service"
+ },
+ "RGAS": {
+  "listing_board": "Development",
+  "name": "PT Kian Santang Muliatama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RICY": {
+  "listing_board": "Development",
+  "name": "Ricky Putra Globalindo Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "RIGS": {
+  "listing_board": "Development",
+  "name": "Rig Tenders Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RIMO": {
+  "listing_board": "Watchlist",
+  "name": "PT Rimo International Lestari Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RISE": {
+  "listing_board": "Development",
+  "name": "PT Jaya Sukses Makmur Sentosa Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RLCO": {
+  "listing_board": "Development",
+  "name": "PT Abadi Lestari Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "RMKE": {
+  "listing_board": "Main",
+  "name": "PT RMK Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RMKO": {
+  "listing_board": "Development",
+  "name": "PT Royaltama Mulia Kontraktorindo Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "ROCK": {
+  "listing_board": "Watchlist",
+  "name": "PT Rockfields Properti Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RODA": {
+  "listing_board": "Watchlist",
+  "name": "Pikko Land Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "RONY": {
+  "listing_board": "Watchlist",
+  "name": "PT Aracord Nusantara Group Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "ROTI": {
+  "listing_board": "Development",
+  "name": "PT Nippon Indosari Corpindo Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "RSCH": {
+  "listing_board": "Development",
+  "name": "PT Charlie Hospital Semarang Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "RSGK": {
+  "listing_board": "Main",
+  "name": "PT Kedoya Adyaraya Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "RUIS": {
+  "listing_board": "Development",
+  "name": "Radiant Utama Interinsco Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "RUNS": {
+  "listing_board": "Acceleration",
+  "name": "PT Global Sukses Solusi Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "SAFE": {
+  "listing_board": "Watchlist",
+  "name": "Steady Safe Tbk",
+  "sub_sector": "Transportation"
+ },
+ "SAGE": {
+  "listing_board": "Watchlist",
+  "name": "PT Saptausaha Gemilangindah Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "SAME": {
+  "listing_board": "Main",
+  "name": "Sarana Meditama Metropolitan Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "SAMF": {
+  "listing_board": "Main",
+  "name": "PT Saraswanti Anugerah Makmur Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SAPX": {
+  "listing_board": "Watchlist",
+  "name": "PT Satria Antaran Prima Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "SATU": {
+  "listing_board": "Development",
+  "name": "PT Kota Satu Properti Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "SBAT": {
+  "listing_board": "Watchlist",
+  "name": "PT Sejahtera Bintang Abadi Textile Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "SBMA": {
+  "listing_board": "Development",
+  "name": "PT Surya Biru Murni Acetylene Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SCCO": {
+  "listing_board": "Development",
+  "name": "PT Supreme Cable Manufacturing & Commerce Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "SCMA": {
+  "listing_board": "Main",
+  "name": "Surya Citra Media Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "SCNP": {
+  "listing_board": "Development",
+  "name": "PT Selaras Citra Nusantara Perkasa Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "SCPI": {
+  "listing_board": "Development",
+  "name": "PT Organon Pharma Indonesia Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "SDMU": {
+  "listing_board": "Watchlist",
+  "name": "Sidomulyo Selaras Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "SDPC": {
+  "listing_board": "Development",
+  "name": "Millennium Pharmacon International Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "SDRA": {
+  "listing_board": "Main",
+  "name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+  "sub_sector": "Banks"
+ },
+ "SEMA": {
+  "listing_board": "Development",
+  "name": "PT Semacom Integrated Tbk",
+  "sub_sector": "Alternative Energy"
+ },
+ "SFAN": {
+  "listing_board": "Development",
+  "name": "PT Surya Fajar Capital Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "SGER": {
+  "listing_board": "Development",
+  "name": "PT Sumber Global Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SGRO": {
+  "listing_board": "Main",
+  "name": "PT Prime Agri Resources Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SHID": {
+  "listing_board": "Development",
+  "name": "Hotel Sahid Jaya Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "SHIP": {
+  "listing_board": "Main",
+  "name": "PT Sillo Maritime Perdana Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SICO": {
+  "listing_board": "Development",
+  "name": "PT Sigma Energy Compressindo Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SIDO": {
+  "listing_board": "Main",
+  "name": "PT Industri Jamu Dan Farmasi Sido Muncul Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "SILO": {
+  "listing_board": "Main",
+  "name": "PT Siloam International Hospitals Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "SIMA": {
+  "listing_board": "Watchlist",
+  "name": "Siwani Makmur Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SIMP": {
+  "listing_board": "Main",
+  "name": "Salim Ivomas Pratama Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SINI": {
+  "listing_board": "Watchlist",
+  "name": "PT Singaraja Putra Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "SIPD": {
+  "listing_board": "Development",
+  "name": "PT Sreeya Sewu Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SKBM": {
+  "listing_board": "Watchlist",
+  "name": "Sekar Bumi Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SKLT": {
+  "listing_board": "Development",
+  "name": "Sekar Laut Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SKRN": {
+  "listing_board": "Development",
+  "name": "PT Superkrane Mitra Utama Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "SKYB": {
+  "listing_board": "Watchlist",
+  "name": "PT Northcliff Citranusa Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "SLIS": {
+  "listing_board": "Development",
+  "name": "PT Gaya Abadi Sempurna Tbk",
+  "sub_sector": "Retailing"
+ },
+ "SMAR": {
+  "listing_board": "Development",
+  "name": "PT Sinar Mas Agro Resources and Technology Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SMBR": {
+  "listing_board": "Main",
+  "name": "PT Semen Baturaja Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMCB": {
+  "listing_board": "Watchlist",
+  "name": "PT Solusi Bangun Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMDM": {
+  "listing_board": "Development",
+  "name": "Suryamas Dutamakmur Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "SMDR": {
+  "listing_board": "Main",
+  "name": "Samudera Indonesia Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "SMGA": {
+  "listing_board": "Development",
+  "name": "PT Sumber Mineral Global Abadi Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMGR": {
+  "listing_board": "Main",
+  "name": "Semen Indonesia (Persero) Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMIL": {
+  "listing_board": "Main",
+  "name": "PT Sarana Mitra Luas Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "SMKL": {
+  "listing_board": "Development",
+  "name": "PT Satyamitra Kemas Lestari Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMKM": {
+  "listing_board": "Acceleration",
+  "name": "PT Sumber Mas Konstruksi Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "SMLE": {
+  "listing_board": "Development",
+  "name": "PT Sinergi Multi Lestarindo Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SMMA": {
+  "listing_board": "Main",
+  "name": "PT Sinar Mas Multiartha Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "SMMT": {
+  "listing_board": "Development",
+  "name": "Golden Eagle Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SMRA": {
+  "listing_board": "Main",
+  "name": "PT Summarecon Agung Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "SMRU": {
+  "listing_board": "Watchlist",
+  "name": "SMR Utama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SMSM": {
+  "listing_board": "Main",
+  "name": "Selamat Sempurna Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "SNLK": {
+  "listing_board": "Development",
+  "name": "PT Sunter Lakeside Hotel Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "SOCI": {
+  "listing_board": "Main",
+  "name": "PT Soechi Lines Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SOFA": {
+  "listing_board": "Acceleration",
+  "name": "PT Solusi Environment Asia Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "SOHO": {
+  "listing_board": "Development",
+  "name": "PT Soho Global Health Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "SOLA": {
+  "listing_board": "Development",
+  "name": "PT Xolare RCR Energy Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SONA": {
+  "listing_board": "Development",
+  "name": "Sona Topas Tourism Industry Tbk",
+  "sub_sector": "Retailing"
+ },
+ "SOSS": {
+  "listing_board": "Development",
+  "name": "PT Shield On Service Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "SOTS": {
+  "listing_board": "Development",
+  "name": "PT Satria Mega Kencana Tbk",
+  "sub_sector": "Consumer Services"
+ },
+ "SOUL": {
+  "listing_board": "Acceleration",
+  "name": "PT Mitra Tirta Buwana Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SPMA": {
+  "listing_board": "Development",
+  "name": "Suparma Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SPRE": {
+  "listing_board": "Acceleration",
+  "name": "PT Soraya Berjaya Indonesia Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "SPTO": {
+  "listing_board": "Main",
+  "name": "PT Surya Pertiwi Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "SQMI": {
+  "listing_board": "Development",
+  "name": "Wilton Makmur Indonesia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SRAJ": {
+  "listing_board": "Main",
+  "name": "Sejahteraraya Anugrahjaya Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "SRIL": {
+  "listing_board": "Watchlist",
+  "name": "PT Sri Rejeki Isman Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "SRSN": {
+  "listing_board": "Development",
+  "name": "Indo Acidatama Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SRTG": {
+  "listing_board": "Main",
+  "name": "PT Saratoga Investama Sedaya Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "SSIA": {
+  "listing_board": "Main",
+  "name": "PT Surya Semesta Internusa Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "SSMS": {
+  "listing_board": "Main",
+  "name": "PT Sawit Sumbermas Sarana Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SSTM": {
+  "listing_board": "Watchlist",
+  "name": "Sunson Textile Manufacturer Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "STAA": {
+  "listing_board": "Main",
+  "name": "PT Sumber Tani Agung Resources Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "STAR": {
+  "listing_board": "Development",
+  "name": "PT Calculus Global Ventures Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "STRK": {
+  "listing_board": "Development",
+  "name": "PT Lovina Beach Brewery Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "STTP": {
+  "listing_board": "Development",
+  "name": "PT Siantar Top Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "SUGI": {
+  "listing_board": "Watchlist",
+  "name": "Sugih Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SULI": {
+  "listing_board": "Development",
+  "name": "PT SLJ Global Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SUNI": {
+  "listing_board": "Main",
+  "name": "PT Sunindo Pratama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SUPA": {
+  "listing_board": "Development",
+  "name": "PT Super Bank Indonesia Tbk",
+  "sub_sector": "Banks"
+ },
+ "SUPR": {
+  "listing_board": "Watchlist",
+  "name": "Solusi Tunas Pratama Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "SURE": {
+  "listing_board": "Development",
+  "name": "PT Super Energy Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "SURI": {
+  "listing_board": "Development",
+  "name": "PT Maja Agung Latexindo Tbk",
+  "sub_sector": "Healthcare Equipment & Providers"
+ },
+ "SWAT": {
+  "listing_board": "Watchlist",
+  "name": "PT Sriwahana Adityakarta Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "SWID": {
+  "listing_board": "Development",
+  "name": "PT Saraswanti Indoland Development Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "TALF": {
+  "listing_board": "Development",
+  "name": "PT Tunas Alfin Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TAMA": {
+  "listing_board": "Watchlist",
+  "name": "PT Lancartama Sejati Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "TAMU": {
+  "listing_board": "Watchlist",
+  "name": "PT Pelayaran Tamarin Samudra Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TAPG": {
+  "listing_board": "Main",
+  "name": "PT Triputra Agro Persada Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TARA": {
+  "listing_board": "Watchlist",
+  "name": "PT Agung Semesta Sejahtera Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "TAXI": {
+  "listing_board": "Watchlist",
+  "name": "Express Transindo Utama Tbk",
+  "sub_sector": "Transportation"
+ },
+ "TAYS": {
+  "listing_board": "Development",
+  "name": "PT Jaya Swarasa Agung Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TBIG": {
+  "listing_board": "Main",
+  "name": "PT Tower Bersama Infrastructure Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "TBLA": {
+  "listing_board": "Main",
+  "name": "Tunas Baru Lampung Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TBMS": {
+  "listing_board": "Development",
+  "name": "Tembaga Mulia Semanan Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TCID": {
+  "listing_board": "Development",
+  "name": "Mandom Indonesia Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "TCPI": {
+  "listing_board": "Development",
+  "name": "PT Transcoal Pacific Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TDPM": {
+  "listing_board": "Watchlist",
+  "name": "PT Tianrong Chemicals Industry Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TEBE": {
+  "listing_board": "Main",
+  "name": "PT Dana Brata Luhur Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TECH": {
+  "listing_board": "Watchlist",
+  "name": "PT Indosterling Technomedia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "TELE": {
+  "listing_board": "Watchlist",
+  "name": "PT Omni Inovasi Indonesia Tbk",
+  "sub_sector": "Retailing"
+ },
+ "TFAS": {
+  "listing_board": "Development",
+  "name": "PT Telefast Indonesia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "TFCO": {
+  "listing_board": "Watchlist",
+  "name": "Tifico Fiber Indonesia Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "TGKA": {
+  "listing_board": "Development",
+  "name": "Tigaraksa Satria Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TGRA": {
+  "listing_board": "Watchlist",
+  "name": "PT Terregra Asia Energy",
+  "sub_sector": "Utilities"
+ },
+ "TGUK": {
+  "listing_board": "Development",
+  "name": "PT Platinum Wahab Nusantara Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TIFA": {
+  "listing_board": "Watchlist",
+  "name": "KDB Tifa Finance Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "TINS": {
+  "listing_board": "Main",
+  "name": "PT Timah Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TIRA": {
+  "listing_board": "Development",
+  "name": "Tira Austenite Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "TIRT": {
+  "listing_board": "Watchlist",
+  "name": "Tirta Mahakam Resources Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TKIM": {
+  "listing_board": "Main",
+  "name": "Pabrik Kertas Tjiwi Kimia Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TLDN": {
+  "listing_board": "Development",
+  "name": "PT Teladan Prima Agro Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TLKM": {
+  "listing_board": "Main",
+  "name": "PT Telkom Indonesia (Persero) Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "TMAS": {
+  "listing_board": "Main",
+  "name": "PT Temas Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "TMPO": {
+  "listing_board": "Development",
+  "name": "Tempo Inti Media Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "TNCA": {
+  "listing_board": "Development",
+  "name": "PT Trimuda Nuansa Citra Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "TOBA": {
+  "listing_board": "Main",
+  "name": "PT TBS Energi Utama Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TOOL": {
+  "listing_board": "Development",
+  "name": "PT Rohartindo Nusantara Luas Tbk",
+  "sub_sector": "Retailing"
+ },
+ "TOPS": {
+  "listing_board": "Watchlist",
+  "name": "PT Totalindo Eka Persada Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "TOSK": {
+  "listing_board": "Development",
+  "name": "PT Topindo Solusi Komunika Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "TOTL": {
+  "listing_board": "Main",
+  "name": "Total Bangun Persada Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "TOTO": {
+  "listing_board": "Development",
+  "name": "Surya Toto Indonesia Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "TOWR": {
+  "listing_board": "Main",
+  "name": "Sarana Menara Nusantara Tbk",
+  "sub_sector": "Telecommunication"
+ },
+ "TOYS": {
+  "listing_board": "Watchlist",
+  "name": "PT Sunindo Adipersada Tbk",
+  "sub_sector": "Leisure Goods"
+ },
+ "TPIA": {
+  "listing_board": "Development",
+  "name": "PT Chandra Asri Pacific Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TPMA": {
+  "listing_board": "Main",
+  "name": "Trans Power Marine Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TRAM": {
+  "listing_board": "Watchlist",
+  "name": "Trada Alam Minera Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "TRGU": {
+  "listing_board": "Main",
+  "name": "PT Cerestar Indonesia Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "TRIL": {
+  "listing_board": "Watchlist",
+  "name": "Triwira Insanlestari Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "TRIM": {
+  "listing_board": "Main",
+  "name": "PT Trimegah Sekuritas Indonesia Tbk",
+  "sub_sector": "Investment Service"
+ },
+ "TRIN": {
+  "listing_board": "Development",
+  "name": "PT Perintis Triniti Properti Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "TRIO": {
+  "listing_board": "Watchlist",
+  "name": "Trikomsel Oke Tbk",
+  "sub_sector": "Retailing"
+ },
+ "TRIS": {
+  "listing_board": "Development",
+  "name": "Trisula International Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "TRJA": {
+  "listing_board": "Development",
+  "name": "PT Transkon Jaya Tbk",
+  "sub_sector": "Transportation"
+ },
+ "TRON": {
+  "listing_board": "Development",
+  "name": "PT Teknologi Karya Digital Nusa Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "TRST": {
+  "listing_board": "Development",
+  "name": "Trias Sentosa Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "TRUE": {
+  "listing_board": "Watchlist",
+  "name": "PT Triniti Dinamik Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "TRUK": {
+  "listing_board": "Development",
+  "name": "PT Guna Timur Raya Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "TRUS": {
+  "listing_board": "Development",
+  "name": "Trust Finance Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "TSPC": {
+  "listing_board": "Main",
+  "name": "Tempo Scan Pacific Tbk",
+  "sub_sector": "Pharmaceuticals & Health Care Research"
+ },
+ "TUGU": {
+  "listing_board": "Main",
+  "name": "PT Asuransi Tugu Pratama Indonesia Tbk",
+  "sub_sector": "Insurance"
+ },
+ "TYRE": {
+  "listing_board": "Development",
+  "name": "PT King Tire Indonesia Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "UANG": {
+  "listing_board": "Watchlist",
+  "name": "PT Pakuan Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "UCID": {
+  "listing_board": "Main",
+  "name": "PT Uni-Charm Indonesia Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "UDNG": {
+  "listing_board": "Acceleration",
+  "name": "PT Agro Bahari Nusantara Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "UFOE": {
+  "listing_board": "Development",
+  "name": "PT Damai Sejahtera Abadi Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ULTJ": {
+  "listing_board": "Main",
+  "name": "PT Ultrajaya Milk Industry & Trading Company Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "UNIC": {
+  "listing_board": "Main",
+  "name": "Unggul Indah Cahaya Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "UNIQ": {
+  "listing_board": "Main",
+  "name": "PT Ulima Nitra Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "UNIT": {
+  "listing_board": "Watchlist",
+  "name": "Nusantara Inti Corpora Tbk",
+  "sub_sector": "Apparel & Luxury Goods"
+ },
+ "UNSP": {
+  "listing_board": "Watchlist",
+  "name": "Bakrie Sumatera Plantations Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "UNTD": {
+  "listing_board": "Development",
+  "name": "PT Terang Dunia Internusa Tbk",
+  "sub_sector": "Leisure Goods"
+ },
+ "UNTR": {
+  "listing_board": "Main",
+  "name": "United Tractors Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "UNVR": {
+  "listing_board": "Main",
+  "name": "Unilever Indonesia Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "URBN": {
+  "listing_board": "Development",
+  "name": "PT Urban Jakarta Propertindo Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "UVCR": {
+  "listing_board": "Development",
+  "name": "PT Trimegah Karya Pratama Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "VAST": {
+  "listing_board": "Development",
+  "name": "PT Vastland Indonesia Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "VERN": {
+  "listing_board": "Development",
+  "name": "PT Verona Indah Pictures Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "VICI": {
+  "listing_board": "Main",
+  "name": "PT Victoria Care Indonesia Tbk",
+  "sub_sector": "Nondurable Household Products"
+ },
+ "VICO": {
+  "listing_board": "Development",
+  "name": "PT Victoria Investama Tbk",
+  "sub_sector": "Holding & Investment Companies"
+ },
+ "VINS": {
+  "listing_board": "Development",
+  "name": "PT Victoria Insurance Tbk",
+  "sub_sector": "Insurance"
+ },
+ "VISI": {
+  "listing_board": "Development",
+  "name": "PT Satu Visi Putra Tbk",
+  "sub_sector": "Industrial Services"
+ },
+ "VIVA": {
+  "listing_board": "Watchlist",
+  "name": "PT Visi Media Asia Tbk",
+  "sub_sector": "Media & Entertainment"
+ },
+ "VKTR": {
+  "listing_board": "Development",
+  "name": "PT VKTR Teknologi Mobilitas Tbk",
+  "sub_sector": "Automobiles & Components"
+ },
+ "VOKS": {
+  "listing_board": "Development",
+  "name": "Voksel Electric Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "VRNA": {
+  "listing_board": "Development",
+  "name": "PT Mizuho Leasing Indonesia Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "VTNY": {
+  "listing_board": "Main",
+  "name": "PT Venteny Fortuna International Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "WAPO": {
+  "listing_board": "Development",
+  "name": "Wahana Pronatural Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "WBSA": {
+  "listing_board": "Development",
+  "name": "PT BSA Logistics Indonesia Tbk",
+  "sub_sector": "Logistics & Deliveries"
+ },
+ "WEGE": {
+  "listing_board": "Main",
+  "name": "PT Wijaya Karya Bangunan Gedung Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "WEHA": {
+  "listing_board": "Development",
+  "name": "PT WEHA Transportasi Indonesia Tbk",
+  "sub_sector": "Transportation"
+ },
+ "WGSH": {
+  "listing_board": "Acceleration",
+  "name": "PT Wira Global Solusi Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "WICO": {
+  "listing_board": "Watchlist",
+  "name": "Wicaksana Overseas International Tbk",
+  "sub_sector": "Food & Staples Retailing"
+ },
+ "WIDI": {
+  "listing_board": "Acceleration",
+  "name": "PT Widiant Jaya Krenindo Tbk",
+  "sub_sector": "Industrial Goods"
+ },
+ "WIFI": {
+  "listing_board": "Development",
+  "name": "PT Solusi Sinergi Digital Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "WIIM": {
+  "listing_board": "Main",
+  "name": "Wismilak Inti Makmur Tbk",
+  "sub_sector": "Tobacco"
+ },
+ "WIKA": {
+  "listing_board": "Development",
+  "name": "PT Wijaya Karya (Persero) Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "WINE": {
+  "listing_board": "Development",
+  "name": "PT Hatten Bali Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "WINR": {
+  "listing_board": "Watchlist",
+  "name": "PT Winner Nusantara Jaya Tbk",
+  "sub_sector": "Properties & Real Estate"
+ },
+ "WINS": {
+  "listing_board": "Main",
+  "name": "Wintermar Offshore Marine Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "WIRG": {
+  "listing_board": "Development",
+  "name": "PT Wir Asia Tbk",
+  "sub_sector": "Software & IT Services"
+ },
+ "WMPP": {
+  "listing_board": "Watchlist",
+  "name": "PT Widodo Makmur Perkasa Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "WMUU": {
+  "listing_board": "Watchlist",
+  "name": "PT Widodo Makmur Unggas Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "WOMF": {
+  "listing_board": "Development",
+  "name": "PT Wahana Ottomitra Multiartha Tbk",
+  "sub_sector": "Financing Service"
+ },
+ "WOOD": {
+  "listing_board": "Main",
+  "name": "PT Integra Indocabinet Tbk",
+  "sub_sector": "Household Goods"
+ },
+ "WOWS": {
+  "listing_board": "Watchlist",
+  "name": "PT Ginting Jaya Energi Tbk",
+  "sub_sector": "Oil, Gas & Coal"
+ },
+ "WSBP": {
+  "listing_board": "Watchlist",
+  "name": "PT Waskita Beton Precast Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "WSKT": {
+  "listing_board": "Watchlist",
+  "name": "PT Waskita Karya (Persero) Tbk",
+  "sub_sector": "Heavy Constructions & Civil Engineering"
+ },
+ "WTON": {
+  "listing_board": "Main",
+  "name": "Wijaya Karya Beton",
+  "sub_sector": "Basic Materials"
+ },
+ "YELO": {
+  "listing_board": "Watchlist",
+  "name": "PT Yelooo Integra Datanet Tbk",
+  "sub_sector": "Retailing"
+ },
+ "YOII": {
+  "listing_board": "Development",
+  "name": "PT Asuransi Digital Bersama Tbk",
+  "sub_sector": "Insurance"
+ },
+ "YPAS": {
+  "listing_board": "Watchlist",
+  "name": "Yanaprima Hastapersada Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "YULE": {
+  "listing_board": "Development",
+  "name": "Yulie Sekuritas Indonesia Tbk",
+  "sub_sector": "Investment Service"
+ },
+ "YUPI": {
+  "listing_board": "Main",
+  "name": "PT Yupi Indo Jelly Gum Tbk",
+  "sub_sector": "Food & Beverage"
+ },
+ "ZATA": {
+  "listing_board": "Watchlist",
+  "name": "PT Bersama Zatta Jaya Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ZBRA": {
+  "listing_board": "Development",
+  "name": "PT Dosni Roha Indonesia Tbk",
+  "sub_sector": "Multi-sector Holdings"
+ },
+ "ZINC": {
+  "listing_board": "Watchlist",
+  "name": "PT Kapuas Prima Coal Tbk",
+  "sub_sector": "Basic Materials"
+ },
+ "ZONE": {
+  "listing_board": "Development",
+  "name": "PT Mega Perintis Tbk",
+  "sub_sector": "Retailing"
+ },
+ "ZYRX": {
+  "listing_board": "Development",
+  "name": "PT Zyrexindo Mandiri Buana Tbk",
+  "sub_sector": "Technology Hardware & Equipment"
+ }
+}

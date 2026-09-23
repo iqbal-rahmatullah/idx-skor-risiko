@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "symbol": "ACRO.JK",
+      "company_name": "PT Samcro Hyosung Adilestari Tbk."
+    },
+    {
+      "symbol": "ACST.JK",
+      "company_name": "PT Acset Indonusa Tbk."
+    }
+  ],
+  "pagination": {
+    "total_count": 457,
+    "showing": 2,
+    "limit": 2,
+    "offset": 0,
+    "has_next": true,
+    "has_previous": false,
+    "next_offset": 2,
+    "previous_offset": null
+  }
+}

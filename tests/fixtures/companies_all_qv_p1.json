@@ -1,0 +1,1614 @@
+{
+  "results": [
+    {
+      "symbol": "AADI.JK",
+      "company_name": "PT Adaro Andalan Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AALI.JK",
+      "company_name": "Astra Agro Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ABBA.JK",
+      "company_name": "Mahaka Media Tbk",
+      "query_values": {
+        "sub_sector": "Media & Entertainment",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ABDA.JK",
+      "company_name": "Asuransi Bina Dana Arta Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ABMM.JK",
+      "company_name": "ABM Investama Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ACES.JK",
+      "company_name": "PT Aspirasi Hidup Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ACRO.JK",
+      "company_name": "PT Samcro Hyosung Adilestari Tbk.",
+      "query_values": {
+        "sub_sector": "Apparel & Luxury Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ACST.JK",
+      "company_name": "PT Acset Indonusa Tbk.",
+      "query_values": {
+        "sub_sector": "Heavy Constructions & Civil Engineering",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ADCP.JK",
+      "company_name": "PT Adhi Commuter Properti Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ADES.JK",
+      "company_name": "Akasha Wira International Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ADHI.JK",
+      "company_name": "PT Adhi Karya (Persero) Tbk.",
+      "query_values": {
+        "sub_sector": "Heavy Constructions & Civil Engineering",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ADMF.JK",
+      "company_name": "Adira Dinamika Multi Finance Tbk",
+      "query_values": {
+        "sub_sector": "Financing Service",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ADMG.JK",
+      "company_name": "Polychem Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ADMR.JK",
+      "company_name": "PT Alamtri Minerals Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ADRO.JK",
+      "company_name": "Alamtri Resources Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AEGS.JK",
+      "company_name": "PT Anugerah Spareparts Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "listing_board": "Acceleration"
+      }
+    },
+    {
+      "symbol": "AGAR.JK",
+      "company_name": "PT Asia Sejahtera Mina Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AGII.JK",
+      "company_name": "PT Samator Indo Gas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AGRO.JK",
+      "company_name": "PT Bank Raya Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AGRS.JK",
+      "company_name": "PT Bank IBK Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AHAP.JK",
+      "company_name": "Asuransi Harta Aman Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AIMS.JK",
+      "company_name": "PT Artha Mahiya Investama Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "AISA.JK",
+      "company_name": "PT FKS Food Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AKKU.JK",
+      "company_name": "PT Anugerah Kagum Karya Utama Tbk",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "AKPI.JK",
+      "company_name": "Argha Karya Prima Ind. Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AKRA.JK",
+      "company_name": "PT AKR Corporindo Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AKSI.JK",
+      "company_name": "PT Mineral Sumberdaya Mandiri Tbk",
+      "query_values": {
+        "sub_sector": "Logistics & Deliveries",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ALDO.JK",
+      "company_name": "Alkindo Naratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ALII.JK",
+      "company_name": "PT Ancara Logistics Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ALKA.JK",
+      "company_name": "Alakasa Industrindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ALMI.JK",
+      "company_name": "Alumindo Light Metal Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ALTO.JK",
+      "company_name": "Tri Banyan Tirta Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "AMAG.JK",
+      "company_name": "Asuransi Multi Artha Guna Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMAN.JK",
+      "company_name": "PT Makmur Berkah Amanda Tbk.",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMAR.JK",
+      "company_name": "PT Bank Amar Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMFG.JK",
+      "company_name": "Asahimas Flat Glass Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMIN.JK",
+      "company_name": "PT Ateliers Mecaniques D Indonesie Tbk.",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMMN.JK",
+      "company_name": "PT Amman Mineral Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AMMS.JK",
+      "company_name": "PT Agung Menjangan Mas Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Acceleration"
+      }
+    },
+    {
+      "symbol": "AMOR.JK",
+      "company_name": "PT Ashmore Asset Management Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Investment Service",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AMRT.JK",
+      "company_name": "PT Sumber Alfaria Trijaya Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Staples Retailing",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ANDI.JK",
+      "company_name": "PT Andira Agro Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ANJT.JK",
+      "company_name": "PT Austindo Nusantara Jaya Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ANTM.JK",
+      "company_name": "Aneka Tambang Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "APEX.JK",
+      "company_name": "Apexindo Pratama Duta Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "APIC.JK",
+      "company_name": "Pacific Strategic Financial Tbk",
+      "query_values": {
+        "sub_sector": "Holding & Investment Companies",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "APII.JK",
+      "company_name": "PT Arita Prima Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "APLI.JK",
+      "company_name": "Asiaplast Industries Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "APLN.JK",
+      "company_name": "PT Agung Podomoro Land Tbk.",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ARCI.JK",
+      "company_name": "PT Archi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AREA.JK",
+      "company_name": "PT Dunia Virtual Online Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ARGO.JK",
+      "company_name": "Argo Pantes Tbk",
+      "query_values": {
+        "sub_sector": "Apparel & Luxury Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ARII.JK",
+      "company_name": "Atlas Resources Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ARKA.JK",
+      "company_name": "PT Arkha Jayanti Persada Tbk.",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ARKO.JK",
+      "company_name": "PT Arkora Hydro Tbk.",
+      "query_values": {
+        "sub_sector": "Utilities",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ARMY.JK",
+      "company_name": "PT Armidian Karyatama Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ARNA.JK",
+      "company_name": "Arwana Citramulia Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ARTA.JK",
+      "company_name": "Arthavest Tbk",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ARTI.JK",
+      "company_name": "Ratu Prabu Energi Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ARTO.JK",
+      "company_name": "PT Bank Jago Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ASBI.JK",
+      "company_name": "Asuransi Bintang Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASDM.JK",
+      "company_name": "Asuransi Dayin Mitra Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASGR.JK",
+      "company_name": "Astra Graphia Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Services",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ASHA.JK",
+      "company_name": "PT Cilacap Samudera Fishing Industry Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ASII.JK",
+      "company_name": "Astra International Tbk",
+      "query_values": {
+        "sub_sector": "Multi-sector Holdings",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ASJT.JK",
+      "company_name": "Asuransi Jasa Tania Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASLC.JK",
+      "company_name": "PT Autopedia Sukses Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASLI.JK",
+      "company_name": "PT Asri Karya Lestari Tbk.",
+      "query_values": {
+        "sub_sector": "Heavy Constructions & Civil Engineering",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASMI.JK",
+      "company_name": "PT Asuransi Maximus Graha Persada Tbk.",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ASPI.JK",
+      "company_name": "PT Andalan Sakti Primaindo Tbk.",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASPR.JK",
+      "company_name": "PT Asia Pramulia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASRI.JK",
+      "company_name": "Alam Sutera Realty Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ASRM.JK",
+      "company_name": "Asuransi Ramayana Tbk",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ASSA.JK",
+      "company_name": "Adi Sarana Armada Tbk",
+      "query_values": {
+        "sub_sector": "Transportation",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "ATAP.JK",
+      "company_name": "PT Trimitra Prawara Goldland Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "ATIC.JK",
+      "company_name": "PT Anabatic Technologies Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "ATLA.JK",
+      "company_name": "PT Atlantis Subsea Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AUTO.JK",
+      "company_name": "Astra Otoparts Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AVIA.JK",
+      "company_name": "PT Avia Avian Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "AWAN.JK",
+      "company_name": "PT Era Digital Media Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AXIO.JK",
+      "company_name": "PT Tera Data Indonusa Tbk",
+      "query_values": {
+        "sub_sector": "Technology Hardware & Equipment",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AYAM.JK",
+      "company_name": "PT Janu Putra Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "AYLS.JK",
+      "company_name": "PT Agro Yasa Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BABP.JK",
+      "company_name": "PT Bank MNC Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BABY.JK",
+      "company_name": "PT Multitrend Indo Tbk.",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BACA.JK",
+      "company_name": "PT Bank Capital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BACH.JK",
+      "company_name": "PT Bach Multi Global Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Services",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BAIK.JK",
+      "company_name": "PT Bersama Mencapai Puncak Tbk.",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BAJA.JK",
+      "company_name": "Saranacentral Bajatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BALI.JK",
+      "company_name": "PT Bali Towerindo Sentra Tbk.",
+      "query_values": {
+        "sub_sector": "Telecommunication",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BANK.JK",
+      "company_name": "PT Bank Aladin Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BAPA.JK",
+      "company_name": "Bekasi Asri Pemula Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BAPI.JK",
+      "company_name": "PT Bhakti Agung Propertindo Tbk.",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BATA.JK",
+      "company_name": "Sepatu Bata Tbk",
+      "query_values": {
+        "sub_sector": "Apparel & Luxury Goods",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BATR.JK",
+      "company_name": "PT Benteng Api Technic Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BAUT.JK",
+      "company_name": "PT Mitra Angkasa Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BAYU.JK",
+      "company_name": "Bayu Buana Tbk",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBHI.JK",
+      "company_name": "PT Allo Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBKP.JK",
+      "company_name": "PT Bank KB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BBLD.JK",
+      "company_name": "Buana Finance Tbk",
+      "query_values": {
+        "sub_sector": "Financing Service",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BBMD.JK",
+      "company_name": "PT Bank Mestika Dharma Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBRM.JK",
+      "company_name": "Pelayaran Nasional Bina Buana Raya Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BBSI.JK",
+      "company_name": "PT Krom Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBSS.JK",
+      "company_name": "PT Bumi Benowo Sukses Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BBTN.JK",
+      "company_name": "PT Bank Tabungan Negara (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BBYB.JK",
+      "company_name": "PT Bank Neo Commerce Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BCAP.JK",
+      "company_name": "MNC Kapital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Holding & Investment Companies",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BCIC.JK",
+      "company_name": "PT Bank JTrust Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BCIP.JK",
+      "company_name": "Bumi Citra Permai Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BDKR.JK",
+      "company_name": "PT Berdikari Pondasi Perkasa Tbk.",
+      "query_values": {
+        "sub_sector": "Heavy Constructions & Civil Engineering",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BEBS.JK",
+      "company_name": "PT Berkah Beton Sadaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BEEF.JK",
+      "company_name": "PT Estika Tata Tiara Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BEER.JK",
+      "company_name": "PT Jobubu Jarum Minahasa Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BEKS.JK",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BELI.JK",
+      "company_name": "PT Global Digital Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "New Economy"
+      }
+    },
+    {
+      "symbol": "BELL.JK",
+      "company_name": "PT Trisula Textile Industries Tbk",
+      "query_values": {
+        "sub_sector": "Apparel & Luxury Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BESS.JK",
+      "company_name": "PT Batulicin Nusantara Maritim Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BEST.JK",
+      "company_name": "Bekasi Fajar Industrial Estate Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BFIN.JK",
+      "company_name": "BFI Finance Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Financing Service",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BGTG.JK",
+      "company_name": "PT Bank Ganesha Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BHAT.JK",
+      "company_name": "PT Bhakti Multi Artha Tbk.",
+      "query_values": {
+        "sub_sector": "Insurance",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BHIT.JK",
+      "company_name": "PT MNC Asia Holding Tbk",
+      "query_values": {
+        "sub_sector": "Multi-sector Holdings",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BIKA.JK",
+      "company_name": "PT Binakarya Jaya Abadi Tbk.",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BIKE.JK",
+      "company_name": "PT Sepeda Bersama Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BIMA.JK",
+      "company_name": "Primarindo Asia Infrastructure Tbk",
+      "query_values": {
+        "sub_sector": "Apparel & Luxury Goods",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BINA.JK",
+      "company_name": "PT Bank Ina Perdana Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BINO.JK",
+      "company_name": "PT Perma Plasindo Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BIPI.JK",
+      "company_name": "PT Astrindo Nusantara Infrastruktur Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BIPP.JK",
+      "company_name": "Bhuwanatala Indah Permai Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BIRD.JK",
+      "company_name": "PT Blue Bird Tbk",
+      "query_values": {
+        "sub_sector": "Transportation",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BISI.JK",
+      "company_name": "BISI INTERNATIONAL Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BJBR.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BJTM.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BKDP.JK",
+      "company_name": "Bukit Darmo Property Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BKSL.JK",
+      "company_name": "Sentul City Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BKSW.JK",
+      "company_name": "PT Bank QNB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BLES.JK",
+      "company_name": "PT Superior Prima Sukses Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BLOG.JK",
+      "company_name": "PT Trimitra Trans Persada Tbk",
+      "query_values": {
+        "sub_sector": "Logistics & Deliveries",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BLTA.JK",
+      "company_name": "Berlian Laju Tanker Tbk",
+      "query_values": {
+        "sub_sector": "Logistics & Deliveries",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BLTZ.JK",
+      "company_name": "PT Graha Layar Prima Tbk.",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BLUE.JK",
+      "company_name": "PT Berkah Prima Perkasa Tbk",
+      "query_values": {
+        "sub_sector": "Industrial Services",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BMAS.JK",
+      "company_name": "PT Bank Maspion Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BMBL.JK",
+      "company_name": "PT Lavender Bina Cendikia Tbk",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Acceleration"
+      }
+    },
+    {
+      "symbol": "BMHS.JK",
+      "company_name": "PT Bundamedik Tbk",
+      "query_values": {
+        "sub_sector": "Healthcare Equipment & Providers",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BMSR.JK",
+      "company_name": "Bintang Mitra Semestaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BMTR.JK",
+      "company_name": "PT Global Mediacom Tbk",
+      "query_values": {
+        "sub_sector": "Media & Entertainment",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BNBA.JK",
+      "company_name": "Bank Bumi Arta Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BNBR.JK",
+      "company_name": "Bakrie & Brothers Tbk",
+      "query_values": {
+        "sub_sector": "Multi-sector Holdings",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BNII.JK",
+      "company_name": "PT Bank Maybank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BOAT.JK",
+      "company_name": "PT Newport Marine Services Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BOBA.JK",
+      "company_name": "PT Formosa Ingredient Factory Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BOGA.JK",
+      "company_name": "PT Apollo Global Interactive Tbk",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BOLA.JK",
+      "company_name": "PT Bali Bintang Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BOLT.JK",
+      "company_name": "PT Garuda Metalindo Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BOSS.JK",
+      "company_name": "PT Borneo Olah Sarana Sukses Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BPFI.JK",
+      "company_name": "PT Woori Finance Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Financing Service",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BPII.JK",
+      "company_name": "PT Batavia Prosperindo Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Holding & Investment Companies",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BPTR.JK",
+      "company_name": "PT Batavia Prosperindo Trans Tbk.",
+      "query_values": {
+        "sub_sector": "Transportation",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BRAM.JK",
+      "company_name": "Indo Kordsa Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BREN.JK",
+      "company_name": "PT Barito Renewables Energy Tbk.",
+      "query_values": {
+        "sub_sector": "Utilities",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BRMS.JK",
+      "company_name": "Bumi Resources Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BRNA.JK",
+      "company_name": "Berlina Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BRPT.JK",
+      "company_name": "Barito Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BRRC.JK",
+      "company_name": "PT Raja Roti Cemerlang Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BSBK.JK",
+      "company_name": "PT Wulandari Bangun Laksana Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BSDE.JK",
+      "company_name": "PT Bumi Serpong Damai Tbk",
+      "query_values": {
+        "sub_sector": "Properties & Real Estate",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BSIM.JK",
+      "company_name": "Bank Sinarmas Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BSML.JK",
+      "company_name": "PT Bintang Samudera Mandiri Lines Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BSSR.JK",
+      "company_name": "Baramulti Suksessarana Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BTEK.JK",
+      "company_name": "Bumi Teknokultura Unggul Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BTEL.JK",
+      "company_name": "Bakrie Telecom Tbk",
+      "query_values": {
+        "sub_sector": "Telecommunication",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "BTON.JK",
+      "company_name": "Betonjaya Manunggal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BTPN.JK",
+      "company_name": "PT Bank SMBC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BTPS.JK",
+      "company_name": "PT Bank BTPN Syariah Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BUAH.JK",
+      "company_name": "PT Segar Kumala Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Food & Staples Retailing",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BUDI.JK",
+      "company_name": "PT Budi Starch & Sweetener Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BUKA.JK",
+      "company_name": "PT Bukalapak.com Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "New Economy"
+      }
+    },
+    {
+      "symbol": "BUKK.JK",
+      "company_name": "Bukaka Teknik Utama Tbk",
+      "query_values": {
+        "sub_sector": "Heavy Constructions & Civil Engineering",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BULL.JK",
+      "company_name": "PT Buana Lintas Lautan Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BUMI.JK",
+      "company_name": "Bumi Resources Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BUVA.JK",
+      "company_name": "PT Bukit Uluwatu Villa Tbk",
+      "query_values": {
+        "sub_sector": "Consumer Services",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "BVIC.JK",
+      "company_name": "Bank Victoria International Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BWPT.JK",
+      "company_name": "Eagle High Plantations Tbk",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "BYAN.JK",
+      "company_name": "Bayan Resources Tbk",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "CAKK.JK",
+      "company_name": "PT Cahayaputra Asa Keramik Tbk.",
+      "query_values": {
+        "sub_sector": "Industrial Goods",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "CAMP.JK",
+      "company_name": "PT Campina Ice Cream Industry Tbk.",
+      "query_values": {
+        "sub_sector": "Food & Beverage",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "CANI.JK",
+      "company_name": "PT Capitol Nusantara Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Oil, Gas & Coal",
+        "listing_board": "Watchlist"
+      }
+    },
+    {
+      "symbol": "CARE.JK",
+      "company_name": "PT Metro Healthcare Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Healthcare Equipment & Providers",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "CARS.JK",
+      "company_name": "PT Industri dan Perdagangan Bintraco Dharma Tbk",
+      "query_values": {
+        "sub_sector": "Retailing",
+        "listing_board": "Main"
+      }
+    },
+    {
+      "symbol": "CASA.JK",
+      "company_name": "PT Capital Financial Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Holding & Investment Companies",
+        "listing_board": "Development"
+      }
+    },
+    {
+      "symbol": "CASH.JK",
+      "company_name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "listing_board": "Acceleration"
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 962,
+    "showing": 200,
+    "limit": 200,
+    "offset": 0,
+    "has_next": true,
+    "has_previous": false,
+    "next_offset": 200,
+    "previous_offset": null
+  }
+}

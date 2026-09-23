@@ -1,0 +1,344 @@
+{
+  "results": [
+    {
+      "title": "Haryanto Tiara Budiman buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. Haryanto Tiara Budiman's insider purchase comes after Santoso, Lianawaty Suwono, Frengky Chandra Kusuma, Jahja Setia Atmadja and 2 other insiders in Bank Central Asia, totaling an accumulation of 2,841,801 shares transacted at an average price of IDR 7,005.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-2130-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T17:05:49",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Haryanto Tiara Budiman",
+      "holding_before": 1057378,
+      "holding_after": 1436806,
+      "amount_transaction": 379428,
+      "price": 6982.0,
+      "transaction_value": 2649166296.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982,
+          "amount_transacted": 379428
+        }
+      ],
+      "share_percentage_before": 0.001,
+      "share_percentage_after": 0.001,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Hendra Tanumihardja buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. Hendra Tanumihardja's insider purchase comes after Santoso, Lianawaty Suwono, Frengky Chandra Kusuma, Jahja Setia Atmadja and 1 other insiders in Bank Central Asia, totaling an accumulation of 2,462,373 shares transacted at an average price of IDR 7,008.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-1487-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T17:04:12",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Hendra Tanumihardja",
+      "holding_before": 193206,
+      "holding_after": 341139,
+      "amount_transaction": 147933,
+      "price": 6982.0,
+      "transaction_value": 1032868206.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982,
+          "amount_transacted": 147933
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "A. Widodo Mulyono buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. A. Widodo Mulyono's insider purchase comes after Santoso, Lianawaty Suwono, Frengky Chandra Kusuma and Jahja Setia Atmadja in Bank Central Asia, totaling an accumulation of 2,314,440 shares transacted at an average price of IDR 7,010.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-9048-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T17:03:02",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "A. Widodo Mulyono",
+      "holding_before": 440838,
+      "holding_after": 681407,
+      "amount_transaction": 240569,
+      "price": 6982.0,
+      "transaction_value": 1679652758.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982,
+          "amount_transacted": 240569
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.001,
+      "share_percentage_transaction": 0.001,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Jahja Setia Atmadja buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. Jahja Setia Atmadja's insider purchase comes after Santoso, Lianawaty Suwono and Frengky Chandra Kusuma in Bank Central Asia, totaling an accumulation of 2,073,871 shares transacted at an average price of IDR 7,013.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-3444-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T17:01:34",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Jahja Setia Atmadja",
+      "holding_before": 35000644,
+      "holding_after": 35802700,
+      "amount_transaction": 802056,
+      "price": 6982.0,
+      "transaction_value": 5599954992.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982,
+          "amount_transacted": 802056
+        }
+      ],
+      "share_percentage_before": 0.03,
+      "share_percentage_after": 0.03,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Frengky Chandra Kusuma buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. Frengky Chandra Kusuma's insider purchase comes after Santoso and Lianawaty Suwono in Bank Central Asia, totaling an accumulation of 1,271,815 shares transacted at an average price of IDR 7,033.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-0424-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T17:00:15",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Frengky Chandra Kusuma",
+      "holding_before": 2429926,
+      "holding_after": 2835916,
+      "amount_transaction": 405990,
+      "price": 6982.0,
+      "transaction_value": 2834622180.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982,
+          "amount_transacted": 405990
+        }
+      ],
+      "share_percentage_before": 0.002,
+      "share_percentage_after": 0.002,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Lianawaty Suwono buys shares of Bank Central Asia",
+      "body": "Lianawaty Suwono bought 465,825 shares of Bank Central Asia. This increases their holdings from 3,440,417 to 3,906,242 shares. The stated purpose of the transaction was long term investment.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26032026-5515-00.pdf-0.pdf",
+      "timestamp": "2026-03-26T16:59:01",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Lianawaty Suwono",
+      "holding_before": 3440417,
+      "holding_after": 3906242,
+      "amount_transaction": 465825,
+      "price": 6982.0,
+      "transaction_value": 3252390150.0,
+      "price_transaction": [
+        {
+          "date": "2026-03-25",
+          "type": "buy",
+          "price": 6982.0,
+          "amount_transacted": 465825
+        }
+      ],
+      "share_percentage_before": 0.002,
+      "share_percentage_after": 0.003,
+      "share_percentage_transaction": 0.001,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Lianawaty Suwono buys shares of Bank Central Asia",
+      "body": "This transaction is part of a cluster-buy transaction amidst other insider buys during the last 6 months. Lianawaty Suwono's insider purchase comes after Jahja Setiaatmadja and Santoso in Bank Central Asia, totaling an accumulation of 528,500 shares transacted at an average price of IDR 7,296.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30012026-1353-00.pdf-0.pdf",
+      "timestamp": "2026-01-30T20:25:18",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Lianawaty Suwono",
+      "holding_before": 2840417,
+      "holding_after": 3140417,
+      "amount_transaction": 300000,
+      "price": 7025.0,
+      "transaction_value": 2107500000.0,
+      "price_transaction": [
+        {
+          "date": "2026-01-28",
+          "type": "buy",
+          "price": 7025,
+          "amount_transacted": 300000
+        }
+      ],
+      "share_percentage_before": 0.002,
+      "share_percentage_after": 0.003,
+      "share_percentage_transaction": 0.001,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Santoso Buy Transaction of Bank Central Asia",
+      "body": "On October 06, 2025, Santoso, an insider shareholder, bought 100,000 shares of Bank Central Asia changing its holding from 3,169,028 to 3,269,028 shares.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202510/36dfd42fa8_0ba8b27286.pdf",
+      "timestamp": "2025-10-06T16:59:51",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Santoso",
+      "holding_before": 3169028,
+      "holding_after": 3269028,
+      "amount_transaction": 100000,
+      "price": 7500.0,
+      "transaction_value": 750000000.0,
+      "price_transaction": [
+        {
+          "date": "2025-10-03",
+          "type": "buy",
+          "price": 7500.0,
+          "amount_transacted": 100000
+        }
+      ],
+      "share_percentage_before": 0.003,
+      "share_percentage_after": 0.003,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Jahja Setiaatmadja Buy Transaction of Bank Central Asia",
+      "body": "On September 10, 2025, Jahja Setiaatmadja, an insider shareholder, bought 66,000 shares of Bank Central Asia. changing its holding from 34,867,644 to 34,933,644 shares.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/6c4f4717e9_5af797fcec.pdf",
+      "timestamp": "2025-09-10T16:33:27",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Jahja Setiaatmadja",
+      "holding_before": 34867644,
+      "holding_after": 34933644,
+      "amount_transaction": 66000,
+      "price": 7575.0,
+      "transaction_value": 499950000.0,
+      "price_transaction": [
+        {
+          "date": "2025-09-09",
+          "type": "buy",
+          "price": 7575.0,
+          "amount_transacted": 66000
+        }
+      ],
+      "share_percentage_before": 0.03,
+      "share_percentage_after": 0.03,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Jahja Setiaatmadja Buy Transaction of Bank Central Asia",
+      "body": "On September 02, 2025, Jahja Setiaatmadja, an insider shareholder, bought 62,500 shares of Bank Central Asia. changing its holding from 34,805,144 to 34,867,644 shares.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/6575e10c22_46b8e1d0b9.pdf",
+      "timestamp": "2025-09-02T16:22:13",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BBCA.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Jahja Setiaatmadja",
+      "holding_before": 34805144,
+      "holding_after": 34867644,
+      "amount_transaction": 62500,
+      "price": 7975.0,
+      "transaction_value": 498437500.0,
+      "price_transaction": [
+        {
+          "date": "2025-09-01",
+          "type": "buy",
+          "price": 7975.0,
+          "amount_transacted": 62500
+        }
+      ],
+      "share_percentage_before": 0.03,
+      "share_percentage_after": 0.03,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    }
+  ],
+  "pagination": {
+    "total_count": 10,
+    "showing": 10,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

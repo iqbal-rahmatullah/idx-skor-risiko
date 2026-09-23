@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "title": "Handi Sutanto sells shares of Aneka Tambang",
+      "body": "Handi Sutanto sold 3,500 shares of Aneka Tambang. This decreases their holdings from 3,500 to 0 shares. The stated purpose of the transaction was sale.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29122025-3356-00.pdf-0.pdf",
+      "timestamp": "2025-12-29T18:39:16",
+      "sector": "basic-materials",
+      "sub_sector": "basic-materials",
+      "tags": [
+        "divestment"
+      ],
+      "symbol": "ANTM.JK",
+      "transaction_type": "sell",
+      "holder_type": "insider",
+      "holder_name": "Handi Sutanto",
+      "holding_before": 3500,
+      "holding_after": 0,
+      "amount_transaction": 3500,
+      "price": 3230.0,
+      "transaction_value": 11305000.0,
+      "price_transaction": [
+        {
+          "date": "2025-12-24",
+          "type": "sell",
+          "price": 3230.0,
+          "amount_transacted": 3500
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Handi Sutanto buys shares of Aneka Tambang",
+      "body": "Handi Sutanto bought 1,800 shares of Aneka Tambang. This increases their holdings from 1,700 to 3,500 shares. The stated purpose of the transaction was trading/pembelian.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/da47f3ec95_c049fc4ae8.pdf",
+      "timestamp": "2025-11-13T09:05:51",
+      "sector": "basic-materials",
+      "sub_sector": "basic-materials",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "ANTM.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Handi Sutanto",
+      "holding_before": 1700,
+      "holding_after": 3500,
+      "amount_transaction": 1800,
+      "price": 2890.0,
+      "transaction_value": 5202000.0,
+      "price_transaction": [
+        {
+          "date": "2025-11-10",
+          "type": "buy",
+          "price": 2890.0,
+          "amount_transacted": 1800
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 1e-05,
+      "share_percentage_transaction": 1e-05,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Handi Sutanto buys shares of Aneka Tambang",
+      "body": "Handi Sutanto bought 1,700 shares of Aneka Tambang. This increases their holdings from 0 to 1,700 shares. The stated purpose of the transaction was trading/pembelian.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/b19559c4f5_426c591778.pdf",
+      "timestamp": "2025-11-10T19:57:58",
+      "sector": "basic-materials",
+      "sub_sector": "basic-materials",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "ANTM.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Handi Sutanto",
+      "holding_before": 0,
+      "holding_after": 1700,
+      "amount_transaction": 1700,
+      "price": 2940.0,
+      "transaction_value": 4998000.0,
+      "price_transaction": [
+        {
+          "date": "2025-11-07",
+          "type": "buy",
+          "price": 2940.0,
+          "amount_transacted": 1700
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 1e-05,
+      "share_percentage_transaction": 1e-05,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Handi Sutanto sells shares of Aneka Tambang",
+      "body": "Handi Sutanto sold 300 shares of Aneka Tambang. This decreases their holdings from 300 to 0 shares. The stated purpose of the transaction was trading/penjualan.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/4383309cc9_57c0902c13.pdf",
+      "timestamp": "2025-11-05T20:43:16",
+      "sector": "basic-materials",
+      "sub_sector": "basic-materials",
+      "tags": [
+        "divestment"
+      ],
+      "symbol": "ANTM.JK",
+      "transaction_type": "sell",
+      "holder_type": "insider",
+      "holder_name": "Handi Sutanto",
+      "holding_before": 300,
+      "holding_after": 0,
+      "amount_transaction": 300,
+      "price": 3330.0,
+      "transaction_value": 999000.0,
+      "price_transaction": [
+        {
+          "date": "2025-10-16",
+          "type": "sell",
+          "price": 3330.0,
+          "amount_transacted": 300
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    }
+  ],
+  "pagination": {
+    "total_count": 4,
+    "showing": 4,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "symbol": "ANTM.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-05-24",
+        "agm_time": "09:00:00",
+        "agm_place": "Ruang Flores A, Lobby Levelhotel Borobudur Jakartajl. Lapangan Banteng Selatanjakarta Pusat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-08-23",
+        "agm_time": "10:00:00",
+        "agm_place": "Auditorium Andrawina Gedung Aneka Tambangjl. Letjen T. B. Simatupang No. 1Jakarta Selatan 12530",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-09-16",
+        "agm_time": "09:00:00",
+        "agm_place": "Pubex Live 2022",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-05-24",
+        "agm_time": "09:00:00",
+        "agm_place": "",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-06-15",
+        "agm_time": "09:00:00",
+        "agm_place": "Ruang Sumba - Hotel Borobudur Jakartajalan Lapangan Banteng Selatan No.1, Jakarta Pusat 10710",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-11-30",
+        "agm_time": "10:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-05-08",
+        "agm_time": "09:00:00",
+        "agm_place": "Ruang Sumba - Hotel Borobudur Jakartajalan Lapangan Banteng Selatan No.1, Jakarta Pusat 10710",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-08-27",
+        "agm_time": "14:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-11-13",
+        "agm_time": "10:00:00",
+        "agm_place": "Bali Room - Hotel Indonesia Kempinski Jakarta Jl. M. H. Thamrin No.1 Jakarta Pusat 10310 Kotaadm. Jakarta Pusat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-06-12",
+        "agm_time": null,
+        "agm_place": "",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-09-11",
+        "agm_time": "15:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-12-15",
+        "agm_time": "14:00:00",
+        "agm_place": "Ruang Sumba, Hotel Borobudur, Jakarta",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-06-10",
+        "agm_time": "14:00:00",
+        "agm_place": "DKI Jakarta, Secara Elektronik Melalui Fasilitas Electronic General Meeting System Ksei Dalam Yang Disediakan Oleh PT Kustodian Sentralefek Indonesia",
+        "agm_result": "Agenda #1: Shareholders approved the 2025 Annual Report and Consolidated Financial Statements audited by KAP Purwanto Susanti dan Surja, granting full discharge to the Board of Directors and Commissioners.\nAgenda #2: The meeting approved a net profit allocation of Rp7.2 trillion, designating 70% as cash dividends and 30% as retained earnings.\nAgenda #3: Authority was granted to the Majority Series B Shareholder and the Board of Commissioners to determine salaries, honoraria, and facilities for the company's management for 2025 and 2026.\nAgenda #4: KAP Purwanto Susanti dan Surja (Ernst & Young Global Limited) was appointed to audit the 2026 Consolidated Financial Statements and PUMK reports.\nAgenda #5: The Board of Commissioners was authorized to approve the 2026-2030 Long-Term Company Plan and the 2027 Work Plan and Budget after obtaining written approval from Series B Shareholders.\nAgenda #6: The meeting accepted the report regarding the realization of state capital participation funds and proceeds from the Limited Public Offering I through a rights issue.\nAgenda #7: The company received approval to accept special assignments from the Central Government to accelerate nickel downstreaming and the electric vehicle battery ecosystem.\nAgenda #8: Shareholders approved amending Article 3 of the Articles of Association to align business activities with the 2025 Indonesia Standard Industrial Classification (KBLI).\nAgenda #9: The meeting approved the dismissal of several members, changed the nomenclature of director positions, and appointed new members including Arini Kasmira as Finance & Risk Management Director.\nAgenda #10: The meeting established a maximum term of five annual general meetings for board members and required compliance with laws governing State-Owned Enterprises.\nAgenda #11: The Board of Directors was granted power of attorney to notarize meeting decisions and perform necessary regulatory adjustments."
+      },
+      {
+        "agm_date": "2026-09-10",
+        "agm_time": "16:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": [
+      {
+        "ex_date": "2026-06-22",
+        "payment_date": "2026-07-10",
+        "dividend_yield": null,
+        "dividend_amount": 209.989
+      },
+      {
+        "ex_date": "2025-06-23",
+        "payment_date": "2025-07-11",
+        "dividend_yield": 0.0578505,
+        "dividend_amount": 151.773
+      },
+      {
+        "ex_date": "2021-04-16",
+        "payment_date": "2021-05-07",
+        "dividend_yield": 0.00687135,
+        "dividend_amount": 16.7399
+      },
+      {
+        "ex_date": "2024-05-21",
+        "payment_date": "2024-06-07",
+        "dividend_yield": 0.0861403,
+        "dividend_amount": 128.071
+      },
+      {
+        "ex_date": "2023-06-26",
+        "payment_date": "2023-07-14",
+        "dividend_yield": 0.0410156,
+        "dividend_amount": 79.5016
+      },
+      {
+        "ex_date": "2022-06-06",
+        "payment_date": "2022-06-24",
+        "dividend_yield": 0.0184321,
+        "dividend_amount": 38.7367
+      },
+      {
+        "ex_date": "2020-06-22",
+        "payment_date": "2020-07-15",
+        "dividend_yield": 0.00356064,
+        "dividend_amount": 2.82
+      }
+    ],
+    "right_issue": [
+      {
+        "price": 371,
+        "ex_date": "2015-10-16",
+        "new_ratio": 471,
+        "old_ratio": 310,
+        "trading_period_end": "2015-10-28",
+        "trading_period_start": "2015-10-22"
+      }
+    ],
+    "stock_split": null,
+    "upcoming_dividend": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "symbol": "AEGS.JK",
+  "company_name": "PT Anugerah Spareparts Sejahtera Tbk.",
+  "overview": {
+    "listing_board": "Acceleration",
+    "industry": "Auto Components",
+    "sub_industry": "Auto Parts & Equipment",
+    "sector": "Consumer Cyclicals",
+    "sub_sector": "Automobiles & Components",
+    "market_cap": 49297955329,
+    "market_cap_rank": 939,
+    "address": "Jalan Soekarno Hatta No. 134 Losari Kidul, Losari, Kabupaten Cirebon, Jawa Barat 45192",
+    "employee_num": 402.0,
+    "employee_num_rank": 476,
+    "listing_date": "2023-09-11",
+    "website": "https://www.aegisfilter.co.id/",
+    "phone": "+62231831035",
+    "email": "sales@aegisfilter.co.id",
+    "last_close_price": 49,
+    "latest_close_date": "2026-09-22",
+    "daily_close_change": 0.0,
+    "all_time_price": {
+      "ytd_low": {
+        "2026-06-09": 34
+      },
+      "52_w_low": {
+        "2026-06-09": 34
+      },
+      "90_d_low": {
+        "2026-07-02": 35
+      },
+      "ytd_high": {
+        "2026-01-22": 89
+      },
+      "52_w_high": {
+        "2025-11-12": 101
+      },
+      "90_d_high": {
+        "2026-09-10": 54
+      },
+      "all_time_low": {
+        "2024-06-11": 21
+      },
+      "all_time_high": {
+        "2024-01-24": 133
+      }
+    },
+    "esg_score": null,
+    "tags": null,
+    "indices": null,
+    "affiliates": null
+  },
+  "ownership": {
+    "major_shareholders": [
+      {
+        "name": "Dr. Josephat Suwanta Sinarya",
+        "share_value": 27226849020,
+        "share_amount": 555649980,
+        "share_percentage": "0.5523"
+      },
+      {
+        "name": "Public",
+        "share_value": 19603955329,
+        "share_amount": 400080721,
+        "share_percentage": "0.3977"
+      },
+      {
+        "name": "Oey Johan Sinatra Sumawi,B,Ba.",
+        "share_value": 1242150490,
+        "share_amount": 25350010,
+        "share_percentage": "0.0252"
+      },
+      {
+        "name": "Jeihan Sumawi Putra,S.T.",
+        "share_value": 1225000490,
+        "share_amount": 25000010,
+        "share_percentage": "0.0248"
+      }
+    ],
+    "top_transactions": null,
+    "institutional_transaction_flow": null,
+    "whale_investors": [
+      "Andy Tanujaya"
+    ],
+    "conglomerates_group": null
+  }
+}

@@ -1,0 +1,55 @@
+# Secret
+.env
+.env.*
+!.env.example
+
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build dan packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+wheels/
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Tes, coverage, cache alat
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database lokal dan log
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db

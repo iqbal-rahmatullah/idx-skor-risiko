@@ -1,0 +1,658 @@
+{
+  "results": [
+    {
+      "symbol": "AGRO.JK",
+      "company_name": "PT Bank Raya Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.402447701574051,
+        "loan_to_deposit_ratio[2025]": 0.657214585761318,
+        "cost_to_income_ratio[2025]": -1.93549403153835,
+        "net_interest_margin[2025]": 0.0555491287029094,
+        "allowance_for_loans[2025]": -1442219440000.0,
+        "gross_loan[2025]": 7715323443000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.186929226059668
+      }
+    },
+    {
+      "symbol": "AGRS.JK",
+      "company_name": "PT Bank IBK Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.348572549159516,
+        "loan_to_deposit_ratio[2025]": 1.19451445635885,
+        "cost_to_income_ratio[2025]": 1.70829869246467,
+        "net_interest_margin[2025]": 0.0247121754534826,
+        "allowance_for_loans[2025]": -236736000000.0,
+        "gross_loan[2025]": 14470366000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0163600561312686
+      }
+    },
+    {
+      "symbol": "AMAR.JK",
+      "company_name": "PT Bank Amar Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.984749624882523,
+        "loan_to_deposit_ratio[2025]": 1.20972335040012,
+        "cost_to_income_ratio[2025]": 1.88004918012061,
+        "net_interest_margin[2025]": 0.204132349819978,
+        "allowance_for_loans[2025]": -513386000000.0,
+        "gross_loan[2025]": 3975959000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.129122558859385
+      }
+    },
+    {
+      "symbol": "ARTO.JK",
+      "company_name": "PT Bank Jago Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.31630960205089,
+        "loan_to_deposit_ratio[2025]": 0.929554965745846,
+        "cost_to_income_ratio[2025]": 4.83799291315052,
+        "net_interest_margin[2025]": 0.0740683494400739,
+        "allowance_for_loans[2025]": -552476000000.0,
+        "gross_loan[2025]": 24346604000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0226921175536432
+      }
+    },
+    {
+      "symbol": "BABP.JK",
+      "company_name": "PT Bank MNC Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.246582527862274,
+        "loan_to_deposit_ratio[2025]": 0.773312882516608,
+        "cost_to_income_ratio[2025]": 6.21680797433547,
+        "net_interest_margin[2025]": 0.029594261623429,
+        "allowance_for_loans[2025]": -255895000000.0,
+        "gross_loan[2025]": 11613498000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.022034274255698
+      }
+    },
+    {
+      "symbol": "BACA.JK",
+      "company_name": "PT Bank Capital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.368556023784864,
+        "loan_to_deposit_ratio[2025]": 0.604567772421392,
+        "cost_to_income_ratio[2025]": 5.66367717975722,
+        "net_interest_margin[2025]": 0.0244009137505244,
+        "allowance_for_loans[2025]": -38214000000.0,
+        "gross_loan[2025]": 11074005000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.00345078406592737
+      }
+    },
+    {
+      "symbol": "BANK.JK",
+      "company_name": "PT Bank Aladin Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.492905413338359,
+        "loan_to_deposit_ratio[2025]": 920.379155435759,
+        "cost_to_income_ratio[2025]": 4.09126180836707,
+        "net_interest_margin[2025]": 0.0217470240578383,
+        "allowance_for_loans[2025]": -81998000000.0,
+        "gross_loan[2025]": 5203908000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0157570041591819
+      }
+    },
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.303675089516605,
+        "loan_to_deposit_ratio[2025]": 0.759352781119553,
+        "cost_to_income_ratio[2025]": 0.515491880846371,
+        "net_interest_margin[2025]": 0.056691619448969,
+        "allowance_for_loans[2025]": -29752034000000.0,
+        "gross_loan[2025]": 970233234000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0306648267214479
+      }
+    },
+    {
+      "symbol": "BBHI.JK",
+      "company_name": "PT Allo Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.739394616650045,
+        "loan_to_deposit_ratio[2025]": 0.943692961023059,
+        "cost_to_income_ratio[2025]": 1.09509814086152,
+        "net_interest_margin[2025]": 0.0797662233236361,
+        "allowance_for_loans[2025]": -157727941742.0,
+        "gross_loan[2025]": 9140730961024.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.017255506415685
+      }
+    },
+    {
+      "symbol": "BBKP.JK",
+      "company_name": "PT Bank KB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.170525970414805,
+        "loan_to_deposit_ratio[2025]": 0.861918265054942,
+        "cost_to_income_ratio[2025]": -2.06087054739374,
+        "net_interest_margin[2025]": 0.0154064602214319,
+        "allowance_for_loans[2025]": -2780207000000.0,
+        "gross_loan[2025]": 49874647000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0557438932850993
+      }
+    },
+    {
+      "symbol": "BBMD.JK",
+      "company_name": "PT Bank Mestika Dharma Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.464934042001161,
+        "loan_to_deposit_ratio[2025]": 1.0059494405936,
+        "cost_to_income_ratio[2025]": 1.35396363303828,
+        "net_interest_margin[2025]": 0.0573608806362915,
+        "allowance_for_loans[2025]": -168013736061.0,
+        "gross_loan[2025]": 11229698765288.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.014961553250239
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": null,
+        "loan_to_deposit_ratio[2025]": 0.82978974952682,
+        "cost_to_income_ratio[2025]": 1.3209915490652,
+        "net_interest_margin[2025]": 0.0286411175186955,
+        "allowance_for_loans[2025]": -35860626000000.0,
+        "gross_loan[2025]": 899530691000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0398659282654759
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.210671020117154,
+        "loan_to_deposit_ratio[2025]": 0.97774126694118,
+        "cost_to_income_ratio[2025]": 1.89493363888723,
+        "net_interest_margin[2025]": 0.0748966344366264,
+        "allowance_for_loans[2025]": -82893734000000.0,
+        "gross_loan[2025]": 1517080000000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0546403182429404
+      }
+    },
+    {
+      "symbol": "BBSI.JK",
+      "company_name": "PT Krom Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.453063819896902,
+        "loan_to_deposit_ratio[2025]": 0.919818411078057,
+        "cost_to_income_ratio[2025]": 1.6331221094434,
+        "net_interest_margin[2025]": 0.170471107392888,
+        "allowance_for_loans[2025]": -907175505081.0,
+        "gross_loan[2025]": 8632205029596.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.105091978465606
+      }
+    },
+    {
+      "symbol": "BBTN.JK",
+      "company_name": "PT Bank Tabungan Negara (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.19024331584505,
+        "loan_to_deposit_ratio[2025]": 0.950091508198806,
+        "cost_to_income_ratio[2025]": 2.73118708329703,
+        "net_interest_margin[2025]": 0.0356318558280532,
+        "allowance_for_loans[2025]": -15314236000000.0,
+        "gross_loan[2025]": 400576087000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.03823052972206
+      }
+    },
+    {
+      "symbol": "BBYB.JK",
+      "company_name": "PT Bank Neo Commerce Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.490687168829473,
+        "loan_to_deposit_ratio[2025]": 0.475364073741732,
+        "cost_to_income_ratio[2025]": 1.53908985038271,
+        "net_interest_margin[2025]": 0.208407094420894,
+        "allowance_for_loans[2025]": -515056000000.0,
+        "gross_loan[2025]": 7182580000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0717090516221191
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.253717987592982,
+        "loan_to_deposit_ratio[2025]": 0.955219387741423,
+        "cost_to_income_ratio[2025]": 2.57077913308749,
+        "net_interest_margin[2025]": 0.0677618247897419,
+        "allowance_for_loans[2025]": -7383046000000.0,
+        "gross_loan[2025]": 173760321000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0424898271222692
+      }
+    },
+    {
+      "symbol": "BEKS.JK",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.367314035476796,
+        "loan_to_deposit_ratio[2025]": 0.761450489578782,
+        "cost_to_income_ratio[2025]": 4.8472086848385,
+        "net_interest_margin[2025]": 0.0232358816621413,
+        "allowance_for_loans[2025]": -180621000000.0,
+        "gross_loan[2025]": 5069373000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0356298500820516
+      }
+    },
+    {
+      "symbol": "BGTG.JK",
+      "company_name": "PT Bank Ganesha Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.787306175185305,
+        "loan_to_deposit_ratio[2025]": 0.748679777665563,
+        "cost_to_income_ratio[2025]": 0.921089517601949,
+        "net_interest_margin[2025]": 0.0367508134929199,
+        "allowance_for_loans[2025]": -198917000000.0,
+        "gross_loan[2025]": 5816614000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0341980746874384
+      }
+    },
+    {
+      "symbol": "BINA.JK",
+      "company_name": "PT Bank Ina Perdana Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.19295723498136,
+        "loan_to_deposit_ratio[2025]": 0.545056841830634,
+        "cost_to_income_ratio[2025]": -1.27579162410623,
+        "net_interest_margin[2025]": 0.0184264995712163,
+        "allowance_for_loans[2025]": -405373000000.0,
+        "gross_loan[2025]": 15263447000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0265584176365928
+      }
+    },
+    {
+      "symbol": "BJBR.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.197430781075866,
+        "loan_to_deposit_ratio[2025]": 0.969163613447294,
+        "cost_to_income_ratio[2025]": 5.22071658634725,
+        "net_interest_margin[2025]": 0.0355581450586494,
+        "allowance_for_loans[2025]": -3662990000000.0,
+        "gross_loan[2025]": 140711649000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0260318888026108
+      }
+    },
+    {
+      "symbol": "BJTM.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.290888402388002,
+        "loan_to_deposit_ratio[2025]": 0.971301182973156,
+        "cost_to_income_ratio[2025]": 2.10912761146217,
+        "net_interest_margin[2025]": 0.0442562827449755,
+        "allowance_for_loans[2025]": -3713637000000.0,
+        "gross_loan[2025]": 110502620000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0336067778302451
+      }
+    },
+    {
+      "symbol": "BKSW.JK",
+      "company_name": "PT Bank QNB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.522232840577201,
+        "loan_to_deposit_ratio[2025]": 1.15831704033797,
+        "cost_to_income_ratio[2025]": 6.48922316032835,
+        "net_interest_margin[2025]": 0.0274596376629566,
+        "allowance_for_loans[2025]": -381241000000.0,
+        "gross_loan[2025]": 9784468000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0389638966574371
+      }
+    },
+    {
+      "symbol": "BMAS.JK",
+      "company_name": "PT Bank Maspion Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.457566234135187,
+        "loan_to_deposit_ratio[2025]": 1.43633054177143,
+        "cost_to_income_ratio[2025]": 12.6646696753441,
+        "net_interest_margin[2025]": 0.027544538314996,
+        "allowance_for_loans[2025]": -322830303000.0,
+        "gross_loan[2025]": 17343331860000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.018614087858433
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.193582438133378,
+        "loan_to_deposit_ratio[2025]": 0.991760691287358,
+        "cost_to_income_ratio[2025]": 1.21996655437256,
+        "net_interest_margin[2025]": 0.039350462809288,
+        "allowance_for_loans[2025]": -48033747000000.0,
+        "gross_loan[2025]": 1849967956000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0259646373031555
+      }
+    },
+    {
+      "symbol": "BNBA.JK",
+      "company_name": "Bank Bumi Arta Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.632891924032865,
+        "loan_to_deposit_ratio[2025]": 0.888384093996562,
+        "cost_to_income_ratio[2025]": 26.4359759513724,
+        "net_interest_margin[2025]": 0.0423156891693239,
+        "allowance_for_loans[2025]": -155321162103.0,
+        "gross_loan[2025]": 4721351437200.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0328976065791691
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.248878878727082,
+        "loan_to_deposit_ratio[2025]": 0.791482774656609,
+        "cost_to_income_ratio[2025]": 1.36919806422241,
+        "net_interest_margin[2025]": 0.0387026208524807,
+        "allowance_for_loans[2025]": -8053555000000.0,
+        "gross_loan[2025]": 227997983000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0353229221330436
+      }
+    },
+    {
+      "symbol": "BNII.JK",
+      "company_name": "PT Bank Maybank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.273111240980176,
+        "loan_to_deposit_ratio[2025]": 0.973787170735422,
+        "cost_to_income_ratio[2025]": 3.17538148404716,
+        "net_interest_margin[2025]": 0.041494499312947,
+        "allowance_for_loans[2025]": -3181985000000.0,
+        "gross_loan[2025]": 116330305000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0273530186308718
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.346370650892019,
+        "loan_to_deposit_ratio[2025]": 0.78803608607767,
+        "cost_to_income_ratio[2025]": 1.32862312667634,
+        "net_interest_margin[2025]": 0.0343593805095019,
+        "allowance_for_loans[2025]": -12127791000000.0,
+        "gross_loan[2025]": 164238912000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0738423729938006
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.209769888621247,
+        "loan_to_deposit_ratio[2025]": 3.33688211496187,
+        "cost_to_income_ratio[2025]": 1.36897389362948,
+        "net_interest_margin[2025]": 0.0441736895104556,
+        "allowance_for_loans[2025]": -10982381000000.0,
+        "gross_loan[2025]": 314977664000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.034867173946658
+      }
+    },
+    {
+      "symbol": "BSIM.JK",
+      "company_name": "Bank Sinarmas Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.351968549301772,
+        "loan_to_deposit_ratio[2025]": 0.275004749444962,
+        "cost_to_income_ratio[2025]": 7.66586646589485,
+        "net_interest_margin[2025]": 0.033385623732829,
+        "allowance_for_loans[2025]": -746156000000.0,
+        "gross_loan[2025]": 11712890000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0637038339811951
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.877931448404658,
+        "loan_to_deposit_ratio[2025]": 1.14032884988793,
+        "cost_to_income_ratio[2025]": 1.84845489731591,
+        "net_interest_margin[2025]": 0.041858272745656,
+        "allowance_for_loans[2025]": -63725066550.0,
+        "gross_loan[2025]": 4189110101793.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0152120772673711
+      }
+    },
+    {
+      "symbol": "BTPN.JK",
+      "company_name": "PT Bank SMBC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.293089153985648,
+        "loan_to_deposit_ratio[2025]": 1.25128971698989,
+        "cost_to_income_ratio[2025]": -88.048831677627,
+        "net_interest_margin[2025]": 0.0673341941431166,
+        "allowance_for_loans[2025]": -3515530000000.0,
+        "gross_loan[2025]": 155010839000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0226792527714788
+      }
+    },
+    {
+      "symbol": "BTPS.JK",
+      "company_name": "PT Bank BTPN Syariah Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.577412616439099,
+        "loan_to_deposit_ratio[2025]": 4.15482592014515,
+        "cost_to_income_ratio[2025]": 1.44056415112896,
+        "net_interest_margin[2025]": 0.215473538798456,
+        "allowance_for_loans[2025]": -881472000000.0,
+        "gross_loan[2025]": 10352755000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0851437129537017
+      }
+    },
+    {
+      "symbol": "BVIC.JK",
+      "company_name": "Bank Victoria International Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.238448278193165,
+        "loan_to_deposit_ratio[2025]": 0.898200901471881,
+        "cost_to_income_ratio[2025]": 2.43449446946326,
+        "net_interest_margin[2025]": 0.0416096341252023,
+        "allowance_for_loans[2025]": -558646478000.0,
+        "gross_loan[2025]": 22380166216000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0249616768976726
+      }
+    },
+    {
+      "symbol": "DNAR.JK",
+      "company_name": "PT Bank Oke Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.422024031152619,
+        "loan_to_deposit_ratio[2025]": 1.28392239106339,
+        "cost_to_income_ratio[2025]": 1.37374688168714,
+        "net_interest_margin[2025]": 0.0523863254822572,
+        "allowance_for_loans[2025]": -239409685306.0,
+        "gross_loan[2025]": 10734810331324.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0223021812138969
+      }
+    },
+    {
+      "symbol": "INPC.JK",
+      "company_name": "Bank Artha Graha Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.277656436178327,
+        "loan_to_deposit_ratio[2025]": 0.418354006976886,
+        "cost_to_income_ratio[2025]": -2.38523366474592,
+        "net_interest_margin[2025]": 0.0304656620050505,
+        "allowance_for_loans[2025]": -315665000000.0,
+        "gross_loan[2025]": 9792435000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0322355981939119
+      }
+    },
+    {
+      "symbol": "MASB.JK",
+      "company_name": "PT Bank Multiarta Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.227546390265999,
+        "loan_to_deposit_ratio[2025]": 0.475024653381789,
+        "cost_to_income_ratio[2025]": 2.57466547459932,
+        "net_interest_margin[2025]": 0.0288537145268414,
+        "allowance_for_loans[2025]": -246609124948.0,
+        "gross_loan[2025]": 13823461610207.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0178398965398007
+      }
+    },
+    {
+      "symbol": "MAYA.JK",
+      "company_name": "PT Bank Mayapada Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.101020055530682,
+        "loan_to_deposit_ratio[2025]": 0.769848714968306,
+        "cost_to_income_ratio[2025]": 78.4453400503778,
+        "net_interest_margin[2025]": 0.0231195429367431,
+        "allowance_for_loans[2025]": -1315082000000.0,
+        "gross_loan[2025]": 108151752000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0121595995966852
+      }
+    },
+    {
+      "symbol": "MCOR.JK",
+      "company_name": "PT Bank China Construction Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.29479172219301,
+        "loan_to_deposit_ratio[2025]": 0.911831823694206,
+        "cost_to_income_ratio[2025]": 1.26645005016011,
+        "net_interest_margin[2025]": 0.0259067442133294,
+        "allowance_for_loans[2025]": -268605000000.0,
+        "gross_loan[2025]": 26407187000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0101716627371177
+      }
+    },
+    {
+      "symbol": "MEGA.JK",
+      "company_name": "Bank Mega Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.304913936761725,
+        "loan_to_deposit_ratio[2025]": 0.637905783782934,
+        "cost_to_income_ratio[2025]": 0.789834039285626,
+        "net_interest_margin[2025]": 0.0375922028593371,
+        "allowance_for_loans[2025]": -804800000000.0,
+        "gross_loan[2025]": 67230534000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0119707512660839
+      }
+    },
+    {
+      "symbol": "NISP.JK",
+      "company_name": "PT Bank OCBC NISP Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.245293691824815,
+        "loan_to_deposit_ratio[2025]": 0.681172674236736,
+        "cost_to_income_ratio[2025]": 0.979602895405273,
+        "net_interest_margin[2025]": 0.0365746625451328,
+        "allowance_for_loans[2025]": -7501001000000.0,
+        "gross_loan[2025]": 173374600000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0432647054412815
+      }
+    },
+    {
+      "symbol": "NOBU.JK",
+      "company_name": "PT Bank Nationalnobu Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.222983982043813,
+        "loan_to_deposit_ratio[2025]": 0.828384053053071,
+        "cost_to_income_ratio[2025]": 1.42788262443424,
+        "net_interest_margin[2025]": 0.0308879971366764,
+        "allowance_for_loans[2025]": -238536000000.0,
+        "gross_loan[2025]": 24236518000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.00984200783297337
+      }
+    },
+    {
+      "symbol": "PNBN.JK",
+      "company_name": "Bank Pan Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.374913474442881,
+        "loan_to_deposit_ratio[2025]": 0.907870919640842,
+        "cost_to_income_ratio[2025]": 1.66081541529184,
+        "net_interest_margin[2025]": 0.0408968985157607,
+        "allowance_for_loans[2025]": -6366520000000.0,
+        "gross_loan[2025]": 136464736000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0466532247569072
+      }
+    },
+    {
+      "symbol": "PNBS.JK",
+      "company_name": "PT Bank Panin Dubai Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.18856145011304,
+        "loan_to_deposit_ratio[2025]": 14.6509449726326,
+        "cost_to_income_ratio[2025]": 13.4963649248316,
+        "net_interest_margin[2025]": 0.0216459997380501,
+        "allowance_for_loans[2025]": -147576964000.0,
+        "gross_loan[2025]": 13600569664000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.010850792845143
+      }
+    },
+    {
+      "symbol": "SUPA.JK",
+      "company_name": "PT Super Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "capital_adequacy_ratio[2025]": 0.9324331876192,
+        "loan_to_deposit_ratio[2025]": 0.777836954344541,
+        "cost_to_income_ratio[2025]": 8.05134254186064,
+        "net_interest_margin[2025]": 0.0798899251430762,
+        "allowance_for_loans[2025]": -418681000000.0,
+        "gross_loan[2025]": 9618259000000.0,
+        "allowance_for_loans[2025] / gross_loan[2025]": -0.0435298113723076
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 46,
+    "showing": 46,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}
