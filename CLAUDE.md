@@ -2,7 +2,7 @@
 
 Bot Telegram yang menilai risiko saham IDX untuk investor pemula. Kode menghitung semua angka; AI hanya menarasikan.
 
-Spesifikasi produk, katalog 27 indikator, dan fase pengerjaan: @docs/PRD.md
+Spesifikasi produk, katalog 28 indikator, dan fase pengerjaan: @docs/PRD.md
 
 ## Perintah
 
@@ -12,6 +12,8 @@ uv run python -m bot                     # jalankan bot (long polling)
 uv run pytest                            # semua tes
 uv run pytest tests/test_gate.py -v      # tes gerbang angka
 uv run ruff check . && uv run ruff format .   # lint dan format
+SECTORS_OFFLINE=true uv run python -m bot.risk ANTM   # cetak indicators.json dari fixture
+uv run python -m scripts.record_fixtures BBCA    # lengkapi fixture yang belum ada (live, pakai kredit)
 ```
 
 ## Struktur
@@ -21,18 +23,21 @@ bot/
   __main__.py            entry point
   config.py              pydantic-settings, baca .env
   data/tickers.json      daftar emiten (kode tanpa .JK), dari scripts/fetch_tickers.py
+  data/idx/notasi_khusus.csv  notasi khusus BEI; perbarui dari API idx.id (lihat Sectors API di bawah)
   tickers.py             validasi ticker terhadap data/tickers.json
   sectors/client.py      klien Sectors API (httpx + certifi) dan mode offline dari fixture
-  idx/                   ambil notasi khusus, papan pemantauan, HSC
+  idx/lists.py           baca data/idx/ ke IdxLists di snapshot
   snapshot/
     models.py            skema TickerSnapshot (pydantic)
     build.py             ambil → normalisasi → simpan; data EOD di-cache per (symbol, as_of), filing/berita/suspensi selalu diambil ulang
   risk/
-    indicators/          satu modul per pilar (p1_ukuran.py ... p6_peristiwa.py)
+    indicators/          satu modul per pilar (p1_ukuran.py ... p6_peristiwa.py); fungsi murni snapshot → Indicator | None
+    models.py            Indicator dan status
+    format.py            format Indonesia untuk display (35%, 7,5%, Rp5 juta, 30 Juni 2026)
     thresholds.py        semua ambang + sumber + tanggal berlaku
     score.py             skor pilar, skor akhir, grade
     dismiss.py           aturan pembatalan bendera
-    build_json.py        menghasilkan indicators.json
+    build_json.py        menghasilkan indicators.json; urutan INDICATORS = urutan di kartu
   narrate/
     prompt.py            rangkai SKILL.md + references + indicators.json
     llm.py               klien OpenAI-compatible
@@ -48,7 +53,8 @@ skills/analisis-risiko-saham/
   SKILL.md
   references/            kamus-istilah.md, nada.md, kombinasi.md, contoh/
 tests/
-  fixtures/              respons Sectors asli dalam JSON
+  fixtures/              respons Sectors asli dalam JSON; idx/ berisi salinan CSV notasi yang dibekukan
+  golden/                indicators.json ANTM dan BBCA yang sudah diperiksa manual
 docs/PRD.md
 ```
 
@@ -76,7 +82,7 @@ Diuji 22 September 2026 dengan ANTM, BBCA, dan AEGS. Fixture ada di `tests/fixtu
 - **Tanda `allowance_for_loans` tidak konsisten**: negatif di data tahunan dan screener, positif di `/financials/quarterly`. Selalu pakai nilai absolutnya sebelum menghitung proksi NPL dan persentil. Urutan hasil dari API juga tidak bisa dipakai langsung karena tanda ini.
 - **`debt_to_equity_ratio` dihitung sebagai total liabilitas ÷ ekuitas**, bukan `total_debt / total_equity` (ANTM: 0,435 versus 0,119). Pakai field `debt_to_equity_ratio` supaya konsisten dengan `/company/report`, dan labeli sebagai "liabilitas terhadap ekuitas".
 - **Nama field beda antara tahunan dan kuartalan**: `current_assets` di `historical_financials`, `total_current_asset` di `/financials/quarterly`.
-- **`corporate_actions`**: kunci kosong bernilai `null`, bukan `[]`. Daftar `dividend` tidak terurut — urutkan berdasarkan `ex_date` sebelum dipakai. `stock_split` hanya ada di sini, tidak ada di `/daily`.
+- **`corporate_actions`**: kunci kosong bernilai `null`, bukan `[]`. Daftar `dividend` tidak terurut — urutkan berdasarkan `ex_date` sebelum dipakai. `stock_split` hanya ada di sini, tidak ada di `/daily`, dengan bentuk `{date, split_ratio}` (BBCA, terverifikasi).
 - **Screener** (terverifikasi): `order_by` wajib memakai field berindeks tahun, misalnya `-pe[2025]`, dan perlu `include_query_values=true`. `order_by=-pe` ditolak 400. Aritmetika didukung di `where` maupun `order_by`, dan nilai hitungannya ikut dikembalikan — satu panggilan mengembalikan seluruh rasio bank untuk satu subsektor. Empat hal yang harus ditangani:
   - **Kunci `query_values` sama persis dengan teks ekspresinya.** Lewat `order_by` kuncinya `"(total_debt[2025]/total_equity[2025])"`; lewat `where` kuncinya memakai spasi, `"total_debt[2025] / total_equity[2025]"`. Bangun kunci dari string ekspresi yang dikirim, jangan ditulis ulang manual.
   - **Null di `order_by` ikut kembali dan ditaruh di akhir.** Buang null sebelum menghitung persentil, jangan diganti 0.
@@ -93,8 +99,10 @@ Diuji 22 September 2026 dengan ANTM, BBCA, dan AEGS. Fixture ada di `tests/fixtu
 
 ## Aturan sektor dan papan
 
-- Baca `overview.listing_board` sebelum memilih ambang. Nilai yang ditemukan: `"Main"`, `"Development"`, `"Acceleration"`, `"Watchlist"` (Papan Pemantauan Khusus), `"New Economy"`. Free float 15% untuk Main dan Development, 7,5% untuk Acceleration. Nilai lain memakai ambang paling ketat.
-- `"Watchlist"` tidak selalu sinkron dengan IDX (INPS tercatat `"Development"` padahal disuspensi karena >1 tahun di Papan Pemantauan Khusus). Pakai sebagai sinyal pendukung, sumber utama `special_monitoring_board` tetap daftar IDX.
+- Baca `overview.listing_board` sebelum memilih ambang. Nilai yang ditemukan: `"Main"`, `"Development"`, `"Acceleration"`, `"Watchlist"` (Papan Pemantauan Khusus), `"New Economy"`. Pita free float ada di PRD §10 dan `thresholds.py`: tergantung papan, kapitalisasi (Rp5 triliun), dan masa transisi I-A. Papan lain memakai pita paling ketat.
+- **Jangan pakai `"Watchlist"` untuk status.** Hanya 126 dari 198 emiten `"Watchlist"` yang bernotasi X di IDX (22 Sep 2026). `special_monitoring_board` hanya dari notasi X di `data/idx/notasi_khusus.csv`; kalau berkas tidak ada, statusnya `tidak_tersedia`.
+- **Peraturan I-X yang berlaku (Kep-00035/BEI/06-2025) memakai 3 bulan**, bukan 6. Harga < Rp51 (III.1.1) bersifat kumulatif dengan likuiditas rendah; Papan Akselerasi dikecualikan dari kriteria harga (III.2); dividen tunai dalam 12 bulan membuat kriteria harga dan likuiditas `tidak_berlaku` (III.3).
+- **Data IDX:** `idx.co.id` memblokir akses otomatis, tapi `idx.id` tidak. Notasi khusus diambil dari `https://www.idx.id/primary/ListedCompany/GetSpecialNotation?start=0&length=1000` lewat browser, lalu disimpan ke CSV beserta tanggal datanya. Huruf N dan I hanya menandai struktur hak suara, bukan masalah.
 - Emiten keuangan: `altman_z`, `piotroski_f`, `accrual_ratio` berstatus `tidak_berlaku`, dan pilar 2 memakai varian bank.
 - NPL tidak tersedia di Sectors. `allowance_for_loans / gross_loan` adalah proksi rasio pencadangan: labeli "proksi" dan jangan bandingkan dengan ambang NPL 5%.
 - `cost_to_income_ratio` bukan BOPO. Jangan bandingkan dengan ambang 100%.
@@ -138,6 +146,7 @@ Diuji 22 September 2026 dengan ANTM, BBCA, dan AEGS. Fixture ada di `tests/fixtu
 - Setiap indikator punya tes dengan fixture respons Sectors asli di `tests/fixtures/`, termasuk kasus null, emiten bank, dan papan akselerasi.
 - `test_gate.py`: narasi yang memuat angka karangan harus ditolak.
 - Tes determinisme: bangun `indicators.json` dua kali dari snapshot yang sama, hasilnya harus identik.
+- Golden `tests/golden/indicators_*.json` dicocokkan byte per byte. Kalau perubahan disengaja, buat ulang golden lalu periksa diff-nya secara manual sebelum menyimpan.
 - Tidak ada panggilan jaringan sungguhan di tes.
 
 ## Gaya kode

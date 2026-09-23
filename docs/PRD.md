@@ -7,7 +7,7 @@ Versi 1.0 · 22 September 2026 · Status: draf untuk disepakati tim
 
 ## 1. Ringkasan
 
-Skor Risiko adalah fitur bot Telegram yang menilai risiko satu saham IDX dari 27 indikator dalam enam pilar, lalu menjelaskannya dalam bahasa yang dipahami investor pemula. Pengguna bisa bertanya kapan saja (`/risk`) atau mendaftarkan saham (`/regis`) supaya bot memberi tahu saat kondisinya berubah. Setiap saham yang didaftarkan punya topik sendiri di chat bot, tempat fitur berita dan skor risiko bertemu.
+Skor Risiko adalah fitur bot Telegram yang menilai risiko satu saham IDX dari 28 indikator dalam enam pilar, lalu menjelaskannya dalam bahasa yang dipahami investor pemula. Pengguna bisa bertanya kapan saja (`/risk`) atau mendaftarkan saham (`/regis`) supaya bot memberi tahu saat kondisinya berubah. Setiap saham yang didaftarkan punya topik sendiri di chat bot, tempat fitur berita dan skor risiko bertemu.
 
 Kode menghitung semua angka. AI hanya menarasikan hasilnya.
 
@@ -145,7 +145,7 @@ Pembatalan ditentukan **kode**, bukan AI, supaya tetap deterministik. Aturannya:
 
 Bendera yang dibatalkan masuk array `dismissed` beserta alasannya. AI hanya menjelaskannya.
 
-## 10. Katalog 27 indikator
+## 10. Katalog 28 indikator
 
 Kolom **Jenis**: R = regulator, A = akademik, D = diturunkan dari data.
 
@@ -153,18 +153,23 @@ Kolom **Jenis**: R = regulator, A = akademik, D = diturunkan dari data.
 
 | ID | Mengukur | Bermasalah bila | Sumber | Jenis | Bobot |
 |---|---|---|---|---|---|
-| `free_float` | porsi saham beredar bebas | < 15% (Papan Akselerasi < 7,5%) | Peraturan BEI I-A, efektif 31 Mar 2026; Peraturan I-V | R | 3 |
-| `daily_liquidity` | nilai dan volume transaksi rata-rata harian 6 bulan | nilai < Rp5 juta **dan** volume < 10.000 lembar | Peraturan BEI I-X, kriteria 7 | R | 3 |
-| `sub_51_price` | harga rata-rata 6 bulan | < Rp51 | Peraturan BEI I-X, kriteria 1 | R | 3 |
+| `free_float` | porsi saham beredar bebas | Main/Development, kapitalisasi ≥ Rp5 T: < 12,5% bermasalah · 12,5–15% perhatian · ≥ 15% wajar. Kapitalisasi < Rp5 T: < 15% perhatian · ≥ 15% wajar. Papan Akselerasi: < 7,5% bermasalah. Papan lain: pita paling ketat | Peraturan BEI I-A dan SE-00004/BEI/03-2026, berlaku 31 Mar 2026 (kapitalisasi ≥ Rp5 T: 12,5% paling lambat 31 Mar 2027, 15% paling lambat 31 Mar 2028; < Rp5 T: 15% paling lambat 31 Mar 2029); Peraturan I-V untuk Papan Akselerasi | R | 3 |
+| `daily_liquidity` | nilai dan volume transaksi rata-rata harian 3 bulan | nilai < Rp5 juta **dan** volume < 10.000 lembar → bermasalah; salah satu → perhatian. Dividen tunai dalam 12 bulan → `tidak_berlaku` | Peraturan BEI I-X (Kep-00035/BEI/06-2025, berlaku 4 Jun 2025), III.1.7 dan III.3 | R | 3 |
+| `sub_51_price` | harga rata-rata 3 bulan | < Rp51 **dan** likuiditas rendah (III.1.1 terpenuhi penuh) → bermasalah; < Rp51 saja → perhatian. Papan Akselerasi atau dividen tunai dalam 12 bulan → `tidak_berlaku` | Peraturan BEI I-X, III.1.1, III.2, III.3 | R | 3 |
 | `volume_spike` | volume hari ini vs 90 hari saham itu | > persentil 95 | distribusi 90 hari saham itu | D | 1 |
 | `broker_concentration` | porsi `net_idr` broker teratas terhadap total akumulasi | > persentil 95 riwayat saham itu | HHI hanya analogi (KPPU 1.800) | D | 1 |
+| `relative_liquidity` | nilai transaksi rata-rata harian 3 bulan (`close × volume`) dibanding semua anggota subsektor | < persentil 10 subsektor (biner). Berlaku untuk **semua** emiten, tanpa pengecualian III.3 | distribusi subsektor dari `/daily` (data yang sama dengan `volatility_90d`); persentil 10 pilihan tim | D | 1 |
+
+`relative_liquidity` sengaja terpisah dari `daily_liquidity`. Indikator regulator tetap menjalankan tugas aslinya — menandai saham yang hampir mati menurut I-X — lengkap dengan pengecualian III.3, sedangkan risiko sulit menjual bagi investor dipantau oleh `relative_liquidity` untuk semua emiten. Karena itu pengecualian III.3 tidak lagi membuat risiko likuiditas lolos tanpa pantauan.
+
+**Penumpukan `sub_51_price` dan `daily_liquidity` disengaja, bukan bug.** III.1.1 (harga < Rp51 dan likuiditas rendah) dan III.1.7 (likuiditas rendah) adalah dua kriteria Papan Pemantauan Khusus yang berbeda, dan saham murah yang tidak likuid memenuhi keduanya. Dengan total bobot pilar 1 = 12, saham seperti itu mendapat 3 + 3 = 6 (ditambah 1 bila `relative_liquidity` juga menyala), sekitar 50–58 untuk pilar 1. Untuk kandidat Papan Pemantauan Khusus, angka itu memang dimaksudkan. Jangan menurunkan bobot atau menggabungkan keduanya kecuali III.1.7 dihapus dari I-X.
 
 ### Pilar 2 — Kesehatan keuangan (non-keuangan)
 
 | ID | Mengukur | Bermasalah bila | Sumber | Jenis | Bobot |
 |---|---|---|---|---|---|
-| `negative_equity` | ekuitas | < 0 | Peraturan BEI I-X, kriteria 5 | R | 3 |
-| `no_revenue` | pendapatan | nol, atau tidak berubah dari laporan sebelumnya | Peraturan BEI I-X, kriteria 3 | R | 3 |
+| `negative_equity` | ekuitas | < 0 (biner) | Peraturan BEI I-X, III.1.5 | R | 3 |
+| `no_revenue` | pendapatan | nol, atau tidak berubah dari laporan sebelumnya (biner) | Peraturan BEI I-X, III.1.3 | R | 3 |
 | `debt_to_equity` | liabilitas terhadap ekuitas | > persentil 75 subsektor | field `debt_to_equity_ratio`; distribusi subsektor lewat screener | D | 1 |
 | `altman_z` | risiko kebangkrutan 2 tahun | Z'' pasar berkembang < 1,1 | Altman (1968) dan turunannya | A | 2 |
 | `piotroski_f` | 9 cek akuntansi | skor ≤ 2 | Piotroski (2000); dihitung dari `historical_financials` tahunan | A | 2 |
@@ -173,9 +178,9 @@ Kolom **Jenis**: R = regulator, A = akademik, D = diturunkan dari data.
 
 | ID | Mengukur | Bermasalah bila | Sumber | Jenis | Bobot |
 |---|---|---|---|---|---|
-| `car` | modal terhadap aset tertimbang risiko | < 8% (batas terendah, profil risiko 1) | POJK 11/POJK.03/2016 jo. POJK 27/POJK.03/2022 | R | 3 |
+| `car` | modal terhadap aset tertimbang risiko | < 8% bermasalah · 8–14% perhatian · > 14% kuat. Buffer konservasi 2,5% untuk KBMI 3–4 dicatat sebagai keterangan | POJK 11/POJK.03/2016 Pasal 2 ayat (3), berlaku 2 Feb 2016 (minimum 8% untuk peringkat 1 sampai 11–14% untuk peringkat 4–5), jo. POJK 27/POJK.03/2022 | R | 3 |
 | `npl_proxy` | `abs(allowance_for_loans) / gross_loan` | > persentil 75 bank lain | proksi; definisi NPL di POJK 40/2019 | D | 1 |
-| `ldr_rim` | kredit terhadap dana | di luar 84–94% | PADG 21/5/PADG/2019 dan perubahannya | R | 2 |
+| `ldr_rim` | kredit terhadap dana (proksi RIM) | > 94% bermasalah. < 84% tetap wajar dengan catatan: likuiditas longgar, bukan risiko bagi investor | PADG No. 23 Tahun 2025 Pasal 7, berlaku 20 Okt 2025, jo. PADG No. 18 Tahun 2026 | R | 2 |
 | `cost_to_income` | efisiensi (proksi BOPO) | > persentil 75 bank lain | proksi, bukan BOPO | D | 1 |
 | `nim` | selisih bunga | < persentil 25 bank lain | distribusi bank | D | 1 |
 
@@ -211,14 +216,16 @@ Untuk emiten keuangan, `altman_z`, `piotroski_f`, dan `accrual_ratio` berstatus 
 
 | ID | Mengukur | Bermasalah bila | Sumber | Jenis | Bobot |
 |---|---|---|---|---|---|
-| `special_notation` | notasi khusus BEI | ada notasi bermasalah | pengumuman BEI; E, D, A, S dihapus 30 Nov 2026, notasi P baru | R | 3 |
-| `special_monitoring_board` | status Papan Pemantauan Khusus | notasi X | Peraturan BEI I-X | R | 3 |
-| `suspension_uma` | suspensi atau UMA | ada dalam 90 hari | Peraturan BEI II-A; kriteria UMA tidak dipublikasikan | R | 2 |
+| `special_notation` | notasi khusus BEI | ada notasi selain X, N, dan I (biner). N dan I hanya menandai struktur hak suara; huruf tak dikenal dianggap bermasalah | daftar notasi khusus IDX, arti huruf dari IDX; E, D, A, S dihapus 30 Nov 2026, notasi P baru | R | 3 |
+| `special_monitoring_board` | status Papan Pemantauan Khusus | notasi X (biner) | Peraturan BEI I-X, II.4; daftar notasi khusus IDX | R | 3 |
+| `suspension_uma` | suspensi atau UMA | ada suspensi bertanggal ≥ as_of − 90 hari, termasuk yang berlaku sesudah as_of (biner) | suspensi BEI (Peraturan II-A); jendela 90 hari pilihan tim; UMA belum tercakup karena tidak ada di Sectors | R | 2 |
 | `negative_news` | berita bertag Bearish atau Violation | ≥ 3 dalam 7 hari (pilihan tim) | tag `/news` Sectors | D | 1 |
 | `dilution_event` | right issue atau warrant | ada dalam 90 hari | `/company/corporate-actions` | D | 2 |
 | `accrual_ratio` | selisih laba dan arus kas operasi terhadap aset | > persentil 75 subsektor | Sloan (1996), *The Accounting Review* 71(3) | A | 1 |
 
-Total: 5 + 5 + 3 + 4 + 4 + 6 = **27**. Indikator baru wajib ditambahkan di tabel ini dulu, lengkap dengan sumbernya.
+Pita status mengikuti tingkatan yang disediakan peraturannya sendiri; indikator tanpa skala tetap biner. Tidak ada margin karangan, dan `kuat` tidak wajib ada di setiap indikator.
+
+Total: 6 + 5 + 3 + 4 + 4 + 6 = **28**. Indikator baru wajib ditambahkan di tabel ini dulu, lengkap dengan sumbernya.
 
 ## 10b. Catatan verifikasi API (22 September 2026)
 
@@ -226,7 +233,9 @@ Diuji langsung dengan 24 panggilan memakai ANTM (non-keuangan), BBCA (bank), dan
 
 - Autentikasi: header `Authorization: <key>` **tanpa** `Bearer`. Varian `Bearer` ditolak 401.
 - `/v1` sudah dimatikan (410). Semua panggilan lewat `/v2`.
-- `listing_board` bernilai `"Main"` (260 emiten), `"Development"` (457), `"Watchlist"` (198, Papan Pemantauan Khusus), `"Acceleration"` (44), `"New Economy"` (3). `"Watchlist"` tidak selalu sinkron dengan IDX, jadi hanya sinyal pendukung.
+- `listing_board` bernilai `"Main"` (260 emiten), `"Development"` (457), `"Watchlist"` (198, Papan Pemantauan Khusus), `"Acceleration"` (44), `"New Economy"` (3). `"Watchlist"` hanya cocok dengan notasi X IDX untuk 126 dari 198 emiten (per 22 Sep 2026), jadi tidak dipakai untuk status.
+- Peraturan I-X yang berlaku (Kep-00035/BEI/06-2025) memakai jendela **3 bulan** untuk harga dan likuiditas, bukan 6 bulan. Satu panggilan `/daily` (90 hari) cukup.
+- Daftar notasi khusus diambil dari API internal `idx.id` (`/primary/ListedCompany/GetSpecialNotation`) dan disimpan ke `bot/data/idx/notasi_khusus.csv`. `idx.co.id` memblokir akses otomatis.
 - `/daily` dibatasi **90 hari kalender**, bukan 90 hari bursa: hasilnya 63 baris. Rentang lebih panjang dipotong diam-diam tanpa error. Likuiditas 6 bulan karena itu butuh 2–3 panggilan untuk backfill awal.
 - `top-changes` maksimal 10 emiten. Tidak bisa dipakai sebagai cakupan pasar.
 - Field piutang dan depresiasi tidak tersedia di data kuartalan maupun tahunan, sehingga Beneish M-Score tidak bisa dihitung dan dikeluarkan dari katalog.
@@ -276,12 +285,17 @@ Satu-satunya masukan ke AI. Contoh satu indikator:
   "value": 0.14,
   "display": "14%",
   "threshold": "15%",
-  "source": "Peraturan BEI No. I-A",
+  "source": "Peraturan BEI I-A dan SE-00004/BEI/03-2026",
   "source_type": "regulator",
+  "source_url": "https://market.bisnis.com/read/20260401/7/1963525/...",
+  "effective": "2026-03-31",
   "weight": 3,
-  "evidence_path": "ownership.free_float"
+  "evidence_path": "overview.free_float",
+  "note": "masa transisi: 15% paling lambat 31 Maret 2028"
 }
 ```
+
+`is_new` dan `since` bernilai `null` sampai Fase 4 (butuh pembanding snapshot). `note` memuat pengecualian dan konteks dari peraturan, misalnya "dikecualikan I-X III.3". Pilar tanpa indikator yang bisa dinilai punya `score: null` dan tidak ikut rata-rata.
 
 Tingkat atas memuat `symbol`, `as_of`, `trigger`, `score`, `summary_counts`, `pillars[]`, `dismissed[]`, `unavailable[]`, dan `context` (berita dan aksi korporasi di jendela, pergerakan subsektor, harga komoditas).
 
@@ -326,7 +340,7 @@ Kartu lengkap sekitar 6.000 karakter. Di topik saham, kartu dipecah dua pesan di
 
 ## 14. Metrik keberhasilan
 
-- 27 indikator menghasilkan status untuk minimal 20 emiten uji, termasuk 3 bank.
+- 28 indikator menghasilkan status untuk minimal 20 emiten uji, termasuk 3 bank.
 - Tes determinisme lulus untuk semua emiten uji.
 - Gerbang menolak 100% angka karangan di tes.
 - Setiap ambang di katalog punya sumber yang bisa dibuka.
@@ -357,6 +371,10 @@ Semua pertanyaan terbuka sudah dijawab:
 4. Pengguna dilarang membuat topik sendiri. Izinnya dimatikan di BotFather, dan hanya bot yang membuat topik.
 5. Thesis Watcher di luar lingkup dokumen ini.
 6. `/daily` per anggota subsektor dihentikan setelah 90 hari bursa tersimpan lokal untuk semua emiten yang pernah didaftarkan lewat `/regis`.
+
+7. Risiko likuiditas emiten yang dikecualikan III.3 dipantau oleh indikator baru `relative_liquidity` (persentil subsektor, tanpa pengecualian), bukan dengan melonggarkan indikator regulator.
+8. Penumpukan `sub_51_price` dan `daily_liquidity` untuk saham murah yang tidak likuid disengaja; lihat catatan di bawah tabel pilar 1.
+9. Revisi I-X 2026 di luar lingkup hackathon. Ambang memakai Kep-00035/BEI/06-2025. Penggabungan `sub_51_price` dan `daily_liquidity` hanya relevan bila revisi itu menghapus III.1.7, jadi ikut di luar lingkup.
 
 ## 17. Teknologi
 
@@ -429,7 +447,7 @@ Setiap fase punya kriteria keluar. Fase berikutnya dimulai setelah kriteria terp
 - Mode demo dari snapshot tersimpan.
 - Verifikasi ulang seluruh nomor peraturan dan tautan sumber.
 
-**Keluar:** 27 indikator berjalan; demo dua momen bisa diputar tanpa internet.
+**Keluar:** 28 indikator berjalan; demo dua momen bisa diputar tanpa internet.
 
 ---
 
@@ -437,7 +455,8 @@ Setiap fase punya kriteria keluar. Fase berikutnya dimulai setelah kriteria terp
 
 Periksa ulang seluruh tautan sebelum presentasi; beberapa aturan berubah antara 2024 dan 2026.
 
-- Peraturan BEI I-X (Papan Pemantauan Khusus): https://www.idx.id/Media/pyuil405/signed_peraturan_i_x_penempatan_pencatatan_ebe_pada_papan_pemantauan_khusus.pdf
+- Peraturan BEI I-X, Kep-00035/BEI/06-2025 (Papan Pemantauan Khusus): https://www.idx.id/Media/pyuil405/signed_peraturan_i_x_penempatan_pencatatan_ebe_pada_papan_pemantauan_khusus.pdf
+- Rencana revisi I-X 2026: https://market.bisnis.com/read/20260706/7/1985755/bei-bakal-rombak-aturan-papan-pemantauan-khusus-ini-tiga-kriteria-yang-dihapus
 - Daftar efek pemantauan khusus: https://www.idx.co.id/id/perusahaan-tercatat/daftar-efek-pemantauan-khusus/
 - Daftar notasi khusus: https://www.idx.co.id/id/perusahaan-tercatat/notasi-khusus/
 - Free float 15%: https://market.bisnis.com/read/20260401/7/1963525/bei-resmi-berlakukan-free-float-15-big-caps-diberi-tenggat-waktu-hingga-2027
@@ -446,7 +465,8 @@ Periksa ulang seluruh tautan sebelum presentasi; beberapa aturan berubah antara 
 - POJK 11/POJK.03/2016 (KPMM): https://peraturan.bpk.go.id/Download/135028/POJK%20Nomor%2011%20Tahun%202016.pdf
 - POJK 40/POJK.03/2019 (kualitas aset): https://www.ojk.go.id/id/regulasi/Documents/Pages/Penilaian-Kualitas-Aset-Bank-Umum/pojk%2040-2019.pdf
 - PBI 23/2/PBI/2021 (syarat NPL < 5%): https://www.bi.go.id/id/publikasi/peraturan/Pages/PBI_230221.aspx
-- FAQ PADG 21/5/PADG/2019 (RIM 84–94%): https://www.bi.go.id/id/publikasi/peraturan/Documents/FAQ_PADG_210519.pdf
+- PADG No. 23 Tahun 2025 (RIM 84–94%, Pasal 7): https://www.bi.go.id/id/publikasi/peraturan/Pages/PADG_232025.aspx
+- PADG No. 18 Tahun 2026 (perubahan kedua): https://www.bi.go.id/id/publikasi/peraturan/Pages/PADG_182026.aspx
 - POJK 4 Tahun 2024 (laporan kepemilikan): https://peraturan.bpk.go.id/Download/344501/peraturan-ojk-no-4-tahun-2024.pdf
 - Pedoman merger KPPU (HHI): https://www.kppu.go.id/docs/Merger/Lampiran.pdf
 - Lakonishok & Lee (2001), DOI 10.1093/rfs/14.1.79: https://ideas.repec.org/a/oup/rfinst/v14y2001i1p79-111.html

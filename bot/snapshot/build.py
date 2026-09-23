@@ -5,6 +5,7 @@ from typing import Any
 from sqlalchemy.orm import Session
 
 from bot.db import get_snapshot, save_snapshot
+from bot.idx.lists import idx_lists_for
 from bot.sectors.client import SectorsClient
 from bot.snapshot.models import (
     Bar,
@@ -45,7 +46,7 @@ def by_year(rows: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
 
 
 def event_date(row: dict[str, Any]) -> str:
-    return next((row[k] for k in ("ex_date", "agm_date") if row.get(k)), "")
+    return next((row[k] for k in ("ex_date", "agm_date", "date") if row.get(k)), "")
 
 
 def by_event_date(rows: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
@@ -154,7 +155,7 @@ async def take_snapshot(
     client = client.with_new_log()
     report = await client.get(f"/company/report/{symbol}/", sections=REPORT_SECTIONS)
     as_of = date.fromisoformat(report["overview"]["latest_close_date"])
-    events = await fetch_events(client, symbol, as_of)
+    events = {**await fetch_events(client, symbol, as_of), "idx": idx_lists_for(symbol)}
 
     if cached := get_snapshot(session, symbol, as_of):
         snap = refresh_events(cached, events, client.log)
@@ -186,6 +187,7 @@ def refresh_events(
                     ),
                 }
             ),
+            "idx_lists": raw["idx"],
             "sources": [s for s in snap.sources if s.endpoint not in fresh]
             + [Source(**s) for s in sources],
         }
@@ -231,6 +233,7 @@ def normalize(raw: dict[str, Any], sources: list[dict[str, Any]]) -> TickerSnaps
             raw["corporate_actions"],
             as_of,
         ),
+        idx_lists=raw.get("idx"),
         sources=sources,
     )
 

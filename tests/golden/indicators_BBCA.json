@@ -1,0 +1,204 @@
+{
+  "symbol": "BBCA",
+  "as_of": "2026-09-22",
+  "trigger": "risk",
+  "score": {
+    "value": 0,
+    "grade": "A"
+  },
+  "summary_counts": {
+    "kuat": 1,
+    "wajar": 5,
+    "perhatian": 0,
+    "bermasalah": 0,
+    "tidak_tersedia": 0,
+    "tidak_berlaku": 2
+  },
+  "pillars": [
+    {
+      "id": "ukuran_likuiditas",
+      "label": "Ukuran dan likuiditas",
+      "score": 0,
+      "indicators": [
+        {
+          "id": "free_float",
+          "pillar": "ukuran_likuiditas",
+          "label": "Free float",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0.44642,
+          "display": "44,64%",
+          "threshold": "< 12,5% bermasalah · < 15% perhatian",
+          "source": "Peraturan BEI I-A dan SE-00004/BEI/03-2026",
+          "source_type": "regulator",
+          "source_url": "https://market.bisnis.com/read/20260401/7/1963525/bei-resmi-berlakukan-free-float-15-big-caps-diberi-tenggat-waktu-hingga-2027",
+          "effective": "2026-03-31",
+          "weight": 3,
+          "evidence_path": "overview.free_float",
+          "note": null
+        },
+        {
+          "id": "daily_liquidity",
+          "pillar": "ukuran_likuiditas",
+          "label": "Likuiditas harian",
+          "status": "tidak_berlaku",
+          "is_new": null,
+          "since": null,
+          "value": 880097173055.5555,
+          "display": "Rp880,1 miliar/hari · 140.204.857 lembar/hari (rata-rata 63 hari bursa)",
+          "threshold": "nilai < Rp5 juta dan volume < 10.000 lembar per hari, 3 bulan: bermasalah; salah satu: perhatian",
+          "source": "Peraturan BEI I-X (Kep-00035/BEI/06-2025) III.1.7 dan III.3",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.id/Media/pyuil405/signed_peraturan_i_x_penempatan_pencatatan_ebe_pada_papan_pemantauan_khusus.pdf",
+          "effective": "2025-06-04",
+          "weight": 3,
+          "evidence_path": "price.bars",
+          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 31 Agustus 2026"
+        },
+        {
+          "id": "sub_51_price",
+          "pillar": "ukuran_likuiditas",
+          "label": "Harga saham sangat rendah",
+          "status": "tidak_berlaku",
+          "is_new": null,
+          "since": null,
+          "value": 6313.0952380952385,
+          "display": "rata-rata Rp6.313,1 (63 hari bursa)",
+          "threshold": "harga rata-rata 3 bulan < Rp51 dan likuiditas rendah: bermasalah; < Rp51 saja: perhatian",
+          "source": "Peraturan BEI I-X (Kep-00035/BEI/06-2025) III.1.1, III.2, dan III.3",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.id/Media/pyuil405/signed_peraturan_i_x_penempatan_pencatatan_ebe_pada_papan_pemantauan_khusus.pdf",
+          "effective": "2025-06-04",
+          "weight": 3,
+          "evidence_path": "price.bars",
+          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 31 Agustus 2026"
+        }
+      ]
+    },
+    {
+      "id": "kesehatan_keuangan",
+      "label": "Kesehatan keuangan",
+      "score": 0,
+      "indicators": [
+        {
+          "id": "car",
+          "pillar": "kesehatan_keuangan",
+          "label": "Rasio kecukupan modal (CAR)",
+          "status": "kuat",
+          "is_new": null,
+          "since": null,
+          "value": 0.30367508951660466,
+          "display": "30,37% (2025)",
+          "threshold": "< 8% bermasalah · 8%–14% perhatian · > 14% kuat",
+          "source": "POJK 11/POJK.03/2016 Pasal 2 ayat (3) jo. POJK 27/POJK.03/2022",
+          "source_type": "regulator",
+          "source_url": "https://peraturan.bpk.go.id/Download/135028/POJK%20Nomor%2011%20Tahun%202016.pdf",
+          "effective": "2016-02-02",
+          "weight": 3,
+          "evidence_path": "financials.annual_ratios[2025].capital_adequacy_ratio",
+          "note": "buffer konservasi 2,5% untuk KBMI 3–4 belum diperhitungkan"
+        },
+        {
+          "id": "ldr_rim",
+          "pillar": "kesehatan_keuangan",
+          "label": "Rasio kredit terhadap dana (proksi RIM)",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0.7593527811195531,
+          "display": "75,94% (2025)",
+          "threshold": "> 94% bermasalah",
+          "source": "PADG No. 23 Tahun 2025 Pasal 7 jo. PADG No. 18 Tahun 2026",
+          "source_type": "regulator",
+          "source_url": "https://www.bi.go.id/id/publikasi/peraturan/Pages/PADG_232025.aspx",
+          "effective": "2025-10-20",
+          "weight": 2,
+          "evidence_path": "financials.annual_ratios[2025].loan_to_deposit_ratio",
+          "note": "LDR dipakai sebagai proksi RIM; RIM juga memperhitungkan surat berharga. Di bawah batas bawah RIM 84%: likuiditas longgar, bukan risiko bagi investor"
+        }
+      ]
+    },
+    {
+      "id": "valuasi",
+      "label": "Valuasi",
+      "score": null,
+      "indicators": []
+    },
+    {
+      "id": "kepemilikan",
+      "label": "Kepemilikan dan orang dalam",
+      "score": null,
+      "indicators": []
+    },
+    {
+      "id": "perilaku_harga",
+      "label": "Perilaku harga",
+      "score": null,
+      "indicators": []
+    },
+    {
+      "id": "peristiwa",
+      "label": "Peristiwa dan berita",
+      "score": 0,
+      "indicators": [
+        {
+          "id": "special_notation",
+          "pillar": "peristiwa",
+          "label": "Notasi khusus BEI",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": "",
+          "display": "tidak ada notasi bermasalah (per 22 September 2026)",
+          "threshold": "ada notasi selain X, N, dan I: bermasalah",
+          "source": "Daftar notasi khusus BEI",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.id/id/perusahaan-tercatat/notasi-khusus/",
+          "effective": "2025-06-04",
+          "weight": 3,
+          "evidence_path": "idx_lists.notations",
+          "note": null
+        },
+        {
+          "id": "special_monitoring_board",
+          "pillar": "peristiwa",
+          "label": "Papan Pemantauan Khusus",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak tercatat (per 22 September 2026)",
+          "threshold": "notasi X: bermasalah",
+          "source": "Peraturan BEI I-X (Kep-00035/BEI/06-2025) II.4; daftar notasi khusus BEI",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.id/Media/pyuil405/signed_peraturan_i_x_penempatan_pencatatan_ebe_pada_papan_pemantauan_khusus.pdf",
+          "effective": "2025-06-04",
+          "weight": 3,
+          "evidence_path": "idx_lists.notations",
+          "note": null
+        },
+        {
+          "id": "suspension_uma",
+          "pillar": "peristiwa",
+          "label": "Suspensi atau UMA",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak ada suspensi sejak 24 Juni 2026",
+          "threshold": "ada suspensi dalam 90 hari: bermasalah",
+          "source": "Suspensi oleh BEI (Peraturan II-A); jendela 90 hari pilihan tim (PRD §10)",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.co.id/id/peraturan/peraturan-bursa/",
+          "effective": "2026-09-22",
+          "weight": 2,
+          "evidence_path": "events.suspensions",
+          "note": "UMA belum tercakup karena tidak tersedia di Sectors"
+        }
+      ]
+    }
+  ],
+  "dismissed": [],
+  "unavailable": []
+}

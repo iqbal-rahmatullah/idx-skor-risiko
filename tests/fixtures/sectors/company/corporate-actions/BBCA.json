@@ -1,0 +1,163 @@
+{
+  "symbol": "BBCA.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-03-17",
+        "agm_time": "09:00:00",
+        "agm_place": "Menara Bca Grand Indonesia, Lantai 19Jl. M. H. Thamrin No. 1Jakarta Pusat 10310",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-09-14",
+        "agm_time": "10:00:00",
+        "agm_place": "Pubex Live 2022",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-03-16",
+        "agm_time": "09:00:00",
+        "agm_place": "Menara Bca Grand Indonesia, Lantai 19Jl. M. H. Thamrin No. 1Jakarta Pusat 10310",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-11-29",
+        "agm_time": "09:05:00",
+        "agm_place": "Pubex Live 2023",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-03-14",
+        "agm_time": "09:30:00",
+        "agm_place": "Menara Bca Grand Indonesia Jl. M. H. Thamrin No. 1Jakarta Pusat 10310",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-08-28",
+        "agm_time": "15:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-03-12",
+        "agm_time": "09:30:00",
+        "agm_place": "Menara Bca, Grand Indonesia, Jl. M. H. Thamrin No. 1, Jakarta 10310 Kota Adm. Jakarta Pusat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-09-11",
+        "agm_time": "16:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-03-12",
+        "agm_time": "14:00:00",
+        "agm_place": "Menara Bca, Grand Indonesia Jl. M. H. Thamrin No. 1 Jakarta 10310 Kota Adm. Jakarta Pusat Dki. Jakarta",
+        "agm_result": "Agenda #1: Shareholders approved the 2025 Annual Report and Financial Statements audited by PwC Indonesia and granted discharge to the Board of Directors and Commissioners.\nAgenda #2: The meeting approved the allocation of the 2025 net profit of Rp57,537,287,243,071, including a total cash dividend of Rp336 per share and the designation of remaining funds as retained earnings.\nAgenda #3: Shareholders authorized the Board of Commissioners and PT DWIMURIA INVESTAMA ANDALAN to determine the 2026 remuneration and 2025 bonuses for the Board of Directors and Commissioners.\nAgenda #4: PwC Indonesia and Eddy Rintis were appointed to audit the company's 2026 financial records, with the Board of Commissioners authorized to appoint replacements and determine honorariums.\nAgenda #5: The meeting approved a share buyback plan with a maximum budget of Rp5,000,000,000,000 and authorized the Board of Directors to execute the process and determine pricing.\nAgenda #6: Shareholders approved amendments to the Company's Articles of Association and authorized the Board of Directors to execute all necessary legal actions and notary deeds.\nAgenda #7: The meeting confirmed the end of current board terms and appointed the Board of Commissioners and Directors for the 2026-2029 period, including Jahja Setiaatmadja as President Commissioner and David Formula as a new Director.\nAgenda #8: The meeting held on March 12, 2026, was declared valid with an attendance of 87.5944% of total shares."
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": [
+      {
+        "ex_date": "2026-08-31",
+        "payment_date": "2026-09-16",
+        "dividend_yield": null,
+        "dividend_amount": 25
+      },
+      {
+        "ex_date": "2026-03-30",
+        "payment_date": "2026-04-08",
+        "dividend_yield": null,
+        "dividend_amount": 281
+      },
+      {
+        "ex_date": "2024-03-25",
+        "payment_date": "2024-04-04",
+        "dividend_yield": 0.0227933,
+        "dividend_amount": 227.5
+      },
+      {
+        "ex_date": "2024-11-21",
+        "payment_date": "2024-12-11",
+        "dividend_yield": 0.00500951,
+        "dividend_amount": 50
+      },
+      {
+        "ex_date": "2020-12-08",
+        "payment_date": "2020-12-22",
+        "dividend_yield": 0.00325659,
+        "dividend_amount": 19.6
+      },
+      {
+        "ex_date": "2026-06-17",
+        "payment_date": "2026-06-26",
+        "dividend_yield": null,
+        "dividend_amount": 20
+      },
+      {
+        "ex_date": "2025-12-03",
+        "payment_date": "2025-12-22",
+        "dividend_yield": 0.00641717,
+        "dividend_amount": 55
+      },
+      {
+        "ex_date": "2025-03-21",
+        "payment_date": "2025-04-11",
+        "dividend_yield": 0.0291689,
+        "dividend_amount": 250
+      },
+      {
+        "ex_date": "2023-12-04",
+        "payment_date": "2023-12-20",
+        "dividend_yield": 0.00476727,
+        "dividend_amount": 42.5
+      },
+      {
+        "ex_date": "2023-03-29",
+        "payment_date": "2023-04-14",
+        "dividend_yield": 0.0190691,
+        "dividend_amount": 170
+      },
+      {
+        "ex_date": "2022-12-02",
+        "payment_date": "2022-12-20",
+        "dividend_yield": 0.00437328,
+        "dividend_amount": 35
+      },
+      {
+        "ex_date": "2022-03-28",
+        "payment_date": "2022-04-19",
+        "dividend_yield": 0.0149941,
+        "dividend_amount": 120
+      },
+      {
+        "ex_date": "2021-11-17",
+        "payment_date": "2021-12-07",
+        "dividend_yield": 0.00371546,
+        "dividend_amount": 25
+      },
+      {
+        "ex_date": "2021-04-08",
+        "payment_date": "2021-04-28",
+        "dividend_yield": 0.0128406,
+        "dividend_amount": 86.4
+      },
+      {
+        "ex_date": "2020-04-21",
+        "payment_date": "2020-05-11",
+        "dividend_yield": 0.0151199,
+        "dividend_amount": 91
+      }
+    ],
+    "right_issue": null,
+    "stock_split": [
+      {
+        "date": "2021-10-13",
+        "split_ratio": 5
+      }
+    ],
+    "upcoming_dividend": null
+  }
+}

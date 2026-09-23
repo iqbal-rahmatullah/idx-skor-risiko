@@ -72,6 +72,13 @@ class Valuation(BaseModel):
     history: list[Row]
 
 
+class IdxLists(BaseModel):
+    notations: list[str]
+    as_of: date
+    source_url: str
+    description: str | None = None
+
+
 class TickerSnapshot(BaseModel):
     symbol: str
     as_of: date
@@ -85,4 +92,5 @@ class TickerSnapshot(BaseModel):
     ownership: Ownership
     broker: Broker
     events: Events
+    idx_lists: IdxLists | None = None
     sources: list[Source]

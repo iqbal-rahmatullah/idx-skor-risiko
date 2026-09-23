@@ -525,3 +525,14 @@ def test_missing_data_404_becomes_empty_section():
 
     snap = asyncio.run(go())
     assert snap.broker.top_buyers == [] and snap.broker.date == AS_OF
+
+
+def test_real_split_schema_sorted_by_date_bbca():
+    ca = load("company/corporate-actions/BBCA")
+    ca["corporate_actions"]["stock_split"].insert(
+        0, {"date": "2024-01-01", "split_ratio": 2}
+    )
+
+    price = normalize_price([], ca, AS_OF)
+
+    assert [s["date"] for s in price.splits] == ["2021-10-13", "2024-01-01"]

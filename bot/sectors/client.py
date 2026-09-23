@@ -91,11 +91,15 @@ class SectorsClient:
         return results
 
 
+def fixture_candidates(request: httpx.Request) -> list[str]:
+    path = request.url.path.removeprefix("/v2/").strip("/")
+    symbol = request.url.params.get("symbol") or request.url.params.get("symbols")
+    return [f"{path}/{symbol}", path] if symbol else [path]
+
+
 def fixture_transport(root: Path) -> httpx.MockTransport:
     def handler(request: httpx.Request) -> httpx.Response:
-        path = request.url.path.removeprefix("/v2/").strip("/")
-        symbol = request.url.params.get("symbol") or request.url.params.get("symbols")
-        candidates = [f"{path}/{symbol}", path] if symbol else [path]
+        candidates = fixture_candidates(request)
         for rel in candidates:
             file = root / f"{rel}.json"
             if file.exists():
@@ -113,6 +117,40 @@ def fixture_transport(root: Path) -> httpx.MockTransport:
         )
 
     return httpx.MockTransport(handler)
+
+
+class RecordingTransport(httpx.AsyncBaseTransport):
+    def __init__(
+        self, root: Path, live: httpx.AsyncBaseTransport | None = None
+    ) -> None:
+        self._root = root
+        self._fixtures = fixture_transport(root)
+        self._live = live or httpx.AsyncHTTPTransport(verify=certifi.where())
+        self.saved: list[Path] = []
+
+    async def handle_async_request(self, request: httpx.Request) -> httpx.Response:
+        resp = await self._fixtures.handle_async_request(request)
+        if resp.status_code != 404:
+            return resp
+        resp = await self._live.handle_async_request(request)
+        body = await resp.aread()
+        if resp.status_code == 200:
+            file = self._root / f"{fixture_candidates(request)[0]}.json"
+            file.parent.mkdir(parents=True, exist_ok=True)
+            data = json.loads(body)
+            file.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+            self.saved.append(file)
+
+        headers = {
+            k: v
+            for k, v in resp.headers.items()
+            if k.lower()
+            not in ("content-encoding", "content-length", "transfer-encoding")
+        }
+        return httpx.Response(resp.status_code, headers=headers, content=body)
+
+    async def aclose(self) -> None:
+        await self._live.aclose()
 
 
 def make_client(settings: Settings) -> SectorsClient:

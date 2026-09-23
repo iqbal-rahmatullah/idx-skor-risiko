@@ -5,6 +5,7 @@ import pytest
 
 from bot.sectors.client import (
     FIXTURES_DIR,
+    RecordingTransport,
     SectorsClient,
     SectorsError,
     fixture_transport,
@@ -165,3 +166,56 @@ def test_missing_ok_still_fails_on_missing_fixture():
 
     with pytest.raises(SectorsError, match="fixture belum ada"):
         run(go())
+
+
+def test_recording_serves_existing_fixture_without_live_call(tmp_path):
+    (tmp_path / "daily").mkdir()
+    (tmp_path / "daily" / "ANTM.json").write_text('[{"date": "2026-09-22"}]')
+    live_calls = []
+
+    def live(request):
+        live_calls.append(request)
+        return httpx.Response(200, json=[])
+
+    async def go():
+        transport = RecordingTransport(tmp_path, live=httpx.MockTransport(live))
+        async with SectorsClient("k", transport=transport) as client:
+            return await client.get("/daily/ANTM/")
+
+    assert run(go()) == [{"date": "2026-09-22"}]
+    assert live_calls == []
+
+
+def test_recording_fetches_missing_fixture_once_and_saves_it(tmp_path):
+    live_calls = []
+
+    def live(request):
+        live_calls.append(request.url.path)
+        return httpx.Response(
+            200, json={"results": [1], "pagination": {"next_offset": None}}
+        )
+
+    async def go():
+        transport = RecordingTransport(tmp_path, live=httpx.MockTransport(live))
+        async with SectorsClient("k", transport=transport) as client:
+            first = await client.get("/filings/", symbol="BBCA")
+            second = await client.get("/filings/", symbol="BBCA")
+        return first, second
+
+    first, second = run(go())
+    assert first["results"] == second["results"] == [1]
+    assert live_calls == ["/v2/filings/"]
+    assert (tmp_path / "filings" / "BBCA.json").exists()
+
+
+def test_recording_does_not_save_live_errors(tmp_path):
+    def live(request):
+        return httpx.Response(404, json={"error": "NOT_FOUND", "message": "no data"})
+
+    async def go():
+        transport = RecordingTransport(tmp_path, live=httpx.MockTransport(live))
+        async with SectorsClient("k", transport=transport) as client:
+            return await client.get("/daily/XXXX/", missing_ok=True)
+
+    assert run(go()) is None
+    assert not list(tmp_path.rglob("*.json"))
