@@ -11,3 +11,7 @@ class Settings(BaseSettings):
     sectors_api_key: SecretStr
     sectors_offline: bool = False
     database_url: str = "sqlite:///sectors_hackathon.db"
+    llm_base_url: str = ""
+    llm_api_key: SecretStr = SecretStr("")
+    llm_model: str = ""
+    llm_timeout: float = 180
