@@ -3,14 +3,14 @@ import json
 from pathlib import Path
 
 from bot.config import Settings
-from bot.sectors.client import SectorsClient
+from bot.sectors.client import LIVE_MIN_INTERVAL, SectorsClient
 
 OUT = Path(__file__).resolve().parent.parent / "bot" / "data" / "tickers.json"
 
 
 async def fetch() -> dict[str, dict[str, str]]:
     key = Settings().sectors_api_key.get_secret_value()
-    async with SectorsClient(key) as client:
+    async with SectorsClient(key, min_interval=LIVE_MIN_INTERVAL) as client:
         rows = await client.get_all_pages(
             "/companies/",
             where="sub_sector != '' and listing_board != ''",

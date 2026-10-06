@@ -1,4 +1,6 @@
 import asyncio
+import itertools
+import time
 
 import httpx
 import pytest
@@ -8,6 +10,7 @@ from bot.sectors.client import (
     RecordingTransport,
     SectorsClient,
     SectorsError,
+    fixture_candidates,
     fixture_transport,
 )
 
@@ -119,16 +122,15 @@ def test_offline_falls_back_to_market_wide_fixture_and_stops_paging():
         async with offline_client() as client:
             return await client.get_all_pages("/news/", symbols="ANTM")
 
-    # news.json berisi satu halaman dengan has_next=true; mock harus menutup paginasi.
     assert len(run(go())) == 20
 
 
 def test_offline_missing_fixture_fails_without_network():
     async def go():
         async with offline_client() as client:
-            await client.get("/daily/BBRI/")
+            await client.get("/daily/ZZZZ/")
 
-    with pytest.raises(SectorsError, match="fixture belum ada: daily/BBRI"):
+    with pytest.raises(SectorsError, match="fixture belum ada: daily/ZZZZ"):
         run(go())
 
 
@@ -162,7 +164,7 @@ def test_missing_ok_turns_real_404_into_none():
 def test_missing_ok_still_fails_on_missing_fixture():
     async def go():
         async with offline_client() as client:
-            await client.get("/daily/BBRI/", missing_ok=True)
+            await client.get("/daily/ZZZZ/", missing_ok=True)
 
     with pytest.raises(SectorsError, match="fixture belum ada"):
         run(go())
@@ -219,3 +221,132 @@ def test_recording_does_not_save_live_errors(tmp_path):
 
     assert run(go()) is None
     assert not list(tmp_path.rglob("*.json"))
+
+
+def candidates_for(url: str, **params) -> list[str]:
+    return fixture_candidates(httpx.Request("GET", url, params=params))
+
+
+def test_screener_fixture_key_depends_on_query_but_not_offset():
+    a = candidates_for(
+        "https://api.sectors.app/v2/companies/", where="x", order_by="-y", offset=0
+    )
+    b = candidates_for(
+        "https://api.sectors.app/v2/companies/", where="x", order_by="-y", offset=200
+    )
+    c = candidates_for(
+        "https://api.sectors.app/v2/companies/", where="x", order_by="-z", offset=0
+    )
+
+    assert a == b
+    assert a != c
+    assert a[0].startswith("companies/")
+
+
+def test_broker_fixture_key_includes_date():
+    assert candidates_for(
+        "https://api.sectors.app/v2/broker-summary/ANTM/top/",
+        start="2026-09-22",
+        end="2026-09-22",
+    ) == ["broker-summary/ANTM/top/2026-09-22"]
+
+
+def test_recording_ignores_market_wide_fallback_for_symbol_queries(tmp_path):
+    (tmp_path / "news.json").write_text(
+        '{"results": [], "pagination": {"next_offset": null}}'
+    )
+    live_calls = []
+
+    def live(request):
+        live_calls.append(request.url.params["symbols"])
+        return httpx.Response(
+            200, json={"results": [{"title": "x"}], "pagination": {"next_offset": None}}
+        )
+
+    async def go():
+        transport = RecordingTransport(tmp_path, live=httpx.MockTransport(live))
+        async with SectorsClient("k", transport=transport) as client:
+            return await client.get("/news/", symbols="BIKE")
+
+    assert run(go())["results"] == [{"title": "x"}]
+    assert live_calls == ["BIKE"]
+    assert (tmp_path / "news" / "BIKE.json").exists()
+
+
+def test_rate_limit_is_retried_then_succeeds():
+    calls = []
+
+    def handler(request):
+        calls.append(1)
+        if len(calls) < 3:
+            return httpx.Response(429, json={"error": "RATE_LIMIT_EXCEEDED"})
+        return httpx.Response(200, json={"ok": True})
+
+    async def go():
+        client = SectorsClient(
+            "k", transport=httpx.MockTransport(handler), retry_delays=(0, 0, 0)
+        )
+        async with client:
+            return await client.get("/daily/ANTM/")
+
+    assert run(go()) == {"ok": True}
+    assert len(calls) == 3
+
+
+def test_rate_limit_gives_up_after_retries():
+    def handler(request):
+        return httpx.Response(
+            429, json={"error": "RATE_LIMIT_EXCEEDED", "message": "x"}
+        )
+
+    async def go():
+        client = SectorsClient(
+            "k", transport=httpx.MockTransport(handler), retry_delays=(0, 0)
+        )
+        async with client:
+            await client.get("/daily/ANTM/")
+
+    with pytest.raises(SectorsError) as exc:
+        run(go())
+    assert exc.value.status == 429
+
+
+def test_min_interval_spaces_requests_even_across_log_clones():
+    stamps = []
+
+    def handler(request):
+        stamps.append(time.monotonic())
+        return httpx.Response(200, json={})
+
+    async def go():
+        client = SectorsClient(
+            "k", transport=httpx.MockTransport(handler), min_interval=0.05
+        )
+        async with client:
+            clone = client.with_new_log()
+            await asyncio.gather(client.get("/a/"), clone.get("/b/"), client.get("/c/"))
+
+    run(go())
+    gaps = [b - a for a, b in itertools.pairwise(stamps)]
+    assert all(gap >= 0.045 for gap in gaps)
+
+
+def test_insufficient_credits_is_not_retried():
+    calls = []
+
+    def handler(request):
+        calls.append(1)
+        return httpx.Response(
+            429, json={"error": "INSUFFICIENT_CREDITS", "message": "no credits"}
+        )
+
+    async def go():
+        client = SectorsClient(
+            "k", transport=httpx.MockTransport(handler), retry_delays=(0, 0, 0)
+        )
+        async with client:
+            await client.get("/daily/ANTM/")
+
+    with pytest.raises(SectorsError, match="INSUFFICIENT_CREDITS"):
+        run(go())
+    assert len(calls) == 1
