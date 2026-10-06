@@ -52,6 +52,14 @@ class Broker(BaseModel):
     top_buyers: list[Row]
     top_sellers: list[Row]
 
+    @classmethod
+    def from_api(cls, body: dict[str, Any]) -> "Broker":
+        return cls(
+            date=body["end"],
+            top_buyers=sorted(body["top_buyers"] or [], key=lambda b: b["rank"]),
+            top_sellers=sorted(body["top_sellers"] or [], key=lambda b: b["rank"]),
+        )
+
 
 class Events(BaseModel):
     news: list[Row]
@@ -72,11 +80,37 @@ class Valuation(BaseModel):
     history: list[Row]
 
 
-class IdxLists(BaseModel):
-    notations: list[str]
+class Percentiles(BaseModel):
+    n: int
+    p10: float
+    p25: float
+    p75: float
+    p90: float
+    p95: float
+
+
+class DailyMove(BaseModel):
+    n: int
+    up: int
+    down: int
+
+
+class PeerStats(BaseModel):
+    sub_sector: str
     as_of: date
-    source_url: str
+    members: int
+    metrics: dict[str, Percentiles]
+    years: dict[str, int]
+
+
+class IdxLists(BaseModel):
+    notations: list[str] | None = None
+    as_of: date | None = None
+    source_url: str | None = None
     description: str | None = None
+    hsc: bool | None = None
+    hsc_as_of: date | None = None
+    hsc_source_url: str | None = None
 
 
 class TickerSnapshot(BaseModel):
@@ -93,4 +127,7 @@ class TickerSnapshot(BaseModel):
     broker: Broker
     events: Events
     idx_lists: IdxLists | None = None
+    sector_move: DailyMove | None = None
+    peers: PeerStats | None = None
+    broker_history: list[Broker] = []
     sources: list[Source]

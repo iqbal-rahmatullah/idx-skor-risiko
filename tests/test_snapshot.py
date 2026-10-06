@@ -1,7 +1,7 @@
 import asyncio
 import copy
 import json
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 import httpx
@@ -15,7 +15,6 @@ from bot.snapshot.build import (
     flatten,
     free_float,
     normalize,
-    normalize_broker,
     normalize_corporate_actions,
     normalize_events,
     normalize_financials,
@@ -24,6 +23,7 @@ from bot.snapshot.build import (
     normalize_price,
     take_snapshot,
 )
+from bot.snapshot.models import Broker
 from bot.tickers import valid_ticker
 
 
@@ -38,7 +38,7 @@ def raw_for(symbol: str) -> dict:
             as_of = date.fromisoformat(report["overview"]["latest_close_date"])
             return {
                 "report": report,
-                **await fetch_eod(c, symbol, as_of),
+                **await fetch_eod(c, symbol, as_of, report["overview"]["sub_sector"]),
                 **await fetch_events(c, symbol, as_of),
             }
 
@@ -334,10 +334,10 @@ def test_composition_ascending_and_deduped():
 
 
 def test_broker_sorted_by_rank():
-    body = load("broker-summary/ANTM/top")
+    body = load("broker-summary/ANTM/top/2026-09-22")
     body["top_buyers"].reverse()
 
-    broker = normalize_broker(body)
+    broker = Broker.from_api(body)
 
     assert broker.date == AS_OF
     assert [b["rank"] for b in broker.top_buyers] == list(range(1, 11))
@@ -444,7 +444,6 @@ def test_fixtures_do_not_contain_api_key():
 
 
 def test_future_dated_suspension_is_kept():
-    # Diumumkan 21 Sep, berlaku 22 Sep; putaran 06.00 tanggal 22 memakai as_of 21.
     rows = load("suspensions")["results"]
 
     events = normalize_events(
@@ -494,7 +493,7 @@ def test_sources_are_per_snapshot_on_shared_client():
         return snaps
 
     first, second = asyncio.run(go())
-    assert len(first.sources) == len(second.sources) == 9
+    assert len(first.sources) == len(second.sources) == 10
 
 
 def test_save_snapshot_twice_same_date_upserts():
@@ -536,3 +535,40 @@ def test_real_split_schema_sorted_by_date_bbca():
     price = normalize_price([], ca, AS_OF)
 
     assert [s["date"] for s in price.splits] == ["2021-10-13", "2024-01-01"]
+
+
+def test_snapshot_taken_before_the_day_bar_exists_is_fetched_again(tmp_path):
+    from bot.db import broker_history
+    from bot.demo import next_day_overlay
+
+    day2 = date(2026, 9, 23)
+    early = tmp_path / "early"
+    next_day_overlay(early, "ANTM", day2)
+    daily = json.loads((early / "daily/ANTM.json").read_text())
+    (early / "daily/ANTM.json").write_text(
+        json.dumps([r for r in daily if r["date"] != day2.isoformat()])
+    )
+    (early / "broker-summary/ANTM/top/2026-09-23.json").write_text(
+        json.dumps({"end": "2026-09-23", "top_buyers": [], "top_sellers": []})
+    )
+    complete = tmp_path / "complete"
+    next_day_overlay(complete, "ANTM", day2)
+    session_factory = make_session_factory("sqlite://")
+
+    async def take(overlay):
+        client = SectorsClient("k", transport=fixture_transport(FIXTURES_DIR, overlay))
+        async with client:
+            with session_factory() as session:
+                return await take_snapshot(client, session, "ANTM")
+
+    first, _ = asyncio.run(take(early))
+    with session_factory() as session:
+        stored = [
+            b.date for b in broker_history(session, "ANTM", day2 + timedelta(days=1))
+        ]
+    second, cached = asyncio.run(take(complete))
+
+    assert first.price.bars[-1].date == date(2026, 9, 22)
+    assert day2 not in stored
+    assert not cached
+    assert second.price.bars[-1].date == day2

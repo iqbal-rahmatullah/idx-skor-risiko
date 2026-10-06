@@ -4,12 +4,23 @@ from typing import Any
 
 from sqlalchemy.orm import Session
 
-from bot.db import get_snapshot, save_snapshot
+from bot.db import (
+    broker_history,
+    get_snapshot,
+    latest_peer_stats,
+    price_bars,
+    save_broker_day,
+    save_price_bars,
+    save_snapshot,
+)
 from bot.idx.lists import idx_lists_for
+from bot.risk.thresholds import BROKER_HISTORY_WINDOW_DAYS
 from bot.sectors.client import SectorsClient
+from bot.sectors.screener import DAILY_CHANGE, fetch_screener_metric
 from bot.snapshot.models import (
     Bar,
     Broker,
+    DailyMove,
     Events,
     Financials,
     Holder,
@@ -20,7 +31,7 @@ from bot.snapshot.models import (
     TickerSnapshot,
     Valuation,
 )
-from bot.tickers import valid_ticker
+from bot.tickers import strip_jk, valid_ticker
 
 REPORT_SECTIONS = "overview,ownership,financials,valuation"
 N_QUARTERS = 2
@@ -33,10 +44,6 @@ FILING_PERCENT_FIELDS = (
     "share_percentage_transaction",
 )
 DAILY_WINDOW = timedelta(days=90)
-
-
-def strip_jk(symbol: str) -> str:
-    return symbol.removesuffix(".JK")
 
 
 def by_year(rows: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
@@ -56,7 +63,6 @@ def by_event_date(rows: list[dict[str, Any]] | None) -> list[dict[str, Any]]:
 
 
 def since(timestamp: str, as_of: date, window: timedelta) -> bool:
-    # Tanpa batas atas: suspensi dan berita sesudah penutupan justru yang dicari putaran 06.00.
     return date.fromisoformat(timestamp[:10]) >= as_of - window
 
 
@@ -74,7 +80,9 @@ def flatten(groups: dict[str, Any]) -> dict[str, Any]:
     return merge(*(group or {} for group in groups.values()))
 
 
-async def fetch_eod(client: SectorsClient, symbol: str, as_of: date) -> dict[str, Any]:
+async def fetch_eod(
+    client: SectorsClient, symbol: str, as_of: date, sub_sector: str
+) -> dict[str, Any]:
     start = as_of - DAILY_WINDOW
     daily = await client.get(
         f"/daily/{symbol}/",
@@ -102,6 +110,7 @@ async def fetch_eod(client: SectorsClient, symbol: str, as_of: date) -> dict[str
         "composition": await fetch_composition(client, symbol, as_of),
         "broker": broker
         or {"end": as_of.isoformat(), "top_buyers": [], "top_sellers": []},
+        "sector_move": await fetch_screener_metric(client, sub_sector, DAILY_CHANGE),
     }
 
 
@@ -139,7 +148,6 @@ async def fetch_composition(
         "data"
     ) or []
     if len(rows) < 2:
-        # Awal tahun: bulan pembanding ada di tahun sebelumnya.
         previous = await client.get(path, missing_ok=True, year=as_of.year - 1)
         rows += (previous or {}).get("data") or []
     return rows
@@ -157,13 +165,33 @@ async def take_snapshot(
     as_of = date.fromisoformat(report["overview"]["latest_close_date"])
     events = {**await fetch_events(client, symbol, as_of), "idx": idx_lists_for(symbol)}
 
-    if cached := get_snapshot(session, symbol, as_of):
+    cached = get_snapshot(session, symbol, as_of)
+    # Report bisa maju sebelum /daily dan broker hari itu tersedia; snapshot seperti itu diambil ulang, bukan dipakai terus.
+    if cached is not None and cached.price.bars and cached.price.bars[-1].date == as_of:
         snap = refresh_events(cached, events, client.log)
     else:
-        eod = await fetch_eod(client, symbol, as_of)
+        cached = None
+        sub_sector = report["overview"]["sub_sector"]
+        eod = await fetch_eod(client, symbol, as_of, sub_sector)
         snap = normalize({"report": report, **eod, **events}, client.log)
+        if eod["broker"]["top_buyers"] or eod["broker"]["top_sellers"]:
+            save_broker_day(session, symbol, as_of, eod["broker"])
+    save_price_bars(session, symbol, snap.price.bars)
+    snap = attach_context(session, snap)
     save_snapshot(session, snap)
     return snap, cached is not None
+
+
+def attach_context(session: Session, snap: TickerSnapshot) -> TickerSnapshot:
+    since = snap.as_of - timedelta(days=BROKER_HISTORY_WINDOW_DAYS)
+    bars = price_bars(session, snap.symbol, snap.as_of - DAILY_WINDOW, snap.as_of)
+    return snap.model_copy(
+        update={
+            "price": snap.price.model_copy(update={"bars": bars}),
+            "peers": latest_peer_stats(session, snap.sub_sector, snap.as_of),
+            "broker_history": broker_history(session, snap.symbol, snap.as_of, since),
+        }
+    )
 
 
 def refresh_events(
@@ -225,7 +253,7 @@ def normalize(raw: dict[str, Any], sources: list[dict[str, Any]]) -> TickerSnaps
         price=normalize_price(raw["daily"], raw["corporate_actions"], as_of),
         financials=normalize_financials(report["financials"], raw["quarterly"]),
         ownership=ownership,
-        broker=normalize_broker(raw["broker"]),
+        broker=Broker.from_api(raw["broker"]),
         events=normalize_events(
             strip_jk(report["symbol"]),
             raw["news"],
@@ -234,21 +262,39 @@ def normalize(raw: dict[str, Any], sources: list[dict[str, Any]]) -> TickerSnaps
             as_of,
         ),
         idx_lists=raw.get("idx"),
+        sector_move=normalize_sector_move(
+            strip_jk(report["symbol"]), raw.get("sector_move") or {}
+        ),
         sources=sources,
     )
 
 
-def normalize_price(
-    daily: list[dict[str, Any]], corporate_actions: dict[str, Any], as_of: date
-) -> Price:
+def normalize_sector_move(
+    symbol: str, changes: dict[str, float | None]
+) -> DailyMove | None:
+    others = [v for s, v in changes.items() if s != symbol and v is not None]
+    if not others:
+        return None
+    return DailyMove(
+        n=len(others), up=sum(v > 0 for v in others), down=sum(v < 0 for v in others)
+    )
+
+
+def bars_from_rows(daily: list[dict[str, Any]], as_of: date) -> list[Bar]:
     start = as_of - DAILY_WINDOW
     by_date = {}
     for row in daily:
         day = date.fromisoformat(row["date"])
         if start <= day <= as_of:
             by_date[day] = Bar(**{**row, "date": day})
+    return [by_date[d] for d in sorted(by_date)]
+
+
+def normalize_price(
+    daily: list[dict[str, Any]], corporate_actions: dict[str, Any], as_of: date
+) -> Price:
     return Price(
-        bars=[by_date[d] for d in sorted(by_date)],
+        bars=bars_from_rows(daily, as_of),
         splits=by_event_date(
             (corporate_actions["corporate_actions"] or {}).get("stock_split")
         ),
@@ -333,14 +379,6 @@ def normalize_filing(filing: dict[str, Any]) -> dict[str, Any]:
         if out.get(field) is not None:
             out[field] = out[field] / 100
     return out
-
-
-def normalize_broker(body: dict[str, Any]) -> Broker:
-    return Broker(
-        date=body["end"],
-        top_buyers=sorted(body["top_buyers"] or [], key=lambda b: b["rank"]),
-        top_sellers=sorted(body["top_sellers"] or [], key=lambda b: b["rank"]),
-    )
 
 
 def normalize_corporate_actions(
