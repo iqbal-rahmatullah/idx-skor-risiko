@@ -1,17 +1,19 @@
 {
   "symbol": "ANTM",
+  "company_name": "Aneka Tambang Tbk.",
   "as_of": "2026-09-22",
   "trigger": "risk",
   "score": {
-    "value": 0,
-    "grade": "A"
+    "value": 7,
+    "grade": "A",
+    "scale": "0–100"
   },
   "summary_counts": {
-    "kuat": 0,
-    "wajar": 6,
+    "kuat": 1,
+    "wajar": 20,
     "perhatian": 0,
-    "bermasalah": 0,
-    "tidak_tersedia": 0,
+    "bermasalah": 3,
+    "tidak_tersedia": 2,
     "tidak_berlaku": 2
   },
   "pillars": [
@@ -32,11 +34,12 @@
           "threshold": "< 12,5% bermasalah · < 15% perhatian",
           "source": "Peraturan BEI I-A dan SE-00004/BEI/03-2026",
           "source_type": "regulator",
-          "source_url": "https://market.bisnis.com/read/20260401/7/1963525/bei-resmi-berlakukan-free-float-15-big-caps-diberi-tenggat-waktu-hingga-2027",
+          "source_url": "https://www.idx.id/id/berita/siaran-pers/2589",
           "effective": "2026-03-31",
           "weight": 3,
           "evidence_path": "overview.free_float",
-          "note": null
+          "note": null,
+          "dismissed_reason": null
         },
         {
           "id": "daily_liquidity",
@@ -54,7 +57,8 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "price.bars",
-          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 22 Juni 2026"
+          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 22 Juni 2026",
+          "dismissed_reason": null
         },
         {
           "id": "sub_51_price",
@@ -72,7 +76,65 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "price.bars",
-          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 22 Juni 2026"
+          "note": "dikecualikan I-X III.3: dividen tunai dengan ex-date 22 Juni 2026",
+          "dismissed_reason": null
+        },
+        {
+          "id": "volume_spike",
+          "pillar": "ukuran_likuiditas",
+          "label": "Lonjakan volume",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 80058600,
+          "display": "80.058.600 lembar hari ini; persentil 95 90 hari: 171.720.660 lembar",
+          "threshold": "volume hari ini > persentil 95 volume 90 hari saham itu",
+          "source": "Persentil 95 volume 90 hari saham itu (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/transaction/daily",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "broker_concentration",
+          "pillar": "ukuran_likuiditas",
+          "label": "Konsentrasi broker",
+          "status": "tidak_tersedia",
+          "is_new": null,
+          "since": null,
+          "value": null,
+          "display": "tidak tersedia",
+          "threshold": "porsi pembeli teratas > persentil 95 riwayat saham itu",
+          "source": "Persentil 95 riwayat broker saham itu, minimal 20 hari bursa (pilihan tim); HHI KPPU hanya analogi",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/brokers/broker-summary-top",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "broker.top_buyers",
+          "note": "riwayat broker baru 19 hari bursa, butuh 20",
+          "dismissed_reason": null
+        },
+        {
+          "id": "relative_liquidity",
+          "pillar": "ukuran_likuiditas",
+          "label": "Likuiditas dibanding subsektor",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 320416820492.0635,
+          "display": "Rp320,42 miliar/hari; persentil 10 Basic Materials: Rp39,64 juta/hari",
+          "threshold": "nilai transaksi harian < persentil 10 anggota subsektor yang aktif",
+          "source": "Persentil 10 nilai transaksi anggota subsektor yang aktif (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/transaction/daily",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
         }
       ]
     },
@@ -97,7 +159,8 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "financials.quarterly[2026-06-30].total_equity",
-          "note": null
+          "note": null,
+          "dismissed_reason": null
         },
         {
           "id": "no_revenue",
@@ -115,32 +178,302 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "financials.quarterly[2026-06-30].revenue",
-          "note": null
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "debt_to_equity",
+          "pillar": "kesehatan_keuangan",
+          "label": "Liabilitas terhadap ekuitas",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0.43526143769956005,
+          "display": "0,44× (2025); persentil 75 subsektor: 1,22×",
+          "threshold": "> persentil 75 subsektor",
+          "source": "Persentil 75 subsektor, field debt_to_equity_ratio Sectors (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/screener/companies",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "financials.annual_ratios[2025].debt_to_equity_ratio",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "altman_z",
+          "pillar": "kesehatan_keuangan",
+          "label": "Skor Altman Z''",
+          "status": "kuat",
+          "is_new": null,
+          "since": null,
+          "value": 6.482106961504844,
+          "display": "6,48 (2025)",
+          "threshold": "< 1,1 bermasalah · 1,1–2,6 perhatian · > 2,6 kuat",
+          "source": "Altman dkk. (2017), Journal of International Financial Management and Accounting 28(2): Z'' non-manufaktur dan pasar berkembang",
+          "source_type": "akademik",
+          "source_url": "https://doi.org/10.1111/jifm.12053",
+          "effective": "2017-06-01",
+          "weight": 2,
+          "evidence_path": "financials.annual[2025]",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "piotroski_f",
+          "pillar": "kesehatan_keuangan",
+          "label": "Skor Piotroski",
+          "status": "tidak_tersedia",
+          "is_new": null,
+          "since": null,
+          "value": null,
+          "display": "tidak tersedia",
+          "threshold": "≤ 2 bermasalah · ≥ 8 kuat, dari 9 cek",
+          "source": "Piotroski (2000), Journal of Accounting Research 38",
+          "source_type": "akademik",
+          "source_url": "http://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf",
+          "effective": "2000-01-01",
+          "weight": 2,
+          "evidence_path": "financials.annual",
+          "note": "data tidak lengkap: long_term_debt 2024",
+          "dismissed_reason": null
         }
       ]
     },
     {
       "id": "valuasi",
       "label": "Valuasi",
-      "score": null,
-      "indicators": []
+      "score": 25,
+      "indicators": [
+        {
+          "id": "pe_vs_peer",
+          "pillar": "valuasi",
+          "label": "PER dibanding sejenis",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 8.55826269690093,
+          "display": "PER 8,56× vs rata-rata sejenis 9,95× (2026)",
+          "threshold": "PER > rata-rata perusahaan sejenis",
+          "source": "pe_peer_avg Sectors; PER 15 Graham hanya rujukan",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/get-started/v2/overview",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "valuation.history[2026].pe",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "pb_vs_peer",
+          "pillar": "valuasi",
+          "label": "PBV dibanding sejenis",
+          "status": "bermasalah",
+          "is_new": null,
+          "since": null,
+          "value": 2.04393618714655,
+          "display": "PBV 2,04× vs rata-rata sejenis 1,36× (2026)",
+          "threshold": "PBV > rata-rata perusahaan sejenis",
+          "source": "pb_peer_avg Sectors",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/get-started/v2/overview",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "valuation.history[2026].pb",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "graham_number",
+          "pillar": "valuasi",
+          "label": "Graham Number",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 3206.221189967013,
+          "display": "harga Rp3.170 vs Graham Number Rp3.206,22",
+          "threshold": "harga > √(22,5 × EPS × nilai buku per saham)",
+          "source": "Graham, The Intelligent Investor, bab 14",
+          "source_type": "akademik",
+          "source_url": "https://stablebread.com/graham-number/",
+          "effective": "1949-01-01",
+          "weight": 2,
+          "evidence_path": "financials.eps",
+          "note": null,
+          "dismissed_reason": null
+        }
+      ]
     },
     {
       "id": "kepemilikan",
       "label": "Kepemilikan dan orang dalam",
-      "score": null,
-      "indicators": []
+      "score": 0,
+      "indicators": [
+        {
+          "id": "insider_selling",
+          "pillar": "kepemilikan",
+          "label": "Penjualan orang dalam",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak ada penjualan orang dalam sejak 23 Agustus 2026",
+          "threshold": "ada penjualan dalam 30 hari",
+          "source": "POJK 4 Tahun 2024 (laporan kepemilikan); Lakonishok & Lee (2001), Review of Financial Studies 14(1)",
+          "source_type": "akademik",
+          "source_url": "https://ideas.repec.org/a/oup/rfinst/v14y2001i1p79-111.html",
+          "effective": "2001-01-01",
+          "weight": 1,
+          "evidence_path": "ownership.insider_filings",
+          "note": "sinyal lemah: penjualan bisa terjadi karena kebutuhan pribadi",
+          "dismissed_reason": null
+        },
+        {
+          "id": "insider_buying",
+          "pillar": "kepemilikan",
+          "label": "Pembelian orang dalam",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak ada pembelian orang dalam sejak 23 Agustus 2026",
+          "threshold": "ada pembelian dalam 30 hari: kuat; tidak masuk skor",
+          "source": "POJK 4 Tahun 2024 (laporan kepemilikan); Lakonishok & Lee (2001), Review of Financial Studies 14(1)",
+          "source_type": "akademik",
+          "source_url": "https://ideas.repec.org/a/oup/rfinst/v14y2001i1p79-111.html",
+          "effective": "2001-01-01",
+          "weight": 0,
+          "evidence_path": "ownership.insider_filings",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "shareholder_concentration",
+          "pillar": "kepemilikan",
+          "label": "Kepemilikan terkonsentrasi (HSC)",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak tercantum (per 23 September 2026)",
+          "threshold": "tercantum di daftar Kepemilikan Saham Terkonsentrasi Tinggi BEI",
+          "source": "Pengumuman Kepemilikan Saham Terkonsentrasi Tinggi BEI",
+          "source_type": "regulator",
+          "source_url": "https://www.idx.id/id/perusahaan-tercatat/kepemilikan-saham-terkonsentrasi-tinggi/",
+          "effective": "2026-04-02",
+          "weight": 3,
+          "evidence_path": "idx_lists.hsc",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "retail_share_shift",
+          "pillar": "kepemilikan",
+          "label": "Pergeseran porsi ritel",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": -0.008738933829741946,
+          "display": "porsi ritel 25,61% per 31 Agustus 2026, -0,87 poin persen dari bulan sebelumnya; persentil 90 subsektor: +0,19 poin persen",
+          "threshold": "naik dan > persentil 90 perubahan anggota subsektor",
+          "source": "Persentil 90 perubahan porsi ritel anggota subsektor (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/get-started/v2/overview",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "ownership.composition",
+          "note": null,
+          "dismissed_reason": null
+        }
+      ]
     },
     {
       "id": "perilaku_harga",
       "label": "Perilaku harga",
-      "score": null,
-      "indicators": []
+      "score": 0,
+      "indicators": [
+        {
+          "id": "ara_arb_frequency",
+          "pillar": "perilaku_harga",
+          "label": "Menyentuh batas ARA/ARB",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "0 kali; persentil 95 Basic Materials: 1 kali",
+          "threshold": "sentuhan batas dalam 10 hari bursa > persentil 95 anggota subsektor",
+          "source": "Persentil 95 subsektor (pilihan tim); batas harian Kep-00002 dan Kep-00003/BEI/04-2025, 10% untuk Papan Akselerasi dan Pemantauan Khusus (sumber sekunder)",
+          "source_type": "data",
+          "source_url": "https://www.cnbcindonesia.com/market/20250408084106-17-624101/bei-ubah-kebijakan-arb-ini-aturan-terbarunya",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "volatility_90d",
+          "pillar": "perilaku_harga",
+          "label": "Volatilitas 90 hari",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0.05659347393813262,
+          "display": "5,66%; persentil 90 Basic Materials: 22,32%",
+          "threshold": "simpangan baku harga 90 hari ÷ rata-ratanya > persentil 90 anggota subsektor",
+          "source": "Persentil 90 RSD harga anggota subsektor (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/transaction/daily",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "drawdown_90d",
+          "pillar": "perilaku_harga",
+          "label": "Penurunan terdalam 90 hari",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0.08974358974358976,
+          "display": "8,97%; persentil 90 Basic Materials: 23,23%",
+          "threshold": "penurunan terdalam dari puncak dalam 90 hari > persentil 90 anggota subsektor",
+          "source": "Persentil 90 drawdown anggota subsektor (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/transaction/daily",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "unexplained_move",
+          "pillar": "perilaku_harga",
+          "label": "Lonjakan harga tanpa katalis",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": -0.021604938271604923,
+          "display": "-2,16% pada hari bursa terakhir; persentil 95 return harian 90 hari: 4,11%",
+          "threshold": "naik > persentil 95 return harian 90 hari saham itu",
+          "source": "Persentil 95 return harian 90 hari saham itu (pilihan tim); pembatalan PRD §9",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/api-references/v2/indonesia/transaction/daily",
+          "effective": "2026-09-23",
+          "weight": 2,
+          "evidence_path": "price.bars",
+          "note": null,
+          "dismissed_reason": null
+        }
+      ]
     },
     {
       "id": "peristiwa",
       "label": "Peristiwa dan berita",
-      "score": 0,
+      "score": 17,
       "indicators": [
         {
           "id": "special_notation",
@@ -158,7 +491,8 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "idx_lists.notations",
-          "note": null
+          "note": null,
+          "dismissed_reason": null
         },
         {
           "id": "special_monitoring_board",
@@ -176,7 +510,8 @@
           "effective": "2025-06-04",
           "weight": 3,
           "evidence_path": "idx_lists.notations",
-          "note": null
+          "note": null,
+          "dismissed_reason": null
         },
         {
           "id": "suspension_uma",
@@ -194,11 +529,129 @@
           "effective": "2026-09-22",
           "weight": 2,
           "evidence_path": "events.suspensions",
-          "note": "UMA belum tercakup karena tidak tersedia di Sectors"
+          "note": "UMA belum tercakup karena tidak tersedia di Sectors",
+          "dismissed_reason": null
+        },
+        {
+          "id": "negative_news",
+          "pillar": "peristiwa",
+          "label": "Berita negatif",
+          "status": "bermasalah",
+          "is_new": null,
+          "since": null,
+          "value": 4,
+          "display": "4 berita bertag Bearish atau Violation sejak 15 September 2026",
+          "threshold": "≥ 3 berita negatif dalam 7 hari",
+          "source": "Tag Bearish atau Violation di /news Sectors; minimal 3 dalam 7 hari (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/get-started/v2/overview",
+          "effective": "2026-09-23",
+          "weight": 1,
+          "evidence_path": "events.news",
+          "note": "tag berlaku untuk seluruh artikel, yang bisa membahas beberapa emiten",
+          "dismissed_reason": null
+        },
+        {
+          "id": "dilution_event",
+          "pillar": "peristiwa",
+          "label": "Penerbitan saham baru",
+          "status": "wajar",
+          "is_new": null,
+          "since": null,
+          "value": 0,
+          "display": "tidak ada right issue atau waran sejak 24 Juni 2026",
+          "threshold": "ada right issue atau waran dalam 90 hari",
+          "source": "Right issue atau waran di /company/corporate-actions Sectors; jendela 90 hari (pilihan tim)",
+          "source_type": "data",
+          "source_url": "https://docs.sectors.app/get-started/v2/overview",
+          "effective": "2026-09-23",
+          "weight": 2,
+          "evidence_path": "events.corporate_actions",
+          "note": null,
+          "dismissed_reason": null
+        },
+        {
+          "id": "accrual_ratio",
+          "pillar": "peristiwa",
+          "label": "Rasio akrual",
+          "status": "bermasalah",
+          "is_new": null,
+          "since": null,
+          "value": 0.04854207054801472,
+          "display": "4,85% (2025); persentil 75 subsektor: 0,57%",
+          "threshold": "(laba − arus kas operasi) ÷ rata-rata aset > persentil 75 subsektor",
+          "source": "Sloan (1996), The Accounting Review 71(3); persentil 75 subsektor (pilihan tim)",
+          "source_type": "akademik",
+          "source_url": "https://publications.aaahq.org/accounting-review/article/71/3/289/18989",
+          "effective": "1996-07-01",
+          "weight": 1,
+          "evidence_path": "financials.annual[2025]",
+          "note": null,
+          "dismissed_reason": null
         }
       ]
     }
   ],
   "dismissed": [],
-  "unavailable": []
+  "unavailable": [
+    "broker_concentration",
+    "piotroski_f"
+  ],
+  "context": {
+    "negative_news": [
+      {
+        "id": "berita_1",
+        "date": "2026-09-23",
+        "title": "Analyst highlights nickel stock recommendations and sector outlook amid RKAB and HPM regulatory pressure",
+        "tags": [
+          "Analyst Ratings",
+          "Government Policy",
+          "Commodities",
+          "Bearish"
+        ],
+        "source": "https://investasi.kontan.co.id/news/cermati-rekomendasi-saham-dan-prospek-emiten-nikel-yang-tertekan-rkab-dan-hpm",
+        "excerpt": "David Kurniawan of PT Indo Premier Sekuritas says nickel issuers remain under pressure in 2026 because of global oversupply, uncertainty over RKAB approval and new HPM regulations. Year‑to‑date, PT Vale Indonesia Tbk (INCO) fell 9.57%, PT Trimegah Bangun Persada Tbk (NCKL)…"
+      },
+      {
+        "id": "berita_2",
+        "date": "2026-09-22",
+        "title": "Nickel stocks pressured by RKAB approval uncertainty and HPM regulation, PT PAM Mineral Tbk (NICL) leads declines.",
+        "tags": [
+          "Commodities",
+          "Government Policy",
+          "Capital & Funding",
+          "Global Economy",
+          "Analyst Ratings",
+          "Bearish"
+        ],
+        "source": "https://investasi.kontan.co.id/news/saham-nikel-tertekan-rkab-dan-harga-patokan-mineral-simak-prospeknya-berikut-ini",
+        "excerpt": "The article reports that nickel stocks are under pressure due to uncertainty over RKAB approval and changes to the Harga Patokan Mineral (HPM) regulation, compounded by oversupply and stagnant global nickel prices. Year‑to‑date performance shows PT Vale Indonesia Tbk (INCO) down…"
+      },
+      {
+        "id": "berita_3",
+        "date": "2026-09-21",
+        "title": "Foreign investors net sold Rp 510.07 bn of Indonesian stocks, led by PT Bank Mandiri Tbk (BMRI)",
+        "tags": [
+          "Foreign Investment",
+          "Market Sentiment",
+          "Bearish"
+        ],
+        "source": "https://investasi.kontan.co.id/news/asing-net-sell-jumbo-rp-510-miliar-cek-saham-yang-banyak-dijual-di-awal-pekan",
+        "excerpt": "Foreign investors recorded a net sell of Rp 510.07 bn on Monday, sending the Indonesia Composite Index (IHSG) down 0.88% to 6,384.72 points. The ten stocks with the largest foreign net outflows were PT Bank Mandiri Tbk (BMRI) (Rp 140.61 bn), PT Aneka Tambang Tbk (ANTM) (Rp…"
+      },
+      {
+        "id": "berita_4",
+        "date": "2026-09-18",
+        "title": "Foreign outflow hits Rp1.79 trillion, with BBCA and BMRI leading net sells",
+        "tags": [
+          "Foreign Investment",
+          "Market Sentiment",
+          "Capital & Funding",
+          "Bearish"
+        ],
+        "source": "https://www.idnfinancials.com/id/news/69078/outflow-asing-capai-rp1-79-triliun-bbca-dan-bmri-top-net-sell",
+        "excerpt": "On 18 September 2024, foreign investors recorded a net outflow of Rp1.78 trillion on the Indonesia Stock Exchange, with foreign buying rising to Rp7.04 trillion and selling to Rp8.81 trillion. The largest net‑sell positions were posted by PT Bank Central Asia Tbk (BBCA) with…"
+      }
+    ]
+  }
 }
