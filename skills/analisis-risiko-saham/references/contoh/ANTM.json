@@ -1,0 +1,47 @@
+{
+  "summary": "Skor risiko ANTM 7 dari 100, grade A: yang bermasalah hanya valuasi, berita, dan rasio akrual, sementara semua indikator regulator wajar.",
+  "verdicts": {
+    "ukuran_likuiditas": "Saham ini ramai diperdagangkan; kriteria likuiditas BEI tidak berlaku karena ANTM membagi dividen tunai.",
+    "kesehatan_keuangan": "Keuangan sehat: skor Altman 6,48 berada di zona kuat, dan ekuitas maupun pendapatan wajar.",
+    "valuasi": "Harganya lebih mahal dari rata-rata sejenis bila diukur dengan PBV, tetapi masih di bawah Graham Number.",
+    "kepemilikan": "Tidak ada penjualan orang dalam, dan porsi ritel tidak bergeser tajam.",
+    "perilaku_harga": "Harga bergerak tenang dibanding saham lain di subsektornya.",
+    "peristiwa": "Ada 4 berita bertag negatif sejak 15 September 2026, tetapi tidak ada notasi khusus, suspensi, atau penerbitan saham baru."
+  },
+  "explanations": {
+    "free_float": "35% saham ANTM beredar bebas di publik, jauh di atas batas minimum BEI 15%, jadi harganya tidak mudah dikendalikan segelintir pihak.",
+    "daily_liquidity": "Tidak dinilai BEI karena ANTM membagi dividen tunai dengan ex-date 22 Juni 2026; transaksinya sendiri ramai, Rp320,42 miliar per hari.",
+    "sub_51_price": "Tidak dinilai karena pengecualian dividen yang sama; harga rata-ratanya Rp3.025,71, jauh di atas batas Rp51.",
+    "volume_spike": "Volume hari ini 80.058.600 lembar, masih di bawah batas lonjakan 171.720.660 lembar, jadi perdagangan berjalan biasa.",
+    "broker_concentration": "Belum bisa dinilai karena riwayat data broker baru 19 hari bursa, sedangkan penilaian butuh 20 hari.",
+    "relative_liquidity": "Nilai transaksinya Rp320,42 miliar per hari, jauh di atas saham tersepi di subsektornya yang Rp39,64 juta, jadi mudah diperjualbelikan.",
+    "negative_equity": "Modal pemilik masih positif, Rp38,53 triliun per 30 Juni 2026, artinya aset perusahaan lebih besar dari utangnya.",
+    "no_revenue": "Perusahaan masih mencatat pendapatan Rp33,39 triliun per 30 Juni 2026, jadi usahanya berjalan.",
+    "debt_to_equity": "Liabilitasnya 0,44× modal sendiri pada 2025, lebih ringan dari batas atas saham sejenis 1,22×.",
+    "altman_z": "Skor kesehatan keuangan Altman 6,48 pada 2025, di atas batas aman 2,6, jadi risiko kesulitan keuangan dalam dua tahun rendah.",
+    "piotroski_f": "Belum bisa dihitung karena data utang jangka panjang 2024 tidak tersedia.",
+    "pe_vs_peer": "Harga per rupiah laba (PER 8,56×) lebih murah daripada rata-rata perusahaan sejenis 9,95×.",
+    "pb_vs_peer": "Harga dibanding nilai buku (PBV 2,04×) lebih mahal daripada rata-rata sejenis 1,36×, jadi investor membayar premi.",
+    "graham_number": "Harga Rp3.170 masih sedikit di bawah batas harga wajar versi Graham, Rp3.206,22.",
+    "insider_selling": "Tidak ada direksi, komisaris, atau pemegang saham besar yang menjual sejak 23 Agustus 2026.",
+    "insider_buying": "Tidak ada pembelian oleh orang dalam sejak 23 Agustus 2026; ini hanya informasi dan tidak memengaruhi skor.",
+    "shareholder_concentration": "ANTM tidak masuk daftar BEI untuk saham yang kepemilikannya terlalu terkonsentrasi, per 23 September 2026.",
+    "retail_share_shift": "Porsi investor individu 25,61%, turun 0,87 poin persen dari bulan sebelumnya, jadi tidak ada lonjakan porsi ritel.",
+    "ara_arb_frequency": "Dalam 10 hari bursa terakhir harga tidak pernah menyentuh batas naik atau turun harian (0 kali).",
+    "volatility_90d": "Naik-turun harganya 5,66% dalam 90 hari, jauh lebih tenang dari batas subsektor 22,32%.",
+    "drawdown_90d": "Penurunan terdalam dari harga puncak dalam 90 hari 8,97%, lebih ringan dari batas subsektor 23,23%.",
+    "unexplained_move": "Pada hari bursa terakhir harga turun 2,16%, jadi tidak ada lonjakan harga yang perlu dijelaskan.",
+    "special_notation": "Tidak ada tanda peringatan khusus dari BEI di kode saham ini per 22 September 2026.",
+    "special_monitoring_board": "ANTM tidak berada di Papan Pemantauan Khusus, jadi diperdagangkan normal per 22 September 2026.",
+    "suspension_uma": "Perdagangan ANTM tidak pernah dihentikan BEI sejak 24 Juni 2026.",
+    "negative_news": "Ada 4 berita bernada negatif sejak 15 September 2026, di atas ambang 3; kebanyakan soal aksi jual asing dan tekanan saham nikel.",
+    "dilution_event": "Tidak ada right issue atau waran sejak 24 Juni 2026, jadi porsi kepemilikan pemegang saham tidak terdilusi.",
+    "accrual_ratio": "Laba 2025 melebihi kas yang benar-benar masuk sebesar 4,85% dari aset, di atas kebanyakan saham sejenis (0,57%); cek laporan arus kasnya."
+  },
+  "news": {
+    "berita_1": "Analis menilai saham nikel masih tertekan karena kelebihan pasokan global serta aturan RKAB dan harga patokan mineral.",
+    "berita_2": "Saham-saham nikel melemah karena ketidakpastian izin RKAB dan perubahan aturan harga patokan mineral.",
+    "berita_3": "Investor asing menjual bersih saham Indonesia di awal pekan, dan ANTM termasuk saham yang paling banyak dilepas.",
+    "berita_4": "Aksi jual asing melanda bursa; beritanya menyorot BBCA dan BMRI, bukan ANTM secara khusus."
+  }
+}

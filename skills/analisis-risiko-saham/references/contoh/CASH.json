@@ -1,0 +1,41 @@
+{
+  "summary": "Skor risiko CASH 31 dari 100, grade B: ekuitasnya sudah negatif dan saham ini tercatat di Papan Pemantauan Khusus.",
+  "verdicts": {
+    "ukuran_likuiditas": "Transaksi hariannya cukup ramai, dan free float masih di atas batas Papan Akselerasi.",
+    "kesehatan_keuangan": "Keuangan tertekan: ekuitas negatif, liabilitas jauh di atas sejenis, dan skor Altman di zona bermasalah.",
+    "kepemilikan": "Tidak ada penjualan orang dalam, dan porsi ritel stabil.",
+    "perilaku_harga": "Harga sering menyentuh batas harian: 5 kali dalam 10 hari bursa.",
+    "peristiwa": "BEI memberi notasi E dan menempatkan CASH di Papan Pemantauan Khusus; ada juga right issue pada 9 Juli 2026."
+  },
+  "explanations": {
+    "free_float": "14,14% saham CASH beredar bebas, di atas batas minimum Papan Akselerasi 7,5%.",
+    "daily_liquidity": "Transaksi rata-rata Rp650,37 juta per hari, jauh di atas batas saham sepi BEI Rp5 juta.",
+    "sub_51_price": "Tidak dinilai karena CASH tercatat di Papan Akselerasi; harga rata-ratanya Rp215,71.",
+    "volume_spike": "Volume hari ini 1.872.500 lembar, di bawah batas lonjakan 8.833.205 lembar, jadi perdagangan berjalan biasa.",
+    "broker_concentration": "Belum bisa dinilai karena riwayat data broker baru 19 hari bursa dari 20 yang dibutuhkan.",
+    "relative_liquidity": "Nilai transaksinya Rp650,37 juta per hari, di atas saham tersepi di subsektornya yang Rp139,59 juta.",
+    "negative_equity": "Modal pemilik sudah habis: ekuitas -Rp37,61 miliar per 30 Juni 2026, artinya utang lebih besar dari aset.",
+    "no_revenue": "Perusahaan masih mencatat pendapatan Rp110,19 miliar pada 2025, jadi usahanya berjalan.",
+    "debt_to_equity": "Liabilitasnya 3,38× modal sendiri pada 2025, jauh di atas batas saham sejenis 0,88×.",
+    "altman_z": "Skor kesehatan keuangan Altman -3,12 pada 2025, di bawah batas 1,1, menandakan risiko kesulitan keuangan tinggi.",
+    "piotroski_f": "Belum bisa dihitung karena data utang jangka panjang 2024 tidak tersedia.",
+    "pe_vs_peer": "Tidak dinilai karena PER negatif (-2,16×) saat perusahaan merugi, sehingga tidak bisa dibandingkan.",
+    "pb_vs_peer": "Tidak dinilai karena PBV negatif (-11,28×) akibat ekuitas yang negatif.",
+    "graham_number": "Tidak dinilai karena rumus Graham butuh laba dan nilai buku yang positif.",
+    "insider_selling": "Tidak ada direksi, komisaris, atau pemegang saham besar yang menjual sejak 23 Agustus 2026.",
+    "insider_buying": "Tidak ada pembelian oleh orang dalam sejak 23 Agustus 2026; ini tidak memengaruhi skor.",
+    "shareholder_concentration": "CASH tidak masuk daftar BEI untuk saham yang kepemilikannya terlalu terkonsentrasi, per 23 September 2026.",
+    "retail_share_shift": "Hampir semua saham dipegang investor individu (96,05%), tetapi porsinya tidak naik dari bulan sebelumnya.",
+    "ara_arb_frequency": "Harga menyentuh batas naik atau turun harian 5 kali dalam 10 hari bursa, lebih sering dari saham sejenis (3 kali); ini pola, bukan bukti.",
+    "volatility_90d": "Naik-turun harganya 13,4% dalam 90 hari, masih di bawah batas subsektor 22,6%.",
+    "drawdown_90d": "Penurunan terdalam dari harga puncak 17,21% dalam 90 hari, masih di bawah batas subsektor 31,03%.",
+    "unexplained_move": "Pada hari bursa terakhir harga turun 9,85%, jadi bukan lonjakan naik yang perlu dijelaskan.",
+    "special_notation": "BEI menempelkan notasi E di kode saham ini karena ekuitasnya negatif, per 22 September 2026.",
+    "special_monitoring_board": "CASH ada di Papan Pemantauan Khusus, jadi diperdagangkan lewat lelang berkala dan bisa lebih sulit dijual.",
+    "suspension_uma": "Perdagangan CASH tidak pernah dihentikan BEI sejak 24 Juni 2026.",
+    "negative_news": "Tidak ada berita bernada negatif sejak 15 September 2026.",
+    "dilution_event": "Ada right issue pada 9 Juli 2026; jumlah saham bertambah dan porsi pemegang lama mengecil bila tidak ikut menebus.",
+    "accrual_ratio": "Kas yang masuk justru lebih besar dari laba yang dilaporkan (-36,03% dari aset), jadi dari sisi ini labanya tidak mengkhawatirkan."
+  },
+  "news": {}
+}
