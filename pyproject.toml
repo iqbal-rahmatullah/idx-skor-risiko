@@ -1,6 +1,9 @@
 [project]
 name = "skor-risiko"
 version = "0.1.0"
+description = "Bot Telegram yang menilai risiko saham IDX dari 28 indikator untuk investor pemula."
+readme = "README.md"
+license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
     "certifi",

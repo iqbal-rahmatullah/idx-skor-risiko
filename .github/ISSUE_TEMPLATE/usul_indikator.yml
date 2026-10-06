@@ -1,0 +1,68 @@
+name: Usul indikator
+description: Usulkan indikator baru atau perubahan ambang.
+labels: ["indikator"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Setiap ambang wajib punya sumber. Kalau tidak ada sumber resmi, jelaskan bagaimana ambangnya diturunkan dari distribusi data (persentil).
+        Indikator yang disetujui dicatat dulu di PRD bagian 10 sebelum kodenya ditulis.
+  - type: input
+    id: nama
+    attributes:
+      label: Nama indikator
+    validations:
+      required: true
+  - type: dropdown
+    id: pilar
+    attributes:
+      label: Pilar
+      options:
+        - Ukuran dan likuiditas
+        - Kesehatan keuangan
+        - Valuasi
+        - Kepemilikan dan orang dalam
+        - Perilaku harga
+        - Peristiwa dan berita
+    validations:
+      required: true
+  - type: textarea
+    id: mengukur
+    attributes:
+      label: Apa yang diukur?
+    validations:
+      required: true
+  - type: textarea
+    id: ambang
+    attributes:
+      label: Kapan bermasalah?
+      description: Ambang dan pita status (kuat, wajar, perhatian, bermasalah).
+    validations:
+      required: true
+  - type: textarea
+    id: sumber
+    attributes:
+      label: Sumber ambang
+      description: Nomor peraturan, paper, atau dasar persentil, lengkap dengan tautan.
+    validations:
+      required: true
+  - type: dropdown
+    id: jenis
+    attributes:
+      label: Jenis sumber
+      options:
+        - regulator
+        - akademik
+        - data
+    validations:
+      required: true
+  - type: textarea
+    id: data
+    attributes:
+      label: Data yang dibutuhkan
+      description: Endpoint dan field Sectors API yang dipakai, serta perkiraan kreditnya.
+  - type: textarea
+    id: khusus
+    attributes:
+      label: Kasus khusus
+      description: Perlakuan untuk bank, Papan Akselerasi, atau data yang kosong.

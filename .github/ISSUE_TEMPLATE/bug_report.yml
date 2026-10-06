@@ -1,0 +1,53 @@
+name: Laporan bug
+description: Ada yang tidak berjalan sebagaimana mestinya.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah melapor. Jangan sertakan token, API key, atau isi `.env`.
+        Celah keamanan dilaporkan lewat [SECURITY.md](https://github.com/iqbal-rahmatullah/idx-skor-risiko/blob/main/SECURITY.md), bukan di sini.
+  - type: textarea
+    id: masalah
+    attributes:
+      label: Apa yang terjadi?
+      description: Jelaskan masalahnya dan apa yang seharusnya terjadi.
+    validations:
+      required: true
+  - type: textarea
+    id: langkah
+    attributes:
+      label: Langkah untuk mereproduksi
+      placeholder: |
+        1. Jalankan bot dengan ...
+        2. Kirim /risk ANTM
+        3. ...
+    validations:
+      required: true
+  - type: dropdown
+    id: cara
+    attributes:
+      label: Cara menjalankan
+      options:
+        - Docker
+        - uv (tanpa Docker)
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode data
+      options:
+        - SECTORS_OFFLINE=true (data contoh)
+        - SECTORS_OFFLINE=false (data langsung)
+  - type: textarea
+    id: log
+    attributes:
+      label: Log atau pesan error
+      description: Hapus token dan API key sebelum menempel.
+      render: text
+  - type: input
+    id: versi
+    attributes:
+      label: Commit
+      placeholder: misalnya cde643f

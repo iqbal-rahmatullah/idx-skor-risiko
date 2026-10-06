@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" fill="none" role="img" aria-labelledby="judul desk">
+  <title id="judul">Cara kerja Skor Risiko</title>
+  <desc id="desk">Pemicu dari /risk, /regis, atau putaran 06.00 WIB membuat snapshot data dari Sectors API dan BEI. Mesin aturan menghitung 28 indikator, skor, dan grade ke indicators.json. AI menulis narasi untuk pemula, gerbang angka membuang angka karangan dan ajakan beli atau jual, lalu kartu dikirim ke topik Telegram untuk investor. Kalau AI gagal atau terlambat, kartu cadangan tanpa AI yang dikirim.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .eyebrow { font-size: 12px; letter-spacing: 3px; fill: #34d399; }
+    .headline { font-size: 22px; font-weight: 700; fill: #edf1f6; }
+    .num { font-size: 12px; fill: #ffffff; fill-opacity: 0.32; }
+    .title { font-size: 15px; font-weight: 600; fill: #edf1f6; }
+    .title.mono { font-size: 14px; }
+    .sub { font-size: 12px; fill: #8c97a8; }
+    .note { font-size: 12px; }
+    .tiny { font-size: 11px; fill: #ffffff; fill-opacity: 0.4; }
+    .flow { stroke-dasharray: 28 72; animation: flow 1.6s linear infinite; }
+    .glow { opacity: 0; animation: glow 6.4s ease-in-out infinite; }
+    .blink { animation: blink 3.2s ease-in-out infinite; }
+    .fallback { stroke-dasharray: 6 7; animation: march 1.4s linear infinite; }
+    @keyframes flow { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -100; } }
+    @keyframes glow { 0%, 16%, 100% { opacity: 0; } 5%, 11% { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    @keyframes march { to { stroke-dashoffset: -13; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .glow, .blink, .fallback { animation: none; }
+      .flow { stroke-dasharray: none; stroke-opacity: 0.45; }
+    }
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="1000" height="560" rx="28"/></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+    <radialGradient id="glowA" cx="0.12" cy="0" r="0.75"><stop offset="0" stop-color="#10b981" stop-opacity="0.28"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="0.95" cy="1" r="0.6"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.16"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+    <filter id="halo" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur in="SourceGraphic" stdDeviation="0.6"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M1.5 1.5 8 5 1.5 8.5" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/></marker>
+    <marker id="arrowAmber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M1.5 1.5 8 5 1.5 8.5" stroke="#fcd34d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/></marker>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="560" fill="#05070a"/>
+    <rect width="1000" height="560" fill="url(#grid)"/>
+    <rect width="1000" height="560" fill="url(#glowA)"/>
+    <rect width="1000" height="560" fill="url(#glowB)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="559" rx="27.5" stroke="#ffffff" stroke-opacity="0.12"/>
+
+  <text class="eyebrow mono" x="48" y="58">CARA KERJA</text>
+  <text class="headline" x="48" y="92">Kode menghitung semua angka. AI hanya menjelaskan.</text>
+
+  <path d="M243 190.0H278" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:0.0s" d="M243 190.0H278" pathLength="100" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M481 190.0H516" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:0.8s" d="M481 190.0H516" pathLength="100" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M719 190.0H754" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:1.6s" d="M719 190.0H754" pathLength="100" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M857.0 257V324" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:2.4s" d="M857.0 257V324" pathLength="100" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M757 394.0H722" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:3.2s" d="M757 394.0H722" pathLength="100" stroke="#a3e635" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M519 394.0H484" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:4.0s" d="M519 394.0H484" pathLength="100" stroke="#6ee7b7" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M281 394.0H246" stroke="#ffffff" stroke-opacity="0.16" stroke-width="2" marker-end="url(#arrow)"/>
+  <path class="flow" style="animation-delay:4.8s" d="M281 394.0H246" pathLength="100" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path class="fallback" d="M857.0 461V496Q857.0 508 845.0 508H393.0Q381.0 508 381.0 496V464" stroke="#fcd34d" stroke-opacity="0.75" stroke-width="1.8" marker-end="url(#arrowAmber)"/>
+  <rect x="444.0" y="493" width="350" height="30" rx="15" fill="#0b0f15" stroke="#fcd34d" stroke-opacity="0.4"/>
+  <text class="note" x="619.0" y="512.5" text-anchor="middle" fill="#fcd34d">AI gagal atau terlambat → kartu cadangan tanpa AI</text>
+
+  <g class="blink">
+    <path d="M619.0 307.0V328" stroke="#f43f5e" stroke-opacity="0.5" stroke-dasharray="2 3"/>
+    <rect x="459.0" y="277.0" width="320" height="30" rx="15" fill="#f43f5e" fill-opacity="0.1" stroke="#f43f5e" stroke-opacity="0.45"/>
+    <circle cx="479.0" cy="292.0" r="8" fill="#f43f5e" fill-opacity="0.25"/>
+    <path d="M476.0 289.0l6 6m0-6-6 6" stroke="#fda4af" stroke-width="1.6" stroke-linecap="round"/>
+    <text class="note" x="629.0" y="296.5" text-anchor="middle" fill="#fda4af">angka karangan &amp; ajakan beli/jual dibuang</text>
+  </g>
+  <text class="note mono" x="500.0" y="382.0" text-anchor="middle" fill="#34d399">lolos</text>
+
+  <g>
+    <rect x="48" y="128" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:0.0s" x="48" y="128" width="190" height="124" rx="18" fill="#34d399" fill-opacity="0.06" stroke="#34d399" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="64" y="144" width="40" height="40" rx="12" fill="#34d399" fill-opacity="0.16" stroke="#34d399" stroke-opacity="0.35"/>
+    <g transform="translate(72 152)" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#34d399"><path d="M13 2 4.5 13.5H11L10 22l8.5-11.5H12z"/></g>
+    <text class="num mono" x="222" y="166" text-anchor="end">01</text>
+    <text class="title" x="64" y="212">Pemicu</text>
+    <text class="sub" x="64" y="234">/risk, /regis, 06.00 WIB</text>
+  </g>
+  <g>
+    <rect x="286" y="128" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:0.8s" x="286" y="128" width="190" height="124" rx="18" fill="#2dd4bf" fill-opacity="0.06" stroke="#2dd4bf" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="302" y="144" width="40" height="40" rx="12" fill="#2dd4bf" fill-opacity="0.16" stroke="#2dd4bf" stroke-opacity="0.35"/>
+    <g transform="translate(310 152)" fill="none" stroke="#2dd4bf" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#2dd4bf"><ellipse cx="12" cy="5.5" rx="7.5" ry="3"/><path d="M4.5 5.5v6.5c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3V5.5"/><path d="M4.5 12v6c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-6"/></g>
+    <text class="num mono" x="460" y="166" text-anchor="end">02</text>
+    <text class="title" x="302" y="212">Snapshot data</text>
+    <text class="sub" x="302" y="234">Sectors API + data BEI</text>
+  </g>
+  <g>
+    <rect x="524" y="128" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:1.6s" x="524" y="128" width="190" height="124" rx="18" fill="#22d3ee" fill-opacity="0.06" stroke="#22d3ee" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="540" y="144" width="40" height="40" rx="12" fill="#22d3ee" fill-opacity="0.16" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <g transform="translate(548 152)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M3.5 17a8.5 8.5 0 0 1 17 0"/><path d="M12 17 8.6 11.8"/><circle cx="12" cy="17" r="1.6" fill="currentColor"/></g>
+    <text class="num mono" x="698" y="166" text-anchor="end">03</text>
+    <text class="title" x="540" y="212">Mesin aturan</text>
+    <text class="sub" x="540" y="234">28 indikator, skor, grade</text>
+  </g>
+  <g>
+    <rect x="762" y="128" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:2.4s" x="762" y="128" width="190" height="124" rx="18" fill="#38bdf8" fill-opacity="0.06" stroke="#38bdf8" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="778" y="144" width="40" height="40" rx="12" fill="#38bdf8" fill-opacity="0.16" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <g transform="translate(786 152)" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#38bdf8"><path d="M9 4.5c-2 0-2.6 1-2.6 2.8v2.4c0 1.3-.6 2.1-1.9 2.3 1.3.2 1.9 1 1.9 2.3v2.4c0 1.8.6 2.8 2.6 2.8"/><path d="M15 4.5c2 0 2.6 1 2.6 2.8v2.4c0 1.3.6 2.1 1.9 2.3-1.3.2-1.9 1-1.9 2.3v2.4c0 1.8-.6 2.8-2.6 2.8"/></g>
+    <text class="num mono" x="936" y="166" text-anchor="end">04</text>
+    <text class="title mono" x="778" y="212">indicators.json</text>
+    <text class="sub" x="778" y="234">satu-satunya masukan AI</text>
+  </g>
+  <g>
+    <rect x="762" y="332" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:3.2s" x="762" y="332" width="190" height="124" rx="18" fill="#a3e635" fill-opacity="0.06" stroke="#a3e635" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="778" y="348" width="40" height="40" rx="12" fill="#a3e635" fill-opacity="0.16" stroke="#a3e635" stroke-opacity="0.35"/>
+    <g transform="translate(786 356)" fill="none" stroke="#a3e635" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#a3e635"><path d="M11 3.5 12.9 9l5.6 1.9-5.6 1.9L11 18.4l-1.9-5.6-5.6-1.9L9.1 9z"/><path d="m18.5 15.5.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></g>
+    <text class="num mono" x="936" y="370" text-anchor="end">05</text>
+    <text class="title" x="778" y="416">AI + skill</text>
+    <text class="sub" x="778" y="438">narasi untuk pemula</text>
+  </g>
+  <g>
+    <rect x="524" y="332" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:4.0s" x="524" y="332" width="190" height="124" rx="18" fill="#6ee7b7" fill-opacity="0.06" stroke="#6ee7b7" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="540" y="348" width="40" height="40" rx="12" fill="#6ee7b7" fill-opacity="0.16" stroke="#6ee7b7" stroke-opacity="0.35"/>
+    <g transform="translate(548 356)" fill="none" stroke="#6ee7b7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#6ee7b7"><path d="M12 2.8 19.5 6v5.4c0 4.6-3.1 8.2-7.5 9.8-4.4-1.6-7.5-5.2-7.5-9.8V6z"/><path d="m8.8 12 2.2 2.2 4.3-4.4"/></g>
+    <text class="num mono" x="698" y="370" text-anchor="end">06</text>
+    <text class="title" x="540" y="416">Gerbang angka</text>
+    <text class="sub" x="540" y="438">cek setiap angka</text>
+  </g>
+  <g>
+    <rect x="286" y="332" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:4.8s" x="286" y="332" width="190" height="124" rx="18" fill="#34d399" fill-opacity="0.06" stroke="#34d399" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="302" y="348" width="40" height="40" rx="12" fill="#34d399" fill-opacity="0.16" stroke="#34d399" stroke-opacity="0.35"/>
+    <g transform="translate(310 356)" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#34d399"><path d="M21.5 3 3 10.4l7.4 2.7 2.7 7.4z"/><path d="m10.4 13.1 5.4-5.4"/></g>
+    <text class="num mono" x="460" y="370" text-anchor="end">07</text>
+    <text class="title" x="302" y="416">Kartu Telegram</text>
+    <text class="sub" x="302" y="438">satu topik per saham</text>
+  </g>
+  <g>
+    <rect x="48" y="332" width="190" height="124" rx="18" fill="#0b0f15" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect class="glow" style="animation-delay:5.6s" x="48" y="332" width="190" height="124" rx="18" fill="#2dd4bf" fill-opacity="0.06" stroke="#2dd4bf" stroke-width="1.5" filter="url(#halo)"/>
+    <rect x="64" y="348" width="40" height="40" rx="12" fill="#2dd4bf" fill-opacity="0.16" stroke="#2dd4bf" stroke-opacity="0.35"/>
+    <g transform="translate(72 356)" fill="none" stroke="#2dd4bf" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#2dd4bf"><circle cx="12" cy="8" r="4"/><path d="M4.5 21c0-4.1 3.4-7 7.5-7s7.5 2.9 7.5 7"/></g>
+    <text class="num mono" x="222" y="370" text-anchor="end">08</text>
+    <text class="title" x="64" y="416">Investor pemula</text>
+    <text class="sub" x="64" y="438">paham sebelum memutuskan</text>
+  </g>
+  <path d="M48 534h22" stroke="#ffffff" stroke-opacity="0.45" stroke-width="2"/>
+  <text class="tiny" x="78" y="538">alur utama</text>
+  <path class="fallback" d="M160 534h22" stroke="#fcd34d" stroke-opacity="0.75" stroke-width="1.8"/>
+  <text class="tiny" x="190" y="538">jalur cadangan</text>
+  <text class="tiny mono" x="952" y="538" text-anchor="end">skor-risiko.pages.dev</text>
+</svg>
