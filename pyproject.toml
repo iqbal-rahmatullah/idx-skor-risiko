@@ -5,9 +5,10 @@ requires-python = ">=3.11"
 dependencies = [
     "certifi",
     "httpx>=0.28",
+    "openai>=3.19,<4",
     "pydantic>=2",
     "pydantic-settings>=2",
-    "python-telegram-bot>=22,<23",
+    "python-telegram-bot[job-queue,rate-limiter]>=22,<23",
     "sqlalchemy>=2",
 ]
 
