@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-06-24",
+    "close": 220,
+    "open": 226,
+    "high": 228,
+    "low": 218,
+    "volume": 26800,
+    "market_cap": 1807380603380
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-06-25",
+    "close": 226,
+    "open": 232,
+    "high": 238,
+    "low": 218,
+    "volume": 82100,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-06-26",
+    "close": 222,
+    "open": 230,
+    "high": 230,
+    "low": 220,
+    "volume": 61100,
+    "market_cap": 1823811336138
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-06-29",
+    "close": 220,
+    "open": 220,
+    "high": 230,
+    "low": 220,
+    "volume": 6200,
+    "market_cap": 1807380603380
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-06-30",
+    "close": 220,
+    "open": 220,
+    "high": 220,
+    "low": 220,
+    "volume": 2200,
+    "market_cap": 1807380603380
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-01",
+    "close": 232,
+    "open": 220,
+    "high": 232,
+    "low": 212,
+    "volume": 30400,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-02",
+    "close": 222,
+    "open": 228,
+    "high": 228,
+    "low": 210,
+    "volume": 47200,
+    "market_cap": 1823811336138
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-03",
+    "close": 228,
+    "open": 222,
+    "high": 228,
+    "low": 218,
+    "volume": 39000,
+    "market_cap": 1873103534412
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-06",
+    "close": 228,
+    "open": 228,
+    "high": 230,
+    "low": 228,
+    "volume": 41200,
+    "market_cap": 1873103534412
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-07",
+    "close": 228,
+    "open": 232,
+    "high": 232,
+    "low": 220,
+    "volume": 2100,
+    "market_cap": 1873103534412
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-08",
+    "close": 216,
+    "open": 228,
+    "high": 228,
+    "low": 214,
+    "volume": 37100,
+    "market_cap": 1774519137864
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-09",
+    "close": 218,
+    "open": 220,
+    "high": 220,
+    "low": 216,
+    "volume": 171300,
+    "market_cap": 1790949870622
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-10",
+    "close": 220,
+    "open": 218,
+    "high": 220,
+    "low": 218,
+    "volume": 3700,
+    "market_cap": 1807380603380
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-13",
+    "close": 220,
+    "open": 220,
+    "high": 228,
+    "low": 220,
+    "volume": 8000,
+    "market_cap": 1807380603380
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-14",
+    "close": 226,
+    "open": 230,
+    "high": 230,
+    "low": 224,
+    "volume": 15000,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-15",
+    "close": 226,
+    "open": 228,
+    "high": 234,
+    "low": 220,
+    "volume": 39600,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-16",
+    "close": 226,
+    "open": 224,
+    "high": 226,
+    "low": 218,
+    "volume": 41900,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-17",
+    "close": 226,
+    "open": 226,
+    "high": 230,
+    "low": 226,
+    "volume": 60400,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-20",
+    "close": 226,
+    "open": 234,
+    "high": 236,
+    "low": 224,
+    "volume": 14300,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-21",
+    "close": 238,
+    "open": 226,
+    "high": 238,
+    "low": 226,
+    "volume": 364900,
+    "market_cap": 1955257198202
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-22",
+    "close": 230,
+    "open": 238,
+    "high": 238,
+    "low": 230,
+    "volume": 106600,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-23",
+    "close": 248,
+    "open": 230,
+    "high": 270,
+    "low": 228,
+    "volume": 386100,
+    "market_cap": 2037410861992
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-24",
+    "close": 232,
+    "open": 248,
+    "high": 260,
+    "low": 224,
+    "volume": 423800,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-27",
+    "close": 250,
+    "open": 232,
+    "high": 250,
+    "low": 224,
+    "volume": 285200,
+    "market_cap": 2053841594750
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-28",
+    "close": 248,
+    "open": 250,
+    "high": 260,
+    "low": 230,
+    "volume": 382700,
+    "market_cap": 2037410861992
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-29",
+    "close": 230,
+    "open": 246,
+    "high": 246,
+    "low": 228,
+    "volume": 739800,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-30",
+    "close": 232,
+    "open": 234,
+    "high": 234,
+    "low": 230,
+    "volume": 41900,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-07-31",
+    "close": 234,
+    "open": 232,
+    "high": 234,
+    "low": 232,
+    "volume": 5400,
+    "market_cap": 1922395732686
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-03",
+    "close": 234,
+    "open": 232,
+    "high": 236,
+    "low": 230,
+    "volume": 55800,
+    "market_cap": 1922395732686
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-04",
+    "close": 236,
+    "open": 236,
+    "high": 240,
+    "low": 236,
+    "volume": 87400,
+    "market_cap": 1938826465444
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-05",
+    "close": 230,
+    "open": 236,
+    "high": 236,
+    "low": 230,
+    "volume": 100000,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-06",
+    "close": 230,
+    "open": 232,
+    "high": 234,
+    "low": 230,
+    "volume": 42800,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-07",
+    "close": 230,
+    "open": 230,
+    "high": 234,
+    "low": 230,
+    "volume": 52500,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-10",
+    "close": 232,
+    "open": 230,
+    "high": 232,
+    "low": 230,
+    "volume": 41500,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-11",
+    "close": 230,
+    "open": 234,
+    "high": 234,
+    "low": 220,
+    "volume": 105000,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-12",
+    "close": 232,
+    "open": 230,
+    "high": 232,
+    "low": 228,
+    "volume": 36800,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-13",
+    "close": 228,
+    "open": 232,
+    "high": 232,
+    "low": 228,
+    "volume": 32900,
+    "market_cap": 1873103534412
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-14",
+    "close": 230,
+    "open": 228,
+    "high": 254,
+    "low": 228,
+    "volume": 921000,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-18",
+    "close": 226,
+    "open": 230,
+    "high": 230,
+    "low": 220,
+    "volume": 427500,
+    "market_cap": 1856672801654
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-19",
+    "close": 230,
+    "open": 234,
+    "high": 234,
+    "low": 226,
+    "volume": 26900,
+    "market_cap": 1889534267170
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-20",
+    "close": 234,
+    "open": 230,
+    "high": 236,
+    "low": 228,
+    "volume": 252300,
+    "market_cap": 1922395732686
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-21",
+    "close": 236,
+    "open": 236,
+    "high": 242,
+    "low": 236,
+    "volume": 290900,
+    "market_cap": 1938826465444
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-24",
+    "close": 238,
+    "open": 238,
+    "high": 242,
+    "low": 228,
+    "volume": 35700,
+    "market_cap": 1955257198202
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-26",
+    "close": 232,
+    "open": 238,
+    "high": 238,
+    "low": 230,
+    "volume": 94900,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-27",
+    "close": 232,
+    "open": 234,
+    "high": 238,
+    "low": 232,
+    "volume": 25700,
+    "market_cap": 1905964999928
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-28",
+    "close": 238,
+    "open": 232,
+    "high": 238,
+    "low": 230,
+    "volume": 5900,
+    "market_cap": 1955257198202
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-08-31",
+    "close": 242,
+    "open": 240,
+    "high": 252,
+    "low": 240,
+    "volume": 419000,
+    "market_cap": 1988118663718
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-01",
+    "close": 250,
+    "open": 258,
+    "high": 258,
+    "low": 240,
+    "volume": 286600,
+    "market_cap": 2053841594750
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-02",
+    "close": 252,
+    "open": 250,
+    "high": 256,
+    "low": 248,
+    "volume": 47900,
+    "market_cap": 2070272327508
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-03",
+    "close": 258,
+    "open": 252,
+    "high": 258,
+    "low": 248,
+    "volume": 351600,
+    "market_cap": 2119564525782
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-04",
+    "close": 254,
+    "open": 258,
+    "high": 258,
+    "low": 250,
+    "volume": 8300,
+    "market_cap": 2086703060266
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-07",
+    "close": 254,
+    "open": 256,
+    "high": 256,
+    "low": 250,
+    "volume": 19000,
+    "market_cap": 2086703060266
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-08",
+    "close": 252,
+    "open": 256,
+    "high": 260,
+    "low": 244,
+    "volume": 58100,
+    "market_cap": 2070272327508
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-09",
+    "close": 256,
+    "open": 258,
+    "high": 258,
+    "low": 252,
+    "volume": 62700,
+    "market_cap": 2103133793024
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-10",
+    "close": 262,
+    "open": 256,
+    "high": 264,
+    "low": 256,
+    "volume": 196200,
+    "market_cap": 2152425991298
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-11",
+    "close": 254,
+    "open": 260,
+    "high": 260,
+    "low": 250,
+    "volume": 253600,
+    "market_cap": 2086703060266
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-14",
+    "close": 256,
+    "open": 254,
+    "high": 258,
+    "low": 252,
+    "volume": 17300,
+    "market_cap": 2103133793024
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-15",
+    "close": 252,
+    "open": 256,
+    "high": 256,
+    "low": 250,
+    "volume": 16400,
+    "market_cap": 2070272327508
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-16",
+    "close": 250,
+    "open": 254,
+    "high": 258,
+    "low": 250,
+    "volume": 36100,
+    "market_cap": 2053841594750
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-17",
+    "close": 254,
+    "open": 252,
+    "high": 254,
+    "low": 250,
+    "volume": 168600,
+    "market_cap": 2086703060266
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-18",
+    "close": 252,
+    "open": 254,
+    "high": 254,
+    "low": 250,
+    "volume": 28500,
+    "market_cap": 2070272327508
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-21",
+    "close": 252,
+    "open": 252,
+    "high": 256,
+    "low": 250,
+    "volume": 37500,
+    "market_cap": 2070272327508
+  },
+  {
+    "symbol": "KMTR.JK",
+    "date": "2026-09-22",
+    "close": 248,
+    "open": 252,
+    "high": 258,
+    "low": 246,
+    "volume": 72000,
+    "market_cap": 2037410861992
+  }
+]

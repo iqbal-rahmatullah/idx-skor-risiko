@@ -1,0 +1,142 @@
+{
+  "results": [
+    {
+      "symbol": "PART.JK",
+      "company_name": "PT Cipta Perdana Lancar Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": 0.0283018867924528
+      }
+    },
+    {
+      "symbol": "DRMA.JK",
+      "company_name": "PT Dharma Polimetal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": 0.0158730158730159
+      }
+    },
+    {
+      "symbol": "KAQI.JK",
+      "company_name": "PT Jantra Grupo Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": 0.010752688172043
+      }
+    },
+    {
+      "symbol": "BRAM.JK",
+      "company_name": "Indo Kordsa Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": 0.00213675213675214
+      }
+    },
+    {
+      "symbol": "AEGS.JK",
+      "company_name": "PT Anugerah Spareparts Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "AUTO.JK",
+      "company_name": "Astra Otoparts Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0029673590504451
+      }
+    },
+    {
+      "symbol": "GJTL.JK",
+      "company_name": "Gajah Tunggal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.00383141762452107
+      }
+    },
+    {
+      "symbol": "LPIN.JK",
+      "company_name": "Multi Prima Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.00462962962962963
+      }
+    },
+    {
+      "symbol": "SMSM.JK",
+      "company_name": "Selamat Sempurna Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0117647058823529
+      }
+    },
+    {
+      "symbol": "VKTR.JK",
+      "company_name": "PT VKTR Teknologi Mobilitas Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0128205128205128
+      }
+    },
+    {
+      "symbol": "INDS.JK",
+      "company_name": "Indospring Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0158730158730159
+      }
+    },
+    {
+      "symbol": "TYRE.JK",
+      "company_name": "PT King Tire Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0178571428571429
+      }
+    },
+    {
+      "symbol": "GDYR.JK",
+      "company_name": "Goodyear Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0225225225225225
+      }
+    },
+    {
+      "symbol": "LMAX.JK",
+      "company_name": "PT Lupromax Pelumas Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.036697247706422
+      }
+    },
+    {
+      "symbol": "ISAP.JK",
+      "company_name": "PT Isra Presisi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.04
+      }
+    },
+    {
+      "symbol": "BOLT.JK",
+      "company_name": "PT Garuda Metalindo Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "daily_close_change": -0.0542168674698795
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 16,
+    "showing": 16,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

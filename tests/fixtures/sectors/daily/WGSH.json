@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-06-24",
+    "close": 109,
+    "open": 106,
+    "high": 115,
+    "low": 104,
+    "volume": 5033400,
+    "market_cap": 227265000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-06-25",
+    "close": 118,
+    "open": 109,
+    "high": 119,
+    "low": 107,
+    "volume": 3460100,
+    "market_cap": 246030000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-06-26",
+    "close": 115,
+    "open": 119,
+    "high": 127,
+    "low": 113,
+    "volume": 5739700,
+    "market_cap": 239775000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-06-29",
+    "close": 117,
+    "open": 114,
+    "high": 122,
+    "low": 106,
+    "volume": 5785500,
+    "market_cap": 243945000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-06-30",
+    "close": 120,
+    "open": 124,
+    "high": 127,
+    "low": 116,
+    "volume": 3667400,
+    "market_cap": 250200000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-01",
+    "close": 120,
+    "open": 118,
+    "high": 123,
+    "low": 115,
+    "volume": 1517300,
+    "market_cap": 250200000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-02",
+    "close": 130,
+    "open": 120,
+    "high": 130,
+    "low": 114,
+    "volume": 5728100,
+    "market_cap": 271050000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-03",
+    "close": 137,
+    "open": 131,
+    "high": 138,
+    "low": 125,
+    "volume": 5332400,
+    "market_cap": 285645000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-06",
+    "close": 147,
+    "open": 137,
+    "high": 147,
+    "low": 137,
+    "volume": 12763200,
+    "market_cap": 306495000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-07",
+    "close": 141,
+    "open": 147,
+    "high": 148,
+    "low": 134,
+    "volume": 4052100,
+    "market_cap": 293985000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-08",
+    "close": 128,
+    "open": 141,
+    "high": 141,
+    "low": 127,
+    "volume": 6843200,
+    "market_cap": 266880000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-09",
+    "close": 130,
+    "open": 130,
+    "high": 133,
+    "low": 121,
+    "volume": 1867400,
+    "market_cap": 271050000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-10",
+    "close": 131,
+    "open": 128,
+    "high": 136,
+    "low": 125,
+    "volume": 5619800,
+    "market_cap": 273135000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-13",
+    "close": 129,
+    "open": 131,
+    "high": 135,
+    "low": 126,
+    "volume": 924200,
+    "market_cap": 268965000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-14",
+    "close": 141,
+    "open": 129,
+    "high": 141,
+    "low": 118,
+    "volume": 14467700,
+    "market_cap": 293985000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-15",
+    "close": 147,
+    "open": 142,
+    "high": 149,
+    "low": 139,
+    "volume": 14254700,
+    "market_cap": 306495000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-16",
+    "close": 150,
+    "open": 147,
+    "high": 151,
+    "low": 136,
+    "volume": 14852100,
+    "market_cap": 312750000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-17",
+    "close": 143,
+    "open": 150,
+    "high": 150,
+    "low": 140,
+    "volume": 14667100,
+    "market_cap": 298155000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-20",
+    "close": 139,
+    "open": 143,
+    "high": 145,
+    "low": 130,
+    "volume": 3084400,
+    "market_cap": 289815000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-21",
+    "close": 131,
+    "open": 140,
+    "high": 140,
+    "low": 130,
+    "volume": 11943000,
+    "market_cap": 273135000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-22",
+    "close": 130,
+    "open": 132,
+    "high": 136,
+    "low": 126,
+    "volume": 4912300,
+    "market_cap": 271050000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-23",
+    "close": 131,
+    "open": 130,
+    "high": 134,
+    "low": 127,
+    "volume": 5330400,
+    "market_cap": 273135000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-24",
+    "close": 129,
+    "open": 131,
+    "high": 142,
+    "low": 128,
+    "volume": 11310000,
+    "market_cap": 268965000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-27",
+    "close": 133,
+    "open": 131,
+    "high": 141,
+    "low": 129,
+    "volume": 20181800,
+    "market_cap": 277305000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-28",
+    "close": 146,
+    "open": 136,
+    "high": 146,
+    "low": 130,
+    "volume": 82155800,
+    "market_cap": 304410000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-29",
+    "close": 153,
+    "open": 147,
+    "high": 160,
+    "low": 140,
+    "volume": 30245300,
+    "market_cap": 319005000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-30",
+    "close": 156,
+    "open": 154,
+    "high": 161,
+    "low": 143,
+    "volume": 24139600,
+    "market_cap": 325260000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-07-31",
+    "close": 169,
+    "open": 150,
+    "high": 169,
+    "low": 145,
+    "volume": 22072400,
+    "market_cap": 352365000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-03",
+    "close": 157,
+    "open": 168,
+    "high": 170,
+    "low": 155,
+    "volume": 17544700,
+    "market_cap": 327345000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-04",
+    "close": 168,
+    "open": 157,
+    "high": 169,
+    "low": 148,
+    "volume": 14153100,
+    "market_cap": 350280000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-05",
+    "close": 167,
+    "open": 162,
+    "high": 169,
+    "low": 159,
+    "volume": 10972500,
+    "market_cap": 348195000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-06",
+    "close": 173,
+    "open": 166,
+    "high": 179,
+    "low": 163,
+    "volume": 21855400,
+    "market_cap": 360705000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-07",
+    "close": 173,
+    "open": 174,
+    "high": 175,
+    "low": 165,
+    "volume": 14636300,
+    "market_cap": 360705000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-10",
+    "close": 175,
+    "open": 169,
+    "high": 176,
+    "low": 166,
+    "volume": 25134400,
+    "market_cap": 364875000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-11",
+    "close": 180,
+    "open": 174,
+    "high": 180,
+    "low": 166,
+    "volume": 17500500,
+    "market_cap": 375300000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-12",
+    "close": 187,
+    "open": 179,
+    "high": 190,
+    "low": 175,
+    "volume": 11607800,
+    "market_cap": 389895000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-13",
+    "close": 185,
+    "open": 186,
+    "high": 189,
+    "low": 180,
+    "volume": 7575400,
+    "market_cap": 385725000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-14",
+    "close": 195,
+    "open": 185,
+    "high": 197,
+    "low": 181,
+    "volume": 34208900,
+    "market_cap": 406575000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-18",
+    "close": 181,
+    "open": 195,
+    "high": 208,
+    "low": 181,
+    "volume": 35644700,
+    "market_cap": 377385000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-19",
+    "close": 172,
+    "open": 181,
+    "high": 185,
+    "low": 172,
+    "volume": 22869600,
+    "market_cap": 358620000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-20",
+    "close": 174,
+    "open": 177,
+    "high": 177,
+    "low": 164,
+    "volume": 15295800,
+    "market_cap": 362790000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-21",
+    "close": 180,
+    "open": 174,
+    "high": 181,
+    "low": 168,
+    "volume": 44819000,
+    "market_cap": 375300000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-24",
+    "close": 176,
+    "open": 180,
+    "high": 180,
+    "low": 172,
+    "volume": 39503300,
+    "market_cap": 366960000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-26",
+    "close": 160,
+    "open": 163,
+    "high": 181,
+    "low": 160,
+    "volume": 37640900,
+    "market_cap": 333600000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-27",
+    "close": 151,
+    "open": 163,
+    "high": 174,
+    "low": 145,
+    "volume": 47323400,
+    "market_cap": 314835000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-28",
+    "close": 155,
+    "open": 153,
+    "high": 160,
+    "low": 149,
+    "volume": 21276300,
+    "market_cap": 323175000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-08-31",
+    "close": 152,
+    "open": 156,
+    "high": 158,
+    "low": 151,
+    "volume": 21040400,
+    "market_cap": 316920000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-01",
+    "close": 164,
+    "open": 157,
+    "high": 164,
+    "low": 152,
+    "volume": 65855500,
+    "market_cap": 341940000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-02",
+    "close": 169,
+    "open": 171,
+    "high": 173,
+    "low": 163,
+    "volume": 63297500,
+    "market_cap": 352365000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-03",
+    "close": 160,
+    "open": 165,
+    "high": 172,
+    "low": 156,
+    "volume": 31512400,
+    "market_cap": 333600000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-04",
+    "close": 160,
+    "open": 162,
+    "high": 163,
+    "low": 155,
+    "volume": 9388600,
+    "market_cap": 333600000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-07",
+    "close": 160,
+    "open": 157,
+    "high": 162,
+    "low": 150,
+    "volume": 37095900,
+    "market_cap": 333600000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-08",
+    "close": 160,
+    "open": 160,
+    "high": 164,
+    "low": 155,
+    "volume": 14788300,
+    "market_cap": 333600000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-09",
+    "close": 156,
+    "open": 159,
+    "high": 164,
+    "low": 154,
+    "volume": 67170900,
+    "market_cap": 325260000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-10",
+    "close": 141,
+    "open": 156,
+    "high": 160,
+    "low": 141,
+    "volume": 54847200,
+    "market_cap": 293985000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-11",
+    "close": 136,
+    "open": 142,
+    "high": 142,
+    "low": 132,
+    "volume": 26269600,
+    "market_cap": 283560000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-14",
+    "close": 133,
+    "open": 136,
+    "high": 139,
+    "low": 128,
+    "volume": 29286800,
+    "market_cap": 277305000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-15",
+    "close": 136,
+    "open": 136,
+    "high": 137,
+    "low": 131,
+    "volume": 32029100,
+    "market_cap": 283560000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-16",
+    "close": 130,
+    "open": 137,
+    "high": 139,
+    "low": 130,
+    "volume": 18233500,
+    "market_cap": 271050000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-17",
+    "close": 131,
+    "open": 126,
+    "high": 134,
+    "low": 120,
+    "volume": 22887000,
+    "market_cap": 273135000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-18",
+    "close": 123,
+    "open": 130,
+    "high": 133,
+    "low": 123,
+    "volume": 12019600,
+    "market_cap": 256455000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-21",
+    "close": 121,
+    "open": 124,
+    "high": 132,
+    "low": 121,
+    "volume": 15810900,
+    "market_cap": 252285000000
+  },
+  {
+    "symbol": "WGSH.JK",
+    "date": "2026-09-22",
+    "close": 117,
+    "open": 121,
+    "high": 124,
+    "low": 113,
+    "volume": 6888700,
+    "market_cap": 243945000000
+  }
+]

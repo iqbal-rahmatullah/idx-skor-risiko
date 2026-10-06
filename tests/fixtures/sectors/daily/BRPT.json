@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-06-24",
+    "close": 1515,
+    "open": 1675,
+    "high": 1700,
+    "low": 1515,
+    "volume": 138891300,
+    "market_cap": 142027035336660
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-06-25",
+    "close": 1580,
+    "open": 1520,
+    "high": 1635,
+    "low": 1520,
+    "volume": 178200300,
+    "market_cap": 148120604509520
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-06-26",
+    "close": 1465,
+    "open": 1580,
+    "high": 1595,
+    "low": 1460,
+    "volume": 202958600,
+    "market_cap": 137339674434460
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-06-29",
+    "close": 1405,
+    "open": 1470,
+    "high": 1480,
+    "low": 1400,
+    "volume": 138758200,
+    "market_cap": 131714841351820
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-06-30",
+    "close": 1285,
+    "open": 1415,
+    "high": 1425,
+    "low": 1270,
+    "volume": 251384100,
+    "market_cap": 120465175186540
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-01",
+    "close": 1380,
+    "open": 1285,
+    "high": 1460,
+    "low": 1280,
+    "volume": 387639800,
+    "market_cap": 129371160900720
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-02",
+    "close": 1500,
+    "open": 1380,
+    "high": 1560,
+    "low": 1355,
+    "volume": 396835500,
+    "market_cap": 140620827066000
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-03",
+    "close": 1485,
+    "open": 1530,
+    "high": 1570,
+    "low": 1480,
+    "volume": 228013300,
+    "market_cap": 139214618795340
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-06",
+    "close": 1505,
+    "open": 1500,
+    "high": 1530,
+    "low": 1475,
+    "volume": 134893400,
+    "market_cap": 141089563156220
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-07",
+    "close": 1580,
+    "open": 1510,
+    "high": 1590,
+    "low": 1495,
+    "volume": 282887500,
+    "market_cap": 148120604509520
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-08",
+    "close": 1500,
+    "open": 1580,
+    "high": 1585,
+    "low": 1500,
+    "volume": 185709400,
+    "market_cap": 140620827066000
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-09",
+    "close": 1600,
+    "open": 1505,
+    "high": 1620,
+    "low": 1495,
+    "volume": 166589300,
+    "market_cap": 149995548870400
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-10",
+    "close": 1620,
+    "open": 1620,
+    "high": 1670,
+    "low": 1590,
+    "volume": 183796000,
+    "market_cap": 151870493231280
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-13",
+    "close": 1750,
+    "open": 1625,
+    "high": 1750,
+    "low": 1620,
+    "volume": 318950900,
+    "market_cap": 164057631577000
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-14",
+    "close": 1690,
+    "open": 1765,
+    "high": 1775,
+    "low": 1660,
+    "volume": 334787100,
+    "market_cap": 158432798494360
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-15",
+    "close": 1690,
+    "open": 1700,
+    "high": 1725,
+    "low": 1685,
+    "volume": 93453400,
+    "market_cap": 158432798494360
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-16",
+    "close": 1695,
+    "open": 1695,
+    "high": 1730,
+    "low": 1675,
+    "volume": 116862400,
+    "market_cap": 158901534584580
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-17",
+    "close": 1695,
+    "open": 1700,
+    "high": 1715,
+    "low": 1660,
+    "volume": 141348800,
+    "market_cap": 158901534584580
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-20",
+    "close": 1800,
+    "open": 1700,
+    "high": 1800,
+    "low": 1700,
+    "volume": 278158000,
+    "market_cap": 168744992479200
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-21",
+    "close": 1860,
+    "open": 1815,
+    "high": 1875,
+    "low": 1780,
+    "volume": 342684500,
+    "market_cap": 174369825561840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-22",
+    "close": 1830,
+    "open": 1870,
+    "high": 1925,
+    "low": 1800,
+    "volume": 331295600,
+    "market_cap": 171557409020520
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-23",
+    "close": 1790,
+    "open": 1830,
+    "high": 1905,
+    "low": 1765,
+    "volume": 342089300,
+    "market_cap": 167807520298760
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-24",
+    "close": 1745,
+    "open": 1755,
+    "high": 1780,
+    "low": 1690,
+    "volume": 205955100,
+    "market_cap": 163588895486780
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-27",
+    "close": 1725,
+    "open": 1755,
+    "high": 1770,
+    "low": 1715,
+    "volume": 114434700,
+    "market_cap": 161713951125900
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-28",
+    "close": 1745,
+    "open": 1715,
+    "high": 1805,
+    "low": 1715,
+    "volume": 113567800,
+    "market_cap": 163588895486780
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-29",
+    "close": 1785,
+    "open": 1765,
+    "high": 1795,
+    "low": 1695,
+    "volume": 198366100,
+    "market_cap": 167338784208540
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-30",
+    "close": 1790,
+    "open": 1785,
+    "high": 1815,
+    "low": 1730,
+    "volume": 93465300,
+    "market_cap": 167807520298760
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-07-31",
+    "close": 1845,
+    "open": 1830,
+    "high": 1850,
+    "low": 1800,
+    "volume": 162512500,
+    "market_cap": 172963617291180
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-03",
+    "close": 1820,
+    "open": 1890,
+    "high": 1890,
+    "low": 1780,
+    "volume": 130168400,
+    "market_cap": 170619936840080
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-04",
+    "close": 1855,
+    "open": 1830,
+    "high": 1855,
+    "low": 1805,
+    "volume": 88497700,
+    "market_cap": 173901089471620
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-05",
+    "close": 1870,
+    "open": 1870,
+    "high": 1920,
+    "low": 1860,
+    "volume": 221111300,
+    "market_cap": 175307297742280
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-06",
+    "close": 1875,
+    "open": 1880,
+    "high": 1910,
+    "low": 1845,
+    "volume": 218739200,
+    "market_cap": 175776033832500
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-07",
+    "close": 1930,
+    "open": 1885,
+    "high": 1960,
+    "low": 1875,
+    "volume": 279412500,
+    "market_cap": 180932130824920
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-10",
+    "close": 1860,
+    "open": 1945,
+    "high": 1955,
+    "low": 1860,
+    "volume": 205573700,
+    "market_cap": 174369825561840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-11",
+    "close": 1820,
+    "open": 1860,
+    "high": 1870,
+    "low": 1785,
+    "volume": 151431700,
+    "market_cap": 170619936840080
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-12",
+    "close": 1950,
+    "open": 1830,
+    "high": 1960,
+    "low": 1830,
+    "volume": 274783200,
+    "market_cap": 182807075185800
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-13",
+    "close": 1865,
+    "open": 1955,
+    "high": 1965,
+    "low": 1850,
+    "volume": 213207400,
+    "market_cap": 174838561652060
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-14",
+    "close": 1870,
+    "open": 1870,
+    "high": 1900,
+    "low": 1840,
+    "volume": 90082200,
+    "market_cap": 175307297742280
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-18",
+    "close": 1845,
+    "open": 1875,
+    "high": 1900,
+    "low": 1845,
+    "volume": 80418600,
+    "market_cap": 172963617291180
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-19",
+    "close": 1855,
+    "open": 1850,
+    "high": 1875,
+    "low": 1825,
+    "volume": 51405900,
+    "market_cap": 173901089471620
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-20",
+    "close": 1880,
+    "open": 1875,
+    "high": 1885,
+    "low": 1860,
+    "volume": 56245900,
+    "market_cap": 176244769922720
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-21",
+    "close": 1890,
+    "open": 1880,
+    "high": 1905,
+    "low": 1880,
+    "volume": 80755000,
+    "market_cap": 177182242103160
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-24",
+    "close": 1860,
+    "open": 1900,
+    "high": 1910,
+    "low": 1845,
+    "volume": 70591700,
+    "market_cap": 174369825561840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-26",
+    "close": 1750,
+    "open": 1850,
+    "high": 1855,
+    "low": 1750,
+    "volume": 102436400,
+    "market_cap": 164057631577000
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-27",
+    "close": 1840,
+    "open": 1720,
+    "high": 1840,
+    "low": 1710,
+    "volume": 66714500,
+    "market_cap": 172494881200960
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-28",
+    "close": 1830,
+    "open": 1840,
+    "high": 1875,
+    "low": 1805,
+    "volume": 88806300,
+    "market_cap": 171557409020520
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-08-31",
+    "close": 1785,
+    "open": 1840,
+    "high": 1860,
+    "low": 1785,
+    "volume": 120064100,
+    "market_cap": 167338784208540
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-01",
+    "close": 1830,
+    "open": 1790,
+    "high": 1850,
+    "low": 1785,
+    "volume": 99984700,
+    "market_cap": 171557409020520
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-02",
+    "close": 1820,
+    "open": 1840,
+    "high": 1845,
+    "low": 1795,
+    "volume": 74425000,
+    "market_cap": 170619936840080
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-03",
+    "close": 1800,
+    "open": 1830,
+    "high": 1840,
+    "low": 1800,
+    "volume": 102183600,
+    "market_cap": 168744992479200
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-04",
+    "close": 1790,
+    "open": 1805,
+    "high": 1830,
+    "low": 1785,
+    "volume": 86734000,
+    "market_cap": 167807520298760
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-07",
+    "close": 1770,
+    "open": 1795,
+    "high": 1810,
+    "low": 1765,
+    "volume": 52507400,
+    "market_cap": 165932575937880
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-08",
+    "close": 1760,
+    "open": 1775,
+    "high": 1790,
+    "low": 1755,
+    "volume": 53243600,
+    "market_cap": 164995103757440
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-09",
+    "close": 1735,
+    "open": 1760,
+    "high": 1785,
+    "low": 1725,
+    "volume": 71220700,
+    "market_cap": 162651423306340
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-10",
+    "close": 1730,
+    "open": 1740,
+    "high": 1785,
+    "low": 1720,
+    "volume": 94922600,
+    "market_cap": 162182687216120
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-11",
+    "close": 1700,
+    "open": 1720,
+    "high": 1725,
+    "low": 1685,
+    "volume": 46176900,
+    "market_cap": 159370270674800
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-14",
+    "close": 1655,
+    "open": 1705,
+    "high": 1710,
+    "low": 1610,
+    "volume": 68211700,
+    "market_cap": 155151645862820
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-15",
+    "close": 1620,
+    "open": 1655,
+    "high": 1675,
+    "low": 1620,
+    "volume": 37740300,
+    "market_cap": 151870493231280
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-16",
+    "close": 1600,
+    "open": 1630,
+    "high": 1650,
+    "low": 1600,
+    "volume": 38199400,
+    "market_cap": 149995548870400
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-17",
+    "close": 1610,
+    "open": 1605,
+    "high": 1670,
+    "low": 1600,
+    "volume": 60726100,
+    "market_cap": 150933021050840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-18",
+    "close": 1610,
+    "open": 1630,
+    "high": 1635,
+    "low": 1585,
+    "volume": 56733600,
+    "market_cap": 150933021050840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-21",
+    "close": 1610,
+    "open": 1615,
+    "high": 1650,
+    "low": 1605,
+    "volume": 43826300,
+    "market_cap": 150933021050840
+  },
+  {
+    "symbol": "BRPT.JK",
+    "date": "2026-09-22",
+    "close": 1565,
+    "open": 1610,
+    "high": 1630,
+    "low": 1545,
+    "volume": 57041500,
+    "market_cap": 146714396238860
+  }
+]

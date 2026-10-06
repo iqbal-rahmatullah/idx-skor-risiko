@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "symbol": "BIKE.JK",
+      "suspension_date": "2026-09-21",
+      "reason": "Terjadinya peningkatan harga kumulatif yang signifikan pada saham BIKE.JK, dalam rangka cooling down sebagai bentuk perlindungan bagi investor",
+      "pdf_url": "https://www.idx.co.id/Portals/0/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/2026/SEP/20260921-WAS_Suspensi_BIKE.pdf"
+    }
+  ],
+  "pagination": {
+    "total_count": 1,
+    "showing": 1,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

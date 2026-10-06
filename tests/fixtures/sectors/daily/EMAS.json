@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-06-24",
+    "close": 6825,
+    "open": 6950,
+    "high": 7050,
+    "low": 6700,
+    "volume": 17582900,
+    "market_cap": 100541573359500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-06-25",
+    "close": 7050,
+    "open": 6750,
+    "high": 7125,
+    "low": 6750,
+    "volume": 18695300,
+    "market_cap": 103856130723000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-06-26",
+    "close": 6125,
+    "open": 6900,
+    "high": 6900,
+    "low": 6050,
+    "volume": 59524200,
+    "market_cap": 90229617117500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-06-29",
+    "close": 6125,
+    "open": 6175,
+    "high": 6450,
+    "low": 6000,
+    "volume": 15455000,
+    "market_cap": 90229617117500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-06-30",
+    "close": 5600,
+    "open": 6025,
+    "high": 6025,
+    "low": 5500,
+    "volume": 23800200,
+    "market_cap": 82495649936000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-01",
+    "close": 5600,
+    "open": 5600,
+    "high": 5750,
+    "low": 5300,
+    "volume": 9128100,
+    "market_cap": 82495649936000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-02",
+    "close": 5650,
+    "open": 5725,
+    "high": 5850,
+    "low": 5625,
+    "volume": 10760400,
+    "market_cap": 83232218239000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-03",
+    "close": 5925,
+    "open": 5900,
+    "high": 6125,
+    "low": 5775,
+    "volume": 29278000,
+    "market_cap": 87283343905500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-06",
+    "close": 5775,
+    "open": 6025,
+    "high": 6100,
+    "low": 5775,
+    "volume": 8166700,
+    "market_cap": 85073638996500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-07",
+    "close": 5700,
+    "open": 5825,
+    "high": 5850,
+    "low": 5650,
+    "volume": 8686500,
+    "market_cap": 83968786542000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-08",
+    "close": 5550,
+    "open": 5625,
+    "high": 5675,
+    "low": 5475,
+    "volume": 8246800,
+    "market_cap": 81759081633000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-09",
+    "close": 5550,
+    "open": 5550,
+    "high": 5700,
+    "low": 5450,
+    "volume": 6105600,
+    "market_cap": 81759081633000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-10",
+    "close": 5575,
+    "open": 5625,
+    "high": 5650,
+    "low": 5550,
+    "volume": 4156100,
+    "market_cap": 82127365784500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-13",
+    "close": 5725,
+    "open": 5600,
+    "high": 5800,
+    "low": 5575,
+    "volume": 9840200,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-14",
+    "close": 5725,
+    "open": 5700,
+    "high": 5775,
+    "low": 5625,
+    "volume": 14810900,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-15",
+    "close": 5725,
+    "open": 5800,
+    "high": 5900,
+    "low": 5725,
+    "volume": 14532400,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-16",
+    "close": 5725,
+    "open": 5750,
+    "high": 5800,
+    "low": 5650,
+    "volume": 8010600,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-17",
+    "close": 5725,
+    "open": 5725,
+    "high": 5825,
+    "low": 5600,
+    "volume": 5574400,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-20",
+    "close": 5725,
+    "open": 5750,
+    "high": 6000,
+    "low": 5700,
+    "volume": 16820300,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-21",
+    "close": 5725,
+    "open": 5725,
+    "high": 5900,
+    "low": 5675,
+    "volume": 12628100,
+    "market_cap": 84337070693500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-22",
+    "close": 5825,
+    "open": 5825,
+    "high": 5950,
+    "low": 5725,
+    "volume": 22668400,
+    "market_cap": 85810207299500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-23",
+    "close": 6100,
+    "open": 5800,
+    "high": 6325,
+    "low": 5775,
+    "volume": 45425900,
+    "market_cap": 89861332966000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-24",
+    "close": 6175,
+    "open": 5950,
+    "high": 6325,
+    "low": 5950,
+    "volume": 33947700,
+    "market_cap": 90966185420500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-27",
+    "close": 6150,
+    "open": 6200,
+    "high": 6250,
+    "low": 6050,
+    "volume": 22546300,
+    "market_cap": 90597901269000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-28",
+    "close": 6125,
+    "open": 6150,
+    "high": 6375,
+    "low": 6100,
+    "volume": 23009100,
+    "market_cap": 90229617117500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-29",
+    "close": 6200,
+    "open": 6150,
+    "high": 6325,
+    "low": 6100,
+    "volume": 22674200,
+    "market_cap": 91334469572000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-30",
+    "close": 6300,
+    "open": 6250,
+    "high": 6400,
+    "low": 6175,
+    "volume": 22258200,
+    "market_cap": 92807606178000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-07-31",
+    "close": 6600,
+    "open": 6400,
+    "high": 6675,
+    "low": 6400,
+    "volume": 40154100,
+    "market_cap": 97227015996000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-03",
+    "close": 6725,
+    "open": 6600,
+    "high": 6725,
+    "low": 6575,
+    "volume": 19699800,
+    "market_cap": 99068436753500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-04",
+    "close": 6850,
+    "open": 6750,
+    "high": 6950,
+    "low": 6650,
+    "volume": 22234700,
+    "market_cap": 100909857511000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-05",
+    "close": 7400,
+    "open": 6975,
+    "high": 7475,
+    "low": 6925,
+    "volume": 30061800,
+    "market_cap": 109012108844000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-06",
+    "close": 7575,
+    "open": 7600,
+    "high": 7750,
+    "low": 7375,
+    "volume": 35457400,
+    "market_cap": 111590097904500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-07",
+    "close": 7475,
+    "open": 7550,
+    "high": 7550,
+    "low": 7375,
+    "volume": 17110000,
+    "market_cap": 110116961298500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-10",
+    "close": 7625,
+    "open": 7600,
+    "high": 7800,
+    "low": 7575,
+    "volume": 23245900,
+    "market_cap": 112326666207500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-11",
+    "close": 7650,
+    "open": 7675,
+    "high": 7825,
+    "low": 7475,
+    "volume": 20215300,
+    "market_cap": 112694950359000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-12",
+    "close": 7675,
+    "open": 7650,
+    "high": 7725,
+    "low": 7500,
+    "volume": 19740300,
+    "market_cap": 113063234510500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-13",
+    "close": 7600,
+    "open": 7700,
+    "high": 7725,
+    "low": 7450,
+    "volume": 8529000,
+    "market_cap": 111958382056000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-14",
+    "close": 7550,
+    "open": 7500,
+    "high": 7750,
+    "low": 7450,
+    "volume": 12170300,
+    "market_cap": 111221813753000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-18",
+    "close": 7800,
+    "open": 7600,
+    "high": 8000,
+    "low": 7600,
+    "volume": 23218400,
+    "market_cap": 114904655268000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-19",
+    "close": 7700,
+    "open": 7775,
+    "high": 7775,
+    "low": 7500,
+    "volume": 9732400,
+    "market_cap": 113431518662000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-20",
+    "close": 7900,
+    "open": 8025,
+    "high": 8100,
+    "low": 7800,
+    "volume": 23416500,
+    "market_cap": 116377791874000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-21",
+    "close": 7900,
+    "open": 7950,
+    "high": 7950,
+    "low": 7725,
+    "volume": 15432200,
+    "market_cap": 116377791874000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-24",
+    "close": 8725,
+    "open": 7900,
+    "high": 8725,
+    "low": 7875,
+    "volume": 61653600,
+    "market_cap": 128531168873500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-26",
+    "close": 9125,
+    "open": 8725,
+    "high": 9175,
+    "low": 8550,
+    "volume": 48283300,
+    "market_cap": 134423715297500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-27",
+    "close": 9125,
+    "open": 9100,
+    "high": 9150,
+    "low": 8800,
+    "volume": 20530600,
+    "market_cap": 134423715297500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-28",
+    "close": 9300,
+    "open": 9000,
+    "high": 9400,
+    "low": 8850,
+    "volume": 39335300,
+    "market_cap": 137001704358000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-08-31",
+    "close": 9600,
+    "open": 9125,
+    "high": 9700,
+    "low": 8900,
+    "volume": 84672100,
+    "market_cap": 141421114176000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-01",
+    "close": 8800,
+    "open": 9300,
+    "high": 9525,
+    "low": 8650,
+    "volume": 35124800,
+    "market_cap": 129636021328000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-02",
+    "close": 8500,
+    "open": 8450,
+    "high": 8650,
+    "low": 8250,
+    "volume": 29608800,
+    "market_cap": 125216611510000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-03",
+    "close": 8500,
+    "open": 8700,
+    "high": 8800,
+    "low": 8450,
+    "volume": 13279500,
+    "market_cap": 125216611510000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-04",
+    "close": 8675,
+    "open": 8600,
+    "high": 8725,
+    "low": 8500,
+    "volume": 13998400,
+    "market_cap": 127794600570500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-07",
+    "close": 8425,
+    "open": 8675,
+    "high": 8700,
+    "low": 8375,
+    "volume": 12694600,
+    "market_cap": 124111759055500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-08",
+    "close": 8500,
+    "open": 8475,
+    "high": 8600,
+    "low": 8375,
+    "volume": 15153100,
+    "market_cap": 125216611510000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-09",
+    "close": 8600,
+    "open": 8500,
+    "high": 8775,
+    "low": 8500,
+    "volume": 15269900,
+    "market_cap": 126689748116000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-10",
+    "close": 8600,
+    "open": 8700,
+    "high": 8750,
+    "low": 8525,
+    "volume": 14764400,
+    "market_cap": 126689748116000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-11",
+    "close": 8750,
+    "open": 8475,
+    "high": 9000,
+    "low": 8375,
+    "volume": 21268700,
+    "market_cap": 128899453025000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-14",
+    "close": 7700,
+    "open": 7900,
+    "high": 8000,
+    "low": 7475,
+    "volume": 85320100,
+    "market_cap": 113431518662000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-15",
+    "close": 7600,
+    "open": 7775,
+    "high": 7825,
+    "low": 7600,
+    "volume": 15560600,
+    "market_cap": 111958382056000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-16",
+    "close": 7475,
+    "open": 7525,
+    "high": 7650,
+    "low": 7475,
+    "volume": 13790800,
+    "market_cap": 110116961298500
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-17",
+    "close": 7600,
+    "open": 7475,
+    "high": 7650,
+    "low": 7300,
+    "volume": 10803400,
+    "market_cap": 111958382056000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-18",
+    "close": 7650,
+    "open": 7650,
+    "high": 7700,
+    "low": 7475,
+    "volume": 42896500,
+    "market_cap": 112694950359000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-21",
+    "close": 7600,
+    "open": 7750,
+    "high": 7800,
+    "low": 7525,
+    "volume": 9322300,
+    "market_cap": 111958382056000
+  },
+  {
+    "symbol": "EMAS.JK",
+    "date": "2026-09-22",
+    "close": 7600,
+    "open": 7600,
+    "high": 7750,
+    "low": 7550,
+    "volume": 7648200,
+    "market_cap": 111958382056000
+  }
+]

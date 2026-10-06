@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-06-24",
+    "close": 2390,
+    "open": 2440,
+    "high": 2450,
+    "low": 2380,
+    "volume": 870300,
+    "market_cap": 11519161870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-06-25",
+    "close": 2410,
+    "open": 2390,
+    "high": 2420,
+    "low": 2370,
+    "volume": 687700,
+    "market_cap": 11615556530000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-06-26",
+    "close": 2410,
+    "open": 2430,
+    "high": 2430,
+    "low": 2380,
+    "volume": 498200,
+    "market_cap": 11615556530000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-06-29",
+    "close": 2390,
+    "open": 2420,
+    "high": 2430,
+    "low": 2380,
+    "volume": 1030600,
+    "market_cap": 11519161870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-06-30",
+    "close": 2350,
+    "open": 2390,
+    "high": 2390,
+    "low": 2330,
+    "volume": 707700,
+    "market_cap": 11326372550000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-01",
+    "close": 2350,
+    "open": 2350,
+    "high": 2380,
+    "low": 2320,
+    "volume": 1284700,
+    "market_cap": 11326372550000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-02",
+    "close": 2360,
+    "open": 2360,
+    "high": 2390,
+    "low": 2340,
+    "volume": 768000,
+    "market_cap": 11374569880000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-03",
+    "close": 2390,
+    "open": 2350,
+    "high": 2400,
+    "low": 2350,
+    "volume": 896300,
+    "market_cap": 11519161870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-06",
+    "close": 2390,
+    "open": 2390,
+    "high": 2410,
+    "low": 2370,
+    "volume": 883100,
+    "market_cap": 11519161870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-07",
+    "close": 2460,
+    "open": 2410,
+    "high": 2480,
+    "low": 2380,
+    "volume": 2007500,
+    "market_cap": 11856543180000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-08",
+    "close": 2410,
+    "open": 2460,
+    "high": 2460,
+    "low": 2400,
+    "volume": 726900,
+    "market_cap": 11615556530000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-09",
+    "close": 2430,
+    "open": 2410,
+    "high": 2440,
+    "low": 2400,
+    "volume": 722900,
+    "market_cap": 11711951190000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-10",
+    "close": 2430,
+    "open": 2440,
+    "high": 2490,
+    "low": 2430,
+    "volume": 1647300,
+    "market_cap": 11711951190000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-13",
+    "close": 2480,
+    "open": 2440,
+    "high": 2480,
+    "low": 2430,
+    "volume": 846500,
+    "market_cap": 11952937840000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-14",
+    "close": 2520,
+    "open": 2470,
+    "high": 2520,
+    "low": 2460,
+    "volume": 1477200,
+    "market_cap": 12145727160000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-15",
+    "close": 2610,
+    "open": 2520,
+    "high": 2620,
+    "low": 2490,
+    "volume": 2695000,
+    "market_cap": 12579503130000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-16",
+    "close": 2640,
+    "open": 2600,
+    "high": 2700,
+    "low": 2570,
+    "volume": 3892600,
+    "market_cap": 12724095120000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-17",
+    "close": 2640,
+    "open": 2630,
+    "high": 2660,
+    "low": 2610,
+    "volume": 1138400,
+    "market_cap": 12724095120000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-20",
+    "close": 2640,
+    "open": 2640,
+    "high": 2690,
+    "low": 2630,
+    "volume": 3489100,
+    "market_cap": 12724095120000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-21",
+    "close": 2660,
+    "open": 2650,
+    "high": 2690,
+    "low": 2630,
+    "volume": 1479900,
+    "market_cap": 12820489780000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-22",
+    "close": 2660,
+    "open": 2660,
+    "high": 2670,
+    "low": 2630,
+    "volume": 519300,
+    "market_cap": 12820489780000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-23",
+    "close": 2620,
+    "open": 2650,
+    "high": 2660,
+    "low": 2600,
+    "volume": 764500,
+    "market_cap": 12627700460000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-24",
+    "close": 2570,
+    "open": 2600,
+    "high": 2600,
+    "low": 2550,
+    "volume": 780000,
+    "market_cap": 12386713810000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-27",
+    "close": 2620,
+    "open": 2550,
+    "high": 2630,
+    "low": 2540,
+    "volume": 1984900,
+    "market_cap": 12627700460000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-28",
+    "close": 2700,
+    "open": 2640,
+    "high": 2720,
+    "low": 2640,
+    "volume": 3281500,
+    "market_cap": 13013279100000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-29",
+    "close": 2690,
+    "open": 2710,
+    "high": 2720,
+    "low": 2670,
+    "volume": 1692800,
+    "market_cap": 12965081770000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-30",
+    "close": 2760,
+    "open": 2680,
+    "high": 2780,
+    "low": 2680,
+    "volume": 3207200,
+    "market_cap": 13302463080000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-07-31",
+    "close": 2750,
+    "open": 2780,
+    "high": 2800,
+    "low": 2750,
+    "volume": 1638800,
+    "market_cap": 13254265750000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-03",
+    "close": 2770,
+    "open": 2760,
+    "high": 2790,
+    "low": 2730,
+    "volume": 2079700,
+    "market_cap": 13350660410000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-04",
+    "close": 2770,
+    "open": 2770,
+    "high": 2790,
+    "low": 2750,
+    "volume": 3162500,
+    "market_cap": 13350660410000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-05",
+    "close": 2790,
+    "open": 2770,
+    "high": 2830,
+    "low": 2770,
+    "volume": 1765500,
+    "market_cap": 13447055070000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-06",
+    "close": 2780,
+    "open": 2790,
+    "high": 2810,
+    "low": 2780,
+    "volume": 1560200,
+    "market_cap": 13398857740000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-07",
+    "close": 2790,
+    "open": 2790,
+    "high": 2800,
+    "low": 2770,
+    "volume": 868800,
+    "market_cap": 13447055070000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-10",
+    "close": 2800,
+    "open": 2800,
+    "high": 2850,
+    "low": 2780,
+    "volume": 3567700,
+    "market_cap": 13495252400000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-11",
+    "close": 2810,
+    "open": 2820,
+    "high": 2820,
+    "low": 2790,
+    "volume": 3520400,
+    "market_cap": 13543449730000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-12",
+    "close": 2820,
+    "open": 2810,
+    "high": 2850,
+    "low": 2800,
+    "volume": 2460500,
+    "market_cap": 13591647060000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-13",
+    "close": 2820,
+    "open": 2820,
+    "high": 2840,
+    "low": 2800,
+    "volume": 842800,
+    "market_cap": 13591647060000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-14",
+    "close": 2900,
+    "open": 2820,
+    "high": 2940,
+    "low": 2820,
+    "volume": 5554600,
+    "market_cap": 13977225700000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-18",
+    "close": 2930,
+    "open": 2940,
+    "high": 2940,
+    "low": 2870,
+    "volume": 1911000,
+    "market_cap": 14121817690000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-19",
+    "close": 2930,
+    "open": 2930,
+    "high": 2970,
+    "low": 2870,
+    "volume": 2473400,
+    "market_cap": 14121817690000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-20",
+    "close": 2950,
+    "open": 2930,
+    "high": 2970,
+    "low": 2920,
+    "volume": 1583800,
+    "market_cap": 14218212350000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-21",
+    "close": 3020,
+    "open": 2930,
+    "high": 3030,
+    "low": 2930,
+    "volume": 3679300,
+    "market_cap": 14555593660000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-24",
+    "close": 3100,
+    "open": 3020,
+    "high": 3140,
+    "low": 3000,
+    "volume": 6633700,
+    "market_cap": 14941172300000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-26",
+    "close": 3130,
+    "open": 3100,
+    "high": 3260,
+    "low": 3080,
+    "volume": 14439900,
+    "market_cap": 15085764290000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-27",
+    "close": 3330,
+    "open": 3130,
+    "high": 3330,
+    "low": 3130,
+    "volume": 14771400,
+    "market_cap": 16049710890000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-28",
+    "close": 3400,
+    "open": 3340,
+    "high": 3420,
+    "low": 3330,
+    "volume": 8447800,
+    "market_cap": 16387092200000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-08-31",
+    "close": 3430,
+    "open": 3470,
+    "high": 3520,
+    "low": 3350,
+    "volume": 12497300,
+    "market_cap": 16531684190000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-01",
+    "close": 3390,
+    "open": 3470,
+    "high": 3510,
+    "low": 3380,
+    "volume": 7463800,
+    "market_cap": 16338894870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-02",
+    "close": 3390,
+    "open": 3390,
+    "high": 3410,
+    "low": 3350,
+    "volume": 3667200,
+    "market_cap": 16338894870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-03",
+    "close": 3390,
+    "open": 3390,
+    "high": 3440,
+    "low": 3370,
+    "volume": 2676300,
+    "market_cap": 16338894870000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-04",
+    "close": 3330,
+    "open": 3400,
+    "high": 3420,
+    "low": 3300,
+    "volume": 6245900,
+    "market_cap": 16049710890000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-07",
+    "close": 3340,
+    "open": 3320,
+    "high": 3360,
+    "low": 3320,
+    "volume": 1956100,
+    "market_cap": 16097908220000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-08",
+    "close": 3360,
+    "open": 3370,
+    "high": 3380,
+    "low": 3330,
+    "volume": 1037300,
+    "market_cap": 16194302880000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-09",
+    "close": 3320,
+    "open": 3380,
+    "high": 3380,
+    "low": 3310,
+    "volume": 5194300,
+    "market_cap": 16001513560000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-10",
+    "close": 3320,
+    "open": 3310,
+    "high": 3370,
+    "low": 3310,
+    "volume": 2105200,
+    "market_cap": 16001513560000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-11",
+    "close": 3300,
+    "open": 3300,
+    "high": 3340,
+    "low": 3280,
+    "volume": 1853800,
+    "market_cap": 15905118900000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-14",
+    "close": 3320,
+    "open": 3320,
+    "high": 3360,
+    "low": 3290,
+    "volume": 3158100,
+    "market_cap": 16001513560000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-15",
+    "close": 3360,
+    "open": 3320,
+    "high": 3390,
+    "low": 3320,
+    "volume": 2849800,
+    "market_cap": 16194302880000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-16",
+    "close": 3330,
+    "open": 3360,
+    "high": 3370,
+    "low": 3310,
+    "volume": 3093200,
+    "market_cap": 16049710890000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-17",
+    "close": 3320,
+    "open": 3330,
+    "high": 3350,
+    "low": 3310,
+    "volume": 2402500,
+    "market_cap": 16001513560000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-18",
+    "close": 3360,
+    "open": 3330,
+    "high": 3420,
+    "low": 3330,
+    "volume": 3638300,
+    "market_cap": 16194302880000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-21",
+    "close": 3370,
+    "open": 3360,
+    "high": 3410,
+    "low": 3360,
+    "volume": 2124300,
+    "market_cap": 16242500210000
+  },
+  {
+    "symbol": "AUTO.JK",
+    "date": "2026-09-22",
+    "close": 3360,
+    "open": 3390,
+    "high": 3390,
+    "low": 3340,
+    "volume": 2689700,
+    "market_cap": 16194302880000
+  }
+]

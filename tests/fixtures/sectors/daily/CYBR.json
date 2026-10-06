@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-06-24",
+    "close": 635,
+    "open": 660,
+    "high": 660,
+    "low": 625,
+    "volume": 10994500,
+    "market_cap": 8552616756810
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-06-25",
+    "close": 655,
+    "open": 635,
+    "high": 670,
+    "low": 635,
+    "volume": 23219000,
+    "market_cap": 8822219828430
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-06-26",
+    "close": 640,
+    "open": 650,
+    "high": 660,
+    "low": 615,
+    "volume": 13029500,
+    "market_cap": 8620184963840
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-06-29",
+    "close": 610,
+    "open": 640,
+    "high": 640,
+    "low": 610,
+    "volume": 22904300,
+    "market_cap": 8216296793660
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-06-30",
+    "close": 610,
+    "open": 605,
+    "high": 615,
+    "low": 585,
+    "volume": 19727400,
+    "market_cap": 8216321315660
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-01",
+    "close": 615,
+    "open": 610,
+    "high": 625,
+    "low": 605,
+    "volume": 23726700,
+    "market_cap": 8283668211690
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-02",
+    "close": 600,
+    "open": 610,
+    "high": 625,
+    "low": 600,
+    "volume": 26517500,
+    "market_cap": 8081898363600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-03",
+    "close": 600,
+    "open": 600,
+    "high": 610,
+    "low": 600,
+    "volume": 30560400,
+    "market_cap": 8082048363600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-06",
+    "close": 590,
+    "open": 635,
+    "high": 635,
+    "low": 590,
+    "volume": 8032000,
+    "market_cap": 7951595616540
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-07",
+    "close": 560,
+    "open": 590,
+    "high": 600,
+    "low": 560,
+    "volume": 14331800,
+    "market_cap": 7547279435360
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-08",
+    "close": 580,
+    "open": 570,
+    "high": 580,
+    "low": 570,
+    "volume": 30142400,
+    "market_cap": 7817028361480
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-09",
+    "close": 580,
+    "open": 585,
+    "high": 585,
+    "low": 575,
+    "volume": 29672000,
+    "market_cap": 7817203057480
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-10",
+    "close": 605,
+    "open": 585,
+    "high": 610,
+    "low": 585,
+    "volume": 34681800,
+    "market_cap": 8154158058420
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-13",
+    "close": 590,
+    "open": 605,
+    "high": 620,
+    "low": 585,
+    "volume": 25736200,
+    "market_cap": 7952137471360
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-14",
+    "close": 590,
+    "open": 595,
+    "high": 600,
+    "low": 580,
+    "volume": 33901500,
+    "market_cap": 7952144492360
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-15",
+    "close": 595,
+    "open": 590,
+    "high": 600,
+    "low": 585,
+    "volume": 26724500,
+    "market_cap": 8019745046880
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-16",
+    "close": 590,
+    "open": 600,
+    "high": 600,
+    "low": 585,
+    "volume": 24864200,
+    "market_cap": 7952535154960
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-17",
+    "close": 590,
+    "open": 590,
+    "high": 590,
+    "low": 550,
+    "volume": 7525400,
+    "market_cap": 7952540759960
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-20",
+    "close": 575,
+    "open": 590,
+    "high": 590,
+    "low": 570,
+    "volume": 27849800,
+    "market_cap": 7750502995300
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-21",
+    "close": 570,
+    "open": 570,
+    "high": 580,
+    "low": 565,
+    "volume": 27939200,
+    "market_cap": 7683108856080
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-22",
+    "close": 575,
+    "open": 565,
+    "high": 575,
+    "low": 550,
+    "volume": 22437300,
+    "market_cap": 7750506330300
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-23",
+    "close": 565,
+    "open": 575,
+    "high": 580,
+    "low": 560,
+    "volume": 22935000,
+    "market_cap": 7616074572260
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-24",
+    "close": 570,
+    "open": 560,
+    "high": 570,
+    "low": 555,
+    "volume": 14541100,
+    "market_cap": 7683474773280
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-27",
+    "close": 560,
+    "open": 565,
+    "high": 575,
+    "low": 550,
+    "volume": 24991000,
+    "market_cap": 7548818090240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-28",
+    "close": 560,
+    "open": 565,
+    "high": 575,
+    "low": 550,
+    "volume": 27127700,
+    "market_cap": 7548819266240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-29",
+    "close": 540,
+    "open": 550,
+    "high": 565,
+    "low": 535,
+    "volume": 27017000,
+    "market_cap": 7279409468160
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-30",
+    "close": 545,
+    "open": 555,
+    "high": 560,
+    "low": 540,
+    "volume": 28440900,
+    "market_cap": 7346980357680
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-07-31",
+    "close": 545,
+    "open": 555,
+    "high": 560,
+    "low": 545,
+    "volume": 15807900,
+    "market_cap": 7346981665680
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-03",
+    "close": 550,
+    "open": 555,
+    "high": 560,
+    "low": 545,
+    "volume": 26816200,
+    "market_cap": 7414523052200
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-04",
+    "close": 560,
+    "open": 555,
+    "high": 575,
+    "low": 550,
+    "volume": 29590700,
+    "market_cap": 7549333738240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-05",
+    "close": 565,
+    "open": 565,
+    "high": 575,
+    "low": 550,
+    "volume": 25992300,
+    "market_cap": 7616846305760
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-06",
+    "close": 565,
+    "open": 570,
+    "high": 570,
+    "low": 555,
+    "volume": 25508900,
+    "market_cap": 7616981905760
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-07",
+    "close": 580,
+    "open": 570,
+    "high": 585,
+    "low": 560,
+    "volume": 26119600,
+    "market_cap": 7819324580320
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-10",
+    "close": 590,
+    "open": 585,
+    "high": 605,
+    "low": 575,
+    "volume": 31054000,
+    "market_cap": 7954141111360
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-11",
+    "close": 580,
+    "open": 595,
+    "high": 600,
+    "low": 575,
+    "volume": 33496500,
+    "market_cap": 7819325856320
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-12",
+    "close": 580,
+    "open": 585,
+    "high": 595,
+    "low": 560,
+    "volume": 18286900,
+    "market_cap": 7819457574320
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-13",
+    "close": 575,
+    "open": 580,
+    "high": 590,
+    "low": 560,
+    "volume": 27869200,
+    "market_cap": 7752222222300
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-14",
+    "close": 560,
+    "open": 575,
+    "high": 575,
+    "low": 555,
+    "volume": 25120000,
+    "market_cap": 7550124794240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-18",
+    "close": 560,
+    "open": 555,
+    "high": 565,
+    "low": 540,
+    "volume": 30031100,
+    "market_cap": 7550125298240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-19",
+    "close": 560,
+    "open": 550,
+    "high": 570,
+    "low": 550,
+    "volume": 31790200,
+    "market_cap": 7550405410240
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-20",
+    "close": 560,
+    "open": 555,
+    "high": 565,
+    "low": 550,
+    "volume": 30334200,
+    "market_cap": 7550545634800
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-21",
+    "close": 550,
+    "open": 570,
+    "high": 570,
+    "low": 545,
+    "volume": 27741100,
+    "market_cap": 7415846627750
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-24",
+    "close": 545,
+    "open": 560,
+    "high": 560,
+    "low": 535,
+    "volume": 18988200,
+    "market_cap": 7348429949225
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-26",
+    "close": 535,
+    "open": 545,
+    "high": 550,
+    "low": 530,
+    "volume": 25823200,
+    "market_cap": 7213597228175
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-27",
+    "close": 535,
+    "open": 535,
+    "high": 540,
+    "low": 530,
+    "volume": 29649700,
+    "market_cap": 7213720438675
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-28",
+    "close": 530,
+    "open": 540,
+    "high": 545,
+    "low": 530,
+    "volume": 21125900,
+    "market_cap": 7146413949650
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-08-31",
+    "close": 530,
+    "open": 530,
+    "high": 535,
+    "low": 525,
+    "volume": 29354100,
+    "market_cap": 7146414108650
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-01",
+    "close": 550,
+    "open": 540,
+    "high": 550,
+    "low": 530,
+    "volume": 30113600,
+    "market_cap": 7416090277750
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-02",
+    "close": 540,
+    "open": 550,
+    "high": 550,
+    "low": 540,
+    "volume": 27481900,
+    "market_cap": 7281361082700
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-03",
+    "close": 540,
+    "open": 540,
+    "high": 545,
+    "low": 530,
+    "volume": 27507400,
+    "market_cap": 7281470162700
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-04",
+    "close": 535,
+    "open": 545,
+    "high": 545,
+    "low": 530,
+    "volume": 26569800,
+    "market_cap": 7214167538175
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-07",
+    "close": 520,
+    "open": 535,
+    "high": 540,
+    "low": 515,
+    "volume": 17450200,
+    "market_cap": 7011901418600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-08",
+    "close": 525,
+    "open": 520,
+    "high": 530,
+    "low": 510,
+    "volume": 32864900,
+    "market_cap": 7079323757625
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-09",
+    "close": 515,
+    "open": 525,
+    "high": 525,
+    "low": 515,
+    "volume": 26251100,
+    "market_cap": 6944572659075
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-10",
+    "close": 520,
+    "open": 525,
+    "high": 525,
+    "low": 510,
+    "volume": 25825500,
+    "market_cap": 7012099954600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-11",
+    "close": 530,
+    "open": 520,
+    "high": 535,
+    "low": 510,
+    "volume": 31900800,
+    "market_cap": 7147080689650
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-14",
+    "close": 525,
+    "open": 535,
+    "high": 540,
+    "low": 510,
+    "volume": 27058500,
+    "market_cap": 7080180925125
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-15",
+    "close": 525,
+    "open": 520,
+    "high": 530,
+    "low": 515,
+    "volume": 27490800,
+    "market_cap": 7080181187625
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-16",
+    "close": 520,
+    "open": 525,
+    "high": 530,
+    "low": 515,
+    "volume": 28783000,
+    "market_cap": 7012860402600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-17",
+    "close": 520,
+    "open": 515,
+    "high": 525,
+    "low": 515,
+    "volume": 22431200,
+    "market_cap": 7013250350600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-18",
+    "close": 520,
+    "open": 520,
+    "high": 540,
+    "low": 515,
+    "volume": 44521300,
+    "market_cap": 7013375254600
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-21",
+    "close": 510,
+    "open": 520,
+    "high": 525,
+    "low": 505,
+    "volume": 30873900,
+    "market_cap": 6878502857550
+  },
+  {
+    "symbol": "CYBR.JK",
+    "date": "2026-09-22",
+    "close": 525,
+    "open": 510,
+    "high": 535,
+    "low": 510,
+    "volume": 30501800,
+    "market_cap": 7080811817625
+  }
+]

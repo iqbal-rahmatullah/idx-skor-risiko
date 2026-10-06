@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-06-24",
+    "close": 4460,
+    "open": 4370,
+    "high": 4460,
+    "low": 4370,
+    "volume": 2700,
+    "market_cap": 2007254130800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-06-25",
+    "close": 4450,
+    "open": 4460,
+    "high": 4460,
+    "low": 4450,
+    "volume": 400,
+    "market_cap": 2002753561000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-06-26",
+    "close": 4520,
+    "open": 4450,
+    "high": 4520,
+    "low": 4450,
+    "volume": 200,
+    "market_cap": 2034257549600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-06-29",
+    "close": 4510,
+    "open": 4520,
+    "high": 4520,
+    "low": 4510,
+    "volume": 300,
+    "market_cap": 2029756979800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-06-30",
+    "close": 4510,
+    "open": 4510,
+    "high": 4510,
+    "low": 4510,
+    "volume": 2100,
+    "market_cap": 2029756979800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-01",
+    "close": 4320,
+    "open": 4510,
+    "high": 4510,
+    "low": 4300,
+    "volume": 900,
+    "market_cap": 1944246153600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-02",
+    "close": 4350,
+    "open": 4420,
+    "high": 4580,
+    "low": 4310,
+    "volume": 1900,
+    "market_cap": 1957747863000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-03",
+    "close": 4500,
+    "open": 4350,
+    "high": 4510,
+    "low": 4350,
+    "volume": 1100,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-06",
+    "close": 4520,
+    "open": 4490,
+    "high": 4580,
+    "low": 4490,
+    "volume": 900,
+    "market_cap": 2034257549600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-07",
+    "close": 4570,
+    "open": 4520,
+    "high": 4570,
+    "low": 4510,
+    "volume": 900,
+    "market_cap": 2056760398600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-08",
+    "close": 4500,
+    "open": 4560,
+    "high": 4560,
+    "low": 4500,
+    "volume": 1000,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-09",
+    "close": 4570,
+    "open": 4570,
+    "high": 4570,
+    "low": 4570,
+    "volume": 700,
+    "market_cap": 2056760398600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-10",
+    "close": 4530,
+    "open": 4530,
+    "high": 4530,
+    "low": 4530,
+    "volume": 300,
+    "market_cap": 2038758119400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-13",
+    "close": 4560,
+    "open": 4530,
+    "high": 4560,
+    "low": 4530,
+    "volume": 200,
+    "market_cap": 2052259828800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-14",
+    "close": 4470,
+    "open": 4550,
+    "high": 4560,
+    "low": 4470,
+    "volume": 1100,
+    "market_cap": 2011754700600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-15",
+    "close": 4550,
+    "open": 4550,
+    "high": 4560,
+    "low": 4550,
+    "volume": 1200,
+    "market_cap": 2047759259000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-16",
+    "close": 4540,
+    "open": 4470,
+    "high": 4540,
+    "low": 4270,
+    "volume": 2300,
+    "market_cap": 2043258689200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-17",
+    "close": 4550,
+    "open": 4530,
+    "high": 4550,
+    "low": 4530,
+    "volume": 700,
+    "market_cap": 2047759259000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-20",
+    "close": 4500,
+    "open": 4540,
+    "high": 4550,
+    "low": 4500,
+    "volume": 600,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-21",
+    "close": 4510,
+    "open": 4500,
+    "high": 4510,
+    "low": 4410,
+    "volume": 400,
+    "market_cap": 2029756979800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-22",
+    "close": 4440,
+    "open": 4510,
+    "high": 4510,
+    "low": 4440,
+    "volume": 1800,
+    "market_cap": 1998252991200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-23",
+    "close": 4450,
+    "open": 4500,
+    "high": 4540,
+    "low": 4450,
+    "volume": 2700,
+    "market_cap": 2002753561000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-24",
+    "close": 4450,
+    "open": 4500,
+    "high": 4500,
+    "low": 4450,
+    "volume": 600,
+    "market_cap": 2002753561000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-27",
+    "close": 4450,
+    "open": 4550,
+    "high": 4550,
+    "low": 4450,
+    "volume": 500,
+    "market_cap": 2002753561000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-28",
+    "close": 4450,
+    "open": 4450,
+    "high": 4540,
+    "low": 4450,
+    "volume": 600,
+    "market_cap": 2002753561000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-29",
+    "close": 4480,
+    "open": 4520,
+    "high": 4550,
+    "low": 4460,
+    "volume": 900,
+    "market_cap": 2016255270400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-30",
+    "close": 4480,
+    "open": 4540,
+    "high": 4540,
+    "low": 4480,
+    "volume": 600,
+    "market_cap": 2016255270400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-07-31",
+    "close": 4500,
+    "open": 4470,
+    "high": 4570,
+    "low": 4470,
+    "volume": 1300,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-03",
+    "close": 4500,
+    "open": 4510,
+    "high": 4590,
+    "low": 4500,
+    "volume": 2900,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-04",
+    "close": 4500,
+    "open": 4600,
+    "high": 4660,
+    "low": 4500,
+    "volume": 800,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-05",
+    "close": 4500,
+    "open": 4590,
+    "high": 4590,
+    "low": 4500,
+    "volume": 400,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-06",
+    "close": 4600,
+    "open": 4500,
+    "high": 4650,
+    "low": 4500,
+    "volume": 4500,
+    "market_cap": 2070262108000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-07",
+    "close": 4600,
+    "open": 4600,
+    "high": 4600,
+    "low": 4600,
+    "volume": 400,
+    "market_cap": 2070262108000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-10",
+    "close": 4510,
+    "open": 4520,
+    "high": 4520,
+    "low": 4500,
+    "volume": 500,
+    "market_cap": 2029756979800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-11",
+    "close": 4620,
+    "open": 4610,
+    "high": 4620,
+    "low": 4610,
+    "volume": 400,
+    "market_cap": 2079263247600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-12",
+    "close": 4720,
+    "open": 4620,
+    "high": 4720,
+    "low": 4520,
+    "volume": 900,
+    "market_cap": 2124268945600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-13",
+    "close": 4500,
+    "open": 4720,
+    "high": 4720,
+    "low": 4500,
+    "volume": 400,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-14",
+    "close": 4550,
+    "open": 4700,
+    "high": 4790,
+    "low": 4550,
+    "volume": 4500,
+    "market_cap": 2047759259000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-18",
+    "close": 4550,
+    "open": 4540,
+    "high": 4550,
+    "low": 4540,
+    "volume": 200,
+    "market_cap": 2047759259000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-19",
+    "close": 4500,
+    "open": 4520,
+    "high": 4550,
+    "low": 4490,
+    "volume": 1200,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-20",
+    "close": 4500,
+    "open": 4700,
+    "high": 4700,
+    "low": 4500,
+    "volume": 300,
+    "market_cap": 2025256410000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-21",
+    "close": 4640,
+    "open": 4600,
+    "high": 4640,
+    "low": 4600,
+    "volume": 400,
+    "market_cap": 2088264387200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-24",
+    "close": 4680,
+    "open": 4500,
+    "high": 4680,
+    "low": 4500,
+    "volume": 400,
+    "market_cap": 2106266666400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-26",
+    "close": 4540,
+    "open": 4550,
+    "high": 4630,
+    "low": 4540,
+    "volume": 500,
+    "market_cap": 2043258689200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-27",
+    "close": 4600,
+    "open": 4550,
+    "high": 4610,
+    "low": 4550,
+    "volume": 900,
+    "market_cap": 2070262108000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-28",
+    "close": 4600,
+    "open": 4540,
+    "high": 4600,
+    "low": 4540,
+    "volume": 600,
+    "market_cap": 2070262108000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-08-31",
+    "close": 4630,
+    "open": 4580,
+    "high": 4630,
+    "low": 4580,
+    "volume": 1000,
+    "market_cap": 2083763817400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-01",
+    "close": 4660,
+    "open": 4660,
+    "high": 4660,
+    "low": 4660,
+    "volume": 600,
+    "market_cap": 2097265526800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-02",
+    "close": 4570,
+    "open": 4640,
+    "high": 4640,
+    "low": 4570,
+    "volume": 700,
+    "market_cap": 2056760398600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-03",
+    "close": 4580,
+    "open": 4570,
+    "high": 4580,
+    "low": 4570,
+    "volume": 1000,
+    "market_cap": 2061260968400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-04",
+    "close": 4670,
+    "open": 4670,
+    "high": 4670,
+    "low": 4670,
+    "volume": 300,
+    "market_cap": 2101766096600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-07",
+    "close": 4660,
+    "open": 4670,
+    "high": 4670,
+    "low": 4620,
+    "volume": 300,
+    "market_cap": 2097265526800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-08",
+    "close": 4610,
+    "open": 4590,
+    "high": 4610,
+    "low": 4590,
+    "volume": 200,
+    "market_cap": 2074762677800
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-09",
+    "close": 4620,
+    "open": 4650,
+    "high": 4650,
+    "low": 4620,
+    "volume": 200,
+    "market_cap": 2079263247600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-10",
+    "close": 4620,
+    "open": 4650,
+    "high": 4670,
+    "low": 4620,
+    "volume": 300,
+    "market_cap": 2079263247600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-11",
+    "close": 4680,
+    "open": 4680,
+    "high": 4690,
+    "low": 4560,
+    "volume": 2200,
+    "market_cap": 2106266666400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-14",
+    "close": 4670,
+    "open": 4590,
+    "high": 4670,
+    "low": 4590,
+    "volume": 1200,
+    "market_cap": 2101766096600
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-15",
+    "close": 4590,
+    "open": 4640,
+    "high": 4640,
+    "low": 4590,
+    "volume": 700,
+    "market_cap": 2065761538200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-16",
+    "close": 4590,
+    "open": 4590,
+    "high": 4590,
+    "low": 4590,
+    "volume": 100,
+    "market_cap": 2065761538200
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-17",
+    "close": 4700,
+    "open": 4590,
+    "high": 4700,
+    "low": 4570,
+    "volume": 1300,
+    "market_cap": 2115267806000
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-18",
+    "close": 4680,
+    "open": 4700,
+    "high": 4700,
+    "low": 4680,
+    "volume": 500,
+    "market_cap": 2106266666400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-21",
+    "close": 4680,
+    "open": 4680,
+    "high": 4690,
+    "low": 4680,
+    "volume": 1800,
+    "market_cap": 2106266666400
+  },
+  {
+    "symbol": "BRAM.JK",
+    "date": "2026-09-22",
+    "close": 4690,
+    "open": 4630,
+    "high": 4690,
+    "low": 4630,
+    "volume": 200,
+    "market_cap": 2110767236200
+  }
+]

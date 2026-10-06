@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-06-24",
+    "close": 3460,
+    "open": 3780,
+    "high": 3800,
+    "low": 3450,
+    "volume": 93486600,
+    "market_cap": 250913033089760
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-06-25",
+    "close": 3430,
+    "open": 3380,
+    "high": 3560,
+    "low": 3340,
+    "volume": 94083700,
+    "market_cap": 248737486560080
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-06-26",
+    "close": 3340,
+    "open": 3420,
+    "high": 3450,
+    "low": 3180,
+    "volume": 88184700,
+    "market_cap": 242210846971040
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-06-29",
+    "close": 3300,
+    "open": 3330,
+    "high": 3420,
+    "low": 3240,
+    "volume": 35747000,
+    "market_cap": 239310118264800
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-06-30",
+    "close": 3100,
+    "open": 3260,
+    "high": 3270,
+    "low": 3070,
+    "volume": 111730900,
+    "market_cap": 224806474733600
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-01",
+    "close": 3210,
+    "open": 3070,
+    "high": 3310,
+    "low": 3070,
+    "volume": 51738600,
+    "market_cap": 232783478675760
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-02",
+    "close": 3240,
+    "open": 3250,
+    "high": 3390,
+    "low": 3230,
+    "volume": 51465600,
+    "market_cap": 234959025205440
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-03",
+    "close": 3500,
+    "open": 3360,
+    "high": 3540,
+    "low": 3360,
+    "volume": 65773700,
+    "market_cap": 253813761796000
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-06",
+    "close": 3450,
+    "open": 3550,
+    "high": 3590,
+    "low": 3410,
+    "volume": 60199100,
+    "market_cap": 250187850913200
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-07",
+    "close": 3560,
+    "open": 3460,
+    "high": 3630,
+    "low": 3430,
+    "volume": 54279500,
+    "market_cap": 258164854855360
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-08",
+    "close": 3350,
+    "open": 3540,
+    "high": 3540,
+    "low": 3350,
+    "volume": 72414700,
+    "market_cap": 242936029147600
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-09",
+    "close": 3450,
+    "open": 3370,
+    "high": 3540,
+    "low": 3350,
+    "volume": 53816700,
+    "market_cap": 250187850913200
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-10",
+    "close": 3510,
+    "open": 3500,
+    "high": 3580,
+    "low": 3450,
+    "volume": 45526400,
+    "market_cap": 254538943972560
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-13",
+    "close": 3780,
+    "open": 3560,
+    "high": 3780,
+    "low": 3500,
+    "volume": 56645300,
+    "market_cap": 274118862739680
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-14",
+    "close": 3660,
+    "open": 3740,
+    "high": 3820,
+    "low": 3650,
+    "volume": 83086000,
+    "market_cap": 265416676620960
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-15",
+    "close": 3760,
+    "open": 3690,
+    "high": 3890,
+    "low": 3640,
+    "volume": 77265900,
+    "market_cap": 272668498386560
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-16",
+    "close": 3920,
+    "open": 3800,
+    "high": 3970,
+    "low": 3770,
+    "volume": 102247700,
+    "market_cap": 284271413211520
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-17",
+    "close": 3940,
+    "open": 3910,
+    "high": 3940,
+    "low": 3830,
+    "volume": 60732800,
+    "market_cap": 285721777564640
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-20",
+    "close": 4010,
+    "open": 3950,
+    "high": 4060,
+    "low": 3890,
+    "volume": 80766400,
+    "market_cap": 290798052800560
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-21",
+    "close": 4290,
+    "open": 4010,
+    "high": 4370,
+    "low": 4010,
+    "volume": 141625500,
+    "market_cap": 311103153744240
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-22",
+    "close": 4150,
+    "open": 4330,
+    "high": 4410,
+    "low": 4120,
+    "volume": 114455500,
+    "market_cap": 300950603272400
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-23",
+    "close": 4220,
+    "open": 4160,
+    "high": 4360,
+    "low": 4160,
+    "volume": 106927500,
+    "market_cap": 306026878508320
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-24",
+    "close": 4040,
+    "open": 4110,
+    "high": 4170,
+    "low": 3950,
+    "volume": 104240800,
+    "market_cap": 292973599330240
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-27",
+    "close": 4030,
+    "open": 4080,
+    "high": 4170,
+    "low": 4000,
+    "volume": 83361400,
+    "market_cap": 292248417153680
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-28",
+    "close": 4010,
+    "open": 4000,
+    "high": 4110,
+    "low": 3980,
+    "volume": 60616800,
+    "market_cap": 290798052800560
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-29",
+    "close": 3940,
+    "open": 4010,
+    "high": 4050,
+    "low": 3810,
+    "volume": 99406400,
+    "market_cap": 285721777564640
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-30",
+    "close": 3980,
+    "open": 3960,
+    "high": 4070,
+    "low": 3900,
+    "volume": 71075500,
+    "market_cap": 288622506270880
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-07-31",
+    "close": 4100,
+    "open": 4050,
+    "high": 4160,
+    "low": 4050,
+    "volume": 92470900,
+    "market_cap": 297324692389600
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-03",
+    "close": 4280,
+    "open": 4200,
+    "high": 4400,
+    "low": 4190,
+    "volume": 133138200,
+    "market_cap": 310377971567680
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-04",
+    "close": 4280,
+    "open": 4310,
+    "high": 4340,
+    "low": 4210,
+    "volume": 69917500,
+    "market_cap": 310377971567680
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-05",
+    "close": 4420,
+    "open": 4300,
+    "high": 4430,
+    "low": 4280,
+    "volume": 107331800,
+    "market_cap": 320530522039520
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-06",
+    "close": 4320,
+    "open": 4480,
+    "high": 4540,
+    "low": 4300,
+    "volume": 88614700,
+    "market_cap": 313278700273920
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-07",
+    "close": 4400,
+    "open": 4320,
+    "high": 4450,
+    "low": 4310,
+    "volume": 55685200,
+    "market_cap": 319080157686400
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-10",
+    "close": 4370,
+    "open": 4410,
+    "high": 4550,
+    "low": 4330,
+    "volume": 85203400,
+    "market_cap": 316904611156720
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-11",
+    "close": 4250,
+    "open": 4400,
+    "high": 4450,
+    "low": 4200,
+    "volume": 77300900,
+    "market_cap": 308202425038000
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-12",
+    "close": 4370,
+    "open": 4290,
+    "high": 4420,
+    "low": 4230,
+    "volume": 58980900,
+    "market_cap": 316904611156720
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-13",
+    "close": 4220,
+    "open": 4410,
+    "high": 4420,
+    "low": 4200,
+    "volume": 47612300,
+    "market_cap": 306026878508320
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-14",
+    "close": 4270,
+    "open": 4200,
+    "high": 4320,
+    "low": 4160,
+    "volume": 47216700,
+    "market_cap": 309652789391120
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-18",
+    "close": 4250,
+    "open": 4300,
+    "high": 4320,
+    "low": 4220,
+    "volume": 43559200,
+    "market_cap": 308202425038000
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-19",
+    "close": 4140,
+    "open": 4220,
+    "high": 4250,
+    "low": 4140,
+    "volume": 40654900,
+    "market_cap": 300225421095840
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-20",
+    "close": 4470,
+    "open": 4240,
+    "high": 4510,
+    "low": 4240,
+    "volume": 161785000,
+    "market_cap": 324156432922320
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-21",
+    "close": 4480,
+    "open": 4500,
+    "high": 4520,
+    "low": 4410,
+    "volume": 48112000,
+    "market_cap": 324881615098880
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-24",
+    "close": 4500,
+    "open": 4500,
+    "high": 4600,
+    "low": 4460,
+    "volume": 64829200,
+    "market_cap": 326331979452000
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-26",
+    "close": 4390,
+    "open": 4520,
+    "high": 4600,
+    "low": 4390,
+    "volume": 77753300,
+    "market_cap": 318354975509840
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-27",
+    "close": 4450,
+    "open": 4380,
+    "high": 4470,
+    "low": 4350,
+    "volume": 38236000,
+    "market_cap": 322706068569200
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-28",
+    "close": 4410,
+    "open": 4450,
+    "high": 4480,
+    "low": 4370,
+    "volume": 34578100,
+    "market_cap": 319805339862960
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-08-31",
+    "close": 4330,
+    "open": 4350,
+    "high": 4360,
+    "low": 4280,
+    "volume": 53452700,
+    "market_cap": 314003882450480
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-01",
+    "close": 4360,
+    "open": 4360,
+    "high": 4400,
+    "low": 4330,
+    "volume": 34188000,
+    "market_cap": 316179428980160
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-02",
+    "close": 4270,
+    "open": 4360,
+    "high": 4360,
+    "low": 4270,
+    "volume": 40034900,
+    "market_cap": 309652789391120
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-03",
+    "close": 4430,
+    "open": 4340,
+    "high": 4430,
+    "low": 4290,
+    "volume": 42035500,
+    "market_cap": 321255704216080
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-04",
+    "close": 4390,
+    "open": 4450,
+    "high": 4470,
+    "low": 4350,
+    "volume": 33467900,
+    "market_cap": 318354975509840
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-07",
+    "close": 4410,
+    "open": 4390,
+    "high": 4430,
+    "low": 4360,
+    "volume": 30029000,
+    "market_cap": 319805339862960
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-08",
+    "close": 4670,
+    "open": 4440,
+    "high": 4700,
+    "low": 4430,
+    "volume": 122055000,
+    "market_cap": 338660076453520
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-09",
+    "close": 4910,
+    "open": 4680,
+    "high": 4910,
+    "low": 4640,
+    "volume": 122894600,
+    "market_cap": 356064448690960
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-10",
+    "close": 4810,
+    "open": 4910,
+    "high": 4950,
+    "low": 4800,
+    "volume": 77192900,
+    "market_cap": 348812626925360
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-11",
+    "close": 4860,
+    "open": 4710,
+    "high": 4920,
+    "low": 4650,
+    "volume": 89519400,
+    "market_cap": 352438537808160
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-14",
+    "close": 5100,
+    "open": 4800,
+    "high": 5100,
+    "low": 4800,
+    "volume": 169146700,
+    "market_cap": 369842910045600
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-15",
+    "close": 5050,
+    "open": 5100,
+    "high": 5125,
+    "low": 4970,
+    "volume": 77865200,
+    "market_cap": 366216999162800
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-16",
+    "close": 5150,
+    "open": 5075,
+    "high": 5275,
+    "low": 5050,
+    "volume": 101755700,
+    "market_cap": 373468820928400
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-17",
+    "close": 4900,
+    "open": 5125,
+    "high": 5200,
+    "low": 4870,
+    "volume": 121576900,
+    "market_cap": 355339266514400
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-18",
+    "close": 4680,
+    "open": 4900,
+    "high": 4960,
+    "low": 4610,
+    "volume": 259045200,
+    "market_cap": 339385258630080
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-21",
+    "close": 4660,
+    "open": 4680,
+    "high": 4850,
+    "low": 4640,
+    "volume": 93461600,
+    "market_cap": 337934894276960
+  },
+  {
+    "symbol": "AMMN.JK",
+    "date": "2026-09-22",
+    "close": 4710,
+    "open": 4710,
+    "high": 4830,
+    "low": 4660,
+    "volume": 86719800,
+    "market_cap": 341560805159760
+  }
+]

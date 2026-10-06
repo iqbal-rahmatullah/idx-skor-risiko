@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-06-24",
+    "close": 404,
+    "open": 404,
+    "high": 404,
+    "low": 400,
+    "volume": 31100,
+    "market_cap": 171700000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-06-25",
+    "close": 410,
+    "open": 404,
+    "high": 410,
+    "low": 404,
+    "volume": 36300,
+    "market_cap": 174250000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-06-26",
+    "close": 410,
+    "open": 412,
+    "high": 416,
+    "low": 404,
+    "volume": 48300,
+    "market_cap": 174250000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-06-29",
+    "close": 402,
+    "open": 410,
+    "high": 412,
+    "low": 400,
+    "volume": 54600,
+    "market_cap": 170850000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-06-30",
+    "close": 400,
+    "open": 404,
+    "high": 404,
+    "low": 400,
+    "volume": 33200,
+    "market_cap": 170000000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-01",
+    "close": 398,
+    "open": 402,
+    "high": 402,
+    "low": 398,
+    "volume": 20200,
+    "market_cap": 169150000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-02",
+    "close": 402,
+    "open": 400,
+    "high": 404,
+    "low": 396,
+    "volume": 55400,
+    "market_cap": 170850000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-03",
+    "close": 400,
+    "open": 402,
+    "high": 404,
+    "low": 400,
+    "volume": 18900,
+    "market_cap": 170000000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-06",
+    "close": 404,
+    "open": 402,
+    "high": 404,
+    "low": 400,
+    "volume": 26700,
+    "market_cap": 171700000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-07",
+    "close": 402,
+    "open": 404,
+    "high": 404,
+    "low": 398,
+    "volume": 62200,
+    "market_cap": 170850000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-08",
+    "close": 402,
+    "open": 402,
+    "high": 406,
+    "low": 402,
+    "volume": 61100,
+    "market_cap": 170850000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-09",
+    "close": 402,
+    "open": 404,
+    "high": 408,
+    "low": 400,
+    "volume": 28400,
+    "market_cap": 170850000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-10",
+    "close": 408,
+    "open": 406,
+    "high": 408,
+    "low": 404,
+    "volume": 74200,
+    "market_cap": 173400000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-13",
+    "close": 408,
+    "open": 408,
+    "high": 408,
+    "low": 404,
+    "volume": 80200,
+    "market_cap": 173400000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-14",
+    "close": 410,
+    "open": 408,
+    "high": 410,
+    "low": 404,
+    "volume": 35200,
+    "market_cap": 174250000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-15",
+    "close": 412,
+    "open": 412,
+    "high": 412,
+    "low": 408,
+    "volume": 31600,
+    "market_cap": 175100000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-16",
+    "close": 412,
+    "open": 412,
+    "high": 412,
+    "low": 408,
+    "volume": 44200,
+    "market_cap": 175100000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-17",
+    "close": 420,
+    "open": 412,
+    "high": 422,
+    "low": 412,
+    "volume": 143300,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-20",
+    "close": 420,
+    "open": 422,
+    "high": 422,
+    "low": 406,
+    "volume": 85600,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-21",
+    "close": 420,
+    "open": 420,
+    "high": 422,
+    "low": 418,
+    "volume": 67200,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-22",
+    "close": 422,
+    "open": 420,
+    "high": 422,
+    "low": 418,
+    "volume": 40800,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-23",
+    "close": 422,
+    "open": 422,
+    "high": 426,
+    "low": 418,
+    "volume": 98500,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-24",
+    "close": 418,
+    "open": 422,
+    "high": 422,
+    "low": 414,
+    "volume": 118000,
+    "market_cap": 177650000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-27",
+    "close": 416,
+    "open": 414,
+    "high": 418,
+    "low": 410,
+    "volume": 100500,
+    "market_cap": 176800000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-28",
+    "close": 418,
+    "open": 416,
+    "high": 420,
+    "low": 414,
+    "volume": 37400,
+    "market_cap": 177650000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-29",
+    "close": 416,
+    "open": 416,
+    "high": 418,
+    "low": 410,
+    "volume": 41400,
+    "market_cap": 176800000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-30",
+    "close": 424,
+    "open": 416,
+    "high": 424,
+    "low": 414,
+    "volume": 73200,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-07-31",
+    "close": 422,
+    "open": 438,
+    "high": 438,
+    "low": 416,
+    "volume": 184900,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-03",
+    "close": 416,
+    "open": 424,
+    "high": 424,
+    "low": 414,
+    "volume": 65100,
+    "market_cap": 176800000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-04",
+    "close": 418,
+    "open": 424,
+    "high": 424,
+    "low": 416,
+    "volume": 90500,
+    "market_cap": 177650000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-05",
+    "close": 422,
+    "open": 424,
+    "high": 424,
+    "low": 420,
+    "volume": 135700,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-06",
+    "close": 422,
+    "open": 416,
+    "high": 424,
+    "low": 416,
+    "volume": 43900,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-07",
+    "close": 422,
+    "open": 422,
+    "high": 424,
+    "low": 420,
+    "volume": 39100,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-10",
+    "close": 420,
+    "open": 424,
+    "high": 424,
+    "low": 418,
+    "volume": 273400,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-11",
+    "close": 418,
+    "open": 420,
+    "high": 422,
+    "low": 410,
+    "volume": 182600,
+    "market_cap": 177650000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-12",
+    "close": 418,
+    "open": 418,
+    "high": 424,
+    "low": 418,
+    "volume": 75600,
+    "market_cap": 177650000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-13",
+    "close": 420,
+    "open": 422,
+    "high": 422,
+    "low": 416,
+    "volume": 28600,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-14",
+    "close": 420,
+    "open": 420,
+    "high": 422,
+    "low": 412,
+    "volume": 28600,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-18",
+    "close": 422,
+    "open": 424,
+    "high": 424,
+    "low": 420,
+    "volume": 47400,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-19",
+    "close": 420,
+    "open": 422,
+    "high": 424,
+    "low": 420,
+    "volume": 123300,
+    "market_cap": 178500000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-20",
+    "close": 424,
+    "open": 422,
+    "high": 424,
+    "low": 418,
+    "volume": 34700,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-21",
+    "close": 424,
+    "open": 424,
+    "high": 424,
+    "low": 422,
+    "volume": 70200,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-24",
+    "close": 424,
+    "open": 424,
+    "high": 426,
+    "low": 422,
+    "volume": 52000,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-26",
+    "close": 422,
+    "open": 424,
+    "high": 426,
+    "low": 420,
+    "volume": 64900,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-27",
+    "close": 424,
+    "open": 422,
+    "high": 424,
+    "low": 420,
+    "volume": 92000,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-28",
+    "close": 424,
+    "open": 422,
+    "high": 424,
+    "low": 422,
+    "volume": 71700,
+    "market_cap": 180200000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-08-31",
+    "close": 422,
+    "open": 424,
+    "high": 426,
+    "low": 422,
+    "volume": 71100,
+    "market_cap": 179350000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-01",
+    "close": 428,
+    "open": 424,
+    "high": 430,
+    "low": 424,
+    "volume": 191800,
+    "market_cap": 181900000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-02",
+    "close": 428,
+    "open": 430,
+    "high": 430,
+    "low": 426,
+    "volume": 108900,
+    "market_cap": 181900000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-03",
+    "close": 432,
+    "open": 430,
+    "high": 432,
+    "low": 428,
+    "volume": 132100,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-04",
+    "close": 432,
+    "open": 432,
+    "high": 432,
+    "low": 430,
+    "volume": 57400,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-07",
+    "close": 432,
+    "open": 432,
+    "high": 436,
+    "low": 430,
+    "volume": 160500,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-08",
+    "close": 432,
+    "open": 430,
+    "high": 434,
+    "low": 430,
+    "volume": 102000,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-09",
+    "close": 434,
+    "open": 434,
+    "high": 436,
+    "low": 432,
+    "volume": 147100,
+    "market_cap": 184450000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-10",
+    "close": 432,
+    "open": 436,
+    "high": 436,
+    "low": 430,
+    "volume": 281500,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-11",
+    "close": 428,
+    "open": 434,
+    "high": 434,
+    "low": 428,
+    "volume": 77000,
+    "market_cap": 181900000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-14",
+    "close": 430,
+    "open": 430,
+    "high": 432,
+    "low": 426,
+    "volume": 128800,
+    "market_cap": 182750000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-15",
+    "close": 432,
+    "open": 430,
+    "high": 434,
+    "low": 430,
+    "volume": 91900,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-16",
+    "close": 432,
+    "open": 434,
+    "high": 434,
+    "low": 432,
+    "volume": 92200,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-17",
+    "close": 434,
+    "open": 432,
+    "high": 436,
+    "low": 432,
+    "volume": 51500,
+    "market_cap": 184450000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-18",
+    "close": 434,
+    "open": 432,
+    "high": 436,
+    "low": 432,
+    "volume": 115600,
+    "market_cap": 184450000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-21",
+    "close": 432,
+    "open": 436,
+    "high": 436,
+    "low": 428,
+    "volume": 203900,
+    "market_cap": 183600000000
+  },
+  {
+    "symbol": "LPIN.JK",
+    "date": "2026-09-22",
+    "close": 430,
+    "open": 432,
+    "high": 436,
+    "low": 426,
+    "volume": 201100,
+    "market_cap": 182750000000
+  }
+]

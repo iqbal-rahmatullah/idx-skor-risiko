@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-06-24",
+    "close": 478,
+    "open": 488,
+    "high": 492,
+    "low": 478,
+    "volume": 45200,
+    "market_cap": 292654544000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-06-25",
+    "close": 484,
+    "open": 480,
+    "high": 484,
+    "low": 476,
+    "volume": 1900,
+    "market_cap": 296328032000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-06-26",
+    "close": 474,
+    "open": 476,
+    "high": 480,
+    "low": 474,
+    "volume": 2400,
+    "market_cap": 290205552000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-06-29",
+    "close": 472,
+    "open": 482,
+    "high": 482,
+    "low": 472,
+    "volume": 6800,
+    "market_cap": 288981056000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-06-30",
+    "close": 466,
+    "open": 480,
+    "high": 480,
+    "low": 462,
+    "volume": 13800,
+    "market_cap": 285307568000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-01",
+    "close": 472,
+    "open": 470,
+    "high": 476,
+    "low": 466,
+    "volume": 16100,
+    "market_cap": 288981056000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-02",
+    "close": 472,
+    "open": 466,
+    "high": 476,
+    "low": 466,
+    "volume": 6000,
+    "market_cap": 288981056000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-03",
+    "close": 472,
+    "open": 474,
+    "high": 474,
+    "low": 472,
+    "volume": 13700,
+    "market_cap": 288981056000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-06",
+    "close": 476,
+    "open": 472,
+    "high": 480,
+    "low": 470,
+    "volume": 65300,
+    "market_cap": 291430048000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-07",
+    "close": 482,
+    "open": 478,
+    "high": 488,
+    "low": 478,
+    "volume": 13900,
+    "market_cap": 295103536000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-08",
+    "close": 480,
+    "open": 484,
+    "high": 484,
+    "low": 478,
+    "volume": 7000,
+    "market_cap": 293879040000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-09",
+    "close": 494,
+    "open": 480,
+    "high": 500,
+    "low": 478,
+    "volume": 212500,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-10",
+    "close": 498,
+    "open": 500,
+    "high": 500,
+    "low": 484,
+    "volume": 9400,
+    "market_cap": 304899504000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-13",
+    "close": 500,
+    "open": 498,
+    "high": 595,
+    "low": 486,
+    "volume": 140600,
+    "market_cap": 306124000000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-14",
+    "close": 505,
+    "open": 540,
+    "high": 600,
+    "low": 494,
+    "volume": 498300,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-15",
+    "close": 496,
+    "open": 505,
+    "high": 505,
+    "low": 456,
+    "volume": 210400,
+    "market_cap": 303675008000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-16",
+    "close": 492,
+    "open": 500,
+    "high": 500,
+    "low": 486,
+    "volume": 25700,
+    "market_cap": 301226016000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-17",
+    "close": 494,
+    "open": 494,
+    "high": 505,
+    "low": 490,
+    "volume": 3000,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-20",
+    "close": 494,
+    "open": 494,
+    "high": 510,
+    "low": 492,
+    "volume": 39200,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-21",
+    "close": 494,
+    "open": 492,
+    "high": 494,
+    "low": 490,
+    "volume": 42400,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-22",
+    "close": 494,
+    "open": 494,
+    "high": 500,
+    "low": 490,
+    "volume": 4800,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-23",
+    "close": 494,
+    "open": 494,
+    "high": 494,
+    "low": 490,
+    "volume": 12900,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-24",
+    "close": 494,
+    "open": 494,
+    "high": 498,
+    "low": 490,
+    "volume": 8900,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-27",
+    "close": 498,
+    "open": 492,
+    "high": 505,
+    "low": 490,
+    "volume": 17300,
+    "market_cap": 304899504000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-28",
+    "close": 492,
+    "open": 490,
+    "high": 498,
+    "low": 490,
+    "volume": 2400,
+    "market_cap": 301226016000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-29",
+    "close": 494,
+    "open": 492,
+    "high": 496,
+    "low": 490,
+    "volume": 8100,
+    "market_cap": 302450512000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-30",
+    "close": 492,
+    "open": 494,
+    "high": 494,
+    "low": 490,
+    "volume": 7000,
+    "market_cap": 301226016000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-07-31",
+    "close": 500,
+    "open": 492,
+    "high": 555,
+    "low": 492,
+    "volume": 440400,
+    "market_cap": 306124000000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-03",
+    "close": 510,
+    "open": 525,
+    "high": 525,
+    "low": 505,
+    "volume": 518300,
+    "market_cap": 312246480000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-04",
+    "close": 505,
+    "open": 510,
+    "high": 510,
+    "low": 496,
+    "volume": 721500,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-05",
+    "close": 515,
+    "open": 520,
+    "high": 520,
+    "low": 510,
+    "volume": 198700,
+    "market_cap": 315307720000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-06",
+    "close": 505,
+    "open": 515,
+    "high": 515,
+    "low": 490,
+    "volume": 224700,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-07",
+    "close": 505,
+    "open": 505,
+    "high": 515,
+    "low": 500,
+    "volume": 124700,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-10",
+    "close": 505,
+    "open": 525,
+    "high": 525,
+    "low": 500,
+    "volume": 47200,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-11",
+    "close": 500,
+    "open": 505,
+    "high": 505,
+    "low": 500,
+    "volume": 34900,
+    "market_cap": 306124000000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-12",
+    "close": 500,
+    "open": 500,
+    "high": 515,
+    "low": 498,
+    "volume": 16600,
+    "market_cap": 306124000000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-13",
+    "close": 510,
+    "open": 515,
+    "high": 515,
+    "low": 500,
+    "volume": 19000,
+    "market_cap": 312246480000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-14",
+    "close": 510,
+    "open": 505,
+    "high": 510,
+    "low": 505,
+    "volume": 281500,
+    "market_cap": 312246480000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-18",
+    "close": 505,
+    "open": 510,
+    "high": 520,
+    "low": 505,
+    "volume": 578300,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-19",
+    "close": 505,
+    "open": 505,
+    "high": 510,
+    "low": 494,
+    "volume": 398100,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-20",
+    "close": 515,
+    "open": 505,
+    "high": 520,
+    "low": 500,
+    "volume": 237300,
+    "market_cap": 315307720000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-21",
+    "close": 510,
+    "open": 515,
+    "high": 515,
+    "low": 505,
+    "volume": 48500,
+    "market_cap": 312246480000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-24",
+    "close": 505,
+    "open": 515,
+    "high": 515,
+    "low": 500,
+    "volume": 108400,
+    "market_cap": 309185240000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-26",
+    "close": 496,
+    "open": 505,
+    "high": 505,
+    "low": 496,
+    "volume": 492600,
+    "market_cap": 303675008000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-27",
+    "close": 498,
+    "open": 500,
+    "high": 510,
+    "low": 498,
+    "volume": 364600,
+    "market_cap": 304899504000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-28",
+    "close": 500,
+    "open": 505,
+    "high": 510,
+    "low": 498,
+    "volume": 367000,
+    "market_cap": 306124000000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-08-31",
+    "close": 520,
+    "open": 500,
+    "high": 525,
+    "low": 498,
+    "volume": 1068200,
+    "market_cap": 318368960000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-01",
+    "close": 515,
+    "open": 520,
+    "high": 525,
+    "low": 515,
+    "volume": 416400,
+    "market_cap": 315307720000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-02",
+    "close": 525,
+    "open": 520,
+    "high": 530,
+    "low": 515,
+    "volume": 896200,
+    "market_cap": 321430200000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-03",
+    "close": 535,
+    "open": 530,
+    "high": 545,
+    "low": 525,
+    "volume": 607200,
+    "market_cap": 327552680000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-04",
+    "close": 540,
+    "open": 545,
+    "high": 550,
+    "low": 525,
+    "volume": 354600,
+    "market_cap": 330613920000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-07",
+    "close": 530,
+    "open": 550,
+    "high": 550,
+    "low": 515,
+    "volume": 696000,
+    "market_cap": 324491440000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-08",
+    "close": 535,
+    "open": 530,
+    "high": 545,
+    "low": 525,
+    "volume": 516000,
+    "market_cap": 327552680000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-09",
+    "close": 530,
+    "open": 535,
+    "high": 540,
+    "low": 525,
+    "volume": 307400,
+    "market_cap": 324491440000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-10",
+    "close": 540,
+    "open": 530,
+    "high": 560,
+    "low": 525,
+    "volume": 635200,
+    "market_cap": 330613920000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-11",
+    "close": 535,
+    "open": 540,
+    "high": 550,
+    "low": 515,
+    "volume": 205800,
+    "market_cap": 327552680000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-14",
+    "close": 525,
+    "open": 530,
+    "high": 545,
+    "low": 515,
+    "volume": 662800,
+    "market_cap": 321430200000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-15",
+    "close": 550,
+    "open": 540,
+    "high": 570,
+    "low": 525,
+    "volume": 1438700,
+    "market_cap": 336736400000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-16",
+    "close": 550,
+    "open": 550,
+    "high": 560,
+    "low": 545,
+    "volume": 196700,
+    "market_cap": 336736400000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-17",
+    "close": 545,
+    "open": 560,
+    "high": 560,
+    "low": 540,
+    "volume": 345600,
+    "market_cap": 333675160000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-18",
+    "close": 530,
+    "open": 540,
+    "high": 540,
+    "low": 525,
+    "volume": 341100,
+    "market_cap": 324491440000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-21",
+    "close": 515,
+    "open": 540,
+    "high": 540,
+    "low": 510,
+    "volume": 544700,
+    "market_cap": 315307720000
+  },
+  {
+    "symbol": "AKPI.JK",
+    "date": "2026-09-22",
+    "close": 505,
+    "open": 515,
+    "high": 535,
+    "low": 498,
+    "volume": 986600,
+    "market_cap": 309185240000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-06-24",
+    "close": 388,
+    "open": 394,
+    "high": 396,
+    "low": 386,
+    "volume": 1209500,
+    "market_cap": 2788164909580
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-06-25",
+    "close": 386,
+    "open": 388,
+    "high": 392,
+    "low": 386,
+    "volume": 1394700,
+    "market_cap": 2773792925510
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-06-26",
+    "close": 380,
+    "open": 392,
+    "high": 392,
+    "low": 378,
+    "volume": 1424700,
+    "market_cap": 2730676973300
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-06-29",
+    "close": 384,
+    "open": 390,
+    "high": 390,
+    "low": 376,
+    "volume": 175900,
+    "market_cap": 2759420941440
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-06-30",
+    "close": 378,
+    "open": 386,
+    "high": 386,
+    "low": 374,
+    "volume": 1897000,
+    "market_cap": 2716304989230
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-01",
+    "close": 378,
+    "open": 378,
+    "high": 390,
+    "low": 372,
+    "volume": 335600,
+    "market_cap": 2716304989230
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-02",
+    "close": 380,
+    "open": 390,
+    "high": 390,
+    "low": 376,
+    "volume": 603800,
+    "market_cap": 2730676973300
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-03",
+    "close": 384,
+    "open": 380,
+    "high": 392,
+    "low": 378,
+    "volume": 1500600,
+    "market_cap": 2759420941440
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-06",
+    "close": 384,
+    "open": 384,
+    "high": 388,
+    "low": 376,
+    "volume": 797000,
+    "market_cap": 2759420941440
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-07",
+    "close": 386,
+    "open": 388,
+    "high": 388,
+    "low": 378,
+    "volume": 1110600,
+    "market_cap": 2773792925510
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-08",
+    "close": 384,
+    "open": 386,
+    "high": 386,
+    "low": 378,
+    "volume": 392900,
+    "market_cap": 2759420941440
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-09",
+    "close": 380,
+    "open": 386,
+    "high": 386,
+    "low": 378,
+    "volume": 3291000,
+    "market_cap": 2730676973300
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-10",
+    "close": 382,
+    "open": 386,
+    "high": 386,
+    "low": 380,
+    "volume": 1721200,
+    "market_cap": 2745048957370
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-13",
+    "close": 388,
+    "open": 382,
+    "high": 388,
+    "low": 380,
+    "volume": 247300,
+    "market_cap": 2788164909580
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-14",
+    "close": 390,
+    "open": 388,
+    "high": 396,
+    "low": 388,
+    "volume": 1330100,
+    "market_cap": 2802536893650
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-15",
+    "close": 406,
+    "open": 398,
+    "high": 406,
+    "low": 392,
+    "volume": 940100,
+    "market_cap": 2917512766210
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-16",
+    "close": 414,
+    "open": 406,
+    "high": 414,
+    "low": 398,
+    "volume": 647600,
+    "market_cap": 2975000702490
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-17",
+    "close": 410,
+    "open": 414,
+    "high": 414,
+    "low": 404,
+    "volume": 567700,
+    "market_cap": 2946256734350
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-20",
+    "close": 410,
+    "open": 418,
+    "high": 418,
+    "low": 408,
+    "volume": 1335000,
+    "market_cap": 2946256734350
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-21",
+    "close": 406,
+    "open": 408,
+    "high": 410,
+    "low": 404,
+    "volume": 1165700,
+    "market_cap": 2917512766210
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-22",
+    "close": 406,
+    "open": 408,
+    "high": 410,
+    "low": 404,
+    "volume": 124500,
+    "market_cap": 2917512766210
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-23",
+    "close": 408,
+    "open": 408,
+    "high": 408,
+    "low": 402,
+    "volume": 1058600,
+    "market_cap": 2931884750280
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-24",
+    "close": 402,
+    "open": 404,
+    "high": 406,
+    "low": 398,
+    "volume": 872600,
+    "market_cap": 2888768798070
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-27",
+    "close": 406,
+    "open": 404,
+    "high": 418,
+    "low": 400,
+    "volume": 790400,
+    "market_cap": 2917512766210
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-28",
+    "close": 428,
+    "open": 412,
+    "high": 432,
+    "low": 412,
+    "volume": 2909800,
+    "market_cap": 3075604590980
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-29",
+    "close": 420,
+    "open": 434,
+    "high": 436,
+    "low": 416,
+    "volume": 2079000,
+    "market_cap": 3018116654700
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-30",
+    "close": 430,
+    "open": 420,
+    "high": 434,
+    "low": 420,
+    "volume": 1197200,
+    "market_cap": 3089976575050
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-07-31",
+    "close": 440,
+    "open": 430,
+    "high": 440,
+    "low": 424,
+    "volume": 1321500,
+    "market_cap": 3161836495400
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-03",
+    "close": 438,
+    "open": 442,
+    "high": 444,
+    "low": 432,
+    "volume": 845100,
+    "market_cap": 3147464511330
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-04",
+    "close": 438,
+    "open": 438,
+    "high": 448,
+    "low": 434,
+    "volume": 864000,
+    "market_cap": 3147464511330
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-05",
+    "close": 440,
+    "open": 438,
+    "high": 440,
+    "low": 428,
+    "volume": 2148300,
+    "market_cap": 3161836495400
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-06",
+    "close": 440,
+    "open": 442,
+    "high": 442,
+    "low": 432,
+    "volume": 672800,
+    "market_cap": 3161836495400
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-07",
+    "close": 428,
+    "open": 442,
+    "high": 442,
+    "low": 426,
+    "volume": 2202900,
+    "market_cap": 3075604590980
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-10",
+    "close": 432,
+    "open": 440,
+    "high": 440,
+    "low": 432,
+    "volume": 1894200,
+    "market_cap": 3104348559120
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-11",
+    "close": 434,
+    "open": 440,
+    "high": 440,
+    "low": 426,
+    "volume": 961600,
+    "market_cap": 3118720543190
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-12",
+    "close": 432,
+    "open": 436,
+    "high": 438,
+    "low": 426,
+    "volume": 334000,
+    "market_cap": 3104348559120
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-13",
+    "close": 432,
+    "open": 434,
+    "high": 434,
+    "low": 428,
+    "volume": 817600,
+    "market_cap": 3104348559120
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-14",
+    "close": 430,
+    "open": 438,
+    "high": 438,
+    "low": 430,
+    "volume": 802200,
+    "market_cap": 3089976575050
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-18",
+    "close": 434,
+    "open": 432,
+    "high": 434,
+    "low": 432,
+    "volume": 156000,
+    "market_cap": 3118720543190
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-19",
+    "close": 434,
+    "open": 434,
+    "high": 436,
+    "low": 428,
+    "volume": 1438500,
+    "market_cap": 3118720543190
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-20",
+    "close": 430,
+    "open": 440,
+    "high": 440,
+    "low": 422,
+    "volume": 2170400,
+    "market_cap": 3089976575050
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-21",
+    "close": 432,
+    "open": 434,
+    "high": 434,
+    "low": 428,
+    "volume": 190000,
+    "market_cap": 3104348559120
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-24",
+    "close": 428,
+    "open": 432,
+    "high": 432,
+    "low": 420,
+    "volume": 868500,
+    "market_cap": 3075604590980
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-26",
+    "close": 416,
+    "open": 428,
+    "high": 428,
+    "low": 412,
+    "volume": 726700,
+    "market_cap": 2989372686560
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-27",
+    "close": 426,
+    "open": 422,
+    "high": 426,
+    "low": 416,
+    "volume": 413600,
+    "market_cap": 3061232606910
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-28",
+    "close": 416,
+    "open": 422,
+    "high": 424,
+    "low": 416,
+    "volume": 685000,
+    "market_cap": 2989372686560
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-08-31",
+    "close": 418,
+    "open": 420,
+    "high": 424,
+    "low": 408,
+    "volume": 2317200,
+    "market_cap": 3003744670630
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-01",
+    "close": 426,
+    "open": 418,
+    "high": 428,
+    "low": 414,
+    "volume": 2378400,
+    "market_cap": 3061232606910
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-02",
+    "close": 426,
+    "open": 438,
+    "high": 438,
+    "low": 416,
+    "volume": 1410900,
+    "market_cap": 3061232606910
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-03",
+    "close": 454,
+    "open": 430,
+    "high": 468,
+    "low": 422,
+    "volume": 6361500,
+    "market_cap": 3262440383890
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-04",
+    "close": 452,
+    "open": 456,
+    "high": 458,
+    "low": 446,
+    "volume": 1799400,
+    "market_cap": 3248068399820
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-07",
+    "close": 454,
+    "open": 454,
+    "high": 460,
+    "low": 446,
+    "volume": 2950300,
+    "market_cap": 3262440383890
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-08",
+    "close": 454,
+    "open": 454,
+    "high": 458,
+    "low": 446,
+    "volume": 1350700,
+    "market_cap": 3262440383890
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-09",
+    "close": 458,
+    "open": 450,
+    "high": 458,
+    "low": 450,
+    "volume": 1556000,
+    "market_cap": 3291184352030
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-10",
+    "close": 460,
+    "open": 458,
+    "high": 462,
+    "low": 452,
+    "volume": 2234200,
+    "market_cap": 3305556336100
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-11",
+    "close": 450,
+    "open": 460,
+    "high": 460,
+    "low": 448,
+    "volume": 1334800,
+    "market_cap": 3233696415750
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-14",
+    "close": 440,
+    "open": 450,
+    "high": 450,
+    "low": 426,
+    "volume": 3203400,
+    "market_cap": 3161836495400
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-15",
+    "close": 438,
+    "open": 446,
+    "high": 458,
+    "low": 430,
+    "volume": 844400,
+    "market_cap": 3147464511330
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-16",
+    "close": 430,
+    "open": 444,
+    "high": 444,
+    "low": 416,
+    "volume": 4300700,
+    "market_cap": 3089976575050
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-17",
+    "close": 414,
+    "open": 430,
+    "high": 434,
+    "low": 408,
+    "volume": 5278400,
+    "market_cap": 2975000702490
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-18",
+    "close": 410,
+    "open": 420,
+    "high": 420,
+    "low": 410,
+    "volume": 3121100,
+    "market_cap": 2946256734350
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-21",
+    "close": 404,
+    "open": 420,
+    "high": 420,
+    "low": 400,
+    "volume": 10060700,
+    "market_cap": 2903140782140
+  },
+  {
+    "symbol": "ISSP.JK",
+    "date": "2026-09-22",
+    "close": 400,
+    "open": 404,
+    "high": 410,
+    "low": 388,
+    "volume": 8769900,
+    "market_cap": 2874396814000
+  }
+]

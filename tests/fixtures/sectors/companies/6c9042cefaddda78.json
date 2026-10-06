@@ -1,0 +1,302 @@
+{
+  "results": [
+    {
+      "symbol": "PGJO.JK",
+      "company_name": "PT Bahtera Bumi Raya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0357142857142857
+      }
+    },
+    {
+      "symbol": "CYBR.JK",
+      "company_name": "PT ITSEC Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0294117647058824
+      }
+    },
+    {
+      "symbol": "NFCX.JK",
+      "company_name": "PT NFC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0264705882352941
+      }
+    },
+    {
+      "symbol": "TFAS.JK",
+      "company_name": "PT Telefast Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0263157894736842
+      }
+    },
+    {
+      "symbol": "ELIT.JK",
+      "company_name": "PT Data Sinergitama Jaya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0072992700729927
+      }
+    },
+    {
+      "symbol": "MCAS.JK",
+      "company_name": "PT M Cash Integrasi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "TOSK.JK",
+      "company_name": "PT Topindo Solusi Komunika Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "EDGE.JK",
+      "company_name": "PT Indointernet Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "HDIT.JK",
+      "company_name": "PT Hensel Davest Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ATIC.JK",
+      "company_name": "PT Anabatic Technologies Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ENVY.JK",
+      "company_name": "PT Envy Technologies Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "GOTO.JK",
+      "company_name": "PT GoTo Gojek Tokopedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "JATI.JK",
+      "company_name": "PT Informasi Teknologi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "KREN.JK",
+      "company_name": "PT Quantum Clovera Investama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "LMAS.JK",
+      "company_name": "Limas Indonesia Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "SKYB.JK",
+      "company_name": "PT Northcliff Citranusa Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "TECH.JK",
+      "company_name": "PT Indosterling Technomedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "DMMX.JK",
+      "company_name": "PT Digital Mediatama Maxima Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "AREA.JK",
+      "company_name": "PT Dunia Virtual Online Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0062111801242236
+      }
+    },
+    {
+      "symbol": "AWAN.JK",
+      "company_name": "PT Era Digital Media Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.00625
+      }
+    },
+    {
+      "symbol": "BUKA.JK",
+      "company_name": "PT Bukalapak.com Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.00934579439252336
+      }
+    },
+    {
+      "symbol": "BELI.JK",
+      "company_name": "PT Global Digital Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0140845070422535
+      }
+    },
+    {
+      "symbol": "DCII.JK",
+      "company_name": "PT DCI Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0187089579977698
+      }
+    },
+    {
+      "symbol": "DIVA.JK",
+      "company_name": "PT Distribusi Voucher Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0283687943262411
+      }
+    },
+    {
+      "symbol": "WIRG.JK",
+      "company_name": "PT Wir Asia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0285714285714286
+      }
+    },
+    {
+      "symbol": "RUNS.JK",
+      "company_name": "PT Global Sukses Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0285714285714286
+      }
+    },
+    {
+      "symbol": "TRON.JK",
+      "company_name": "PT Teknologi Karya Digital Nusa Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.029126213592233
+      }
+    },
+    {
+      "symbol": "WGSH.JK",
+      "company_name": "PT Wira Global Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0330578512396694
+      }
+    },
+    {
+      "symbol": "EMTK.JK",
+      "company_name": "Elang Mahkota Teknologi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0344827586206897
+      }
+    },
+    {
+      "symbol": "KIOS.JK",
+      "company_name": "PT Kioson Komersial Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0408163265306122
+      }
+    },
+    {
+      "symbol": "MLPT.JK",
+      "company_name": "PT Multipolar Technology Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0425531914893617
+      }
+    },
+    {
+      "symbol": "WIFI.JK",
+      "company_name": "PT Solusi Sinergi Digital Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0476190476190476
+      }
+    },
+    {
+      "symbol": "IRSX.JK",
+      "company_name": "PT Folago Global Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0484581497797357
+      }
+    },
+    {
+      "symbol": "MPIX.JK",
+      "company_name": "PT Mitra Pedagang Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0606060606060606
+      }
+    },
+    {
+      "symbol": "UVCR.JK",
+      "company_name": "PT Trimegah Karya Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0851063829787234
+      }
+    },
+    {
+      "symbol": "CASH.JK",
+      "company_name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "daily_close_change": -0.0984848484848485
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 36,
+    "showing": 36,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

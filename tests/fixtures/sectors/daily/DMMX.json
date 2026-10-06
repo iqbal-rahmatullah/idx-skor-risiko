@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-06-24",
+    "close": 167,
+    "open": 171,
+    "high": 171,
+    "low": 165,
+    "volume": 495600,
+    "market_cap": 1284615385900
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-06-25",
+    "close": 170,
+    "open": 174,
+    "high": 174,
+    "low": 163,
+    "volume": 580800,
+    "market_cap": 1307692309000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-06-26",
+    "close": 170,
+    "open": 170,
+    "high": 170,
+    "low": 163,
+    "volume": 78400,
+    "market_cap": 1307692309000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-06-29",
+    "close": 166,
+    "open": 170,
+    "high": 170,
+    "low": 164,
+    "volume": 83200,
+    "market_cap": 1276923078200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-06-30",
+    "close": 157,
+    "open": 162,
+    "high": 170,
+    "low": 150,
+    "volume": 153700,
+    "market_cap": 1207692308900
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-01",
+    "close": 155,
+    "open": 158,
+    "high": 164,
+    "low": 155,
+    "volume": 67800,
+    "market_cap": 1192307693500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-02",
+    "close": 154,
+    "open": 155,
+    "high": 158,
+    "low": 154,
+    "volume": 344200,
+    "market_cap": 1184615385800
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-03",
+    "close": 157,
+    "open": 158,
+    "high": 158,
+    "low": 150,
+    "volume": 268000,
+    "market_cap": 1207692308900
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-06",
+    "close": 159,
+    "open": 157,
+    "high": 162,
+    "low": 153,
+    "volume": 127900,
+    "market_cap": 1223076924300
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-07",
+    "close": 162,
+    "open": 160,
+    "high": 162,
+    "low": 158,
+    "volume": 252700,
+    "market_cap": 1246153847400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-08",
+    "close": 164,
+    "open": 164,
+    "high": 164,
+    "low": 161,
+    "volume": 46400,
+    "market_cap": 1261538462800
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-09",
+    "close": 158,
+    "open": 162,
+    "high": 162,
+    "low": 156,
+    "volume": 214400,
+    "market_cap": 1215384616600
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-10",
+    "close": 161,
+    "open": 158,
+    "high": 180,
+    "low": 158,
+    "volume": 1200200,
+    "market_cap": 1238461539700
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-13",
+    "close": 162,
+    "open": 166,
+    "high": 166,
+    "low": 160,
+    "volume": 441900,
+    "market_cap": 1246153847400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-14",
+    "close": 160,
+    "open": 160,
+    "high": 162,
+    "low": 155,
+    "volume": 525900,
+    "market_cap": 1230769232000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-15",
+    "close": 158,
+    "open": 164,
+    "high": 164,
+    "low": 158,
+    "volume": 151000,
+    "market_cap": 1215384616600
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-16",
+    "close": 162,
+    "open": 158,
+    "high": 162,
+    "low": 157,
+    "volume": 166200,
+    "market_cap": 1246153847400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-17",
+    "close": 161,
+    "open": 162,
+    "high": 162,
+    "low": 158,
+    "volume": 44000,
+    "market_cap": 1238461539700
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-20",
+    "close": 162,
+    "open": 161,
+    "high": 165,
+    "low": 160,
+    "volume": 86000,
+    "market_cap": 1246153847400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-21",
+    "close": 162,
+    "open": 162,
+    "high": 165,
+    "low": 155,
+    "volume": 708300,
+    "market_cap": 1246153847400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-22",
+    "close": 163,
+    "open": 162,
+    "high": 165,
+    "low": 162,
+    "volume": 368600,
+    "market_cap": 1253846155100
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-23",
+    "close": 166,
+    "open": 171,
+    "high": 171,
+    "low": 164,
+    "volume": 343500,
+    "market_cap": 1276923078200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-24",
+    "close": 160,
+    "open": 166,
+    "high": 168,
+    "low": 160,
+    "volume": 304600,
+    "market_cap": 1230769232000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-27",
+    "close": 216,
+    "open": 175,
+    "high": 216,
+    "low": 175,
+    "volume": 10609100,
+    "market_cap": 1661538463200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-28",
+    "close": 189,
+    "open": 258,
+    "high": 270,
+    "low": 185,
+    "volume": 77774600,
+    "market_cap": 1453846155300
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-29",
+    "close": 176,
+    "open": 189,
+    "high": 190,
+    "low": 168,
+    "volume": 8602200,
+    "market_cap": 1353846155200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-30",
+    "close": 179,
+    "open": 179,
+    "high": 192,
+    "low": 174,
+    "volume": 6737600,
+    "market_cap": 1376923078300
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-07-31",
+    "close": 186,
+    "open": 189,
+    "high": 210,
+    "low": 186,
+    "volume": 12834100,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-03",
+    "close": 186,
+    "open": 188,
+    "high": 191,
+    "low": 179,
+    "volume": 1417100,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-04",
+    "close": 185,
+    "open": 186,
+    "high": 187,
+    "low": 178,
+    "volume": 907800,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-05",
+    "close": 180,
+    "open": 182,
+    "high": 184,
+    "low": 179,
+    "volume": 1513000,
+    "market_cap": 1384615386000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-06",
+    "close": 181,
+    "open": 180,
+    "high": 184,
+    "low": 179,
+    "volume": 658900,
+    "market_cap": 1392307693700
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-07",
+    "close": 199,
+    "open": 184,
+    "high": 214,
+    "low": 184,
+    "volume": 24586400,
+    "market_cap": 1530769232300
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-10",
+    "close": 198,
+    "open": 202,
+    "high": 226,
+    "low": 194,
+    "volume": 18031600,
+    "market_cap": 1523076924600
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-11",
+    "close": 194,
+    "open": 198,
+    "high": 200,
+    "low": 190,
+    "volume": 1573700,
+    "market_cap": 1492307693800
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-12",
+    "close": 192,
+    "open": 200,
+    "high": 200,
+    "low": 187,
+    "volume": 1283900,
+    "market_cap": 1476923078400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-13",
+    "close": 185,
+    "open": 192,
+    "high": 196,
+    "low": 183,
+    "volume": 2310200,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-14",
+    "close": 185,
+    "open": 185,
+    "high": 194,
+    "low": 183,
+    "volume": 1554700,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-18",
+    "close": 188,
+    "open": 185,
+    "high": 191,
+    "low": 183,
+    "volume": 1151100,
+    "market_cap": 1446153847600
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-19",
+    "close": 185,
+    "open": 188,
+    "high": 188,
+    "low": 183,
+    "volume": 1275700,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-20",
+    "close": 186,
+    "open": 187,
+    "high": 188,
+    "low": 183,
+    "volume": 1313100,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-21",
+    "close": 185,
+    "open": 187,
+    "high": 188,
+    "low": 185,
+    "volume": 881400,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-24",
+    "close": 183,
+    "open": 187,
+    "high": 189,
+    "low": 183,
+    "volume": 2118400,
+    "market_cap": 1407692309100
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-26",
+    "close": 180,
+    "open": 183,
+    "high": 185,
+    "low": 179,
+    "volume": 1373000,
+    "market_cap": 1384615386000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-27",
+    "close": 202,
+    "open": 196,
+    "high": 236,
+    "low": 196,
+    "volume": 77406600,
+    "market_cap": 1553846155400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-28",
+    "close": 195,
+    "open": 202,
+    "high": 206,
+    "low": 193,
+    "volume": 5432200,
+    "market_cap": 1500000001500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-08-31",
+    "close": 191,
+    "open": 195,
+    "high": 195,
+    "low": 188,
+    "volume": 2265000,
+    "market_cap": 1469230770700
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-01",
+    "close": 187,
+    "open": 191,
+    "high": 192,
+    "low": 187,
+    "volume": 3076700,
+    "market_cap": 1438461539900
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-02",
+    "close": 190,
+    "open": 186,
+    "high": 191,
+    "low": 186,
+    "volume": 746300,
+    "market_cap": 1461538463000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-03",
+    "close": 193,
+    "open": 191,
+    "high": 194,
+    "low": 189,
+    "volume": 1880600,
+    "market_cap": 1484615386100
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-04",
+    "close": 192,
+    "open": 193,
+    "high": 194,
+    "low": 189,
+    "volume": 897700,
+    "market_cap": 1476923078400
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-07",
+    "close": 190,
+    "open": 192,
+    "high": 192,
+    "low": 188,
+    "volume": 864100,
+    "market_cap": 1461538463000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-08",
+    "close": 190,
+    "open": 192,
+    "high": 193,
+    "low": 188,
+    "volume": 860100,
+    "market_cap": 1461538463000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-09",
+    "close": 190,
+    "open": 190,
+    "high": 193,
+    "low": 189,
+    "volume": 976700,
+    "market_cap": 1461538463000
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-10",
+    "close": 185,
+    "open": 190,
+    "high": 191,
+    "low": 184,
+    "volume": 1428600,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-11",
+    "close": 185,
+    "open": 186,
+    "high": 186,
+    "low": 180,
+    "volume": 947600,
+    "market_cap": 1423076924500
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-14",
+    "close": 186,
+    "open": 189,
+    "high": 190,
+    "low": 183,
+    "volume": 731800,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-15",
+    "close": 186,
+    "open": 185,
+    "high": 187,
+    "low": 184,
+    "volume": 281700,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-16",
+    "close": 187,
+    "open": 186,
+    "high": 197,
+    "low": 185,
+    "volume": 4819000,
+    "market_cap": 1438461539900
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-17",
+    "close": 186,
+    "open": 190,
+    "high": 195,
+    "low": 183,
+    "volume": 1940500,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-18",
+    "close": 186,
+    "open": 188,
+    "high": 189,
+    "low": 186,
+    "volume": 405600,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-21",
+    "close": 186,
+    "open": 186,
+    "high": 189,
+    "low": 185,
+    "volume": 475800,
+    "market_cap": 1430769232200
+  },
+  {
+    "symbol": "DMMX.JK",
+    "date": "2026-09-22",
+    "close": 186,
+    "open": 186,
+    "high": 189,
+    "low": 185,
+    "volume": 687800,
+    "market_cap": 1430769232200
+  }
+]

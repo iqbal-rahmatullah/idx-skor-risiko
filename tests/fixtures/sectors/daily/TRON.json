@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-06-24",
+    "close": 89,
+    "open": 101,
+    "high": 102,
+    "low": 89,
+    "volume": 3844200,
+    "market_cap": 262668231872
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-06-25",
+    "close": 100,
+    "open": 89,
+    "high": 108,
+    "low": 85,
+    "volume": 37267700,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-06-26",
+    "close": 94,
+    "open": 101,
+    "high": 102,
+    "low": 91,
+    "volume": 7562300,
+    "market_cap": 277424874112
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-06-29",
+    "close": 94,
+    "open": 94,
+    "high": 104,
+    "low": 91,
+    "volume": 10613300,
+    "market_cap": 277424874112
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-06-30",
+    "close": 94,
+    "open": 94,
+    "high": 98,
+    "low": 93,
+    "volume": 3788900,
+    "market_cap": 277424874112
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-01",
+    "close": 95,
+    "open": 94,
+    "high": 98,
+    "low": 93,
+    "volume": 3101000,
+    "market_cap": 280376202560
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-02",
+    "close": 94,
+    "open": 98,
+    "high": 98,
+    "low": 90,
+    "volume": 3163900,
+    "market_cap": 277424874112
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-03",
+    "close": 96,
+    "open": 95,
+    "high": 103,
+    "low": 91,
+    "volume": 14327300,
+    "market_cap": 283327531008
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-06",
+    "close": 101,
+    "open": 98,
+    "high": 117,
+    "low": 96,
+    "volume": 57510200,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-07",
+    "close": 100,
+    "open": 101,
+    "high": 102,
+    "low": 98,
+    "volume": 5576200,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-08",
+    "close": 97,
+    "open": 101,
+    "high": 101,
+    "low": 97,
+    "volume": 3109000,
+    "market_cap": 286278859456
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-09",
+    "close": 96,
+    "open": 97,
+    "high": 105,
+    "low": 95,
+    "volume": 13647200,
+    "market_cap": 283327531008
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-10",
+    "close": 96,
+    "open": 97,
+    "high": 98,
+    "low": 94,
+    "volume": 1781600,
+    "market_cap": 283327531008
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-13",
+    "close": 99,
+    "open": 96,
+    "high": 104,
+    "low": 94,
+    "volume": 23522300,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-14",
+    "close": 101,
+    "open": 99,
+    "high": 106,
+    "low": 99,
+    "volume": 8500600,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-15",
+    "close": 100,
+    "open": 101,
+    "high": 102,
+    "low": 99,
+    "volume": 2772200,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-16",
+    "close": 99,
+    "open": 99,
+    "high": 101,
+    "low": 97,
+    "volume": 3352900,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-17",
+    "close": 101,
+    "open": 99,
+    "high": 109,
+    "low": 98,
+    "volume": 28004300,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-20",
+    "close": 105,
+    "open": 102,
+    "high": 123,
+    "low": 101,
+    "volume": 74417100,
+    "market_cap": 309889487040
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-21",
+    "close": 133,
+    "open": 107,
+    "high": 137,
+    "low": 102,
+    "volume": 223905900,
+    "market_cap": 392526683584
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-22",
+    "close": 114,
+    "open": 133,
+    "high": 135,
+    "low": 114,
+    "volume": 111218600,
+    "market_cap": 336451443072
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-23",
+    "close": 113,
+    "open": 113,
+    "high": 124,
+    "low": 109,
+    "volume": 41961300,
+    "market_cap": 333500114624
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-24",
+    "close": 110,
+    "open": 114,
+    "high": 114,
+    "low": 105,
+    "volume": 14724200,
+    "market_cap": 324646129280
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-27",
+    "close": 111,
+    "open": 110,
+    "high": 118,
+    "low": 108,
+    "volume": 25584600,
+    "market_cap": 327597457728
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-28",
+    "close": 111,
+    "open": 113,
+    "high": 115,
+    "low": 110,
+    "volume": 9281100,
+    "market_cap": 327597457728
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-29",
+    "close": 108,
+    "open": 111,
+    "high": 113,
+    "low": 105,
+    "volume": 11073800,
+    "market_cap": 318743472384
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-30",
+    "close": 110,
+    "open": 110,
+    "high": 113,
+    "low": 105,
+    "volume": 11525400,
+    "market_cap": 324646129280
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-07-31",
+    "close": 109,
+    "open": 113,
+    "high": 113,
+    "low": 107,
+    "volume": 9843700,
+    "market_cap": 321694800832
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-03",
+    "close": 109,
+    "open": 111,
+    "high": 111,
+    "low": 107,
+    "volume": 9351500,
+    "market_cap": 321694800832
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-04",
+    "close": 108,
+    "open": 110,
+    "high": 111,
+    "low": 106,
+    "volume": 13274200,
+    "market_cap": 318743472384
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-05",
+    "close": 108,
+    "open": 108,
+    "high": 110,
+    "low": 105,
+    "volume": 16735200,
+    "market_cap": 318743472384
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-06",
+    "close": 107,
+    "open": 108,
+    "high": 109,
+    "low": 106,
+    "volume": 10198100,
+    "market_cap": 315792143936
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-07",
+    "close": 103,
+    "open": 107,
+    "high": 107,
+    "low": 100,
+    "volume": 24152800,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-10",
+    "close": 104,
+    "open": 105,
+    "high": 109,
+    "low": 103,
+    "volume": 12980000,
+    "market_cap": 306938158592
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-11",
+    "close": 100,
+    "open": 103,
+    "high": 104,
+    "low": 98,
+    "volume": 8349100,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-12",
+    "close": 101,
+    "open": 100,
+    "high": 105,
+    "low": 100,
+    "volume": 11214100,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-13",
+    "close": 101,
+    "open": 101,
+    "high": 103,
+    "low": 99,
+    "volume": 3500800,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-14",
+    "close": 100,
+    "open": 102,
+    "high": 102,
+    "low": 100,
+    "volume": 3196300,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-18",
+    "close": 102,
+    "open": 100,
+    "high": 104,
+    "low": 100,
+    "volume": 8105500,
+    "market_cap": 301035501696
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-19",
+    "close": 100,
+    "open": 102,
+    "high": 102,
+    "low": 100,
+    "volume": 7543800,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-20",
+    "close": 103,
+    "open": 101,
+    "high": 104,
+    "low": 99,
+    "volume": 7167800,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-21",
+    "close": 104,
+    "open": 103,
+    "high": 105,
+    "low": 101,
+    "volume": 12453800,
+    "market_cap": 306938158592
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-24",
+    "close": 102,
+    "open": 104,
+    "high": 111,
+    "low": 101,
+    "volume": 46949500,
+    "market_cap": 301035501696
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-26",
+    "close": 94,
+    "open": 102,
+    "high": 103,
+    "low": 94,
+    "volume": 18134300,
+    "market_cap": 277424874112
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-27",
+    "close": 100,
+    "open": 94,
+    "high": 109,
+    "low": 94,
+    "volume": 105523700,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-28",
+    "close": 99,
+    "open": 101,
+    "high": 101,
+    "low": 96,
+    "volume": 13723400,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-08-31",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 97,
+    "volume": 7427500,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-01",
+    "close": 99,
+    "open": 99,
+    "high": 100,
+    "low": 98,
+    "volume": 8595300,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-02",
+    "close": 102,
+    "open": 100,
+    "high": 108,
+    "low": 98,
+    "volume": 82968400,
+    "market_cap": 301035501696
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-03",
+    "close": 104,
+    "open": 104,
+    "high": 105,
+    "low": 101,
+    "volume": 45274100,
+    "market_cap": 306938158592
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-04",
+    "close": 104,
+    "open": 103,
+    "high": 105,
+    "low": 101,
+    "volume": 18485700,
+    "market_cap": 306938158592
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-07",
+    "close": 103,
+    "open": 104,
+    "high": 104,
+    "low": 101,
+    "volume": 9918300,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-08",
+    "close": 103,
+    "open": 103,
+    "high": 105,
+    "low": 101,
+    "volume": 16136800,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-09",
+    "close": 104,
+    "open": 103,
+    "high": 110,
+    "low": 102,
+    "volume": 44321200,
+    "market_cap": 306938158592
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-10",
+    "close": 101,
+    "open": 105,
+    "high": 105,
+    "low": 101,
+    "volume": 17160300,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-11",
+    "close": 100,
+    "open": 101,
+    "high": 101,
+    "low": 95,
+    "volume": 16251000,
+    "market_cap": 295132844800
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-14",
+    "close": 99,
+    "open": 100,
+    "high": 105,
+    "low": 97,
+    "volume": 41615500,
+    "market_cap": 292181516352
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-15",
+    "close": 101,
+    "open": 99,
+    "high": 102,
+    "low": 98,
+    "volume": 9977800,
+    "market_cap": 298084173248
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-16",
+    "close": 105,
+    "open": 101,
+    "high": 108,
+    "low": 100,
+    "volume": 49719300,
+    "market_cap": 309889487040
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-17",
+    "close": 103,
+    "open": 105,
+    "high": 111,
+    "low": 102,
+    "volume": 78890400,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-18",
+    "close": 102,
+    "open": 104,
+    "high": 105,
+    "low": 101,
+    "volume": 18185400,
+    "market_cap": 301035501696
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-21",
+    "close": 103,
+    "open": 103,
+    "high": 104,
+    "low": 101,
+    "volume": 7723000,
+    "market_cap": 303986830144
+  },
+  {
+    "symbol": "TRON.JK",
+    "date": "2026-09-22",
+    "close": 100,
+    "open": 104,
+    "high": 107,
+    "low": 95,
+    "volume": 27519700,
+    "market_cap": 295132844800
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-06-24",
+    "close": 139,
+    "open": 155,
+    "high": 158,
+    "low": 135,
+    "volume": 7375400,
+    "market_cap": 2491723874699
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-06-25",
+    "close": 138,
+    "open": 139,
+    "high": 152,
+    "low": 126,
+    "volume": 9104900,
+    "market_cap": 2473797803658
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-06-26",
+    "close": 131,
+    "open": 138,
+    "high": 139,
+    "low": 129,
+    "volume": 2733000,
+    "market_cap": 2348315306371
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-06-29",
+    "close": 128,
+    "open": 131,
+    "high": 134,
+    "low": 125,
+    "volume": 1693700,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-06-30",
+    "close": 111,
+    "open": 128,
+    "high": 128,
+    "low": 110,
+    "volume": 4436100,
+    "market_cap": 1989793885551
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-01",
+    "close": 117,
+    "open": 111,
+    "high": 126,
+    "low": 110,
+    "volume": 3785800,
+    "market_cap": 2097350311797
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-02",
+    "close": 118,
+    "open": 117,
+    "high": 121,
+    "low": 115,
+    "volume": 1163300,
+    "market_cap": 2115276382838
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-03",
+    "close": 121,
+    "open": 120,
+    "high": 134,
+    "low": 117,
+    "volume": 5683400,
+    "market_cap": 2169054595961
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-06",
+    "close": 120,
+    "open": 125,
+    "high": 125,
+    "low": 117,
+    "volume": 1102200,
+    "market_cap": 2151128524920
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-07",
+    "close": 120,
+    "open": 120,
+    "high": 127,
+    "low": 118,
+    "volume": 1418500,
+    "market_cap": 2151128524920
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-08",
+    "close": 119,
+    "open": 122,
+    "high": 122,
+    "low": 115,
+    "volume": 1527300,
+    "market_cap": 2133202453879
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-09",
+    "close": 117,
+    "open": 118,
+    "high": 118,
+    "low": 116,
+    "volume": 621800,
+    "market_cap": 2097350311797
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-10",
+    "close": 116,
+    "open": 117,
+    "high": 119,
+    "low": 116,
+    "volume": 437100,
+    "market_cap": 2079424240756
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-13",
+    "close": 117,
+    "open": 117,
+    "high": 118,
+    "low": 115,
+    "volume": 789000,
+    "market_cap": 2097350311797
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-14",
+    "close": 116,
+    "open": 116,
+    "high": 120,
+    "low": 112,
+    "volume": 1321000,
+    "market_cap": 2079424240756
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-15",
+    "close": 126,
+    "open": 118,
+    "high": 138,
+    "low": 114,
+    "volume": 13966500,
+    "market_cap": 2258684951166
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-16",
+    "close": 125,
+    "open": 125,
+    "high": 125,
+    "low": 121,
+    "volume": 1290700,
+    "market_cap": 2240758880125
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-17",
+    "close": 127,
+    "open": 125,
+    "high": 133,
+    "low": 121,
+    "volume": 6172200,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-20",
+    "close": 125,
+    "open": 128,
+    "high": 131,
+    "low": 122,
+    "volume": 2903600,
+    "market_cap": 2240758880125
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-21",
+    "close": 124,
+    "open": 126,
+    "high": 127,
+    "low": 121,
+    "volume": 1657000,
+    "market_cap": 2222832809084
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-22",
+    "close": 124,
+    "open": 125,
+    "high": 127,
+    "low": 116,
+    "volume": 2925400,
+    "market_cap": 2222832809084
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-23",
+    "close": 122,
+    "open": 124,
+    "high": 127,
+    "low": 121,
+    "volume": 1698400,
+    "market_cap": 2186980667002
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-24",
+    "close": 127,
+    "open": 122,
+    "high": 150,
+    "low": 118,
+    "volume": 51177800,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-27",
+    "close": 125,
+    "open": 129,
+    "high": 130,
+    "low": 122,
+    "volume": 3593700,
+    "market_cap": 2240758880125
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-28",
+    "close": 128,
+    "open": 126,
+    "high": 143,
+    "low": 122,
+    "volume": 17134100,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-29",
+    "close": 125,
+    "open": 132,
+    "high": 132,
+    "low": 124,
+    "volume": 1592100,
+    "market_cap": 2240758880125
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-30",
+    "close": 125,
+    "open": 128,
+    "high": 130,
+    "low": 123,
+    "volume": 2516300,
+    "market_cap": 2240758880125
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-07-31",
+    "close": 126,
+    "open": 126,
+    "high": 127,
+    "low": 124,
+    "volume": 849900,
+    "market_cap": 2258684951166
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-03",
+    "close": 128,
+    "open": 126,
+    "high": 129,
+    "low": 124,
+    "volume": 1822400,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-04",
+    "close": 127,
+    "open": 125,
+    "high": 128,
+    "low": 125,
+    "volume": 1795300,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-05",
+    "close": 127,
+    "open": 126,
+    "high": 131,
+    "low": 125,
+    "volume": 745800,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-06",
+    "close": 127,
+    "open": 127,
+    "high": 128,
+    "low": 126,
+    "volume": 774000,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-07",
+    "close": 126,
+    "open": 129,
+    "high": 129,
+    "low": 125,
+    "volume": 523400,
+    "market_cap": 2258684951166
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-10",
+    "close": 129,
+    "open": 128,
+    "high": 138,
+    "low": 127,
+    "volume": 3607800,
+    "market_cap": 2312463164289
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-11",
+    "close": 127,
+    "open": 129,
+    "high": 133,
+    "low": 125,
+    "volume": 883100,
+    "market_cap": 2276611022207
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-12",
+    "close": 130,
+    "open": 127,
+    "high": 138,
+    "low": 127,
+    "volume": 3236000,
+    "market_cap": 2330389235330
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-13",
+    "close": 130,
+    "open": 135,
+    "high": 144,
+    "low": 128,
+    "volume": 4664600,
+    "market_cap": 2330389235330
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-14",
+    "close": 128,
+    "open": 130,
+    "high": 132,
+    "low": 126,
+    "volume": 724200,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-18",
+    "close": 131,
+    "open": 128,
+    "high": 136,
+    "low": 127,
+    "volume": 846500,
+    "market_cap": 2348315306371
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-19",
+    "close": 129,
+    "open": 131,
+    "high": 131,
+    "low": 127,
+    "volume": 371400,
+    "market_cap": 2312463164289
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-20",
+    "close": 130,
+    "open": 130,
+    "high": 131,
+    "low": 127,
+    "volume": 730400,
+    "market_cap": 2330389235330
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-21",
+    "close": 130,
+    "open": 130,
+    "high": 131,
+    "low": 128,
+    "volume": 419400,
+    "market_cap": 2330389235330
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-24",
+    "close": 130,
+    "open": 130,
+    "high": 130,
+    "low": 124,
+    "volume": 846200,
+    "market_cap": 2330389235330
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-26",
+    "close": 128,
+    "open": 130,
+    "high": 131,
+    "low": 126,
+    "volume": 1348000,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-27",
+    "close": 128,
+    "open": 128,
+    "high": 130,
+    "low": 126,
+    "volume": 508800,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-28",
+    "close": 135,
+    "open": 128,
+    "high": 151,
+    "low": 127,
+    "volume": 10881800,
+    "market_cap": 2420019590535
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-08-31",
+    "close": 137,
+    "open": 136,
+    "high": 140,
+    "low": 135,
+    "volume": 1620800,
+    "market_cap": 2455871732617
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-01",
+    "close": 141,
+    "open": 137,
+    "high": 141,
+    "low": 135,
+    "volume": 1730400,
+    "market_cap": 2527576016781
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-02",
+    "close": 136,
+    "open": 141,
+    "high": 141,
+    "low": 136,
+    "volume": 546900,
+    "market_cap": 2437945661576
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-03",
+    "close": 138,
+    "open": 140,
+    "high": 140,
+    "low": 134,
+    "volume": 943100,
+    "market_cap": 2473797803658
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-04",
+    "close": 134,
+    "open": 139,
+    "high": 139,
+    "low": 134,
+    "volume": 757700,
+    "market_cap": 2402093519494
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-07",
+    "close": 135,
+    "open": 139,
+    "high": 141,
+    "low": 130,
+    "volume": 920300,
+    "market_cap": 2420019590535
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-08",
+    "close": 134,
+    "open": 132,
+    "high": 137,
+    "low": 132,
+    "volume": 271400,
+    "market_cap": 2402093519494
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-09",
+    "close": 131,
+    "open": 132,
+    "high": 137,
+    "low": 125,
+    "volume": 1048000,
+    "market_cap": 2348315306371
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-10",
+    "close": 132,
+    "open": 132,
+    "high": 133,
+    "low": 130,
+    "volume": 200400,
+    "market_cap": 2366241377412
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-11",
+    "close": 131,
+    "open": 130,
+    "high": 131,
+    "low": 128,
+    "volume": 479600,
+    "market_cap": 2348315306371
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-14",
+    "close": 132,
+    "open": 130,
+    "high": 134,
+    "low": 126,
+    "volume": 218400,
+    "market_cap": 2366241377412
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-15",
+    "close": 128,
+    "open": 132,
+    "high": 132,
+    "low": 128,
+    "volume": 212500,
+    "market_cap": 2294537093248
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-16",
+    "close": 138,
+    "open": 131,
+    "high": 139,
+    "low": 128,
+    "volume": 1326700,
+    "market_cap": 2473797803658
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-17",
+    "close": 134,
+    "open": 138,
+    "high": 139,
+    "low": 134,
+    "volume": 526400,
+    "market_cap": 2402093519494
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-18",
+    "close": 135,
+    "open": 135,
+    "high": 136,
+    "low": 133,
+    "volume": 596000,
+    "market_cap": 2420019590535
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-21",
+    "close": 140,
+    "open": 135,
+    "high": 142,
+    "low": 135,
+    "volume": 2129600,
+    "market_cap": 2509649945740
+  },
+  {
+    "symbol": "BCIC.JK",
+    "date": "2026-09-22",
+    "close": 135,
+    "open": 141,
+    "high": 142,
+    "low": 133,
+    "volume": 1390000,
+    "market_cap": 2420019590535
+  }
+]

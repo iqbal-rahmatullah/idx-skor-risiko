@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-06-24",
+    "close": 109,
+    "open": 114,
+    "high": 118,
+    "low": 109,
+    "volume": 4120400,
+    "market_cap": 155714282600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-06-25",
+    "close": 112,
+    "open": 109,
+    "high": 117,
+    "low": 109,
+    "volume": 4411200,
+    "market_cap": 159999996800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-06-26",
+    "close": 109,
+    "open": 112,
+    "high": 115,
+    "low": 107,
+    "volume": 3013800,
+    "market_cap": 155714282600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-06-29",
+    "close": 109,
+    "open": 110,
+    "high": 112,
+    "low": 105,
+    "volume": 1427700,
+    "market_cap": 155714282600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-06-30",
+    "close": 103,
+    "open": 108,
+    "high": 111,
+    "low": 102,
+    "volume": 1378700,
+    "market_cap": 147142854200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-01",
+    "close": 104,
+    "open": 103,
+    "high": 107,
+    "low": 100,
+    "volume": 1502500,
+    "market_cap": 148571425600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-02",
+    "close": 103,
+    "open": 104,
+    "high": 109,
+    "low": 102,
+    "volume": 945100,
+    "market_cap": 147142854200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-03",
+    "close": 104,
+    "open": 104,
+    "high": 109,
+    "low": 103,
+    "volume": 2410300,
+    "market_cap": 148571425600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-06",
+    "close": 106,
+    "open": 105,
+    "high": 112,
+    "low": 103,
+    "volume": 5429300,
+    "market_cap": 151428568400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-07",
+    "close": 108,
+    "open": 106,
+    "high": 112,
+    "low": 104,
+    "volume": 7727600,
+    "market_cap": 154285711200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-08",
+    "close": 107,
+    "open": 106,
+    "high": 112,
+    "low": 105,
+    "volume": 8058900,
+    "market_cap": 152857139800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-09",
+    "close": 108,
+    "open": 107,
+    "high": 112,
+    "low": 106,
+    "volume": 5289400,
+    "market_cap": 154285711200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-10",
+    "close": 110,
+    "open": 108,
+    "high": 117,
+    "low": 107,
+    "volume": 11682100,
+    "market_cap": 157142854000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-13",
+    "close": 109,
+    "open": 110,
+    "high": 113,
+    "low": 107,
+    "volume": 6330000,
+    "market_cap": 155714282600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-14",
+    "close": 111,
+    "open": 110,
+    "high": 116,
+    "low": 108,
+    "volume": 13460800,
+    "market_cap": 158571425400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-15",
+    "close": 113,
+    "open": 112,
+    "high": 114,
+    "low": 110,
+    "volume": 4799400,
+    "market_cap": 161428568200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-16",
+    "close": 115,
+    "open": 113,
+    "high": 118,
+    "low": 112,
+    "volume": 9092600,
+    "market_cap": 164285711000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-17",
+    "close": 118,
+    "open": 115,
+    "high": 121,
+    "low": 114,
+    "volume": 13834600,
+    "market_cap": 168571425200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-20",
+    "close": 119,
+    "open": 119,
+    "high": 125,
+    "low": 117,
+    "volume": 14166800,
+    "market_cap": 169999996600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-21",
+    "close": 120,
+    "open": 122,
+    "high": 125,
+    "low": 117,
+    "volume": 14300700,
+    "market_cap": 171428568000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-22",
+    "close": 121,
+    "open": 120,
+    "high": 123,
+    "low": 119,
+    "volume": 7782600,
+    "market_cap": 172857139400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-23",
+    "close": 120,
+    "open": 121,
+    "high": 123,
+    "low": 119,
+    "volume": 4313700,
+    "market_cap": 171428568000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-24",
+    "close": 113,
+    "open": 116,
+    "high": 116,
+    "low": 110,
+    "volume": 9972200,
+    "market_cap": 161428568200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-27",
+    "close": 133,
+    "open": 113,
+    "high": 152,
+    "low": 110,
+    "volume": 204714900,
+    "market_cap": 189999996200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-28",
+    "close": 125,
+    "open": 133,
+    "high": 144,
+    "low": 123,
+    "volume": 60475700,
+    "market_cap": 178571425000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-29",
+    "close": 125,
+    "open": 125,
+    "high": 133,
+    "low": 119,
+    "volume": 16750600,
+    "market_cap": 178571425000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-30",
+    "close": 123,
+    "open": 126,
+    "high": 127,
+    "low": 120,
+    "volume": 7713200,
+    "market_cap": 175714282200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-07-31",
+    "close": 122,
+    "open": 123,
+    "high": 126,
+    "low": 120,
+    "volume": 6915200,
+    "market_cap": 174285710800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-03",
+    "close": 134,
+    "open": 124,
+    "high": 136,
+    "low": 123,
+    "volume": 23795900,
+    "market_cap": 191428567600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-04",
+    "close": 132,
+    "open": 138,
+    "high": 144,
+    "low": 129,
+    "volume": 17467000,
+    "market_cap": 188571424800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-05",
+    "close": 139,
+    "open": 135,
+    "high": 142,
+    "low": 130,
+    "volume": 10581800,
+    "market_cap": 198571424600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-06",
+    "close": 138,
+    "open": 140,
+    "high": 142,
+    "low": 134,
+    "volume": 4709500,
+    "market_cap": 197142853200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-07",
+    "close": 140,
+    "open": 139,
+    "high": 149,
+    "low": 135,
+    "volume": 19230000,
+    "market_cap": 199999996000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-10",
+    "close": 143,
+    "open": 140,
+    "high": 152,
+    "low": 138,
+    "volume": 12221900,
+    "market_cap": 204285710200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-11",
+    "close": 136,
+    "open": 144,
+    "high": 145,
+    "low": 134,
+    "volume": 6002800,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-12",
+    "close": 137,
+    "open": 137,
+    "high": 140,
+    "low": 136,
+    "volume": 1711300,
+    "market_cap": 195714281800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-13",
+    "close": 136,
+    "open": 139,
+    "high": 139,
+    "low": 130,
+    "volume": 2923500,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-14",
+    "close": 135,
+    "open": 136,
+    "high": 136,
+    "low": 132,
+    "volume": 1339000,
+    "market_cap": 192857139000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-18",
+    "close": 136,
+    "open": 134,
+    "high": 138,
+    "low": 134,
+    "volume": 3522100,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-19",
+    "close": 137,
+    "open": 136,
+    "high": 138,
+    "low": 134,
+    "volume": 5628700,
+    "market_cap": 195714281800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-20",
+    "close": 139,
+    "open": 139,
+    "high": 142,
+    "low": 136,
+    "volume": 5283800,
+    "market_cap": 198571424600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-21",
+    "close": 137,
+    "open": 142,
+    "high": 142,
+    "low": 137,
+    "volume": 1127700,
+    "market_cap": 195714281800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-24",
+    "close": 136,
+    "open": 136,
+    "high": 138,
+    "low": 135,
+    "volume": 1663900,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-26",
+    "close": 130,
+    "open": 136,
+    "high": 139,
+    "low": 128,
+    "volume": 5552400,
+    "market_cap": 185714282000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-27",
+    "close": 139,
+    "open": 132,
+    "high": 149,
+    "low": 132,
+    "volume": 29993100,
+    "market_cap": 198571424600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-28",
+    "close": 137,
+    "open": 139,
+    "high": 139,
+    "low": 135,
+    "volume": 3073300,
+    "market_cap": 195714281800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-08-31",
+    "close": 138,
+    "open": 137,
+    "high": 139,
+    "low": 136,
+    "volume": 2024900,
+    "market_cap": 197142853200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-01",
+    "close": 138,
+    "open": 139,
+    "high": 140,
+    "low": 136,
+    "volume": 1557600,
+    "market_cap": 197142853200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-02",
+    "close": 138,
+    "open": 137,
+    "high": 139,
+    "low": 135,
+    "volume": 1170700,
+    "market_cap": 197142853200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-03",
+    "close": 136,
+    "open": 138,
+    "high": 138,
+    "low": 135,
+    "volume": 1326400,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-04",
+    "close": 137,
+    "open": 136,
+    "high": 142,
+    "low": 136,
+    "volume": 4277400,
+    "market_cap": 195714281800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-07",
+    "close": 136,
+    "open": 139,
+    "high": 139,
+    "low": 136,
+    "volume": 862700,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-08",
+    "close": 139,
+    "open": 137,
+    "high": 140,
+    "low": 137,
+    "volume": 1808600,
+    "market_cap": 198571424600
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-09",
+    "close": 141,
+    "open": 141,
+    "high": 144,
+    "low": 138,
+    "volume": 3242100,
+    "market_cap": 201428567400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-10",
+    "close": 138,
+    "open": 141,
+    "high": 144,
+    "low": 138,
+    "volume": 6015100,
+    "market_cap": 197142853200
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-11",
+    "close": 135,
+    "open": 136,
+    "high": 136,
+    "low": 129,
+    "volume": 2885600,
+    "market_cap": 192857139000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-14",
+    "close": 135,
+    "open": 135,
+    "high": 136,
+    "low": 132,
+    "volume": 1073100,
+    "market_cap": 192857139000
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-15",
+    "close": 136,
+    "open": 135,
+    "high": 138,
+    "low": 134,
+    "volume": 2662100,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-16",
+    "close": 136,
+    "open": 135,
+    "high": 148,
+    "low": 133,
+    "volume": 25360800,
+    "market_cap": 194285710400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-17",
+    "close": 147,
+    "open": 149,
+    "high": 165,
+    "low": 142,
+    "volume": 99069100,
+    "market_cap": 209999995800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-18",
+    "close": 142,
+    "open": 147,
+    "high": 148,
+    "low": 140,
+    "volume": 8776200,
+    "market_cap": 202857138800
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-21",
+    "close": 141,
+    "open": 141,
+    "high": 142,
+    "low": 136,
+    "volume": 7512600,
+    "market_cap": 201428567400
+  },
+  {
+    "symbol": "DIVA.JK",
+    "date": "2026-09-22",
+    "close": 137,
+    "open": 143,
+    "high": 147,
+    "low": 137,
+    "volume": 6120100,
+    "market_cap": 195714281800
+  }
+]

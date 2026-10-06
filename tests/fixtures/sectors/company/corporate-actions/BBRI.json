@@ -1,0 +1,152 @@
+{
+  "symbol": "BBRI.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-03-01",
+        "agm_time": "14:00:00",
+        "agm_place": "Gedung Bri I Lantai 21Jl. Jend. Sudirman No. 44-46Jakarta Pusat 10210",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-09-14",
+        "agm_time": "15:00:00",
+        "agm_place": "Pubex Live 2022",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-03-13",
+        "agm_time": "10:00:00",
+        "agm_place": "Kantor Pusat Bri, Jl. Jend Sudirman Kav. 44-46 Dki. Jakarta",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-11-30",
+        "agm_time": "09:05:00",
+        "agm_place": "Pubex Live 2023",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-03-01",
+        "agm_time": "14:00:00",
+        "agm_place": "Kantor Pusat - Gedung Bri 1 Jl. Jenderal Sudirman KAV 44-46, Jakarta Pusat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-08-29",
+        "agm_time": "09:05:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-03-24",
+        "agm_time": "14:00:00",
+        "agm_place": "Menara Brilian JL. Gatot Subroto NO. 177A, Menteng Dalam Jakarta Selatan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-12-17",
+        "agm_time": "14:00:00",
+        "agm_place": "Jakarta",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-04-10",
+        "agm_time": "14:00:00",
+        "agm_place": "Jakarta Selatan",
+        "agm_result": "Agenda #1: Shareholders approved the 2025 Annual Report and audited Consolidated Financial Statements, granting full discharge of responsibility to the Board of Directors and Board of Commissioners. This included the ratification of the PUMK Financial Statements audited by Purwanto Susanti & Surja.\nAgenda #2: The meeting approved the allocation of Rp56.65 trillion in net profit, designating Rp52.10 trillion for cash dividends (Rp346 per share) and Rp4.55 trillion for retained earnings. The remaining cash dividend to be paid is Rp209 per share, following an interim dividend distributed in January 2026.\nAgenda #3: Authority was delegated to the majority Series B Shareholder and the Board of Commissioners to determine salaries, allowances, and performance-based remuneration for the Board of Directors and Commissioners. These determinations cover the 2025 performance year and the 2026 financial year.\nAgenda #4: Shareholders approved appointing Purwanto Susanti dan Surja (Ernst & Young Global) to audit the 2026 Financial Statements and PUMK Program reports. The Board of Commissioners was authorized to determine audit fees and appoint substitute accountants if necessary, subject to Series B Shareholder approval.\nAgenda #5: Authority was delegated to the Board of Commissioners, subject to coordination with Series A Dwiwarna Shareholders, to approve the 2026-2030 Long Term Corporate Plan and 2027 Work Plan and Budget.\nAgenda #6: The meeting formally accepted the realization reports for the Sustainable Social Bonds I Phase I (2025) and Phase II (2026).\nAgenda #7: Shareholders approved amending the Articles of Association to reclassify 806,109,768 Series B shares into Series A Dwiwarna shares to comply with Law No. 16 of 2025."
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": [
+      {
+        "ex_date": "2026-04-21",
+        "payment_date": "2026-05-08",
+        "dividend_yield": null,
+        "dividend_amount": 209
+      },
+      {
+        "ex_date": "2024-01-02",
+        "payment_date": "2024-01-18",
+        "dividend_yield": 0.0166256,
+        "dividend_amount": 84
+      },
+      {
+        "ex_date": "2024-03-14",
+        "payment_date": "2024-03-28",
+        "dividend_yield": 0.0465121,
+        "dividend_amount": 235
+      },
+      {
+        "ex_date": "2023-03-24",
+        "payment_date": "2023-04-12",
+        "dividend_yield": 0.0445298,
+        "dividend_amount": 231.221
+      },
+      {
+        "ex_date": "2023-01-10",
+        "payment_date": "2023-01-27",
+        "dividend_yield": 0.0109773,
+        "dividend_amount": 57
+      },
+      {
+        "ex_date": "2022-03-11",
+        "payment_date": "2022-04-01",
+        "dividend_yield": 0.0388937,
+        "dividend_amount": 174.251
+      },
+      {
+        "ex_date": "2021-04-06",
+        "payment_date": "2021-04-28",
+        "dividend_yield": 0.0215505,
+        "dividend_amount": 98.9057
+      },
+      {
+        "ex_date": "2020-02-27",
+        "payment_date": "2020-03-18",
+        "dividend_yield": 0.0434216,
+        "dividend_amount": 168.202
+      },
+      {
+        "ex_date": "2025-04-11",
+        "payment_date": "2025-04-23",
+        "dividend_yield": 0.0534156,
+        "dividend_amount": 208.4
+      },
+      {
+        "ex_date": "2024-12-27",
+        "payment_date": "2025-01-15",
+        "dividend_yield": 0.0267197,
+        "dividend_amount": 135
+      },
+      {
+        "ex_date": "2025-12-30",
+        "payment_date": "2026-01-15",
+        "dividend_yield": 0.0351149,
+        "dividend_amount": 137
+      }
+    ],
+    "right_issue": [
+      {
+        "price": 3400,
+        "ex_date": "2021-09-08",
+        "new_ratio": 230129000,
+        "old_ratio": 1000000000,
+        "trading_period_end": "2021-09-22",
+        "trading_period_start": "2021-09-13"
+      }
+    ],
+    "stock_split": [
+      {
+        "date": "2017-11-10",
+        "split_ratio": 5
+      },
+      {
+        "date": "2011-01-11",
+        "split_ratio": 2
+      }
+    ],
+    "upcoming_dividend": null
+  }
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-06-24",
+    "close": 154,
+    "open": 159,
+    "high": 163,
+    "low": 154,
+    "volume": 2940800,
+    "market_cap": 1529610287744
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-06-25",
+    "close": 156,
+    "open": 155,
+    "high": 157,
+    "low": 154,
+    "volume": 2059500,
+    "market_cap": 1549475356416
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-06-26",
+    "close": 152,
+    "open": 156,
+    "high": 157,
+    "low": 147,
+    "volume": 2267500,
+    "market_cap": 1509745219072
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-06-29",
+    "close": 146,
+    "open": 151,
+    "high": 152,
+    "low": 146,
+    "volume": 2281100,
+    "market_cap": 1450150013056
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-06-30",
+    "close": 145,
+    "open": 146,
+    "high": 147,
+    "low": 141,
+    "volume": 1912400,
+    "market_cap": 1440217478720
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-01",
+    "close": 145,
+    "open": 145,
+    "high": 147,
+    "low": 143,
+    "volume": 972000,
+    "market_cap": 1440217478720
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-02",
+    "close": 144,
+    "open": 145,
+    "high": 167,
+    "low": 144,
+    "volume": 19033200,
+    "market_cap": 1430284944384
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-03",
+    "close": 150,
+    "open": 146,
+    "high": 151,
+    "low": 145,
+    "volume": 2333800,
+    "market_cap": 1489880150400
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-06",
+    "close": 151,
+    "open": 150,
+    "high": 152,
+    "low": 147,
+    "volume": 913000,
+    "market_cap": 1499812684736
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-07",
+    "close": 159,
+    "open": 152,
+    "high": 159,
+    "low": 148,
+    "volume": 4596700,
+    "market_cap": 1579272959424
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-08",
+    "close": 152,
+    "open": 159,
+    "high": 160,
+    "low": 150,
+    "volume": 1959000,
+    "market_cap": 1509745219072
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-09",
+    "close": 152,
+    "open": 152,
+    "high": 154,
+    "low": 148,
+    "volume": 1616100,
+    "market_cap": 1509745219072
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-10",
+    "close": 150,
+    "open": 151,
+    "high": 152,
+    "low": 149,
+    "volume": 777400,
+    "market_cap": 1489880150400
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-13",
+    "close": 150,
+    "open": 151,
+    "high": 151,
+    "low": 148,
+    "volume": 1162400,
+    "market_cap": 1489880150400
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-14",
+    "close": 151,
+    "open": 151,
+    "high": 154,
+    "low": 150,
+    "volume": 4507700,
+    "market_cap": 1499812684736
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-15",
+    "close": 151,
+    "open": 152,
+    "high": 155,
+    "low": 151,
+    "volume": 1370100,
+    "market_cap": 1499812684736
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-16",
+    "close": 154,
+    "open": 154,
+    "high": 156,
+    "low": 151,
+    "volume": 2698400,
+    "market_cap": 1529610287744
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-17",
+    "close": 157,
+    "open": 154,
+    "high": 158,
+    "low": 154,
+    "volume": 2085200,
+    "market_cap": 1559407890752
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-20",
+    "close": 157,
+    "open": 157,
+    "high": 159,
+    "low": 157,
+    "volume": 2208100,
+    "market_cap": 1559407890752
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-21",
+    "close": 164,
+    "open": 157,
+    "high": 170,
+    "low": 157,
+    "volume": 7559400,
+    "market_cap": 1628935631104
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-22",
+    "close": 166,
+    "open": 165,
+    "high": 170,
+    "low": 164,
+    "volume": 2344600,
+    "market_cap": 1648800699776
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-23",
+    "close": 168,
+    "open": 170,
+    "high": 172,
+    "low": 164,
+    "volume": 7511200,
+    "market_cap": 1668665768448
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-24",
+    "close": 158,
+    "open": 166,
+    "high": 166,
+    "low": 156,
+    "volume": 4226100,
+    "market_cap": 1569340425088
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-27",
+    "close": 160,
+    "open": 159,
+    "high": 162,
+    "low": 156,
+    "volume": 1848800,
+    "market_cap": 1589205493760
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-28",
+    "close": 162,
+    "open": 161,
+    "high": 162,
+    "low": 157,
+    "volume": 3392400,
+    "market_cap": 1609070562432
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-29",
+    "close": 159,
+    "open": 162,
+    "high": 162,
+    "low": 156,
+    "volume": 2054600,
+    "market_cap": 1579272959424
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-30",
+    "close": 161,
+    "open": 159,
+    "high": 162,
+    "low": 159,
+    "volume": 2062500,
+    "market_cap": 1599138028096
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-07-31",
+    "close": 163,
+    "open": 161,
+    "high": 166,
+    "low": 161,
+    "volume": 2559400,
+    "market_cap": 1619003096768
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-03",
+    "close": 162,
+    "open": 163,
+    "high": 166,
+    "low": 161,
+    "volume": 936400,
+    "market_cap": 1609070562432
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-04",
+    "close": 165,
+    "open": 165,
+    "high": 171,
+    "low": 162,
+    "volume": 5497600,
+    "market_cap": 1638868165440
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-05",
+    "close": 168,
+    "open": 165,
+    "high": 169,
+    "low": 163,
+    "volume": 2723000,
+    "market_cap": 1668665768448
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-06",
+    "close": 171,
+    "open": 170,
+    "high": 174,
+    "low": 166,
+    "volume": 3729300,
+    "market_cap": 1698463371456
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-07",
+    "close": 170,
+    "open": 171,
+    "high": 171,
+    "low": 167,
+    "volume": 3305900,
+    "market_cap": 1688530837120
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-10",
+    "close": 168,
+    "open": 171,
+    "high": 172,
+    "low": 167,
+    "volume": 2691000,
+    "market_cap": 1668665768448
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-11",
+    "close": 165,
+    "open": 168,
+    "high": 176,
+    "low": 165,
+    "volume": 10747000,
+    "market_cap": 1638868165440
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-12",
+    "close": 168,
+    "open": 165,
+    "high": 169,
+    "low": 164,
+    "volume": 1739300,
+    "market_cap": 1668665768448
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-13",
+    "close": 166,
+    "open": 168,
+    "high": 168,
+    "low": 165,
+    "volume": 2925000,
+    "market_cap": 1648800699776
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-14",
+    "close": 167,
+    "open": 166,
+    "high": 170,
+    "low": 165,
+    "volume": 2973600,
+    "market_cap": 1658733234112
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-18",
+    "close": 167,
+    "open": 168,
+    "high": 169,
+    "low": 164,
+    "volume": 6627200,
+    "market_cap": 1658733234112
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-19",
+    "close": 166,
+    "open": 167,
+    "high": 168,
+    "low": 165,
+    "volume": 1681600,
+    "market_cap": 1648800699776
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-20",
+    "close": 167,
+    "open": 166,
+    "high": 168,
+    "low": 165,
+    "volume": 3837100,
+    "market_cap": 1658733234112
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-21",
+    "close": 170,
+    "open": 168,
+    "high": 173,
+    "low": 166,
+    "volume": 3812000,
+    "market_cap": 1688530837120
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-24",
+    "close": 170,
+    "open": 170,
+    "high": 171,
+    "low": 168,
+    "volume": 1773900,
+    "market_cap": 1688530837120
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-26",
+    "close": 162,
+    "open": 170,
+    "high": 170,
+    "low": 161,
+    "volume": 6069200,
+    "market_cap": 1609070562432
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-27",
+    "close": 161,
+    "open": 159,
+    "high": 163,
+    "low": 157,
+    "volume": 4635600,
+    "market_cap": 1599138028096
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-28",
+    "close": 163,
+    "open": 164,
+    "high": 165,
+    "low": 160,
+    "volume": 4715300,
+    "market_cap": 1619003096768
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-08-31",
+    "close": 163,
+    "open": 164,
+    "high": 166,
+    "low": 162,
+    "volume": 4104900,
+    "market_cap": 1619003096768
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-01",
+    "close": 192,
+    "open": 163,
+    "high": 208,
+    "low": 160,
+    "volume": 158265200,
+    "market_cap": 1907046592512
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-02",
+    "close": 187,
+    "open": 194,
+    "high": 195,
+    "low": 184,
+    "volume": 14261100,
+    "market_cap": 1857383920832
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-03",
+    "close": 181,
+    "open": 187,
+    "high": 204,
+    "low": 178,
+    "volume": 63707900,
+    "market_cap": 1797788714816
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-04",
+    "close": 180,
+    "open": 184,
+    "high": 184,
+    "low": 178,
+    "volume": 8935700,
+    "market_cap": 1787856180480
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-07",
+    "close": 175,
+    "open": 181,
+    "high": 181,
+    "low": 175,
+    "volume": 7357200,
+    "market_cap": 1738193508800
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-08",
+    "close": 176,
+    "open": 176,
+    "high": 180,
+    "low": 176,
+    "volume": 4573000,
+    "market_cap": 1748126043136
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-09",
+    "close": 177,
+    "open": 178,
+    "high": 179,
+    "low": 175,
+    "volume": 2405500,
+    "market_cap": 1758058577472
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-10",
+    "close": 175,
+    "open": 175,
+    "high": 180,
+    "low": 175,
+    "volume": 8162300,
+    "market_cap": 1738193508800
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-11",
+    "close": 172,
+    "open": 174,
+    "high": 175,
+    "low": 169,
+    "volume": 5091200,
+    "market_cap": 1708395905792
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-14",
+    "close": 171,
+    "open": 171,
+    "high": 173,
+    "low": 168,
+    "volume": 3189300,
+    "market_cap": 1698463371456
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-15",
+    "close": 169,
+    "open": 175,
+    "high": 175,
+    "low": 168,
+    "volume": 2747000,
+    "market_cap": 1678598302784
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-16",
+    "close": 168,
+    "open": 167,
+    "high": 170,
+    "low": 167,
+    "volume": 2870000,
+    "market_cap": 1668665768448
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-17",
+    "close": 178,
+    "open": 168,
+    "high": 196,
+    "low": 167,
+    "volume": 79309500,
+    "market_cap": 1767991111808
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-18",
+    "close": 172,
+    "open": 178,
+    "high": 180,
+    "low": 171,
+    "volume": 9682000,
+    "market_cap": 1708395905792
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-21",
+    "close": 170,
+    "open": 173,
+    "high": 175,
+    "low": 170,
+    "volume": 5757700,
+    "market_cap": 1688530837120
+  },
+  {
+    "symbol": "SMBR.JK",
+    "date": "2026-09-22",
+    "close": 167,
+    "open": 170,
+    "high": 173,
+    "low": 163,
+    "volume": 7412600,
+    "market_cap": 1658733234112
+  }
+]

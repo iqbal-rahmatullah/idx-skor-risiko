@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-06-24",
+    "close": 190,
+    "open": 193,
+    "high": 197,
+    "low": 190,
+    "volume": 99100,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-06-25",
+    "close": 200,
+    "open": 200,
+    "high": 200,
+    "low": 188,
+    "volume": 110200,
+    "market_cap": 333333300000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-06-26",
+    "close": 197,
+    "open": 200,
+    "high": 200,
+    "low": 190,
+    "volume": 36900,
+    "market_cap": 328333300500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-06-29",
+    "close": 189,
+    "open": 197,
+    "high": 202,
+    "low": 188,
+    "volume": 96100,
+    "market_cap": 314999968500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-06-30",
+    "close": 200,
+    "open": 196,
+    "high": 200,
+    "low": 188,
+    "volume": 537100,
+    "market_cap": 333333300000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-01",
+    "close": 195,
+    "open": 200,
+    "high": 200,
+    "low": 195,
+    "volume": 9000,
+    "market_cap": 324999967500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-02",
+    "close": 200,
+    "open": 195,
+    "high": 200,
+    "low": 195,
+    "volume": 205400,
+    "market_cap": 333333300000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-03",
+    "close": 197,
+    "open": 200,
+    "high": 200,
+    "low": 197,
+    "volume": 16600,
+    "market_cap": 328333300500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-06",
+    "close": 197,
+    "open": 199,
+    "high": 199,
+    "low": 196,
+    "volume": 65800,
+    "market_cap": 328333300500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-07",
+    "close": 195,
+    "open": 197,
+    "high": 216,
+    "low": 193,
+    "volume": 228400,
+    "market_cap": 324999967500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-08",
+    "close": 193,
+    "open": 200,
+    "high": 200,
+    "low": 193,
+    "volume": 8700,
+    "market_cap": 321666634500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-09",
+    "close": 185,
+    "open": 194,
+    "high": 194,
+    "low": 181,
+    "volume": 70700,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-10",
+    "close": 186,
+    "open": 200,
+    "high": 230,
+    "low": 186,
+    "volume": 3612600,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-13",
+    "close": 180,
+    "open": 187,
+    "high": 193,
+    "low": 179,
+    "volume": 857100,
+    "market_cap": 299999970000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-14",
+    "close": 179,
+    "open": 180,
+    "high": 180,
+    "low": 177,
+    "volume": 355500,
+    "market_cap": 298333303500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-15",
+    "close": 179,
+    "open": 180,
+    "high": 180,
+    "low": 178,
+    "volume": 196500,
+    "market_cap": 298333303500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-16",
+    "close": 180,
+    "open": 178,
+    "high": 180,
+    "low": 165,
+    "volume": 2969800,
+    "market_cap": 299999970000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-17",
+    "close": 180,
+    "open": 180,
+    "high": 183,
+    "low": 177,
+    "volume": 279700,
+    "market_cap": 299999970000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-20",
+    "close": 180,
+    "open": 180,
+    "high": 182,
+    "low": 178,
+    "volume": 117500,
+    "market_cap": 299999970000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-21",
+    "close": 179,
+    "open": 182,
+    "high": 182,
+    "low": 178,
+    "volume": 255200,
+    "market_cap": 298333303500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-22",
+    "close": 180,
+    "open": 179,
+    "high": 184,
+    "low": 176,
+    "volume": 335800,
+    "market_cap": 299999970000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-23",
+    "close": 186,
+    "open": 184,
+    "high": 188,
+    "low": 181,
+    "volume": 536200,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-24",
+    "close": 182,
+    "open": 186,
+    "high": 212,
+    "low": 180,
+    "volume": 1943200,
+    "market_cap": 303333303000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-27",
+    "close": 210,
+    "open": 190,
+    "high": 244,
+    "low": 182,
+    "volume": 14425800,
+    "market_cap": 349999965000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-28",
+    "close": 194,
+    "open": 212,
+    "high": 234,
+    "low": 192,
+    "volume": 3668400,
+    "market_cap": 323333301000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-29",
+    "close": 190,
+    "open": 206,
+    "high": 250,
+    "low": 189,
+    "volume": 13052700,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-30",
+    "close": 190,
+    "open": 194,
+    "high": 198,
+    "low": 185,
+    "volume": 1406100,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-07-31",
+    "close": 193,
+    "open": 194,
+    "high": 199,
+    "low": 188,
+    "volume": 1228100,
+    "market_cap": 321666634500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-03",
+    "close": 188,
+    "open": 194,
+    "high": 197,
+    "low": 182,
+    "volume": 976100,
+    "market_cap": 313333302000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-04",
+    "close": 187,
+    "open": 187,
+    "high": 188,
+    "low": 183,
+    "volume": 319300,
+    "market_cap": 311666635500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-05",
+    "close": 190,
+    "open": 186,
+    "high": 197,
+    "low": 186,
+    "volume": 1215200,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-06",
+    "close": 189,
+    "open": 194,
+    "high": 196,
+    "low": 185,
+    "volume": 362900,
+    "market_cap": 314999968500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-07",
+    "close": 194,
+    "open": 190,
+    "high": 196,
+    "low": 185,
+    "volume": 1177700,
+    "market_cap": 323333301000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-10",
+    "close": 192,
+    "open": 194,
+    "high": 198,
+    "low": 191,
+    "volume": 948400,
+    "market_cap": 319999968000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-11",
+    "close": 189,
+    "open": 193,
+    "high": 197,
+    "low": 185,
+    "volume": 636000,
+    "market_cap": 314999968500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-12",
+    "close": 186,
+    "open": 190,
+    "high": 190,
+    "low": 185,
+    "volume": 372500,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-13",
+    "close": 185,
+    "open": 187,
+    "high": 200,
+    "low": 181,
+    "volume": 1380100,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-14",
+    "close": 183,
+    "open": 186,
+    "high": 186,
+    "low": 183,
+    "volume": 106300,
+    "market_cap": 304999969500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-18",
+    "close": 184,
+    "open": 183,
+    "high": 187,
+    "low": 182,
+    "volume": 182000,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-19",
+    "close": 184,
+    "open": 184,
+    "high": 199,
+    "low": 183,
+    "volume": 1518100,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-20",
+    "close": 184,
+    "open": 188,
+    "high": 188,
+    "low": 183,
+    "volume": 226800,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-21",
+    "close": 185,
+    "open": 185,
+    "high": 187,
+    "low": 184,
+    "volume": 225700,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-24",
+    "close": 187,
+    "open": 185,
+    "high": 192,
+    "low": 183,
+    "volume": 395800,
+    "market_cap": 311666635500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-26",
+    "close": 184,
+    "open": 184,
+    "high": 190,
+    "low": 183,
+    "volume": 302800,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-27",
+    "close": 186,
+    "open": 184,
+    "high": 194,
+    "low": 184,
+    "volume": 258200,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-28",
+    "close": 185,
+    "open": 190,
+    "high": 190,
+    "low": 184,
+    "volume": 111600,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-08-31",
+    "close": 188,
+    "open": 187,
+    "high": 189,
+    "low": 184,
+    "volume": 280300,
+    "market_cap": 313333302000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-01",
+    "close": 185,
+    "open": 186,
+    "high": 188,
+    "low": 184,
+    "volume": 297100,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-02",
+    "close": 182,
+    "open": 185,
+    "high": 185,
+    "low": 182,
+    "volume": 369700,
+    "market_cap": 303333303000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-03",
+    "close": 184,
+    "open": 186,
+    "high": 193,
+    "low": 183,
+    "volume": 1261400,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-04",
+    "close": 184,
+    "open": 187,
+    "high": 187,
+    "low": 183,
+    "volume": 182100,
+    "market_cap": 306666636000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-07",
+    "close": 192,
+    "open": 184,
+    "high": 193,
+    "low": 184,
+    "volume": 1356300,
+    "market_cap": 319999968000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-08",
+    "close": 190,
+    "open": 193,
+    "high": 194,
+    "low": 190,
+    "volume": 730600,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-09",
+    "close": 189,
+    "open": 190,
+    "high": 191,
+    "low": 185,
+    "volume": 309600,
+    "market_cap": 314999968500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-10",
+    "close": 187,
+    "open": 191,
+    "high": 191,
+    "low": 187,
+    "volume": 130900,
+    "market_cap": 311666635500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-11",
+    "close": 185,
+    "open": 188,
+    "high": 189,
+    "low": 184,
+    "volume": 158700,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-14",
+    "close": 186,
+    "open": 186,
+    "high": 188,
+    "low": 183,
+    "volume": 245900,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-15",
+    "close": 186,
+    "open": 189,
+    "high": 189,
+    "low": 183,
+    "volume": 257400,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-16",
+    "close": 185,
+    "open": 186,
+    "high": 190,
+    "low": 184,
+    "volume": 609300,
+    "market_cap": 308333302500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-17",
+    "close": 186,
+    "open": 186,
+    "high": 190,
+    "low": 185,
+    "volume": 143600,
+    "market_cap": 309999969000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-18",
+    "close": 187,
+    "open": 186,
+    "high": 190,
+    "low": 186,
+    "volume": 138000,
+    "market_cap": 311666635500
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-21",
+    "close": 190,
+    "open": 187,
+    "high": 226,
+    "low": 186,
+    "volume": 15146000,
+    "market_cap": 316666635000
+  },
+  {
+    "symbol": "TFAS.JK",
+    "date": "2026-09-22",
+    "close": 195,
+    "open": 194,
+    "high": 216,
+    "low": 189,
+    "volume": 9521900,
+    "market_cap": 324999967500
+  }
+]

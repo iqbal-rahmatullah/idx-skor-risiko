@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-06-24",
+    "close": 139,
+    "open": 138,
+    "high": 142,
+    "low": 138,
+    "volume": 128500,
+    "market_cap": 79004125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-06-25",
+    "close": 135,
+    "open": 142,
+    "high": 143,
+    "low": 130,
+    "volume": 850800,
+    "market_cap": 76730625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-06-26",
+    "close": 119,
+    "open": 138,
+    "high": 138,
+    "low": 118,
+    "volume": 1175000,
+    "market_cap": 67636625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-06-29",
+    "close": 120,
+    "open": 119,
+    "high": 124,
+    "low": 116,
+    "volume": 476500,
+    "market_cap": 68205000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-06-30",
+    "close": 115,
+    "open": 120,
+    "high": 120,
+    "low": 108,
+    "volume": 860800,
+    "market_cap": 65363125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-01",
+    "close": 118,
+    "open": 115,
+    "high": 122,
+    "low": 113,
+    "volume": 440200,
+    "market_cap": 67068250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-02",
+    "close": 122,
+    "open": 123,
+    "high": 125,
+    "low": 117,
+    "volume": 148700,
+    "market_cap": 69341750000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-03",
+    "close": 120,
+    "open": 125,
+    "high": 125,
+    "low": 117,
+    "volume": 230200,
+    "market_cap": 68205000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-06",
+    "close": 127,
+    "open": 120,
+    "high": 131,
+    "low": 118,
+    "volume": 730900,
+    "market_cap": 72183625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-07",
+    "close": 128,
+    "open": 130,
+    "high": 130,
+    "low": 126,
+    "volume": 81900,
+    "market_cap": 72752000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-08",
+    "close": 126,
+    "open": 130,
+    "high": 130,
+    "low": 126,
+    "volume": 210700,
+    "market_cap": 71615250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-09",
+    "close": 129,
+    "open": 126,
+    "high": 130,
+    "low": 125,
+    "volume": 83600,
+    "market_cap": 73320375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-10",
+    "close": 127,
+    "open": 131,
+    "high": 131,
+    "low": 127,
+    "volume": 24700,
+    "market_cap": 72183625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-13",
+    "close": 128,
+    "open": 127,
+    "high": 131,
+    "low": 127,
+    "volume": 57800,
+    "market_cap": 72752000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-14",
+    "close": 129,
+    "open": 130,
+    "high": 130,
+    "low": 126,
+    "volume": 208200,
+    "market_cap": 73320375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-15",
+    "close": 125,
+    "open": 130,
+    "high": 130,
+    "low": 110,
+    "volume": 1032200,
+    "market_cap": 71046875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-16",
+    "close": 127,
+    "open": 129,
+    "high": 130,
+    "low": 126,
+    "volume": 91300,
+    "market_cap": 72183625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-17",
+    "close": 125,
+    "open": 129,
+    "high": 131,
+    "low": 125,
+    "volume": 244400,
+    "market_cap": 71046875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-20",
+    "close": 127,
+    "open": 125,
+    "high": 130,
+    "low": 125,
+    "volume": 78100,
+    "market_cap": 72183625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-21",
+    "close": 128,
+    "open": 128,
+    "high": 130,
+    "low": 128,
+    "volume": 286000,
+    "market_cap": 72752000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-22",
+    "close": 128,
+    "open": 129,
+    "high": 130,
+    "low": 127,
+    "volume": 78700,
+    "market_cap": 72752000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-23",
+    "close": 130,
+    "open": 127,
+    "high": 130,
+    "low": 126,
+    "volume": 700100,
+    "market_cap": 73888750000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-24",
+    "close": 129,
+    "open": 127,
+    "high": 132,
+    "low": 124,
+    "volume": 263300,
+    "market_cap": 73320375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-27",
+    "close": 131,
+    "open": 131,
+    "high": 139,
+    "low": 127,
+    "volume": 1050600,
+    "market_cap": 74457125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-28",
+    "close": 131,
+    "open": 130,
+    "high": 137,
+    "low": 123,
+    "volume": 601000,
+    "market_cap": 74457125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-29",
+    "close": 129,
+    "open": 131,
+    "high": 131,
+    "low": 126,
+    "volume": 163600,
+    "market_cap": 73320375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-30",
+    "close": 126,
+    "open": 127,
+    "high": 129,
+    "low": 123,
+    "volume": 1228700,
+    "market_cap": 71615250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-07-31",
+    "close": 127,
+    "open": 126,
+    "high": 129,
+    "low": 124,
+    "volume": 324400,
+    "market_cap": 72183625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-03",
+    "close": 130,
+    "open": 127,
+    "high": 131,
+    "low": 127,
+    "volume": 172100,
+    "market_cap": 73888750000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-04",
+    "close": 132,
+    "open": 130,
+    "high": 133,
+    "low": 129,
+    "volume": 392100,
+    "market_cap": 75025500000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-05",
+    "close": 134,
+    "open": 133,
+    "high": 136,
+    "low": 130,
+    "volume": 414400,
+    "market_cap": 76162250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-06",
+    "close": 133,
+    "open": 134,
+    "high": 137,
+    "low": 131,
+    "volume": 154100,
+    "market_cap": 75593875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-07",
+    "close": 131,
+    "open": 132,
+    "high": 133,
+    "low": 131,
+    "volume": 194300,
+    "market_cap": 74457125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-10",
+    "close": 133,
+    "open": 132,
+    "high": 134,
+    "low": 132,
+    "volume": 163700,
+    "market_cap": 75593875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-11",
+    "close": 133,
+    "open": 134,
+    "high": 134,
+    "low": 130,
+    "volume": 167300,
+    "market_cap": 75593875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-12",
+    "close": 133,
+    "open": 131,
+    "high": 143,
+    "low": 131,
+    "volume": 3214400,
+    "market_cap": 75593875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-13",
+    "close": 133,
+    "open": 134,
+    "high": 136,
+    "low": 131,
+    "volume": 527100,
+    "market_cap": 75593875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-14",
+    "close": 135,
+    "open": 132,
+    "high": 135,
+    "low": 131,
+    "volume": 86800,
+    "market_cap": 76730625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-18",
+    "close": 134,
+    "open": 133,
+    "high": 136,
+    "low": 133,
+    "volume": 92200,
+    "market_cap": 76162250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-19",
+    "close": 135,
+    "open": 135,
+    "high": 137,
+    "low": 132,
+    "volume": 247100,
+    "market_cap": 76730625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-20",
+    "close": 137,
+    "open": 133,
+    "high": 139,
+    "low": 133,
+    "volume": 1938700,
+    "market_cap": 77867375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-21",
+    "close": 137,
+    "open": 138,
+    "high": 138,
+    "low": 134,
+    "volume": 302700,
+    "market_cap": 77867375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-24",
+    "close": 184,
+    "open": 172,
+    "high": 184,
+    "low": 167,
+    "volume": 35348100,
+    "market_cap": 104581000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-26",
+    "close": 202,
+    "open": 220,
+    "high": 248,
+    "low": 191,
+    "volume": 110717300,
+    "market_cap": 114811750000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-27",
+    "close": 195,
+    "open": 191,
+    "high": 214,
+    "low": 179,
+    "volume": 19592500,
+    "market_cap": 110833125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-28",
+    "close": 192,
+    "open": 200,
+    "high": 204,
+    "low": 183,
+    "volume": 5980000,
+    "market_cap": 109128000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-08-31",
+    "close": 182,
+    "open": 189,
+    "high": 190,
+    "low": 179,
+    "volume": 7420600,
+    "market_cap": 103444250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-01",
+    "close": 183,
+    "open": 182,
+    "high": 185,
+    "low": 180,
+    "volume": 3141900,
+    "market_cap": 104012625000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-02",
+    "close": 193,
+    "open": 195,
+    "high": 214,
+    "low": 188,
+    "volume": 31045200,
+    "market_cap": 109696375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-03",
+    "close": 189,
+    "open": 193,
+    "high": 199,
+    "low": 186,
+    "volume": 5443800,
+    "market_cap": 107422875000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-04",
+    "close": 184,
+    "open": 190,
+    "high": 191,
+    "low": 183,
+    "volume": 2023200,
+    "market_cap": 104581000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-07",
+    "close": 187,
+    "open": 185,
+    "high": 194,
+    "low": 180,
+    "volume": 5763100,
+    "market_cap": 106286125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-08",
+    "close": 196,
+    "open": 188,
+    "high": 197,
+    "low": 183,
+    "volume": 18547100,
+    "market_cap": 111401500000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-09",
+    "close": 192,
+    "open": 196,
+    "high": 200,
+    "low": 192,
+    "volume": 4706000,
+    "market_cap": 109128000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-10",
+    "close": 185,
+    "open": 191,
+    "high": 191,
+    "low": 184,
+    "volume": 2483700,
+    "market_cap": 105149375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-11",
+    "close": 179,
+    "open": 186,
+    "high": 188,
+    "low": 173,
+    "volume": 2190300,
+    "market_cap": 101739125000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-14",
+    "close": 176,
+    "open": 184,
+    "high": 184,
+    "low": 173,
+    "volume": 680000,
+    "market_cap": 100034000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-15",
+    "close": 182,
+    "open": 177,
+    "high": 189,
+    "low": 174,
+    "volume": 2391700,
+    "market_cap": 103444250000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-16",
+    "close": 177,
+    "open": 182,
+    "high": 183,
+    "low": 177,
+    "volume": 580200,
+    "market_cap": 100602375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-17",
+    "close": 180,
+    "open": 180,
+    "high": 188,
+    "low": 176,
+    "volume": 953100,
+    "market_cap": 102307500000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-18",
+    "close": 177,
+    "open": 180,
+    "high": 180,
+    "low": 176,
+    "volume": 639700,
+    "market_cap": 100602375000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-21",
+    "close": 176,
+    "open": 180,
+    "high": 181,
+    "low": 174,
+    "volume": 573000,
+    "market_cap": 100034000000
+  },
+  {
+    "symbol": "PICO.JK",
+    "date": "2026-09-22",
+    "close": 167,
+    "open": 176,
+    "high": 177,
+    "low": 167,
+    "volume": 1069400,
+    "market_cap": 94918625000
+  }
+]

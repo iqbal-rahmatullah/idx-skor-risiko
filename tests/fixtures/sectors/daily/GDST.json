@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-06-24",
+    "close": 84,
+    "open": 83,
+    "high": 86,
+    "low": 82,
+    "volume": 2144100,
+    "market_cap": 776370000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-06-25",
+    "close": 84,
+    "open": 92,
+    "high": 93,
+    "low": 82,
+    "volume": 8116400,
+    "market_cap": 776370000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-06-26",
+    "close": 80,
+    "open": 85,
+    "high": 85,
+    "low": 79,
+    "volume": 3024800,
+    "market_cap": 739400000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-06-29",
+    "close": 81,
+    "open": 80,
+    "high": 84,
+    "low": 79,
+    "volume": 1206800,
+    "market_cap": 748642500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-06-30",
+    "close": 80,
+    "open": 81,
+    "high": 82,
+    "low": 78,
+    "volume": 577900,
+    "market_cap": 739400000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-01",
+    "close": 80,
+    "open": 80,
+    "high": 82,
+    "low": 79,
+    "volume": 88800,
+    "market_cap": 739400000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-02",
+    "close": 80,
+    "open": 82,
+    "high": 82,
+    "low": 79,
+    "volume": 322600,
+    "market_cap": 739400000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-03",
+    "close": 79,
+    "open": 80,
+    "high": 84,
+    "low": 79,
+    "volume": 2047200,
+    "market_cap": 730157500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-06",
+    "close": 80,
+    "open": 80,
+    "high": 82,
+    "low": 80,
+    "volume": 98200,
+    "market_cap": 739400000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-07",
+    "close": 82,
+    "open": 80,
+    "high": 82,
+    "low": 79,
+    "volume": 357900,
+    "market_cap": 757885000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-08",
+    "close": 82,
+    "open": 82,
+    "high": 83,
+    "low": 81,
+    "volume": 534600,
+    "market_cap": 757885000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-09",
+    "close": 82,
+    "open": 82,
+    "high": 83,
+    "low": 81,
+    "volume": 925400,
+    "market_cap": 757885000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-10",
+    "close": 83,
+    "open": 81,
+    "high": 84,
+    "low": 81,
+    "volume": 628300,
+    "market_cap": 767127500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-13",
+    "close": 83,
+    "open": 83,
+    "high": 84,
+    "low": 82,
+    "volume": 154800,
+    "market_cap": 767127500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-14",
+    "close": 82,
+    "open": 83,
+    "high": 84,
+    "low": 82,
+    "volume": 865200,
+    "market_cap": 757885000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-15",
+    "close": 101,
+    "open": 86,
+    "high": 105,
+    "low": 86,
+    "volume": 146342700,
+    "market_cap": 933492500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-16",
+    "close": 93,
+    "open": 100,
+    "high": 100,
+    "low": 91,
+    "volume": 17971800,
+    "market_cap": 859552500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-17",
+    "close": 92,
+    "open": 95,
+    "high": 100,
+    "low": 91,
+    "volume": 15573300,
+    "market_cap": 850310000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-20",
+    "close": 92,
+    "open": 93,
+    "high": 94,
+    "low": 90,
+    "volume": 3509400,
+    "market_cap": 850310000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-21",
+    "close": 91,
+    "open": 92,
+    "high": 93,
+    "low": 90,
+    "volume": 4146400,
+    "market_cap": 841067500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-22",
+    "close": 93,
+    "open": 92,
+    "high": 96,
+    "low": 90,
+    "volume": 8037200,
+    "market_cap": 859552500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-23",
+    "close": 92,
+    "open": 93,
+    "high": 96,
+    "low": 92,
+    "volume": 4343200,
+    "market_cap": 850310000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-24",
+    "close": 91,
+    "open": 92,
+    "high": 93,
+    "low": 90,
+    "volume": 2785100,
+    "market_cap": 841067500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-27",
+    "close": 103,
+    "open": 90,
+    "high": 116,
+    "low": 89,
+    "volume": 143103200,
+    "market_cap": 951977500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-28",
+    "close": 97,
+    "open": 103,
+    "high": 119,
+    "low": 96,
+    "volume": 93795000,
+    "market_cap": 896522500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-29",
+    "close": 94,
+    "open": 98,
+    "high": 99,
+    "low": 92,
+    "volume": 8372300,
+    "market_cap": 868795000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-30",
+    "close": 97,
+    "open": 93,
+    "high": 107,
+    "low": 91,
+    "volume": 34106600,
+    "market_cap": 896522500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-07-31",
+    "close": 97,
+    "open": 99,
+    "high": 103,
+    "low": 94,
+    "volume": 12489600,
+    "market_cap": 896522500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-03",
+    "close": 105,
+    "open": 100,
+    "high": 107,
+    "low": 97,
+    "volume": 29344400,
+    "market_cap": 970462500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-04",
+    "close": 101,
+    "open": 102,
+    "high": 105,
+    "low": 100,
+    "volume": 9030400,
+    "market_cap": 933492500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-05",
+    "close": 115,
+    "open": 103,
+    "high": 120,
+    "low": 100,
+    "volume": 86691000,
+    "market_cap": 1062887500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-06",
+    "close": 116,
+    "open": 115,
+    "high": 117,
+    "low": 109,
+    "volume": 20586000,
+    "market_cap": 1072130000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-07",
+    "close": 126,
+    "open": 116,
+    "high": 132,
+    "low": 113,
+    "volume": 44341400,
+    "market_cap": 1164555000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-10",
+    "close": 135,
+    "open": 133,
+    "high": 150,
+    "low": 124,
+    "volume": 108911100,
+    "market_cap": 1247737500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-11",
+    "close": 124,
+    "open": 140,
+    "high": 142,
+    "low": 124,
+    "volume": 22526300,
+    "market_cap": 1146070000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-12",
+    "close": 118,
+    "open": 125,
+    "high": 129,
+    "low": 116,
+    "volume": 29692500,
+    "market_cap": 1090615000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-13",
+    "close": 117,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 5050600,
+    "market_cap": 1081372500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-14",
+    "close": 111,
+    "open": 117,
+    "high": 117,
+    "low": 111,
+    "volume": 10124200,
+    "market_cap": 1025917500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-18",
+    "close": 112,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 3408900,
+    "market_cap": 1035160000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-19",
+    "close": 111,
+    "open": 112,
+    "high": 113,
+    "low": 110,
+    "volume": 4189200,
+    "market_cap": 1025917500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-20",
+    "close": 114,
+    "open": 113,
+    "high": 119,
+    "low": 110,
+    "volume": 22563800,
+    "market_cap": 1053645000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-21",
+    "close": 114,
+    "open": 115,
+    "high": 116,
+    "low": 112,
+    "volume": 7290700,
+    "market_cap": 1053645000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-24",
+    "close": 114,
+    "open": 114,
+    "high": 119,
+    "low": 111,
+    "volume": 12288500,
+    "market_cap": 1053645000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-26",
+    "close": 111,
+    "open": 114,
+    "high": 115,
+    "low": 111,
+    "volume": 7973300,
+    "market_cap": 1025917500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-27",
+    "close": 112,
+    "open": 110,
+    "high": 112,
+    "low": 108,
+    "volume": 5110400,
+    "market_cap": 1035160000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-28",
+    "close": 111,
+    "open": 112,
+    "high": 115,
+    "low": 110,
+    "volume": 3227900,
+    "market_cap": 1025917500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-08-31",
+    "close": 113,
+    "open": 111,
+    "high": 117,
+    "low": 111,
+    "volume": 10622400,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-01",
+    "close": 112,
+    "open": 113,
+    "high": 114,
+    "low": 112,
+    "volume": 2940900,
+    "market_cap": 1035160000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-02",
+    "close": 112,
+    "open": 113,
+    "high": 113,
+    "low": 110,
+    "volume": 2550100,
+    "market_cap": 1035160000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-03",
+    "close": 113,
+    "open": 113,
+    "high": 115,
+    "low": 111,
+    "volume": 3614600,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-04",
+    "close": 113,
+    "open": 114,
+    "high": 117,
+    "low": 112,
+    "volume": 5321700,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-07",
+    "close": 114,
+    "open": 113,
+    "high": 114,
+    "low": 112,
+    "volume": 2018100,
+    "market_cap": 1053645000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-08",
+    "close": 116,
+    "open": 115,
+    "high": 131,
+    "low": 112,
+    "volume": 40090500,
+    "market_cap": 1072130000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-09",
+    "close": 120,
+    "open": 116,
+    "high": 124,
+    "low": 116,
+    "volume": 33181800,
+    "market_cap": 1109100000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-10",
+    "close": 115,
+    "open": 123,
+    "high": 123,
+    "low": 115,
+    "volume": 8267000,
+    "market_cap": 1062887500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-11",
+    "close": 112,
+    "open": 116,
+    "high": 116,
+    "low": 110,
+    "volume": 7581700,
+    "market_cap": 1035160000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-14",
+    "close": 113,
+    "open": 114,
+    "high": 114,
+    "low": 108,
+    "volume": 10125400,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-15",
+    "close": 113,
+    "open": 113,
+    "high": 115,
+    "low": 111,
+    "volume": 4582600,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-16",
+    "close": 113,
+    "open": 113,
+    "high": 118,
+    "low": 112,
+    "volume": 6978200,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-17",
+    "close": 113,
+    "open": 113,
+    "high": 115,
+    "low": 113,
+    "volume": 1774100,
+    "market_cap": 1044402500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-18",
+    "close": 120,
+    "open": 114,
+    "high": 126,
+    "low": 112,
+    "volume": 74372700,
+    "market_cap": 1109100000000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-21",
+    "close": 139,
+    "open": 121,
+    "high": 142,
+    "low": 121,
+    "volume": 205023300,
+    "market_cap": 1284707500000
+  },
+  {
+    "symbol": "GDST.JK",
+    "date": "2026-09-22",
+    "close": 122,
+    "open": 139,
+    "high": 140,
+    "low": 122,
+    "volume": 46399400,
+    "market_cap": 1127585000000
+  }
+]

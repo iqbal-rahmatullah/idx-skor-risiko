@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-06-24",
+    "close": 815,
+    "open": 865,
+    "high": 880,
+    "low": 810,
+    "volume": 64887100,
+    "market_cap": 51425359000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-06-25",
+    "close": 830,
+    "open": 820,
+    "high": 855,
+    "low": 820,
+    "volume": 27831300,
+    "market_cap": 52371838000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-06-26",
+    "close": 820,
+    "open": 830,
+    "high": 835,
+    "low": 805,
+    "volume": 43874500,
+    "market_cap": 51740852000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-06-29",
+    "close": 810,
+    "open": 820,
+    "high": 830,
+    "low": 805,
+    "volume": 19332200,
+    "market_cap": 51109866000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-06-30",
+    "close": 780,
+    "open": 805,
+    "high": 810,
+    "low": 775,
+    "volume": 44103600,
+    "market_cap": 49216908000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-01",
+    "close": 820,
+    "open": 785,
+    "high": 830,
+    "low": 785,
+    "volume": 34217700,
+    "market_cap": 51740852000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-02",
+    "close": 815,
+    "open": 820,
+    "high": 835,
+    "low": 810,
+    "volume": 33488100,
+    "market_cap": 51425359000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-03",
+    "close": 860,
+    "open": 830,
+    "high": 870,
+    "low": 830,
+    "volume": 37637500,
+    "market_cap": 54264796000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-06",
+    "close": 845,
+    "open": 865,
+    "high": 870,
+    "low": 840,
+    "volume": 36702500,
+    "market_cap": 53318317000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-07",
+    "close": 835,
+    "open": 855,
+    "high": 855,
+    "low": 835,
+    "volume": 25213800,
+    "market_cap": 52687331000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-08",
+    "close": 825,
+    "open": 840,
+    "high": 845,
+    "low": 820,
+    "volume": 47113200,
+    "market_cap": 52056345000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-09",
+    "close": 805,
+    "open": 795,
+    "high": 815,
+    "low": 785,
+    "volume": 42745800,
+    "market_cap": 50794373000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-10",
+    "close": 795,
+    "open": 805,
+    "high": 810,
+    "low": 785,
+    "volume": 46931700,
+    "market_cap": 50163387000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-13",
+    "close": 810,
+    "open": 800,
+    "high": 810,
+    "low": 790,
+    "volume": 26893600,
+    "market_cap": 51109866000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-14",
+    "close": 825,
+    "open": 810,
+    "high": 840,
+    "low": 810,
+    "volume": 52322500,
+    "market_cap": 52056345000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-15",
+    "close": 835,
+    "open": 835,
+    "high": 840,
+    "low": 825,
+    "volume": 23080400,
+    "market_cap": 52687331000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-16",
+    "close": 840,
+    "open": 840,
+    "high": 855,
+    "low": 830,
+    "volume": 53377400,
+    "market_cap": 53002824000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-17",
+    "close": 845,
+    "open": 840,
+    "high": 850,
+    "low": 820,
+    "volume": 35236300,
+    "market_cap": 53318317000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-20",
+    "close": 860,
+    "open": 840,
+    "high": 885,
+    "low": 835,
+    "volume": 56840300,
+    "market_cap": 54264796000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-21",
+    "close": 885,
+    "open": 870,
+    "high": 910,
+    "low": 860,
+    "volume": 56468400,
+    "market_cap": 55842261000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-22",
+    "close": 865,
+    "open": 890,
+    "high": 900,
+    "low": 830,
+    "volume": 70188200,
+    "market_cap": 54580289000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-23",
+    "close": 890,
+    "open": 865,
+    "high": 905,
+    "low": 860,
+    "volume": 66367800,
+    "market_cap": 56157754000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-24",
+    "close": 850,
+    "open": 890,
+    "high": 890,
+    "low": 850,
+    "volume": 34030400,
+    "market_cap": 53633810000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-27",
+    "close": 840,
+    "open": 860,
+    "high": 870,
+    "low": 830,
+    "volume": 37901600,
+    "market_cap": 53002824000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-28",
+    "close": 845,
+    "open": 860,
+    "high": 870,
+    "low": 845,
+    "volume": 28307900,
+    "market_cap": 53318317000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-29",
+    "close": 850,
+    "open": 840,
+    "high": 860,
+    "low": 830,
+    "volume": 25773700,
+    "market_cap": 53633810000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-30",
+    "close": 885,
+    "open": 855,
+    "high": 890,
+    "low": 850,
+    "volume": 42884300,
+    "market_cap": 55842261000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-07-31",
+    "close": 895,
+    "open": 890,
+    "high": 915,
+    "low": 880,
+    "volume": 70861900,
+    "market_cap": 56473247000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-03",
+    "close": 935,
+    "open": 930,
+    "high": 955,
+    "low": 910,
+    "volume": 94952200,
+    "market_cap": 58997191000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-04",
+    "close": 955,
+    "open": 945,
+    "high": 960,
+    "low": 930,
+    "volume": 48085200,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-05",
+    "close": 940,
+    "open": 965,
+    "high": 965,
+    "low": 935,
+    "volume": 34449000,
+    "market_cap": 59312684000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-06",
+    "close": 935,
+    "open": 950,
+    "high": 955,
+    "low": 930,
+    "volume": 67129200,
+    "market_cap": 58997191000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-07",
+    "close": 945,
+    "open": 940,
+    "high": 955,
+    "low": 925,
+    "volume": 38537000,
+    "market_cap": 59628177000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-10",
+    "close": 930,
+    "open": 950,
+    "high": 955,
+    "low": 930,
+    "volume": 33360500,
+    "market_cap": 58681698000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-11",
+    "close": 915,
+    "open": 930,
+    "high": 940,
+    "low": 905,
+    "volume": 55221500,
+    "market_cap": 57735219000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-12",
+    "close": 935,
+    "open": 910,
+    "high": 935,
+    "low": 905,
+    "volume": 57216900,
+    "market_cap": 58997191000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-13",
+    "close": 910,
+    "open": 935,
+    "high": 945,
+    "low": 905,
+    "volume": 32166700,
+    "market_cap": 57419726000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-14",
+    "close": 925,
+    "open": 910,
+    "high": 935,
+    "low": 900,
+    "volume": 37909500,
+    "market_cap": 58366205000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-18",
+    "close": 935,
+    "open": 925,
+    "high": 945,
+    "low": 920,
+    "volume": 43927500,
+    "market_cap": 58997191000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-19",
+    "close": 925,
+    "open": 935,
+    "high": 945,
+    "low": 920,
+    "volume": 27321300,
+    "market_cap": 58366205000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-20",
+    "close": 950,
+    "open": 935,
+    "high": 965,
+    "low": 935,
+    "volume": 71805900,
+    "market_cap": 59943670000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-21",
+    "close": 955,
+    "open": 955,
+    "high": 970,
+    "low": 945,
+    "volume": 29413600,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-24",
+    "close": 955,
+    "open": 960,
+    "high": 975,
+    "low": 950,
+    "volume": 30814400,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-26",
+    "close": 940,
+    "open": 960,
+    "high": 980,
+    "low": 935,
+    "volume": 42142100,
+    "market_cap": 59312684000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-27",
+    "close": 965,
+    "open": 930,
+    "high": 965,
+    "low": 925,
+    "volume": 37976200,
+    "market_cap": 60890149000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-28",
+    "close": 955,
+    "open": 965,
+    "high": 970,
+    "low": 945,
+    "volume": 36233900,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-08-31",
+    "close": 970,
+    "open": 965,
+    "high": 990,
+    "low": 960,
+    "volume": 82947400,
+    "market_cap": 61205642000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-01",
+    "close": 950,
+    "open": 975,
+    "high": 985,
+    "low": 950,
+    "volume": 49677700,
+    "market_cap": 59943670000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-02",
+    "close": 945,
+    "open": 950,
+    "high": 965,
+    "low": 940,
+    "volume": 37345500,
+    "market_cap": 59628177000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-03",
+    "close": 970,
+    "open": 950,
+    "high": 975,
+    "low": 950,
+    "volume": 47846100,
+    "market_cap": 61205642000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-04",
+    "close": 955,
+    "open": 975,
+    "high": 975,
+    "low": 955,
+    "volume": 27857300,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-07",
+    "close": 940,
+    "open": 955,
+    "high": 960,
+    "low": 940,
+    "volume": 54115200,
+    "market_cap": 59312684000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-08",
+    "close": 960,
+    "open": 940,
+    "high": 965,
+    "low": 940,
+    "volume": 46946800,
+    "market_cap": 60574656000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-09",
+    "close": 1005,
+    "open": 965,
+    "high": 1010,
+    "low": 955,
+    "volume": 120723900,
+    "market_cap": 63414093000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-10",
+    "close": 955,
+    "open": 1005,
+    "high": 1015,
+    "low": 955,
+    "volume": 86493700,
+    "market_cap": 60259163000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-11",
+    "close": 940,
+    "open": 960,
+    "high": 965,
+    "low": 925,
+    "volume": 66676200,
+    "market_cap": 59312684000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-14",
+    "close": 920,
+    "open": 930,
+    "high": 935,
+    "low": 900,
+    "volume": 99667700,
+    "market_cap": 58050712000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-15",
+    "close": 915,
+    "open": 920,
+    "high": 945,
+    "low": 910,
+    "volume": 34051500,
+    "market_cap": 57735219000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-16",
+    "close": 920,
+    "open": 915,
+    "high": 940,
+    "low": 905,
+    "volume": 43162500,
+    "market_cap": 58050712000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-17",
+    "close": 940,
+    "open": 920,
+    "high": 945,
+    "low": 915,
+    "volume": 32328500,
+    "market_cap": 59312684000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-18",
+    "close": 920,
+    "open": 950,
+    "high": 950,
+    "low": 920,
+    "volume": 39742200,
+    "market_cap": 58050712000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-21",
+    "close": 930,
+    "open": 925,
+    "high": 940,
+    "low": 920,
+    "volume": 24796000,
+    "market_cap": 58681698000000
+  },
+  {
+    "symbol": "NCKL.JK",
+    "date": "2026-09-22",
+    "close": 915,
+    "open": 935,
+    "high": 935,
+    "low": 910,
+    "volume": 16676800,
+    "market_cap": 57735219000000
+  }
+]

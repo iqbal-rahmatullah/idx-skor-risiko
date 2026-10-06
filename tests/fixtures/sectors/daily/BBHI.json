@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-06-24",
+    "close": 920,
+    "open": 945,
+    "high": 945,
+    "low": 920,
+    "volume": 61300,
+    "market_cap": 19791917566840
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-06-25",
+    "close": 925,
+    "open": 920,
+    "high": 1000,
+    "low": 900,
+    "volume": 102600,
+    "market_cap": 19899482336225
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-06-26",
+    "close": 930,
+    "open": 930,
+    "high": 945,
+    "low": 905,
+    "volume": 17800,
+    "market_cap": 20007047105610
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-06-29",
+    "close": 885,
+    "open": 930,
+    "high": 930,
+    "low": 860,
+    "volume": 77000,
+    "market_cap": 19038964181145
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-06-30",
+    "close": 995,
+    "open": 885,
+    "high": 995,
+    "low": 855,
+    "volume": 171600,
+    "market_cap": 21405389107615
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-01",
+    "close": 935,
+    "open": 985,
+    "high": 990,
+    "low": 900,
+    "volume": 130500,
+    "market_cap": 20114611874995
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-02",
+    "close": 930,
+    "open": 985,
+    "high": 990,
+    "low": 900,
+    "volume": 114800,
+    "market_cap": 20007047105610
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-03",
+    "close": 930,
+    "open": 930,
+    "high": 980,
+    "low": 905,
+    "volume": 121000,
+    "market_cap": 20007047105610
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-06",
+    "close": 930,
+    "open": 935,
+    "high": 965,
+    "low": 890,
+    "volume": 315900,
+    "market_cap": 20007047105610
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-07",
+    "close": 915,
+    "open": 930,
+    "high": 945,
+    "low": 900,
+    "volume": 55100,
+    "market_cap": 19684352797455
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-08",
+    "close": 910,
+    "open": 940,
+    "high": 940,
+    "low": 910,
+    "volume": 45200,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-09",
+    "close": 910,
+    "open": 925,
+    "high": 925,
+    "low": 905,
+    "volume": 31500,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-10",
+    "close": 915,
+    "open": 915,
+    "high": 915,
+    "low": 900,
+    "volume": 81900,
+    "market_cap": 19684352797455
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-13",
+    "close": 920,
+    "open": 910,
+    "high": 935,
+    "low": 905,
+    "volume": 143400,
+    "market_cap": 19791917566840
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-14",
+    "close": 910,
+    "open": 920,
+    "high": 920,
+    "low": 910,
+    "volume": 59700,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-15",
+    "close": 925,
+    "open": 915,
+    "high": 930,
+    "low": 905,
+    "volume": 177800,
+    "market_cap": 19899482336225
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-16",
+    "close": 925,
+    "open": 925,
+    "high": 925,
+    "low": 920,
+    "volume": 155000,
+    "market_cap": 19899482336225
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-17",
+    "close": 945,
+    "open": 920,
+    "high": 950,
+    "low": 915,
+    "volume": 323000,
+    "market_cap": 20329741413765
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-20",
+    "close": 945,
+    "open": 950,
+    "high": 970,
+    "low": 940,
+    "volume": 185600,
+    "market_cap": 20329741413765
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-21",
+    "close": 930,
+    "open": 945,
+    "high": 950,
+    "low": 920,
+    "volume": 120100,
+    "market_cap": 20007047105610
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-22",
+    "close": 920,
+    "open": 930,
+    "high": 945,
+    "low": 920,
+    "volume": 84200,
+    "market_cap": 19791917566840
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-23",
+    "close": 920,
+    "open": 925,
+    "high": 930,
+    "low": 905,
+    "volume": 216900,
+    "market_cap": 19791917566840
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-24",
+    "close": 905,
+    "open": 920,
+    "high": 925,
+    "low": 900,
+    "volume": 430600,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-27",
+    "close": 910,
+    "open": 945,
+    "high": 945,
+    "low": 895,
+    "volume": 53000,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-28",
+    "close": 910,
+    "open": 910,
+    "high": 920,
+    "low": 900,
+    "volume": 40100,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-29",
+    "close": 900,
+    "open": 910,
+    "high": 915,
+    "low": 895,
+    "volume": 264500,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-30",
+    "close": 905,
+    "open": 900,
+    "high": 915,
+    "low": 900,
+    "volume": 58400,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-07-31",
+    "close": 945,
+    "open": 915,
+    "high": 945,
+    "low": 900,
+    "volume": 814600,
+    "market_cap": 20329741413765
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-03",
+    "close": 920,
+    "open": 945,
+    "high": 945,
+    "low": 915,
+    "volume": 42200,
+    "market_cap": 19791917566840
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-04",
+    "close": 915,
+    "open": 920,
+    "high": 925,
+    "low": 900,
+    "volume": 36200,
+    "market_cap": 19684352797455
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-05",
+    "close": 915,
+    "open": 915,
+    "high": 925,
+    "low": 910,
+    "volume": 39800,
+    "market_cap": 19684352797455
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-06",
+    "close": 910,
+    "open": 915,
+    "high": 915,
+    "low": 900,
+    "volume": 32000,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-07",
+    "close": 910,
+    "open": 910,
+    "high": 915,
+    "low": 900,
+    "volume": 79600,
+    "market_cap": 19576788028070
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-10",
+    "close": 905,
+    "open": 910,
+    "high": 915,
+    "low": 900,
+    "volume": 98770200,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-11",
+    "close": 905,
+    "open": 910,
+    "high": 915,
+    "low": 900,
+    "volume": 13773900,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-12",
+    "close": 900,
+    "open": 910,
+    "high": 910,
+    "low": 900,
+    "volume": 21568800,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-13",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 900,
+    "volume": 19321900,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-14",
+    "close": 905,
+    "open": 900,
+    "high": 910,
+    "low": 900,
+    "volume": 5950800,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-18",
+    "close": 905,
+    "open": 900,
+    "high": 910,
+    "low": 900,
+    "volume": 8540500,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-19",
+    "close": 905,
+    "open": 905,
+    "high": 910,
+    "low": 900,
+    "volume": 5677600,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-20",
+    "close": 905,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 8973000,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-21",
+    "close": 905,
+    "open": 905,
+    "high": 905,
+    "low": 900,
+    "volume": 12674700,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-24",
+    "close": 905,
+    "open": 905,
+    "high": 905,
+    "low": 900,
+    "volume": 28206100,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-26",
+    "close": 895,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 5481200,
+    "market_cap": 19254093719915
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-27",
+    "close": 900,
+    "open": 895,
+    "high": 910,
+    "low": 890,
+    "volume": 5558200,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-28",
+    "close": 905,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 3932100,
+    "market_cap": 19469223258685
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-08-31",
+    "close": 900,
+    "open": 905,
+    "high": 910,
+    "low": 865,
+    "volume": 806300,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-01",
+    "close": 875,
+    "open": 890,
+    "high": 890,
+    "low": 855,
+    "volume": 696800,
+    "market_cap": 18823834642375
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-02",
+    "close": 900,
+    "open": 880,
+    "high": 900,
+    "low": 855,
+    "volume": 674600,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-03",
+    "close": 900,
+    "open": 940,
+    "high": 990,
+    "low": 900,
+    "volume": 49869700,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-04",
+    "close": 900,
+    "open": 910,
+    "high": 920,
+    "low": 900,
+    "volume": 64688600,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-07",
+    "close": 900,
+    "open": 905,
+    "high": 910,
+    "low": 895,
+    "volume": 13498700,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-08",
+    "close": 900,
+    "open": 905,
+    "high": 905,
+    "low": 895,
+    "volume": 14782200,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-09",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 21695700,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-10",
+    "close": 895,
+    "open": 900,
+    "high": 905,
+    "low": 890,
+    "volume": 17122900,
+    "market_cap": 19254093719915
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-11",
+    "close": 900,
+    "open": 895,
+    "high": 905,
+    "low": 890,
+    "volume": 14404200,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-14",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 14256100,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-15",
+    "close": 900,
+    "open": 905,
+    "high": 905,
+    "low": 895,
+    "volume": 14995200,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-16",
+    "close": 900,
+    "open": 905,
+    "high": 905,
+    "low": 895,
+    "volume": 21225700,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-17",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 12032900,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-18",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 890,
+    "volume": 13211100,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-21",
+    "close": 900,
+    "open": 900,
+    "high": 900,
+    "low": 880,
+    "volume": 313700,
+    "market_cap": 19361658489300
+  },
+  {
+    "symbol": "BBHI.JK",
+    "date": "2026-09-22",
+    "close": 880,
+    "open": 880,
+    "high": 900,
+    "low": 880,
+    "volume": 514800,
+    "market_cap": 18931399411760
+  }
+]

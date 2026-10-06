@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-06-24",
+    "close": 3470,
+    "open": 3440,
+    "high": 3470,
+    "low": 3440,
+    "volume": 10400,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-06-25",
+    "close": 3440,
+    "open": 3460,
+    "high": 3490,
+    "low": 3440,
+    "volume": 1700,
+    "market_cap": 2687500000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-06-26",
+    "close": 3460,
+    "open": 3440,
+    "high": 3470,
+    "low": 3420,
+    "volume": 10000,
+    "market_cap": 2703125000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-06-29",
+    "close": 3430,
+    "open": 3510,
+    "high": 3510,
+    "low": 3430,
+    "volume": 3000,
+    "market_cap": 2679687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-06-30",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3360,
+    "volume": 6800,
+    "market_cap": 2648437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-01",
+    "close": 3430,
+    "open": 3400,
+    "high": 3430,
+    "low": 3360,
+    "volume": 3600,
+    "market_cap": 2679687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-02",
+    "close": 3440,
+    "open": 3450,
+    "high": 3450,
+    "low": 3440,
+    "volume": 300,
+    "market_cap": 2687500000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-03",
+    "close": 3430,
+    "open": 3450,
+    "high": 3450,
+    "low": 3390,
+    "volume": 38900,
+    "market_cap": 2679687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-06",
+    "close": 3450,
+    "open": 3430,
+    "high": 3450,
+    "low": 3430,
+    "volume": 16600,
+    "market_cap": 2695312500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-07",
+    "close": 3430,
+    "open": 3390,
+    "high": 3450,
+    "low": 3390,
+    "volume": 1800,
+    "market_cap": 2679687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-08",
+    "close": 3450,
+    "open": 3400,
+    "high": 3450,
+    "low": 3400,
+    "volume": 18700,
+    "market_cap": 2695312500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-09",
+    "close": 3450,
+    "open": 3450,
+    "high": 3450,
+    "low": 3450,
+    "volume": 4800,
+    "market_cap": 2695312500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-10",
+    "close": 3450,
+    "open": 3450,
+    "high": 3450,
+    "low": 3450,
+    "volume": 0,
+    "market_cap": 2695312500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-13",
+    "close": 3450,
+    "open": 3450,
+    "high": 3450,
+    "low": 3450,
+    "volume": 300,
+    "market_cap": 2695312500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-14",
+    "close": 3460,
+    "open": 3450,
+    "high": 3460,
+    "low": 3450,
+    "volume": 300,
+    "market_cap": 2703125000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-15",
+    "close": 3480,
+    "open": 3490,
+    "high": 3500,
+    "low": 3470,
+    "volume": 31000,
+    "market_cap": 2718750000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-16",
+    "close": 3490,
+    "open": 3490,
+    "high": 3570,
+    "low": 3490,
+    "volume": 38600,
+    "market_cap": 2726562500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-17",
+    "close": 3530,
+    "open": 3540,
+    "high": 3540,
+    "low": 3510,
+    "volume": 20700,
+    "market_cap": 2757812500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-20",
+    "close": 3550,
+    "open": 3530,
+    "high": 3550,
+    "low": 3530,
+    "volume": 7000,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-21",
+    "close": 3540,
+    "open": 3550,
+    "high": 3550,
+    "low": 3530,
+    "volume": 4900,
+    "market_cap": 2765625000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-22",
+    "close": 3530,
+    "open": 3540,
+    "high": 3540,
+    "low": 3520,
+    "volume": 5900,
+    "market_cap": 2757812500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-23",
+    "close": 3520,
+    "open": 3520,
+    "high": 3530,
+    "low": 3520,
+    "volume": 9900,
+    "market_cap": 2750000000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-24",
+    "close": 3530,
+    "open": 3530,
+    "high": 3650,
+    "low": 3530,
+    "volume": 50000,
+    "market_cap": 2757812500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-27",
+    "close": 3530,
+    "open": 3540,
+    "high": 3570,
+    "low": 3520,
+    "volume": 18700,
+    "market_cap": 2757812500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-28",
+    "close": 3560,
+    "open": 3540,
+    "high": 3560,
+    "low": 3540,
+    "volume": 31000,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-29",
+    "close": 3550,
+    "open": 3560,
+    "high": 3560,
+    "low": 3540,
+    "volume": 44700,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-30",
+    "close": 3570,
+    "open": 3560,
+    "high": 3570,
+    "low": 3550,
+    "volume": 13500,
+    "market_cap": 2789062500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-07-31",
+    "close": 3560,
+    "open": 3570,
+    "high": 3570,
+    "low": 3560,
+    "volume": 7700,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-03",
+    "close": 3540,
+    "open": 3550,
+    "high": 3550,
+    "low": 3540,
+    "volume": 900,
+    "market_cap": 2765625000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-04",
+    "close": 3550,
+    "open": 3550,
+    "high": 3550,
+    "low": 3550,
+    "volume": 17900,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-05",
+    "close": 3560,
+    "open": 3550,
+    "high": 3560,
+    "low": 3550,
+    "volume": 1200,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-06",
+    "close": 3560,
+    "open": 3560,
+    "high": 3570,
+    "low": 3560,
+    "volume": 15000,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-07",
+    "close": 3550,
+    "open": 3560,
+    "high": 3560,
+    "low": 3550,
+    "volume": 1700,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-10",
+    "close": 3560,
+    "open": 3550,
+    "high": 3560,
+    "low": 3550,
+    "volume": 4900,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-11",
+    "close": 3550,
+    "open": 3550,
+    "high": 3560,
+    "low": 3550,
+    "volume": 83300,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-12",
+    "close": 3560,
+    "open": 3560,
+    "high": 3560,
+    "low": 3560,
+    "volume": 300,
+    "market_cap": 2781250000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-13",
+    "close": 3550,
+    "open": 3550,
+    "high": 3550,
+    "low": 3550,
+    "volume": 1000,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-14",
+    "close": 3550,
+    "open": 3550,
+    "high": 3550,
+    "low": 3550,
+    "volume": 6200,
+    "market_cap": 2773437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-18",
+    "close": 3520,
+    "open": 3550,
+    "high": 3550,
+    "low": 3450,
+    "volume": 2200,
+    "market_cap": 2750000000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-19",
+    "close": 3500,
+    "open": 3530,
+    "high": 3540,
+    "low": 3500,
+    "volume": 2700,
+    "market_cap": 2734375000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-20",
+    "close": 3520,
+    "open": 3520,
+    "high": 3520,
+    "low": 3520,
+    "volume": 600,
+    "market_cap": 2750000000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-21",
+    "close": 3540,
+    "open": 3560,
+    "high": 3560,
+    "low": 3540,
+    "volume": 400,
+    "market_cap": 2765625000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-24",
+    "close": 3490,
+    "open": 3540,
+    "high": 3540,
+    "low": 3490,
+    "volume": 2100,
+    "market_cap": 2726562500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-26",
+    "close": 3490,
+    "open": 3490,
+    "high": 3490,
+    "low": 3490,
+    "volume": 800,
+    "market_cap": 2726562500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-27",
+    "close": 3470,
+    "open": 3480,
+    "high": 3480,
+    "low": 3470,
+    "volume": 2800,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-28",
+    "close": 3470,
+    "open": 3470,
+    "high": 3470,
+    "low": 3470,
+    "volume": 1800,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-08-31",
+    "close": 3460,
+    "open": 3470,
+    "high": 3470,
+    "low": 3460,
+    "volume": 5800,
+    "market_cap": 2703125000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-01",
+    "close": 3470,
+    "open": 3460,
+    "high": 3500,
+    "low": 3460,
+    "volume": 5300,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-02",
+    "close": 3470,
+    "open": 3470,
+    "high": 3470,
+    "low": 3470,
+    "volume": 7100,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-03",
+    "close": 3470,
+    "open": 3470,
+    "high": 3470,
+    "low": 3470,
+    "volume": 600,
+    "market_cap": 2710937500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-04",
+    "close": 3500,
+    "open": 3490,
+    "high": 3500,
+    "low": 3490,
+    "volume": 12800,
+    "market_cap": 2734375000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-07",
+    "close": 3590,
+    "open": 3590,
+    "high": 3590,
+    "low": 3590,
+    "volume": 4700,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-08",
+    "close": 3590,
+    "open": 3590,
+    "high": 3590,
+    "low": 3590,
+    "volume": 700,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-09",
+    "close": 3590,
+    "open": 3590,
+    "high": 3590,
+    "low": 3590,
+    "volume": 300,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-10",
+    "close": 3500,
+    "open": 3590,
+    "high": 3590,
+    "low": 3500,
+    "volume": 1900,
+    "market_cap": 2734375000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-11",
+    "close": 3500,
+    "open": 3500,
+    "high": 3500,
+    "low": 3500,
+    "volume": 1000,
+    "market_cap": 2734375000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-14",
+    "close": 3590,
+    "open": 3520,
+    "high": 3590,
+    "low": 3520,
+    "volume": 400,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-15",
+    "close": 3390,
+    "open": 3360,
+    "high": 3390,
+    "low": 3360,
+    "volume": 5600,
+    "market_cap": 2648437500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-16",
+    "close": 3590,
+    "open": 3410,
+    "high": 3590,
+    "low": 3410,
+    "volume": 4000,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-17",
+    "close": 3590,
+    "open": 3590,
+    "high": 3590,
+    "low": 3590,
+    "volume": 5000,
+    "market_cap": 2804687500000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-18",
+    "close": 3600,
+    "open": 3590,
+    "high": 3600,
+    "low": 3590,
+    "volume": 1200,
+    "market_cap": 2812500000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-21",
+    "close": 3520,
+    "open": 3520,
+    "high": 3520,
+    "low": 3520,
+    "volume": 3200,
+    "market_cap": 2750000000000
+  },
+  {
+    "symbol": "PNGO.JK",
+    "date": "2026-09-22",
+    "close": 3520,
+    "open": 3520,
+    "high": 3520,
+    "low": 3520,
+    "volume": 1400,
+    "market_cap": 2750000000000
+  }
+]

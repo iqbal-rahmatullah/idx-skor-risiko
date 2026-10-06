@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-06-24",
+    "close": 168,
+    "open": 170,
+    "high": 171,
+    "low": 168,
+    "volume": 101600,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-06-25",
+    "close": 169,
+    "open": 167,
+    "high": 170,
+    "low": 167,
+    "volume": 52800,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-06-26",
+    "close": 168,
+    "open": 171,
+    "high": 171,
+    "low": 166,
+    "volume": 139000,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-06-29",
+    "close": 170,
+    "open": 168,
+    "high": 170,
+    "low": 168,
+    "volume": 49600,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-06-30",
+    "close": 169,
+    "open": 169,
+    "high": 170,
+    "low": 166,
+    "volume": 138900,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-01",
+    "close": 168,
+    "open": 170,
+    "high": 170,
+    "low": 168,
+    "volume": 25500,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-02",
+    "close": 169,
+    "open": 169,
+    "high": 170,
+    "low": 168,
+    "volume": 182200,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-03",
+    "close": 170,
+    "open": 171,
+    "high": 171,
+    "low": 168,
+    "volume": 100500,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-06",
+    "close": 168,
+    "open": 169,
+    "high": 170,
+    "low": 167,
+    "volume": 91900,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-07",
+    "close": 168,
+    "open": 168,
+    "high": 169,
+    "low": 167,
+    "volume": 92400,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-08",
+    "close": 169,
+    "open": 170,
+    "high": 170,
+    "low": 167,
+    "volume": 58400,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-09",
+    "close": 169,
+    "open": 169,
+    "high": 170,
+    "low": 168,
+    "volume": 50600,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-10",
+    "close": 170,
+    "open": 169,
+    "high": 170,
+    "low": 167,
+    "volume": 124000,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-13",
+    "close": 168,
+    "open": 170,
+    "high": 170,
+    "low": 168,
+    "volume": 60600,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-14",
+    "close": 169,
+    "open": 169,
+    "high": 170,
+    "low": 167,
+    "volume": 118900,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-15",
+    "close": 170,
+    "open": 169,
+    "high": 170,
+    "low": 168,
+    "volume": 90500,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-16",
+    "close": 168,
+    "open": 170,
+    "high": 170,
+    "low": 167,
+    "volume": 177500,
+    "market_cap": 586971000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-17",
+    "close": 170,
+    "open": 168,
+    "high": 170,
+    "low": 167,
+    "volume": 195300,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-20",
+    "close": 169,
+    "open": 170,
+    "high": 171,
+    "low": 168,
+    "volume": 227300,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-21",
+    "close": 169,
+    "open": 170,
+    "high": 170,
+    "low": 169,
+    "volume": 38400,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-22",
+    "close": 169,
+    "open": 169,
+    "high": 170,
+    "low": 168,
+    "volume": 56400,
+    "market_cap": 590464875000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-23",
+    "close": 171,
+    "open": 169,
+    "high": 171,
+    "low": 168,
+    "volume": 530600,
+    "market_cap": 597452625000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-24",
+    "close": 170,
+    "open": 171,
+    "high": 172,
+    "low": 168,
+    "volume": 335400,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-27",
+    "close": 167,
+    "open": 168,
+    "high": 170,
+    "low": 166,
+    "volume": 149000,
+    "market_cap": 583477125000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-28",
+    "close": 167,
+    "open": 167,
+    "high": 167,
+    "low": 166,
+    "volume": 59900,
+    "market_cap": 583477125000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-29",
+    "close": 165,
+    "open": 167,
+    "high": 167,
+    "low": 164,
+    "volume": 120700,
+    "market_cap": 576489375000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-30",
+    "close": 170,
+    "open": 165,
+    "high": 171,
+    "low": 164,
+    "volume": 246700,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-07-31",
+    "close": 170,
+    "open": 172,
+    "high": 172,
+    "low": 168,
+    "volume": 146300,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-03",
+    "close": 170,
+    "open": 171,
+    "high": 171,
+    "low": 168,
+    "volume": 44800,
+    "market_cap": 593958750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-04",
+    "close": 172,
+    "open": 170,
+    "high": 173,
+    "low": 169,
+    "volume": 146000,
+    "market_cap": 600946500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-05",
+    "close": 171,
+    "open": 172,
+    "high": 172,
+    "low": 170,
+    "volume": 130300,
+    "market_cap": 597452625000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-06",
+    "close": 174,
+    "open": 172,
+    "high": 174,
+    "low": 170,
+    "volume": 382800,
+    "market_cap": 607934250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-07",
+    "close": 179,
+    "open": 174,
+    "high": 180,
+    "low": 174,
+    "volume": 418000,
+    "market_cap": 625403625000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-10",
+    "close": 178,
+    "open": 179,
+    "high": 179,
+    "low": 172,
+    "volume": 210800,
+    "market_cap": 621909750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-11",
+    "close": 178,
+    "open": 178,
+    "high": 179,
+    "low": 176,
+    "volume": 79300,
+    "market_cap": 621909750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-12",
+    "close": 240,
+    "open": 176,
+    "high": 240,
+    "low": 173,
+    "volume": 12097900,
+    "market_cap": 838530000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-13",
+    "close": 300,
+    "open": 300,
+    "high": 300,
+    "low": 280,
+    "volume": 43258700,
+    "market_cap": 1048162500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-14",
+    "close": 316,
+    "open": 326,
+    "high": 368,
+    "low": 312,
+    "volume": 94656600,
+    "market_cap": 1104064500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-18",
+    "close": 314,
+    "open": 316,
+    "high": 328,
+    "low": 294,
+    "volume": 27230900,
+    "market_cap": 1097076750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-19",
+    "close": 302,
+    "open": 314,
+    "high": 314,
+    "low": 290,
+    "volume": 8105200,
+    "market_cap": 1055150250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-20",
+    "close": 308,
+    "open": 302,
+    "high": 316,
+    "low": 300,
+    "volume": 14196300,
+    "market_cap": 1076113500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-21",
+    "close": 310,
+    "open": 308,
+    "high": 312,
+    "low": 302,
+    "volume": 5337800,
+    "market_cap": 1083101250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-24",
+    "close": 386,
+    "open": 310,
+    "high": 386,
+    "low": 306,
+    "volume": 65027600,
+    "market_cap": 1348635750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-26",
+    "close": 422,
+    "open": 404,
+    "high": 466,
+    "low": 388,
+    "volume": 106085600,
+    "market_cap": 1474415250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-27",
+    "close": 422,
+    "open": 422,
+    "high": 422,
+    "low": 422,
+    "volume": 0,
+    "market_cap": 1474415250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-28",
+    "close": 418,
+    "open": 420,
+    "high": 422,
+    "low": 370,
+    "volume": 21246100,
+    "market_cap": 1460439750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-08-31",
+    "close": 410,
+    "open": 404,
+    "high": 444,
+    "low": 400,
+    "volume": 13734200,
+    "market_cap": 1432488750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-01",
+    "close": 412,
+    "open": 416,
+    "high": 418,
+    "low": 402,
+    "volume": 7076600,
+    "market_cap": 1439476500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-02",
+    "close": 414,
+    "open": 414,
+    "high": 416,
+    "low": 400,
+    "volume": 7657900,
+    "market_cap": 1446464250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-03",
+    "close": 400,
+    "open": 414,
+    "high": 416,
+    "low": 398,
+    "volume": 13947100,
+    "market_cap": 1397550000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-04",
+    "close": 374,
+    "open": 400,
+    "high": 406,
+    "low": 368,
+    "volume": 18894000,
+    "market_cap": 1306709250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-07",
+    "close": 450,
+    "open": 374,
+    "high": 458,
+    "low": 348,
+    "volume": 99149300,
+    "market_cap": 1572243750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-08",
+    "close": 442,
+    "open": 458,
+    "high": 464,
+    "low": 432,
+    "volume": 58311800,
+    "market_cap": 1544292750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-09",
+    "close": 426,
+    "open": 442,
+    "high": 444,
+    "low": 422,
+    "volume": 10188700,
+    "market_cap": 1488390750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-10",
+    "close": 422,
+    "open": 430,
+    "high": 450,
+    "low": 416,
+    "volume": 18120000,
+    "market_cap": 1474415250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-11",
+    "close": 406,
+    "open": 426,
+    "high": 430,
+    "low": 400,
+    "volume": 5565300,
+    "market_cap": 1418513250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-14",
+    "close": 412,
+    "open": 406,
+    "high": 436,
+    "low": 400,
+    "volume": 8668700,
+    "market_cap": 1439476500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-15",
+    "close": 402,
+    "open": 412,
+    "high": 414,
+    "low": 398,
+    "volume": 4113600,
+    "market_cap": 1404537750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-16",
+    "close": 396,
+    "open": 400,
+    "high": 414,
+    "low": 396,
+    "volume": 3661000,
+    "market_cap": 1383574500000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-17",
+    "close": 402,
+    "open": 396,
+    "high": 406,
+    "low": 390,
+    "volume": 3709600,
+    "market_cap": 1404537750000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-18",
+    "close": 398,
+    "open": 404,
+    "high": 406,
+    "low": 396,
+    "volume": 2987200,
+    "market_cap": 1390562250000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-21",
+    "close": 400,
+    "open": 398,
+    "high": 414,
+    "low": 390,
+    "volume": 6236000,
+    "market_cap": 1397550000000
+  },
+  {
+    "symbol": "EKAD.JK",
+    "date": "2026-09-22",
+    "close": 396,
+    "open": 404,
+    "high": 408,
+    "low": 394,
+    "volume": 3565100,
+    "market_cap": 1383574500000
+  }
+]

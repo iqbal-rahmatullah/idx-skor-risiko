@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-06-24",
+    "close": 189000,
+    "open": 188975,
+    "high": 189000,
+    "low": 188975,
+    "volume": 1000,
+    "market_cap": 450527975100000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-06-25",
+    "close": 189000,
+    "open": 189000,
+    "high": 189000,
+    "low": 189000,
+    "volume": 0,
+    "market_cap": 450527975100000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-06-26",
+    "close": 182000,
+    "open": 182000,
+    "high": 182000,
+    "low": 182000,
+    "volume": 200,
+    "market_cap": 433841753800000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-06-29",
+    "close": 180500,
+    "open": 182000,
+    "high": 182000,
+    "low": 180500,
+    "volume": 400,
+    "market_cap": 430266134950000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-06-30",
+    "close": 180500,
+    "open": 180500,
+    "high": 180500,
+    "low": 180500,
+    "volume": 100,
+    "market_cap": 430266134950000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-01",
+    "close": 180500,
+    "open": 180500,
+    "high": 180500,
+    "low": 180500,
+    "volume": 0,
+    "market_cap": 430266134950000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-02",
+    "close": 180500,
+    "open": 180500,
+    "high": 180500,
+    "low": 180500,
+    "volume": 0,
+    "market_cap": 430266134950000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-03",
+    "close": 189775,
+    "open": 186000,
+    "high": 189900,
+    "low": 186000,
+    "volume": 1000,
+    "market_cap": 452375378172500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-06",
+    "close": 198950,
+    "open": 189850,
+    "high": 199000,
+    "low": 189850,
+    "volume": 2900,
+    "market_cap": 474246246805000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-07",
+    "close": 198950,
+    "open": 198950,
+    "high": 198950,
+    "low": 198950,
+    "volume": 100,
+    "market_cap": 474246246805000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-08",
+    "close": 198925,
+    "open": 198975,
+    "high": 198975,
+    "low": 198925,
+    "volume": 500,
+    "market_cap": 474186653157500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-09",
+    "close": 198850,
+    "open": 198850,
+    "high": 198850,
+    "low": 198850,
+    "volume": 500,
+    "market_cap": 474007872215000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-10",
+    "close": 198850,
+    "open": 198850,
+    "high": 198850,
+    "low": 198850,
+    "volume": 0,
+    "market_cap": 474007872215000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-13",
+    "close": 198725,
+    "open": 198750,
+    "high": 198750,
+    "low": 175575,
+    "volume": 500,
+    "market_cap": 473709903977500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-14",
+    "close": 198725,
+    "open": 198725,
+    "high": 198725,
+    "low": 198400,
+    "volume": 700,
+    "market_cap": 473709903977500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-15",
+    "close": 198675,
+    "open": 199000,
+    "high": 199000,
+    "low": 175500,
+    "volume": 1000,
+    "market_cap": 473590716682500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-16",
+    "close": 197800,
+    "open": 179575,
+    "high": 197800,
+    "low": 179575,
+    "volume": 400,
+    "market_cap": 471504939020000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-17",
+    "close": 190050,
+    "open": 190000,
+    "high": 190050,
+    "low": 190000,
+    "volume": 400,
+    "market_cap": 453030908295000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-20",
+    "close": 190775,
+    "open": 190775,
+    "high": 190775,
+    "low": 190775,
+    "volume": 100,
+    "market_cap": 454759124072500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-21",
+    "close": 191000,
+    "open": 190875,
+    "high": 191050,
+    "low": 190775,
+    "volume": 2200,
+    "market_cap": 455295466900000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-22",
+    "close": 191000,
+    "open": 191000,
+    "high": 191000,
+    "low": 191000,
+    "volume": 300,
+    "market_cap": 455295466900000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-23",
+    "close": 190000,
+    "open": 191000,
+    "high": 195000,
+    "low": 182025,
+    "volume": 1400,
+    "market_cap": 452911721000000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-24",
+    "close": 186750,
+    "open": 182200,
+    "high": 190000,
+    "low": 182200,
+    "volume": 900,
+    "market_cap": 445164546825000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-27",
+    "close": 191375,
+    "open": 191400,
+    "high": 191400,
+    "low": 191375,
+    "volume": 800,
+    "market_cap": 456189371612500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-28",
+    "close": 191375,
+    "open": 191350,
+    "high": 191375,
+    "low": 191350,
+    "volume": 200,
+    "market_cap": 456189371612500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-29",
+    "close": 191375,
+    "open": 191375,
+    "high": 191375,
+    "low": 191375,
+    "volume": 100,
+    "market_cap": 456189371612500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-30",
+    "close": 191350,
+    "open": 191350,
+    "high": 191350,
+    "low": 191350,
+    "volume": 500,
+    "market_cap": 456129777965000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-07-31",
+    "close": 191350,
+    "open": 191350,
+    "high": 191350,
+    "low": 191350,
+    "volume": 400,
+    "market_cap": 456129777965000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-03",
+    "close": 188175,
+    "open": 182500,
+    "high": 190450,
+    "low": 182300,
+    "volume": 900,
+    "market_cap": 448561384732500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-04",
+    "close": 188900,
+    "open": 188175,
+    "high": 189000,
+    "low": 188175,
+    "volume": 700,
+    "market_cap": 450289600510000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-05",
+    "close": 200000,
+    "open": 190500,
+    "high": 200000,
+    "low": 190500,
+    "volume": 4100,
+    "market_cap": 476749180000000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-06",
+    "close": 200000,
+    "open": 200000,
+    "high": 200025,
+    "low": 200000,
+    "volume": 900,
+    "market_cap": 476749180000000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-07",
+    "close": 205550,
+    "open": 201600,
+    "high": 205550,
+    "low": 201475,
+    "volume": 2900,
+    "market_cap": 489978969745000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-10",
+    "close": 206100,
+    "open": 205550,
+    "high": 206100,
+    "low": 205550,
+    "volume": 800,
+    "market_cap": 491290029990000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-11",
+    "close": 196500,
+    "open": 206100,
+    "high": 206100,
+    "low": 195025,
+    "volume": 1200,
+    "market_cap": 468406069350000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-12",
+    "close": 207200,
+    "open": 196550,
+    "high": 207500,
+    "low": 196550,
+    "volume": 400,
+    "market_cap": 493912150480000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-13",
+    "close": 206000,
+    "open": 207050,
+    "high": 207050,
+    "low": 206000,
+    "volume": 200,
+    "market_cap": 491051655400000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-14",
+    "close": 206000,
+    "open": 206000,
+    "high": 206000,
+    "low": 206000,
+    "volume": 700,
+    "market_cap": 491051655400000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-18",
+    "close": 205475,
+    "open": 205500,
+    "high": 205500,
+    "low": 205475,
+    "volume": 400,
+    "market_cap": 489800188802500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-19",
+    "close": 205475,
+    "open": 205475,
+    "high": 205475,
+    "low": 205475,
+    "volume": 0,
+    "market_cap": 489800188802500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-20",
+    "close": 203575,
+    "open": 205475,
+    "high": 205475,
+    "low": 203575,
+    "volume": 700,
+    "market_cap": 485271071592500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-21",
+    "close": 203700,
+    "open": 203575,
+    "high": 203700,
+    "low": 203575,
+    "volume": 500,
+    "market_cap": 485569039830000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-24",
+    "close": 203700,
+    "open": 203700,
+    "high": 203700,
+    "low": 203700,
+    "volume": 200,
+    "market_cap": 485569039830000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-26",
+    "close": 203700,
+    "open": 203700,
+    "high": 203700,
+    "low": 203700,
+    "volume": 200,
+    "market_cap": 485569039830000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-27",
+    "close": 203700,
+    "open": 203700,
+    "high": 203700,
+    "low": 203500,
+    "volume": 400,
+    "market_cap": 485569039830000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-28",
+    "close": 203250,
+    "open": 203700,
+    "high": 203700,
+    "low": 203250,
+    "volume": 600,
+    "market_cap": 484496354175000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-08-31",
+    "close": 200100,
+    "open": 200100,
+    "high": 200200,
+    "low": 200100,
+    "volume": 600,
+    "market_cap": 476987554590000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-01",
+    "close": 192200,
+    "open": 200100,
+    "high": 200250,
+    "low": 185050,
+    "volume": 1700,
+    "market_cap": 458155961980000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-02",
+    "close": 200050,
+    "open": 192300,
+    "high": 200250,
+    "low": 192300,
+    "volume": 1700,
+    "market_cap": 476868367295000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-03",
+    "close": 201000,
+    "open": 200200,
+    "high": 201000,
+    "low": 200200,
+    "volume": 200,
+    "market_cap": 479132925900000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-04",
+    "close": 201200,
+    "open": 201000,
+    "high": 201250,
+    "low": 201000,
+    "volume": 500,
+    "market_cap": 479609675080000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-07",
+    "close": 201000,
+    "open": 201200,
+    "high": 201275,
+    "low": 201000,
+    "volume": 900,
+    "market_cap": 479132925900000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-08",
+    "close": 201600,
+    "open": 200975,
+    "high": 201600,
+    "low": 200925,
+    "volume": 1200,
+    "market_cap": 480563173440000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-09",
+    "close": 201600,
+    "open": 201600,
+    "high": 201600,
+    "low": 201600,
+    "volume": 300,
+    "market_cap": 480563173440000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-10",
+    "close": 201100,
+    "open": 201600,
+    "high": 202275,
+    "low": 201100,
+    "volume": 1000,
+    "market_cap": 479371300490000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-11",
+    "close": 201100,
+    "open": 201100,
+    "high": 201100,
+    "low": 201100,
+    "volume": 300,
+    "market_cap": 479371300490000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-14",
+    "close": 199325,
+    "open": 199325,
+    "high": 199325,
+    "low": 199325,
+    "volume": 200,
+    "market_cap": 475140151517500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-15",
+    "close": 199325,
+    "open": 199350,
+    "high": 199350,
+    "low": 199325,
+    "volume": 700,
+    "market_cap": 475140151517500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-16",
+    "close": 192900,
+    "open": 192250,
+    "high": 192900,
+    "low": 192250,
+    "volume": 300,
+    "market_cap": 459824584110000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-17",
+    "close": 195800,
+    "open": 193000,
+    "high": 195800,
+    "low": 193000,
+    "volume": 700,
+    "market_cap": 466737447220000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-18",
+    "close": 201950,
+    "open": 202000,
+    "high": 202000,
+    "low": 201950,
+    "volume": 800,
+    "market_cap": 481397484505000
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-21",
+    "close": 201775,
+    "open": 202000,
+    "high": 202000,
+    "low": 201775,
+    "volume": 700,
+    "market_cap": 480980328972500
+  },
+  {
+    "symbol": "DCII.JK",
+    "date": "2026-09-22",
+    "close": 198000,
+    "open": 201775,
+    "high": 201775,
+    "low": 198000,
+    "volume": 300,
+    "market_cap": 471981688200000
+  }
+]

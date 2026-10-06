@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-06-24",
+    "close": 149,
+    "open": 172,
+    "high": 179,
+    "low": 146,
+    "volume": 57526200,
+    "market_cap": 404088000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-06-25",
+    "close": 167,
+    "open": 149,
+    "high": 171,
+    "low": 149,
+    "volume": 111873400,
+    "market_cap": 452904000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-06-26",
+    "close": 153,
+    "open": 167,
+    "high": 168,
+    "low": 151,
+    "volume": 33239000,
+    "market_cap": 414936000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-06-29",
+    "close": 152,
+    "open": 153,
+    "high": 166,
+    "low": 146,
+    "volume": 48286300,
+    "market_cap": 412224000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-06-30",
+    "close": 138,
+    "open": 152,
+    "high": 153,
+    "low": 136,
+    "volume": 41095600,
+    "market_cap": 374256000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-01",
+    "close": 140,
+    "open": 138,
+    "high": 143,
+    "low": 134,
+    "volume": 33198600,
+    "market_cap": 379680000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-02",
+    "close": 142,
+    "open": 143,
+    "high": 145,
+    "low": 140,
+    "volume": 27821400,
+    "market_cap": 385104000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-03",
+    "close": 147,
+    "open": 142,
+    "high": 157,
+    "low": 142,
+    "volume": 59580500,
+    "market_cap": 398664000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-06",
+    "close": 150,
+    "open": 149,
+    "high": 153,
+    "low": 144,
+    "volume": 26667000,
+    "market_cap": 406800000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-07",
+    "close": 151,
+    "open": 152,
+    "high": 158,
+    "low": 148,
+    "volume": 26680000,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-08",
+    "close": 139,
+    "open": 150,
+    "high": 150,
+    "low": 139,
+    "volume": 26211600,
+    "market_cap": 376968000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-09",
+    "close": 146,
+    "open": 140,
+    "high": 155,
+    "low": 140,
+    "volume": 43326600,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-10",
+    "close": 145,
+    "open": 146,
+    "high": 148,
+    "low": 142,
+    "volume": 16734800,
+    "market_cap": 393240000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-13",
+    "close": 143,
+    "open": 144,
+    "high": 145,
+    "low": 138,
+    "volume": 23655200,
+    "market_cap": 387816000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-14",
+    "close": 148,
+    "open": 143,
+    "high": 149,
+    "low": 141,
+    "volume": 33327800,
+    "market_cap": 401376000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-15",
+    "close": 162,
+    "open": 148,
+    "high": 165,
+    "low": 143,
+    "volume": 140836200,
+    "market_cap": 439344000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-16",
+    "close": 155,
+    "open": 162,
+    "high": 163,
+    "low": 154,
+    "volume": 54455000,
+    "market_cap": 420360000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-17",
+    "close": 150,
+    "open": 156,
+    "high": 158,
+    "low": 147,
+    "volume": 27697000,
+    "market_cap": 406800000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-20",
+    "close": 153,
+    "open": 150,
+    "high": 158,
+    "low": 149,
+    "volume": 34290300,
+    "market_cap": 414936000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-21",
+    "close": 155,
+    "open": 153,
+    "high": 157,
+    "low": 151,
+    "volume": 29850800,
+    "market_cap": 420360000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-22",
+    "close": 154,
+    "open": 157,
+    "high": 160,
+    "low": 152,
+    "volume": 41355200,
+    "market_cap": 417648000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-23",
+    "close": 152,
+    "open": 155,
+    "high": 159,
+    "low": 151,
+    "volume": 44200600,
+    "market_cap": 412224000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-24",
+    "close": 151,
+    "open": 155,
+    "high": 168,
+    "low": 151,
+    "volume": 160198000,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-27",
+    "close": 145,
+    "open": 153,
+    "high": 153,
+    "low": 143,
+    "volume": 25085900,
+    "market_cap": 393240000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-28",
+    "close": 149,
+    "open": 147,
+    "high": 160,
+    "low": 145,
+    "volume": 50587500,
+    "market_cap": 404088000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-29",
+    "close": 146,
+    "open": 150,
+    "high": 152,
+    "low": 145,
+    "volume": 31264500,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-30",
+    "close": 148,
+    "open": 151,
+    "high": 153,
+    "low": 146,
+    "volume": 12221000,
+    "market_cap": 401376000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-07-31",
+    "close": 148,
+    "open": 148,
+    "high": 151,
+    "low": 146,
+    "volume": 16572200,
+    "market_cap": 401376000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-03",
+    "close": 146,
+    "open": 129,
+    "high": 152,
+    "low": 126,
+    "volume": 58364600,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-04",
+    "close": 151,
+    "open": 144,
+    "high": 154,
+    "low": 144,
+    "volume": 26961700,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-05",
+    "close": 149,
+    "open": 151,
+    "high": 152,
+    "low": 148,
+    "volume": 13513900,
+    "market_cap": 404088000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-06",
+    "close": 150,
+    "open": 149,
+    "high": 152,
+    "low": 147,
+    "volume": 17631000,
+    "market_cap": 406800000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-07",
+    "close": 148,
+    "open": 150,
+    "high": 151,
+    "low": 148,
+    "volume": 14201700,
+    "market_cap": 401376000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-10",
+    "close": 156,
+    "open": 149,
+    "high": 159,
+    "low": 148,
+    "volume": 52848200,
+    "market_cap": 423072000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-11",
+    "close": 151,
+    "open": 158,
+    "high": 162,
+    "low": 151,
+    "volume": 36864000,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-12",
+    "close": 151,
+    "open": 152,
+    "high": 155,
+    "low": 148,
+    "volume": 12491100,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-13",
+    "close": 161,
+    "open": 153,
+    "high": 167,
+    "low": 149,
+    "volume": 180156100,
+    "market_cap": 436632000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-14",
+    "close": 156,
+    "open": 163,
+    "high": 163,
+    "low": 155,
+    "volume": 51865700,
+    "market_cap": 423072000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-18",
+    "close": 159,
+    "open": 157,
+    "high": 160,
+    "low": 154,
+    "volume": 33744800,
+    "market_cap": 431208000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-19",
+    "close": 160,
+    "open": 159,
+    "high": 163,
+    "low": 156,
+    "volume": 18614700,
+    "market_cap": 433920000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-20",
+    "close": 160,
+    "open": 160,
+    "high": 163,
+    "low": 158,
+    "volume": 16976900,
+    "market_cap": 433920000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-21",
+    "close": 158,
+    "open": 160,
+    "high": 166,
+    "low": 151,
+    "volume": 76120300,
+    "market_cap": 428496000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-24",
+    "close": 150,
+    "open": 158,
+    "high": 159,
+    "low": 150,
+    "volume": 29737500,
+    "market_cap": 406800000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-26",
+    "close": 146,
+    "open": 150,
+    "high": 155,
+    "low": 143,
+    "volume": 28951100,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-27",
+    "close": 159,
+    "open": 145,
+    "high": 160,
+    "low": 140,
+    "volume": 53505200,
+    "market_cap": 431208000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-28",
+    "close": 156,
+    "open": 160,
+    "high": 161,
+    "low": 155,
+    "volume": 16316400,
+    "market_cap": 423072000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-08-31",
+    "close": 152,
+    "open": 156,
+    "high": 156,
+    "low": 152,
+    "volume": 16053500,
+    "market_cap": 412224000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-01",
+    "close": 153,
+    "open": 156,
+    "high": 157,
+    "low": 152,
+    "volume": 20316000,
+    "market_cap": 414936000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-02",
+    "close": 153,
+    "open": 154,
+    "high": 158,
+    "low": 152,
+    "volume": 29784400,
+    "market_cap": 414936000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-03",
+    "close": 151,
+    "open": 153,
+    "high": 153,
+    "low": 148,
+    "volume": 16828700,
+    "market_cap": 409512000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-04",
+    "close": 147,
+    "open": 152,
+    "high": 152,
+    "low": 147,
+    "volume": 20225800,
+    "market_cap": 398664000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-07",
+    "close": 146,
+    "open": 147,
+    "high": 148,
+    "low": 142,
+    "volume": 22733000,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-08",
+    "close": 146,
+    "open": 145,
+    "high": 148,
+    "low": 144,
+    "volume": 9317400,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-09",
+    "close": 146,
+    "open": 146,
+    "high": 148,
+    "low": 144,
+    "volume": 7499400,
+    "market_cap": 395952000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-10",
+    "close": 143,
+    "open": 147,
+    "high": 148,
+    "low": 142,
+    "volume": 14272600,
+    "market_cap": 387816000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-11",
+    "close": 140,
+    "open": 142,
+    "high": 143,
+    "low": 138,
+    "volume": 10164300,
+    "market_cap": 379680000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-14",
+    "close": 138,
+    "open": 141,
+    "high": 142,
+    "low": 132,
+    "volume": 24334000,
+    "market_cap": 374256000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-15",
+    "close": 153,
+    "open": 138,
+    "high": 153,
+    "low": 136,
+    "volume": 51907000,
+    "market_cap": 414936000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-16",
+    "close": 149,
+    "open": 153,
+    "high": 153,
+    "low": 145,
+    "volume": 28452000,
+    "market_cap": 404088000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-17",
+    "close": 143,
+    "open": 146,
+    "high": 149,
+    "low": 140,
+    "volume": 25943800,
+    "market_cap": 387816000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-18",
+    "close": 139,
+    "open": 144,
+    "high": 144,
+    "low": 139,
+    "volume": 7277100,
+    "market_cap": 376968000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-21",
+    "close": 140,
+    "open": 140,
+    "high": 143,
+    "low": 138,
+    "volume": 6857000,
+    "market_cap": 379680000000
+  },
+  {
+    "symbol": "ASPR.JK",
+    "date": "2026-09-22",
+    "close": 134,
+    "open": 141,
+    "high": 141,
+    "low": 133,
+    "volume": 14848400,
+    "market_cap": 363408000000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-06-24",
+    "close": 800,
+    "open": 820,
+    "high": 820,
+    "low": 795,
+    "volume": 27100,
+    "market_cap": 1248000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-06-25",
+    "close": 790,
+    "open": 785,
+    "high": 815,
+    "low": 785,
+    "volume": 5900,
+    "market_cap": 1232400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-06-26",
+    "close": 780,
+    "open": 785,
+    "high": 795,
+    "low": 780,
+    "volume": 1500,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-06-29",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 200,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-06-30",
+    "close": 755,
+    "open": 795,
+    "high": 795,
+    "low": 750,
+    "volume": 6500,
+    "market_cap": 1177800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-01",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 300,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-02",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 0,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-03",
+    "close": 775,
+    "open": 765,
+    "high": 785,
+    "low": 765,
+    "volume": 84800,
+    "market_cap": 1209000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-06",
+    "close": 765,
+    "open": 775,
+    "high": 785,
+    "low": 765,
+    "volume": 62600,
+    "market_cap": 1193400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-07",
+    "close": 785,
+    "open": 770,
+    "high": 790,
+    "low": 770,
+    "volume": 12700,
+    "market_cap": 1224600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-08",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 3200,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-09",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 6700,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-10",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 775,
+    "volume": 2800,
+    "market_cap": 1232400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-13",
+    "close": 780,
+    "open": 790,
+    "high": 790,
+    "low": 775,
+    "volume": 2500,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-14",
+    "close": 780,
+    "open": 790,
+    "high": 790,
+    "low": 780,
+    "volume": 2600,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-15",
+    "close": 760,
+    "open": 780,
+    "high": 780,
+    "low": 760,
+    "volume": 6800,
+    "market_cap": 1185600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-16",
+    "close": 780,
+    "open": 760,
+    "high": 780,
+    "low": 760,
+    "volume": 2200,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-17",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 780,
+    "volume": 2600,
+    "market_cap": 1216800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-20",
+    "close": 770,
+    "open": 800,
+    "high": 800,
+    "low": 770,
+    "volume": 11100,
+    "market_cap": 1201200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-21",
+    "close": 765,
+    "open": 780,
+    "high": 780,
+    "low": 765,
+    "volume": 21600,
+    "market_cap": 1193400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-22",
+    "close": 770,
+    "open": 780,
+    "high": 785,
+    "low": 770,
+    "volume": 27100,
+    "market_cap": 1201200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-23",
+    "close": 775,
+    "open": 770,
+    "high": 785,
+    "low": 770,
+    "volume": 8400,
+    "market_cap": 1209000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-24",
+    "close": 765,
+    "open": 775,
+    "high": 780,
+    "low": 765,
+    "volume": 5100,
+    "market_cap": 1193400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-27",
+    "close": 760,
+    "open": 765,
+    "high": 765,
+    "low": 740,
+    "volume": 65400,
+    "market_cap": 1185600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-28",
+    "close": 765,
+    "open": 755,
+    "high": 795,
+    "low": 750,
+    "volume": 185800,
+    "market_cap": 1193400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-29",
+    "close": 785,
+    "open": 810,
+    "high": 825,
+    "low": 770,
+    "volume": 232900,
+    "market_cap": 1224600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-30",
+    "close": 810,
+    "open": 785,
+    "high": 810,
+    "low": 780,
+    "volume": 127100,
+    "market_cap": 1263600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-07-31",
+    "close": 830,
+    "open": 810,
+    "high": 835,
+    "low": 800,
+    "volume": 179900,
+    "market_cap": 1294800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-03",
+    "close": 830,
+    "open": 830,
+    "high": 865,
+    "low": 830,
+    "volume": 168300,
+    "market_cap": 1294800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-04",
+    "close": 830,
+    "open": 835,
+    "high": 835,
+    "low": 800,
+    "volume": 16000,
+    "market_cap": 1294800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-05",
+    "close": 825,
+    "open": 830,
+    "high": 840,
+    "low": 810,
+    "volume": 73700,
+    "market_cap": 1287000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-06",
+    "close": 845,
+    "open": 825,
+    "high": 855,
+    "low": 825,
+    "volume": 90400,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-07",
+    "close": 850,
+    "open": 835,
+    "high": 850,
+    "low": 835,
+    "volume": 26500,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-10",
+    "close": 850,
+    "open": 855,
+    "high": 855,
+    "low": 835,
+    "volume": 21300,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-11",
+    "close": 840,
+    "open": 840,
+    "high": 840,
+    "low": 810,
+    "volume": 26500,
+    "market_cap": 1310400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-12",
+    "close": 840,
+    "open": 830,
+    "high": 850,
+    "low": 830,
+    "volume": 36000,
+    "market_cap": 1310400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-13",
+    "close": 845,
+    "open": 850,
+    "high": 855,
+    "low": 830,
+    "volume": 48600,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-14",
+    "close": 845,
+    "open": 825,
+    "high": 850,
+    "low": 815,
+    "volume": 19100,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-18",
+    "close": 840,
+    "open": 850,
+    "high": 850,
+    "low": 820,
+    "volume": 77300,
+    "market_cap": 1310400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-19",
+    "close": 845,
+    "open": 840,
+    "high": 850,
+    "low": 835,
+    "volume": 71200,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-20",
+    "close": 850,
+    "open": 850,
+    "high": 855,
+    "low": 825,
+    "volume": 231100,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-21",
+    "close": 850,
+    "open": 835,
+    "high": 855,
+    "low": 835,
+    "volume": 32000,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-24",
+    "close": 835,
+    "open": 855,
+    "high": 855,
+    "low": 830,
+    "volume": 59800,
+    "market_cap": 1302600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-26",
+    "close": 830,
+    "open": 845,
+    "high": 845,
+    "low": 830,
+    "volume": 45500,
+    "market_cap": 1294800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-27",
+    "close": 845,
+    "open": 845,
+    "high": 850,
+    "low": 830,
+    "volume": 18700,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-28",
+    "close": 845,
+    "open": 850,
+    "high": 865,
+    "low": 840,
+    "volume": 39300,
+    "market_cap": 1318200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-08-31",
+    "close": 850,
+    "open": 845,
+    "high": 870,
+    "low": 840,
+    "volume": 43200,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-01",
+    "close": 850,
+    "open": 860,
+    "high": 860,
+    "low": 845,
+    "volume": 41900,
+    "market_cap": 1326000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-02",
+    "close": 855,
+    "open": 870,
+    "high": 870,
+    "low": 850,
+    "volume": 21400,
+    "market_cap": 1333800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-03",
+    "close": 890,
+    "open": 870,
+    "high": 900,
+    "low": 850,
+    "volume": 159700,
+    "market_cap": 1388400000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-04",
+    "close": 900,
+    "open": 890,
+    "high": 940,
+    "low": 860,
+    "volume": 657900,
+    "market_cap": 1404000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-07",
+    "close": 930,
+    "open": 920,
+    "high": 950,
+    "low": 900,
+    "volume": 311900,
+    "market_cap": 1450800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-08",
+    "close": 945,
+    "open": 930,
+    "high": 945,
+    "low": 920,
+    "volume": 210900,
+    "market_cap": 1474200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-09",
+    "close": 1075,
+    "open": 950,
+    "high": 1170,
+    "low": 950,
+    "volume": 4340300,
+    "market_cap": 1677000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-10",
+    "close": 1050,
+    "open": 1080,
+    "high": 1135,
+    "low": 1050,
+    "volume": 585700,
+    "market_cap": 1638000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-11",
+    "close": 1075,
+    "open": 1050,
+    "high": 1075,
+    "low": 1050,
+    "volume": 350800,
+    "market_cap": 1677000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-14",
+    "close": 1050,
+    "open": 1075,
+    "high": 1125,
+    "low": 1000,
+    "volume": 582700,
+    "market_cap": 1638000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-15",
+    "close": 1030,
+    "open": 1050,
+    "high": 1080,
+    "low": 1005,
+    "volume": 274800,
+    "market_cap": 1606800000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-16",
+    "close": 975,
+    "open": 1030,
+    "high": 1070,
+    "low": 970,
+    "volume": 841300,
+    "market_cap": 1521000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-17",
+    "close": 995,
+    "open": 970,
+    "high": 1005,
+    "low": 970,
+    "volume": 87900,
+    "market_cap": 1552200000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-18",
+    "close": 1010,
+    "open": 1000,
+    "high": 1020,
+    "low": 995,
+    "volume": 94700,
+    "market_cap": 1575600000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-21",
+    "close": 1000,
+    "open": 1010,
+    "high": 1010,
+    "low": 990,
+    "volume": 161400,
+    "market_cap": 1560000000000
+  },
+  {
+    "symbol": "LTLS.JK",
+    "date": "2026-09-22",
+    "close": 985,
+    "open": 1000,
+    "high": 1000,
+    "low": 970,
+    "volume": 89700,
+    "market_cap": 1536600000000
+  }
+]

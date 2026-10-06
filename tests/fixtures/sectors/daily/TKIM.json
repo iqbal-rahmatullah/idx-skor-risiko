@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-06-24",
+    "close": 5725,
+    "open": 6000,
+    "high": 6150,
+    "low": 5700,
+    "volume": 3193800,
+    "market_cap": 17823204938250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-06-25",
+    "close": 5900,
+    "open": 5750,
+    "high": 6025,
+    "low": 5750,
+    "volume": 4233500,
+    "market_cap": 18368019063000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-06-26",
+    "close": 5650,
+    "open": 5875,
+    "high": 5950,
+    "low": 5600,
+    "volume": 1896200,
+    "market_cap": 17589713170500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-06-29",
+    "close": 5500,
+    "open": 5675,
+    "high": 5825,
+    "low": 5475,
+    "volume": 2036900,
+    "market_cap": 17122729635000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-06-30",
+    "close": 5400,
+    "open": 5575,
+    "high": 5575,
+    "low": 5250,
+    "volume": 3631400,
+    "market_cap": 16811407278000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-01",
+    "close": 5375,
+    "open": 5425,
+    "high": 5525,
+    "low": 5300,
+    "volume": 2450600,
+    "market_cap": 16733576688750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-02",
+    "close": 5375,
+    "open": 5375,
+    "high": 5475,
+    "low": 5300,
+    "volume": 2442800,
+    "market_cap": 16733576688750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-03",
+    "close": 5500,
+    "open": 5375,
+    "high": 5625,
+    "low": 5375,
+    "volume": 1279200,
+    "market_cap": 17122729635000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-06",
+    "close": 5500,
+    "open": 5500,
+    "high": 5600,
+    "low": 5425,
+    "volume": 1497000,
+    "market_cap": 17122729635000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-07",
+    "close": 5700,
+    "open": 5525,
+    "high": 5725,
+    "low": 5425,
+    "volume": 2685900,
+    "market_cap": 17745374349000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-08",
+    "close": 5325,
+    "open": 5800,
+    "high": 5800,
+    "low": 5325,
+    "volume": 3499400,
+    "market_cap": 16577915510250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-09",
+    "close": 5375,
+    "open": 5325,
+    "high": 5475,
+    "low": 5250,
+    "volume": 3978900,
+    "market_cap": 16733576688750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-10",
+    "close": 5400,
+    "open": 5400,
+    "high": 5450,
+    "low": 5325,
+    "volume": 1752500,
+    "market_cap": 16811407278000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-13",
+    "close": 5500,
+    "open": 5400,
+    "high": 5500,
+    "low": 5300,
+    "volume": 1381500,
+    "market_cap": 17122729635000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-14",
+    "close": 5600,
+    "open": 5500,
+    "high": 5650,
+    "low": 5400,
+    "volume": 2407900,
+    "market_cap": 17434051992000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-15",
+    "close": 5600,
+    "open": 5600,
+    "high": 5625,
+    "low": 5550,
+    "volume": 1156400,
+    "market_cap": 17434051992000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-16",
+    "close": 6100,
+    "open": 5725,
+    "high": 6150,
+    "low": 5650,
+    "volume": 3604800,
+    "market_cap": 18990663777000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-17",
+    "close": 5925,
+    "open": 6100,
+    "high": 6150,
+    "low": 5925,
+    "volume": 3049300,
+    "market_cap": 18445849652250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-20",
+    "close": 6100,
+    "open": 6000,
+    "high": 6150,
+    "low": 6000,
+    "volume": 1842700,
+    "market_cap": 18990663777000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-21",
+    "close": 6100,
+    "open": 6125,
+    "high": 6175,
+    "low": 6000,
+    "volume": 3581800,
+    "market_cap": 18990663777000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-22",
+    "close": 6050,
+    "open": 6100,
+    "high": 6150,
+    "low": 5925,
+    "volume": 2248700,
+    "market_cap": 18835002598500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-23",
+    "close": 6075,
+    "open": 6075,
+    "high": 6225,
+    "low": 6025,
+    "volume": 3335200,
+    "market_cap": 18912833187750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-24",
+    "close": 5925,
+    "open": 6025,
+    "high": 6025,
+    "low": 5850,
+    "volume": 2626600,
+    "market_cap": 18445849652250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-27",
+    "close": 6225,
+    "open": 5925,
+    "high": 6300,
+    "low": 5850,
+    "volume": 5197900,
+    "market_cap": 19379816723250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-28",
+    "close": 6100,
+    "open": 6400,
+    "high": 6425,
+    "low": 6075,
+    "volume": 3592400,
+    "market_cap": 18990663777000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-29",
+    "close": 6050,
+    "open": 6125,
+    "high": 6300,
+    "low": 5975,
+    "volume": 2222200,
+    "market_cap": 18835002598500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-30",
+    "close": 6300,
+    "open": 6075,
+    "high": 6325,
+    "low": 6025,
+    "volume": 2119700,
+    "market_cap": 19613308491000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-07-31",
+    "close": 6500,
+    "open": 6325,
+    "high": 6525,
+    "low": 6225,
+    "volume": 3972600,
+    "market_cap": 20235953205000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-03",
+    "close": 7150,
+    "open": 6850,
+    "high": 7200,
+    "low": 6775,
+    "volume": 11359800,
+    "market_cap": 22259548525500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-04",
+    "close": 7175,
+    "open": 7225,
+    "high": 7300,
+    "low": 7075,
+    "volume": 5155200,
+    "market_cap": 22337379114750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-05",
+    "close": 7200,
+    "open": 7175,
+    "high": 7250,
+    "low": 7100,
+    "volume": 2840600,
+    "market_cap": 22415209704000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-06",
+    "close": 7150,
+    "open": 7200,
+    "high": 7350,
+    "low": 7075,
+    "volume": 2618900,
+    "market_cap": 22259548525500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-07",
+    "close": 7225,
+    "open": 7150,
+    "high": 7300,
+    "low": 7100,
+    "volume": 1723600,
+    "market_cap": 22493040293250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-10",
+    "close": 7150,
+    "open": 7250,
+    "high": 7325,
+    "low": 7125,
+    "volume": 2537100,
+    "market_cap": 22259548525500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-11",
+    "close": 7325,
+    "open": 7150,
+    "high": 7550,
+    "low": 7125,
+    "volume": 5880200,
+    "market_cap": 22804362650250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-12",
+    "close": 7575,
+    "open": 7300,
+    "high": 7575,
+    "low": 7300,
+    "volume": 2723600,
+    "market_cap": 23582668542750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-13",
+    "close": 7475,
+    "open": 7575,
+    "high": 7575,
+    "low": 7400,
+    "volume": 1357900,
+    "market_cap": 23271346185750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-14",
+    "close": 7600,
+    "open": 7475,
+    "high": 7625,
+    "low": 7400,
+    "volume": 1721600,
+    "market_cap": 23660499132000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-18",
+    "close": 7900,
+    "open": 7650,
+    "high": 7900,
+    "low": 7475,
+    "volume": 5232200,
+    "market_cap": 24594466203000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-19",
+    "close": 7800,
+    "open": 7975,
+    "high": 8250,
+    "low": 7800,
+    "volume": 4504700,
+    "market_cap": 24283143846000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-20",
+    "close": 7900,
+    "open": 7750,
+    "high": 7975,
+    "low": 7750,
+    "volume": 2113200,
+    "market_cap": 24594466203000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-21",
+    "close": 7950,
+    "open": 8000,
+    "high": 8050,
+    "low": 7825,
+    "volume": 1156000,
+    "market_cap": 24750127381500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-24",
+    "close": 8075,
+    "open": 7975,
+    "high": 8075,
+    "low": 7900,
+    "volume": 1571400,
+    "market_cap": 25139280327750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-26",
+    "close": 7775,
+    "open": 8075,
+    "high": 8100,
+    "low": 7775,
+    "volume": 4231200,
+    "market_cap": 24205313256750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-27",
+    "close": 7900,
+    "open": 7700,
+    "high": 7925,
+    "low": 7625,
+    "volume": 1436300,
+    "market_cap": 24594466203000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-28",
+    "close": 8050,
+    "open": 7900,
+    "high": 8075,
+    "low": 7750,
+    "volume": 2494500,
+    "market_cap": 25061449738500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-08-31",
+    "close": 8000,
+    "open": 8050,
+    "high": 8250,
+    "low": 7900,
+    "volume": 2979700,
+    "market_cap": 24905788560000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-01",
+    "close": 8400,
+    "open": 8025,
+    "high": 8450,
+    "low": 7950,
+    "volume": 4444600,
+    "market_cap": 26151077988000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-02",
+    "close": 8375,
+    "open": 8400,
+    "high": 8425,
+    "low": 8100,
+    "volume": 3736300,
+    "market_cap": 26073247398750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-03",
+    "close": 8350,
+    "open": 8425,
+    "high": 8425,
+    "low": 8275,
+    "volume": 2723800,
+    "market_cap": 25995416809500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-04",
+    "close": 8150,
+    "open": 8350,
+    "high": 8500,
+    "low": 8100,
+    "volume": 3783700,
+    "market_cap": 25372772095500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-07",
+    "close": 8150,
+    "open": 8175,
+    "high": 8200,
+    "low": 8025,
+    "volume": 2399000,
+    "market_cap": 25372772095500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-08",
+    "close": 8325,
+    "open": 8150,
+    "high": 8375,
+    "low": 8150,
+    "volume": 2961400,
+    "market_cap": 25917586220250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-09",
+    "close": 8225,
+    "open": 8300,
+    "high": 8375,
+    "low": 8150,
+    "volume": 1251300,
+    "market_cap": 25606263863250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-10",
+    "close": 7975,
+    "open": 8225,
+    "high": 8325,
+    "low": 7900,
+    "volume": 3160900,
+    "market_cap": 24827957970750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-11",
+    "close": 7850,
+    "open": 7875,
+    "high": 7925,
+    "low": 7750,
+    "volume": 4135100,
+    "market_cap": 24438805024500
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-14",
+    "close": 7900,
+    "open": 7600,
+    "high": 7925,
+    "low": 7575,
+    "volume": 4405300,
+    "market_cap": 24594466203000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-15",
+    "close": 7800,
+    "open": 7875,
+    "high": 7900,
+    "low": 7700,
+    "volume": 1205800,
+    "market_cap": 24283143846000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-16",
+    "close": 7625,
+    "open": 7800,
+    "high": 7875,
+    "low": 7600,
+    "volume": 3290400,
+    "market_cap": 23738329721250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-17",
+    "close": 7575,
+    "open": 7625,
+    "high": 7800,
+    "low": 7575,
+    "volume": 2317100,
+    "market_cap": 23582668542750
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-18",
+    "close": 7525,
+    "open": 7700,
+    "high": 7700,
+    "low": 7475,
+    "volume": 6633000,
+    "market_cap": 23427007364250
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-21",
+    "close": 7500,
+    "open": 7550,
+    "high": 7700,
+    "low": 7175,
+    "volume": 2791200,
+    "market_cap": 23349176775000
+  },
+  {
+    "symbol": "TKIM.JK",
+    "date": "2026-09-22",
+    "close": 7250,
+    "open": 7575,
+    "high": 7625,
+    "low": 7200,
+    "volume": 2411700,
+    "market_cap": 22570870882500
+  }
+]

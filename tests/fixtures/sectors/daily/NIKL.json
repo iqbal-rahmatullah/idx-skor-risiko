@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-06-24",
+    "close": 186,
+    "open": 195,
+    "high": 202,
+    "low": 184,
+    "volume": 6985100,
+    "market_cap": 469343100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-06-25",
+    "close": 189,
+    "open": 186,
+    "high": 191,
+    "low": 186,
+    "volume": 3814400,
+    "market_cap": 476913150000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-06-26",
+    "close": 182,
+    "open": 189,
+    "high": 189,
+    "low": 180,
+    "volume": 3727000,
+    "market_cap": 459249700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-06-29",
+    "close": 180,
+    "open": 182,
+    "high": 184,
+    "low": 178,
+    "volume": 2066100,
+    "market_cap": 454203000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-06-30",
+    "close": 170,
+    "open": 181,
+    "high": 182,
+    "low": 170,
+    "volume": 5149300,
+    "market_cap": 428969500000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-01",
+    "close": 171,
+    "open": 170,
+    "high": 178,
+    "low": 169,
+    "volume": 3046800,
+    "market_cap": 431492850000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-02",
+    "close": 175,
+    "open": 171,
+    "high": 179,
+    "low": 171,
+    "volume": 2060200,
+    "market_cap": 441586250000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-03",
+    "close": 179,
+    "open": 175,
+    "high": 183,
+    "low": 174,
+    "volume": 4444500,
+    "market_cap": 451679650000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-06",
+    "close": 180,
+    "open": 184,
+    "high": 187,
+    "low": 176,
+    "volume": 4919900,
+    "market_cap": 454203000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-07",
+    "close": 182,
+    "open": 182,
+    "high": 184,
+    "low": 179,
+    "volume": 2651700,
+    "market_cap": 459249700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-08",
+    "close": 180,
+    "open": 182,
+    "high": 182,
+    "low": 175,
+    "volume": 2142200,
+    "market_cap": 454203000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-09",
+    "close": 179,
+    "open": 180,
+    "high": 182,
+    "low": 176,
+    "volume": 1819200,
+    "market_cap": 451679650000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-10",
+    "close": 182,
+    "open": 179,
+    "high": 183,
+    "low": 175,
+    "volume": 2020100,
+    "market_cap": 459249700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-13",
+    "close": 181,
+    "open": 183,
+    "high": 183,
+    "low": 178,
+    "volume": 2244400,
+    "market_cap": 456726350000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-14",
+    "close": 183,
+    "open": 181,
+    "high": 188,
+    "low": 180,
+    "volume": 3587700,
+    "market_cap": 461773050000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-15",
+    "close": 190,
+    "open": 184,
+    "high": 193,
+    "low": 184,
+    "volume": 6643000,
+    "market_cap": 479436500000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-16",
+    "close": 191,
+    "open": 190,
+    "high": 192,
+    "low": 186,
+    "volume": 3123200,
+    "market_cap": 481959850000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-17",
+    "close": 189,
+    "open": 190,
+    "high": 192,
+    "low": 187,
+    "volume": 2737600,
+    "market_cap": 476913150000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-20",
+    "close": 195,
+    "open": 189,
+    "high": 197,
+    "low": 188,
+    "volume": 3904600,
+    "market_cap": 492053250000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-21",
+    "close": 197,
+    "open": 195,
+    "high": 198,
+    "low": 192,
+    "volume": 3663600,
+    "market_cap": 497099950000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-22",
+    "close": 195,
+    "open": 199,
+    "high": 202,
+    "low": 192,
+    "volume": 6404900,
+    "market_cap": 492053250000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-23",
+    "close": 196,
+    "open": 194,
+    "high": 204,
+    "low": 194,
+    "volume": 7715500,
+    "market_cap": 494576600000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-24",
+    "close": 186,
+    "open": 196,
+    "high": 196,
+    "low": 177,
+    "volume": 7199800,
+    "market_cap": 469343100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-27",
+    "close": 184,
+    "open": 186,
+    "high": 187,
+    "low": 180,
+    "volume": 1715600,
+    "market_cap": 464296400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-28",
+    "close": 184,
+    "open": 182,
+    "high": 189,
+    "low": 182,
+    "volume": 1954300,
+    "market_cap": 464296400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-29",
+    "close": 182,
+    "open": 190,
+    "high": 195,
+    "low": 180,
+    "volume": 4969300,
+    "market_cap": 459249700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-30",
+    "close": 186,
+    "open": 183,
+    "high": 191,
+    "low": 182,
+    "volume": 3583400,
+    "market_cap": 469343100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-07-31",
+    "close": 196,
+    "open": 187,
+    "high": 196,
+    "low": 186,
+    "volume": 6107700,
+    "market_cap": 494576600000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-03",
+    "close": 194,
+    "open": 196,
+    "high": 200,
+    "low": 192,
+    "volume": 3128900,
+    "market_cap": 489529900000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-04",
+    "close": 202,
+    "open": 196,
+    "high": 208,
+    "low": 193,
+    "volume": 12020500,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-05",
+    "close": 202,
+    "open": 204,
+    "high": 206,
+    "low": 199,
+    "volume": 6150100,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-06",
+    "close": 200,
+    "open": 204,
+    "high": 204,
+    "low": 196,
+    "volume": 4788000,
+    "market_cap": 504670000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-07",
+    "close": 202,
+    "open": 202,
+    "high": 204,
+    "low": 197,
+    "volume": 4425300,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-10",
+    "close": 200,
+    "open": 202,
+    "high": 208,
+    "low": 200,
+    "volume": 4117700,
+    "market_cap": 504670000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-11",
+    "close": 191,
+    "open": 200,
+    "high": 200,
+    "low": 190,
+    "volume": 12926000,
+    "market_cap": 481959850000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-12",
+    "close": 194,
+    "open": 192,
+    "high": 196,
+    "low": 187,
+    "volume": 4610200,
+    "market_cap": 489529900000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-13",
+    "close": 190,
+    "open": 196,
+    "high": 196,
+    "low": 190,
+    "volume": 2031400,
+    "market_cap": 479436500000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-14",
+    "close": 191,
+    "open": 191,
+    "high": 197,
+    "low": 188,
+    "volume": 6581200,
+    "market_cap": 481959850000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-18",
+    "close": 193,
+    "open": 192,
+    "high": 195,
+    "low": 191,
+    "volume": 3123900,
+    "market_cap": 487006550000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-19",
+    "close": 193,
+    "open": 194,
+    "high": 195,
+    "low": 190,
+    "volume": 2508700,
+    "market_cap": 487006550000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-20",
+    "close": 199,
+    "open": 198,
+    "high": 199,
+    "low": 192,
+    "volume": 5864700,
+    "market_cap": 502146650000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-21",
+    "close": 200,
+    "open": 199,
+    "high": 204,
+    "low": 199,
+    "volume": 5682100,
+    "market_cap": 504670000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-24",
+    "close": 202,
+    "open": 202,
+    "high": 204,
+    "low": 198,
+    "volume": 2994700,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-26",
+    "close": 194,
+    "open": 204,
+    "high": 206,
+    "low": 194,
+    "volume": 6133700,
+    "market_cap": 489529900000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-27",
+    "close": 198,
+    "open": 194,
+    "high": 200,
+    "low": 192,
+    "volume": 3180500,
+    "market_cap": 499623300000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-28",
+    "close": 202,
+    "open": 198,
+    "high": 202,
+    "low": 198,
+    "volume": 4034000,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-08-31",
+    "close": 200,
+    "open": 202,
+    "high": 204,
+    "low": 200,
+    "volume": 4207500,
+    "market_cap": 504670000000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-01",
+    "close": 204,
+    "open": 202,
+    "high": 206,
+    "low": 198,
+    "volume": 3265500,
+    "market_cap": 514763400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-02",
+    "close": 204,
+    "open": 204,
+    "high": 206,
+    "low": 200,
+    "volume": 2469100,
+    "market_cap": 514763400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-03",
+    "close": 202,
+    "open": 204,
+    "high": 204,
+    "low": 200,
+    "volume": 2490800,
+    "market_cap": 509716700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-04",
+    "close": 230,
+    "open": 202,
+    "high": 248,
+    "low": 200,
+    "volume": 89068600,
+    "market_cap": 580370500000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-07",
+    "close": 226,
+    "open": 228,
+    "high": 234,
+    "low": 220,
+    "volume": 22670300,
+    "market_cap": 570277100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-08",
+    "close": 224,
+    "open": 230,
+    "high": 230,
+    "low": 216,
+    "volume": 10452400,
+    "market_cap": 565230400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-09",
+    "close": 254,
+    "open": 226,
+    "high": 256,
+    "low": 222,
+    "volume": 59013200,
+    "market_cap": 640930900000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-10",
+    "close": 236,
+    "open": 250,
+    "high": 254,
+    "low": 230,
+    "volume": 28475800,
+    "market_cap": 595510600000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-11",
+    "close": 224,
+    "open": 234,
+    "high": 236,
+    "low": 224,
+    "volume": 9734500,
+    "market_cap": 565230400000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-14",
+    "close": 226,
+    "open": 224,
+    "high": 234,
+    "low": 210,
+    "volume": 10700700,
+    "market_cap": 570277100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-15",
+    "close": 226,
+    "open": 228,
+    "high": 238,
+    "low": 224,
+    "volume": 8542800,
+    "market_cap": 570277100000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-16",
+    "close": 218,
+    "open": 226,
+    "high": 228,
+    "low": 218,
+    "volume": 5324100,
+    "market_cap": 550090300000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-17",
+    "close": 222,
+    "open": 218,
+    "high": 226,
+    "low": 214,
+    "volume": 4274600,
+    "market_cap": 560183700000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-18",
+    "close": 216,
+    "open": 226,
+    "high": 226,
+    "low": 214,
+    "volume": 5518600,
+    "market_cap": 545043600000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-21",
+    "close": 214,
+    "open": 216,
+    "high": 222,
+    "low": 208,
+    "volume": 4293900,
+    "market_cap": 539996900000
+  },
+  {
+    "symbol": "NIKL.JK",
+    "date": "2026-09-22",
+    "close": 208,
+    "open": 214,
+    "high": 214,
+    "low": 204,
+    "volume": 4731100,
+    "market_cap": 524856800000
+  }
+]

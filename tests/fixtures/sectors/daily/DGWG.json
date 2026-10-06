@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-06-24",
+    "close": 284,
+    "open": 290,
+    "high": 292,
+    "low": 282,
+    "volume": 8539000,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-06-25",
+    "close": 286,
+    "open": 284,
+    "high": 288,
+    "low": 282,
+    "volume": 14264900,
+    "market_cap": 1682352958000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-06-26",
+    "close": 284,
+    "open": 286,
+    "high": 288,
+    "low": 282,
+    "volume": 4080700,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-06-29",
+    "close": 286,
+    "open": 284,
+    "high": 288,
+    "low": 280,
+    "volume": 11911000,
+    "market_cap": 1682352958000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-06-30",
+    "close": 280,
+    "open": 286,
+    "high": 288,
+    "low": 278,
+    "volume": 11026100,
+    "market_cap": 1647058840000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-01",
+    "close": 284,
+    "open": 280,
+    "high": 286,
+    "low": 278,
+    "volume": 18112200,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-02",
+    "close": 292,
+    "open": 284,
+    "high": 294,
+    "low": 284,
+    "volume": 12329600,
+    "market_cap": 1717647076000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-03",
+    "close": 296,
+    "open": 292,
+    "high": 298,
+    "low": 292,
+    "volume": 16611900,
+    "market_cap": 1741176488000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-06",
+    "close": 304,
+    "open": 298,
+    "high": 304,
+    "low": 294,
+    "volume": 14913100,
+    "market_cap": 1788235312000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-07",
+    "close": 298,
+    "open": 304,
+    "high": 306,
+    "low": 298,
+    "volume": 7621000,
+    "market_cap": 1752941194000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-08",
+    "close": 292,
+    "open": 298,
+    "high": 298,
+    "low": 290,
+    "volume": 9730900,
+    "market_cap": 1717647076000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-09",
+    "close": 288,
+    "open": 292,
+    "high": 294,
+    "low": 286,
+    "volume": 10132400,
+    "market_cap": 1694117664000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-10",
+    "close": 282,
+    "open": 288,
+    "high": 292,
+    "low": 280,
+    "volume": 8829200,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-13",
+    "close": 282,
+    "open": 282,
+    "high": 284,
+    "low": 280,
+    "volume": 11504700,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-14",
+    "close": 278,
+    "open": 284,
+    "high": 284,
+    "low": 274,
+    "volume": 9088600,
+    "market_cap": 1635294134000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-15",
+    "close": 278,
+    "open": 280,
+    "high": 280,
+    "low": 276,
+    "volume": 6284300,
+    "market_cap": 1635294134000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-16",
+    "close": 282,
+    "open": 278,
+    "high": 284,
+    "low": 278,
+    "volume": 12364700,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-17",
+    "close": 282,
+    "open": 284,
+    "high": 284,
+    "low": 278,
+    "volume": 14740900,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-20",
+    "close": 284,
+    "open": 282,
+    "high": 288,
+    "low": 282,
+    "volume": 14513800,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-21",
+    "close": 288,
+    "open": 286,
+    "high": 292,
+    "low": 286,
+    "volume": 8760200,
+    "market_cap": 1694117664000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-22",
+    "close": 286,
+    "open": 288,
+    "high": 288,
+    "low": 282,
+    "volume": 8464900,
+    "market_cap": 1682352958000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-23",
+    "close": 284,
+    "open": 286,
+    "high": 286,
+    "low": 282,
+    "volume": 8837100,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-24",
+    "close": 282,
+    "open": 284,
+    "high": 284,
+    "low": 278,
+    "volume": 8804000,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-27",
+    "close": 282,
+    "open": 282,
+    "high": 284,
+    "low": 280,
+    "volume": 12701300,
+    "market_cap": 1658823546000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-28",
+    "close": 280,
+    "open": 282,
+    "high": 284,
+    "low": 278,
+    "volume": 9889500,
+    "market_cap": 1647058840000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-29",
+    "close": 276,
+    "open": 280,
+    "high": 282,
+    "low": 274,
+    "volume": 6640000,
+    "market_cap": 1623529428000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-30",
+    "close": 280,
+    "open": 276,
+    "high": 280,
+    "low": 272,
+    "volume": 7256300,
+    "market_cap": 1647058840000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-07-31",
+    "close": 284,
+    "open": 280,
+    "high": 286,
+    "low": 276,
+    "volume": 13832800,
+    "market_cap": 1670588252000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-03",
+    "close": 290,
+    "open": 284,
+    "high": 292,
+    "low": 284,
+    "volume": 14954500,
+    "market_cap": 1705882370000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-04",
+    "close": 300,
+    "open": 290,
+    "high": 300,
+    "low": 286,
+    "volume": 14992700,
+    "market_cap": 1764705900000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-05",
+    "close": 308,
+    "open": 302,
+    "high": 314,
+    "low": 302,
+    "volume": 21636400,
+    "market_cap": 1811764724000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-06",
+    "close": 312,
+    "open": 308,
+    "high": 314,
+    "low": 306,
+    "volume": 14895500,
+    "market_cap": 1835294136000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-07",
+    "close": 314,
+    "open": 312,
+    "high": 314,
+    "low": 304,
+    "volume": 13817800,
+    "market_cap": 1847058842000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-10",
+    "close": 316,
+    "open": 314,
+    "high": 320,
+    "low": 312,
+    "volume": 11119500,
+    "market_cap": 1858823548000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-11",
+    "close": 320,
+    "open": 314,
+    "high": 326,
+    "low": 310,
+    "volume": 19517800,
+    "market_cap": 1882352960000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-12",
+    "close": 332,
+    "open": 320,
+    "high": 332,
+    "low": 318,
+    "volume": 20166700,
+    "market_cap": 1952941196000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-13",
+    "close": 318,
+    "open": 332,
+    "high": 332,
+    "low": 318,
+    "volume": 18363400,
+    "market_cap": 1870588254000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-14",
+    "close": 324,
+    "open": 320,
+    "high": 326,
+    "low": 314,
+    "volume": 10250500,
+    "market_cap": 1905882372000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-18",
+    "close": 326,
+    "open": 324,
+    "high": 330,
+    "low": 316,
+    "volume": 16820400,
+    "market_cap": 1917647078000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-19",
+    "close": 326,
+    "open": 326,
+    "high": 330,
+    "low": 324,
+    "volume": 7146900,
+    "market_cap": 1917647078000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-20",
+    "close": 332,
+    "open": 328,
+    "high": 332,
+    "low": 326,
+    "volume": 20198500,
+    "market_cap": 1952941196000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-21",
+    "close": 344,
+    "open": 334,
+    "high": 344,
+    "low": 330,
+    "volume": 16801100,
+    "market_cap": 2023529432000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-24",
+    "close": 346,
+    "open": 344,
+    "high": 352,
+    "low": 340,
+    "volume": 17841300,
+    "market_cap": 2035294138000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-26",
+    "close": 334,
+    "open": 346,
+    "high": 346,
+    "low": 332,
+    "volume": 10002900,
+    "market_cap": 1964705902000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-27",
+    "close": 350,
+    "open": 328,
+    "high": 350,
+    "low": 328,
+    "volume": 20368600,
+    "market_cap": 2058823550000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-28",
+    "close": 350,
+    "open": 350,
+    "high": 350,
+    "low": 344,
+    "volume": 12066800,
+    "market_cap": 2058823550000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-08-31",
+    "close": 362,
+    "open": 350,
+    "high": 368,
+    "low": 350,
+    "volume": 11411700,
+    "market_cap": 2129411786000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-01",
+    "close": 344,
+    "open": 364,
+    "high": 364,
+    "low": 340,
+    "volume": 8694200,
+    "market_cap": 2023529432000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-02",
+    "close": 344,
+    "open": 346,
+    "high": 348,
+    "low": 340,
+    "volume": 6360700,
+    "market_cap": 2023529432000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-03",
+    "close": 348,
+    "open": 344,
+    "high": 352,
+    "low": 344,
+    "volume": 13679800,
+    "market_cap": 2047058844000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-04",
+    "close": 348,
+    "open": 350,
+    "high": 350,
+    "low": 344,
+    "volume": 8668100,
+    "market_cap": 2047058844000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-07",
+    "close": 346,
+    "open": 348,
+    "high": 350,
+    "low": 344,
+    "volume": 10060900,
+    "market_cap": 2035294138000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-08",
+    "close": 344,
+    "open": 348,
+    "high": 350,
+    "low": 344,
+    "volume": 13344500,
+    "market_cap": 2023529432000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-09",
+    "close": 342,
+    "open": 346,
+    "high": 346,
+    "low": 340,
+    "volume": 10863400,
+    "market_cap": 2011764726000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-10",
+    "close": 336,
+    "open": 342,
+    "high": 342,
+    "low": 334,
+    "volume": 8088500,
+    "market_cap": 1976470608000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-11",
+    "close": 336,
+    "open": 336,
+    "high": 338,
+    "low": 328,
+    "volume": 12419700,
+    "market_cap": 1976470608000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-14",
+    "close": 326,
+    "open": 334,
+    "high": 336,
+    "low": 322,
+    "volume": 10007800,
+    "market_cap": 1917647078000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-15",
+    "close": 328,
+    "open": 326,
+    "high": 330,
+    "low": 324,
+    "volume": 6947800,
+    "market_cap": 1929411784000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-16",
+    "close": 324,
+    "open": 330,
+    "high": 332,
+    "low": 324,
+    "volume": 10314200,
+    "market_cap": 1905882372000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-17",
+    "close": 328,
+    "open": 322,
+    "high": 330,
+    "low": 322,
+    "volume": 12089000,
+    "market_cap": 1929411784000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-18",
+    "close": 328,
+    "open": 328,
+    "high": 330,
+    "low": 320,
+    "volume": 10032700,
+    "market_cap": 1929411784000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-21",
+    "close": 324,
+    "open": 328,
+    "high": 328,
+    "low": 322,
+    "volume": 9892800,
+    "market_cap": 1905882372000
+  },
+  {
+    "symbol": "DGWG.JK",
+    "date": "2026-09-22",
+    "close": 320,
+    "open": 324,
+    "high": 326,
+    "low": 316,
+    "volume": 9457700,
+    "market_cap": 1882352960000
+  }
+]

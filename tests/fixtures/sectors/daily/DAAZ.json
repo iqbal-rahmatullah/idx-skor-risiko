@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-06-24",
+    "close": 1700,
+    "open": 1900,
+    "high": 1945,
+    "low": 1700,
+    "volume": 716100,
+    "market_cap": 3394900000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-06-25",
+    "close": 1705,
+    "open": 1695,
+    "high": 1785,
+    "low": 1625,
+    "volume": 331900,
+    "market_cap": 3404885000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-06-26",
+    "close": 1625,
+    "open": 1715,
+    "high": 1735,
+    "low": 1625,
+    "volume": 195500,
+    "market_cap": 3245125000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-06-29",
+    "close": 1570,
+    "open": 1615,
+    "high": 1615,
+    "low": 1520,
+    "volume": 306200,
+    "market_cap": 3135290000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-06-30",
+    "close": 1545,
+    "open": 1570,
+    "high": 1605,
+    "low": 1545,
+    "volume": 247800,
+    "market_cap": 3085365000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-01",
+    "close": 1540,
+    "open": 1545,
+    "high": 1575,
+    "low": 1520,
+    "volume": 471400,
+    "market_cap": 3075380000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-02",
+    "close": 1570,
+    "open": 1520,
+    "high": 1650,
+    "low": 1520,
+    "volume": 166500,
+    "market_cap": 3135290000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-03",
+    "close": 1555,
+    "open": 1605,
+    "high": 1610,
+    "low": 1545,
+    "volume": 431000,
+    "market_cap": 3105335000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-06",
+    "close": 1540,
+    "open": 1560,
+    "high": 1565,
+    "low": 1540,
+    "volume": 194900,
+    "market_cap": 3075380000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-07",
+    "close": 1540,
+    "open": 1545,
+    "high": 1545,
+    "low": 1525,
+    "volume": 183300,
+    "market_cap": 3075380000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-08",
+    "close": 1500,
+    "open": 1540,
+    "high": 1540,
+    "low": 1500,
+    "volume": 154500,
+    "market_cap": 2995500000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-09",
+    "close": 1500,
+    "open": 1500,
+    "high": 1520,
+    "low": 1455,
+    "volume": 172300,
+    "market_cap": 2995500000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-10",
+    "close": 1455,
+    "open": 1510,
+    "high": 1540,
+    "low": 1370,
+    "volume": 993100,
+    "market_cap": 2905635000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-13",
+    "close": 1510,
+    "open": 1455,
+    "high": 1510,
+    "low": 1455,
+    "volume": 189300,
+    "market_cap": 3015470000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-14",
+    "close": 1520,
+    "open": 1510,
+    "high": 1520,
+    "low": 1490,
+    "volume": 267500,
+    "market_cap": 3035440000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-15",
+    "close": 1500,
+    "open": 1525,
+    "high": 1545,
+    "low": 1495,
+    "volume": 171300,
+    "market_cap": 2995500000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-16",
+    "close": 1510,
+    "open": 1515,
+    "high": 1515,
+    "low": 1490,
+    "volume": 189800,
+    "market_cap": 3015470000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-17",
+    "close": 1515,
+    "open": 1535,
+    "high": 1535,
+    "low": 1500,
+    "volume": 58400,
+    "market_cap": 3025455000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-20",
+    "close": 1520,
+    "open": 1515,
+    "high": 1530,
+    "low": 1500,
+    "volume": 159000,
+    "market_cap": 3035440000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-21",
+    "close": 1550,
+    "open": 1515,
+    "high": 1600,
+    "low": 1510,
+    "volume": 384000,
+    "market_cap": 3095350000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-22",
+    "close": 1525,
+    "open": 1590,
+    "high": 1590,
+    "low": 1515,
+    "volume": 173200,
+    "market_cap": 3045425000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-23",
+    "close": 1595,
+    "open": 1525,
+    "high": 1790,
+    "low": 1510,
+    "volume": 1078400,
+    "market_cap": 3185215000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-24",
+    "close": 1530,
+    "open": 1585,
+    "high": 1585,
+    "low": 1510,
+    "volume": 179300,
+    "market_cap": 3055410000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-27",
+    "close": 1565,
+    "open": 1530,
+    "high": 1600,
+    "low": 1530,
+    "volume": 155800,
+    "market_cap": 3125305000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-28",
+    "close": 1540,
+    "open": 1580,
+    "high": 1580,
+    "low": 1540,
+    "volume": 79500,
+    "market_cap": 3075380000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-29",
+    "close": 1540,
+    "open": 1550,
+    "high": 1575,
+    "low": 1525,
+    "volume": 138600,
+    "market_cap": 3075380000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-30",
+    "close": 1550,
+    "open": 1540,
+    "high": 1610,
+    "low": 1525,
+    "volume": 51300,
+    "market_cap": 3095350000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-07-31",
+    "close": 1520,
+    "open": 1545,
+    "high": 1545,
+    "low": 1515,
+    "volume": 216300,
+    "market_cap": 3035440000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-03",
+    "close": 1530,
+    "open": 1530,
+    "high": 1575,
+    "low": 1520,
+    "volume": 129600,
+    "market_cap": 3055410000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-04",
+    "close": 1505,
+    "open": 1530,
+    "high": 1540,
+    "low": 1485,
+    "volume": 447200,
+    "market_cap": 3005485000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-05",
+    "close": 1565,
+    "open": 1505,
+    "high": 1590,
+    "low": 1490,
+    "volume": 429100,
+    "market_cap": 3125305000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-06",
+    "close": 1580,
+    "open": 1565,
+    "high": 1620,
+    "low": 1535,
+    "volume": 698400,
+    "market_cap": 3155260000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-07",
+    "close": 1595,
+    "open": 1570,
+    "high": 1625,
+    "low": 1565,
+    "volume": 523600,
+    "market_cap": 3185215000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-10",
+    "close": 1690,
+    "open": 1615,
+    "high": 1940,
+    "low": 1610,
+    "volume": 3314900,
+    "market_cap": 3374930000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-11",
+    "close": 1655,
+    "open": 1710,
+    "high": 1800,
+    "low": 1635,
+    "volume": 519700,
+    "market_cap": 3305035000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-12",
+    "close": 1765,
+    "open": 1655,
+    "high": 1785,
+    "low": 1605,
+    "volume": 583200,
+    "market_cap": 3524705000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-13",
+    "close": 1715,
+    "open": 1770,
+    "high": 1770,
+    "low": 1660,
+    "volume": 310800,
+    "market_cap": 3424855000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-14",
+    "close": 1790,
+    "open": 1715,
+    "high": 1815,
+    "low": 1640,
+    "volume": 529000,
+    "market_cap": 3574630000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-18",
+    "close": 1755,
+    "open": 1795,
+    "high": 1875,
+    "low": 1730,
+    "volume": 640800,
+    "market_cap": 3504735000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-19",
+    "close": 1720,
+    "open": 1750,
+    "high": 1795,
+    "low": 1700,
+    "volume": 524500,
+    "market_cap": 3434840000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-20",
+    "close": 1750,
+    "open": 1720,
+    "high": 1790,
+    "low": 1720,
+    "volume": 450100,
+    "market_cap": 3494750000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-21",
+    "close": 1745,
+    "open": 1745,
+    "high": 1765,
+    "low": 1740,
+    "volume": 305800,
+    "market_cap": 3484765000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-24",
+    "close": 1745,
+    "open": 1765,
+    "high": 1765,
+    "low": 1725,
+    "volume": 299500,
+    "market_cap": 3484765000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-26",
+    "close": 1640,
+    "open": 1745,
+    "high": 1760,
+    "low": 1635,
+    "volume": 1024000,
+    "market_cap": 3275080000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-27",
+    "close": 1685,
+    "open": 1635,
+    "high": 1725,
+    "low": 1605,
+    "volume": 586100,
+    "market_cap": 3364945000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-28",
+    "close": 1700,
+    "open": 1735,
+    "high": 1755,
+    "low": 1675,
+    "volume": 920500,
+    "market_cap": 3394900000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-08-31",
+    "close": 1680,
+    "open": 1700,
+    "high": 1710,
+    "low": 1675,
+    "volume": 262400,
+    "market_cap": 3354960000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-01",
+    "close": 1685,
+    "open": 1685,
+    "high": 1725,
+    "low": 1670,
+    "volume": 768500,
+    "market_cap": 3364945000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-02",
+    "close": 1670,
+    "open": 1685,
+    "high": 1690,
+    "low": 1625,
+    "volume": 455400,
+    "market_cap": 3334990000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-03",
+    "close": 1680,
+    "open": 1675,
+    "high": 1685,
+    "low": 1645,
+    "volume": 428200,
+    "market_cap": 3354960000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-04",
+    "close": 1670,
+    "open": 1680,
+    "high": 1685,
+    "low": 1655,
+    "volume": 293400,
+    "market_cap": 3334990000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-07",
+    "close": 1680,
+    "open": 1670,
+    "high": 1680,
+    "low": 1645,
+    "volume": 373500,
+    "market_cap": 3354960000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-08",
+    "close": 1680,
+    "open": 1675,
+    "high": 1690,
+    "low": 1645,
+    "volume": 276900,
+    "market_cap": 3354960000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-09",
+    "close": 1655,
+    "open": 1670,
+    "high": 1685,
+    "low": 1630,
+    "volume": 981200,
+    "market_cap": 3305035000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-10",
+    "close": 1625,
+    "open": 1655,
+    "high": 1660,
+    "low": 1625,
+    "volume": 874000,
+    "market_cap": 3245125000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-11",
+    "close": 1670,
+    "open": 1605,
+    "high": 1735,
+    "low": 1550,
+    "volume": 1762900,
+    "market_cap": 3334990000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-14",
+    "close": 1655,
+    "open": 1705,
+    "high": 1705,
+    "low": 1600,
+    "volume": 265600,
+    "market_cap": 3305035000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-15",
+    "close": 1660,
+    "open": 1655,
+    "high": 1685,
+    "low": 1620,
+    "volume": 119300,
+    "market_cap": 3315020000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-16",
+    "close": 1625,
+    "open": 1680,
+    "high": 1680,
+    "low": 1625,
+    "volume": 100100,
+    "market_cap": 3245125000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-17",
+    "close": 1670,
+    "open": 1630,
+    "high": 1800,
+    "low": 1625,
+    "volume": 389200,
+    "market_cap": 3334990000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-18",
+    "close": 1635,
+    "open": 1680,
+    "high": 1680,
+    "low": 1630,
+    "volume": 142900,
+    "market_cap": 3265095000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-21",
+    "close": 1625,
+    "open": 1640,
+    "high": 1660,
+    "low": 1610,
+    "volume": 76100,
+    "market_cap": 3245125000000
+  },
+  {
+    "symbol": "DAAZ.JK",
+    "date": "2026-09-22",
+    "close": 1610,
+    "open": 1630,
+    "high": 1650,
+    "low": 1540,
+    "volume": 420700,
+    "market_cap": 3215170000000
+  }
+]

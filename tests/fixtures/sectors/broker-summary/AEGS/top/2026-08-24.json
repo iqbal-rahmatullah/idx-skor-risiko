@@ -1,0 +1,182 @@
+{
+  "symbol": "AEGS.JK",
+  "start": "2026-08-24",
+  "end": "2026-08-24",
+  "origin": "all",
+  "cohort": "all",
+  "foreign": false,
+  "top_buyers": [
+    {
+      "rank": 1,
+      "broker_code": "YP",
+      "net_idr": 199586900,
+      "buy_idr": 392507100,
+      "sell_idr": 192920200,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 2,
+      "broker_code": "CC",
+      "net_idr": 23874900,
+      "buy_idr": 38261200,
+      "sell_idr": 14386300,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 3,
+      "broker_code": "XC",
+      "net_idr": 7680100,
+      "buy_idr": 38477800,
+      "sell_idr": 30797700,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 4,
+      "broker_code": "NI",
+      "net_idr": 4469100,
+      "buy_idr": 31675900,
+      "sell_idr": 27206800,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 5,
+      "broker_code": "RO",
+      "net_idr": 188800,
+      "buy_idr": 188800,
+      "sell_idr": 0,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 6,
+      "broker_code": "LS",
+      "net_idr": 132000,
+      "buy_idr": 132000,
+      "sell_idr": 0,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 7,
+      "broker_code": "GI",
+      "net_idr": 66000,
+      "buy_idr": 66000,
+      "sell_idr": 0,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    }
+  ],
+  "top_sellers": [
+    {
+      "rank": 1,
+      "broker_code": "XL",
+      "net_idr": -77462200,
+      "buy_idr": 248469900,
+      "sell_idr": 325932100,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 2,
+      "broker_code": "GR",
+      "net_idr": -53317400,
+      "buy_idr": 0,
+      "sell_idr": 53317400,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 3,
+      "broker_code": "PD",
+      "net_idr": -35117200,
+      "buy_idr": 29200,
+      "sell_idr": 35146400,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 4,
+      "broker_code": "DH",
+      "net_idr": -19849900,
+      "buy_idr": 2145700,
+      "sell_idr": 21995600,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 5,
+      "broker_code": "CP",
+      "net_idr": -11127000,
+      "buy_idr": 7534000,
+      "sell_idr": 18661000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 6,
+      "broker_code": "OD",
+      "net_idr": -9094100,
+      "buy_idr": 18058100,
+      "sell_idr": 27152200,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 7,
+      "broker_code": "MG",
+      "net_idr": -8160000,
+      "buy_idr": 0,
+      "sell_idr": 8160000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 8,
+      "broker_code": "YB",
+      "net_idr": -4308800,
+      "buy_idr": 0,
+      "sell_idr": 4308800,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 9,
+      "broker_code": "YJ",
+      "net_idr": -4290000,
+      "buy_idr": 0,
+      "sell_idr": 4290000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 10,
+      "broker_code": "EP",
+      "net_idr": -3608000,
+      "buy_idr": 3872000,
+      "sell_idr": 7480000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    }
+  ]
+}

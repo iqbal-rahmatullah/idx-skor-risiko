@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-06-24",
+    "close": 102,
+    "open": 104,
+    "high": 110,
+    "low": 101,
+    "volume": 5763000,
+    "market_cap": 335312250000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-06-25",
+    "close": 104,
+    "open": 96,
+    "high": 106,
+    "low": 96,
+    "volume": 1542800,
+    "market_cap": 341887000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-06-26",
+    "close": 101,
+    "open": 104,
+    "high": 108,
+    "low": 98,
+    "volume": 1382000,
+    "market_cap": 332024875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-06-29",
+    "close": 100,
+    "open": 101,
+    "high": 103,
+    "low": 98,
+    "volume": 701200,
+    "market_cap": 328737500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-06-30",
+    "close": 101,
+    "open": 100,
+    "high": 107,
+    "low": 98,
+    "volume": 4213600,
+    "market_cap": 332024875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-01",
+    "close": 99,
+    "open": 102,
+    "high": 102,
+    "low": 93,
+    "volume": 1942600,
+    "market_cap": 325450125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-02",
+    "close": 99,
+    "open": 99,
+    "high": 101,
+    "low": 98,
+    "volume": 784400,
+    "market_cap": 325450125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-03",
+    "close": 100,
+    "open": 100,
+    "high": 103,
+    "low": 98,
+    "volume": 1346900,
+    "market_cap": 328737500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-06",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 99,
+    "volume": 721800,
+    "market_cap": 325450125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-07",
+    "close": 104,
+    "open": 99,
+    "high": 105,
+    "low": 99,
+    "volume": 1114100,
+    "market_cap": 341887000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-08",
+    "close": 100,
+    "open": 104,
+    "high": 105,
+    "low": 98,
+    "volume": 971400,
+    "market_cap": 328737500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-09",
+    "close": 100,
+    "open": 99,
+    "high": 102,
+    "low": 99,
+    "volume": 1457200,
+    "market_cap": 328737500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-10",
+    "close": 101,
+    "open": 100,
+    "high": 101,
+    "low": 99,
+    "volume": 259700,
+    "market_cap": 332024875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-13",
+    "close": 102,
+    "open": 100,
+    "high": 102,
+    "low": 99,
+    "volume": 1310200,
+    "market_cap": 335312250000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-14",
+    "close": 103,
+    "open": 103,
+    "high": 103,
+    "low": 100,
+    "volume": 2729700,
+    "market_cap": 338599625000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-15",
+    "close": 103,
+    "open": 103,
+    "high": 108,
+    "low": 100,
+    "volume": 4933100,
+    "market_cap": 338599625000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-16",
+    "close": 108,
+    "open": 103,
+    "high": 108,
+    "low": 102,
+    "volume": 7168300,
+    "market_cap": 355036500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-17",
+    "close": 106,
+    "open": 108,
+    "high": 108,
+    "low": 105,
+    "volume": 1722100,
+    "market_cap": 348461750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-20",
+    "close": 107,
+    "open": 107,
+    "high": 119,
+    "low": 106,
+    "volume": 37895000,
+    "market_cap": 351749125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-21",
+    "close": 107,
+    "open": 109,
+    "high": 109,
+    "low": 104,
+    "volume": 5752000,
+    "market_cap": 351749125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-22",
+    "close": 108,
+    "open": 107,
+    "high": 113,
+    "low": 104,
+    "volume": 8977800,
+    "market_cap": 355036500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-23",
+    "close": 108,
+    "open": 110,
+    "high": 110,
+    "low": 107,
+    "volume": 4301200,
+    "market_cap": 355036500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-24",
+    "close": 107,
+    "open": 108,
+    "high": 108,
+    "low": 105,
+    "volume": 1556200,
+    "market_cap": 351749125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-27",
+    "close": 107,
+    "open": 107,
+    "high": 107,
+    "low": 105,
+    "volume": 888200,
+    "market_cap": 351749125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-28",
+    "close": 107,
+    "open": 110,
+    "high": 110,
+    "low": 105,
+    "volume": 2199800,
+    "market_cap": 351749125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-29",
+    "close": 104,
+    "open": 108,
+    "high": 109,
+    "low": 103,
+    "volume": 2283400,
+    "market_cap": 341887000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-30",
+    "close": 102,
+    "open": 99,
+    "high": 103,
+    "low": 95,
+    "volume": 10950600,
+    "market_cap": 335312250000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-07-31",
+    "close": 96,
+    "open": 102,
+    "high": 102,
+    "low": 95,
+    "volume": 19327700,
+    "market_cap": 315588000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-03",
+    "close": 92,
+    "open": 96,
+    "high": 97,
+    "low": 89,
+    "volume": 19424200,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-04",
+    "close": 92,
+    "open": 93,
+    "high": 94,
+    "low": 90,
+    "volume": 7051300,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-05",
+    "close": 88,
+    "open": 92,
+    "high": 92,
+    "low": 87,
+    "volume": 25000000,
+    "market_cap": 289289000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-06",
+    "close": 96,
+    "open": 91,
+    "high": 106,
+    "low": 90,
+    "volume": 172913200,
+    "market_cap": 315588000000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-07",
+    "close": 93,
+    "open": 98,
+    "high": 99,
+    "low": 92,
+    "volume": 28980000,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-10",
+    "close": 93,
+    "open": 92,
+    "high": 94,
+    "low": 92,
+    "volume": 9632200,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-11",
+    "close": 90,
+    "open": 94,
+    "high": 94,
+    "low": 90,
+    "volume": 8665300,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-12",
+    "close": 92,
+    "open": 90,
+    "high": 92,
+    "low": 89,
+    "volume": 4692200,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-13",
+    "close": 90,
+    "open": 92,
+    "high": 92,
+    "low": 87,
+    "volume": 7500400,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-14",
+    "close": 89,
+    "open": 90,
+    "high": 90,
+    "low": 88,
+    "volume": 4971300,
+    "market_cap": 292576375000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-18",
+    "close": 90,
+    "open": 89,
+    "high": 91,
+    "low": 88,
+    "volume": 3948300,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-19",
+    "close": 90,
+    "open": 90,
+    "high": 95,
+    "low": 89,
+    "volume": 26660800,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-20",
+    "close": 93,
+    "open": 101,
+    "high": 103,
+    "low": 91,
+    "volume": 56230600,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-21",
+    "close": 92,
+    "open": 94,
+    "high": 94,
+    "low": 91,
+    "volume": 9727400,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-24",
+    "close": 93,
+    "open": 93,
+    "high": 96,
+    "low": 92,
+    "volume": 14325600,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-26",
+    "close": 90,
+    "open": 93,
+    "high": 94,
+    "low": 90,
+    "volume": 7962500,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-27",
+    "close": 91,
+    "open": 88,
+    "high": 92,
+    "low": 88,
+    "volume": 4911900,
+    "market_cap": 299151125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-28",
+    "close": 90,
+    "open": 91,
+    "high": 93,
+    "low": 90,
+    "volume": 3570500,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-08-31",
+    "close": 93,
+    "open": 91,
+    "high": 93,
+    "low": 90,
+    "volume": 5436800,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-01",
+    "close": 92,
+    "open": 92,
+    "high": 93,
+    "low": 91,
+    "volume": 4473400,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-02",
+    "close": 93,
+    "open": 93,
+    "high": 94,
+    "low": 91,
+    "volume": 5164300,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-03",
+    "close": 94,
+    "open": 93,
+    "high": 97,
+    "low": 92,
+    "volume": 32406700,
+    "market_cap": 309013250000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-04",
+    "close": 93,
+    "open": 95,
+    "high": 95,
+    "low": 92,
+    "volume": 4049000,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-07",
+    "close": 92,
+    "open": 93,
+    "high": 94,
+    "low": 91,
+    "volume": 6629400,
+    "market_cap": 302438500000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-08",
+    "close": 93,
+    "open": 93,
+    "high": 95,
+    "low": 93,
+    "volume": 6730200,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-09",
+    "close": 93,
+    "open": 93,
+    "high": 94,
+    "low": 92,
+    "volume": 4604000,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-10",
+    "close": 93,
+    "open": 93,
+    "high": 94,
+    "low": 91,
+    "volume": 3929500,
+    "market_cap": 305725875000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-11",
+    "close": 91,
+    "open": 93,
+    "high": 93,
+    "low": 89,
+    "volume": 5232200,
+    "market_cap": 299151125000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-14",
+    "close": 89,
+    "open": 91,
+    "high": 91,
+    "low": 88,
+    "volume": 4694300,
+    "market_cap": 292576375000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-15",
+    "close": 90,
+    "open": 89,
+    "high": 92,
+    "low": 88,
+    "volume": 2729100,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-16",
+    "close": 89,
+    "open": 90,
+    "high": 91,
+    "low": 89,
+    "volume": 2388800,
+    "market_cap": 292576375000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-17",
+    "close": 90,
+    "open": 90,
+    "high": 92,
+    "low": 89,
+    "volume": 6055700,
+    "market_cap": 295863750000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-18",
+    "close": 89,
+    "open": 91,
+    "high": 91,
+    "low": 88,
+    "volume": 4842100,
+    "market_cap": 292576375000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-21",
+    "close": 89,
+    "open": 88,
+    "high": 89,
+    "low": 85,
+    "volume": 3479700,
+    "market_cap": 292576375000
+  },
+  {
+    "symbol": "SOLA.JK",
+    "date": "2026-09-22",
+    "close": 84,
+    "open": 88,
+    "high": 89,
+    "low": 84,
+    "volume": 7824300,
+    "market_cap": 276139500000
+  }
+]

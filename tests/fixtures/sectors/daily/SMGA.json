@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-06-24",
+    "close": 64,
+    "open": 66,
+    "high": 67,
+    "low": 63,
+    "volume": 10475400,
+    "market_cap": 560000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-06-25",
+    "close": 67,
+    "open": 64,
+    "high": 68,
+    "low": 63,
+    "volume": 11515600,
+    "market_cap": 586250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-06-26",
+    "close": 64,
+    "open": 67,
+    "high": 68,
+    "low": 63,
+    "volume": 7580200,
+    "market_cap": 560000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-06-29",
+    "close": 64,
+    "open": 64,
+    "high": 65,
+    "low": 63,
+    "volume": 6068100,
+    "market_cap": 560000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-06-30",
+    "close": 61,
+    "open": 63,
+    "high": 64,
+    "low": 59,
+    "volume": 7159600,
+    "market_cap": 533750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-01",
+    "close": 63,
+    "open": 60,
+    "high": 64,
+    "low": 59,
+    "volume": 3964100,
+    "market_cap": 551250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-02",
+    "close": 65,
+    "open": 63,
+    "high": 65,
+    "low": 62,
+    "volume": 3600100,
+    "market_cap": 568750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-03",
+    "close": 67,
+    "open": 65,
+    "high": 69,
+    "low": 65,
+    "volume": 10443900,
+    "market_cap": 586250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-06",
+    "close": 68,
+    "open": 66,
+    "high": 68,
+    "low": 66,
+    "volume": 1666400,
+    "market_cap": 595000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-07",
+    "close": 66,
+    "open": 68,
+    "high": 69,
+    "low": 65,
+    "volume": 7861300,
+    "market_cap": 577500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-08",
+    "close": 66,
+    "open": 67,
+    "high": 67,
+    "low": 64,
+    "volume": 2679600,
+    "market_cap": 577500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-09",
+    "close": 63,
+    "open": 65,
+    "high": 65,
+    "low": 62,
+    "volume": 2903600,
+    "market_cap": 551250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-10",
+    "close": 64,
+    "open": 65,
+    "high": 66,
+    "low": 63,
+    "volume": 7282500,
+    "market_cap": 560000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-13",
+    "close": 67,
+    "open": 64,
+    "high": 69,
+    "low": 64,
+    "volume": 12527100,
+    "market_cap": 586250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-14",
+    "close": 69,
+    "open": 68,
+    "high": 72,
+    "low": 67,
+    "volume": 19312600,
+    "market_cap": 603750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-15",
+    "close": 68,
+    "open": 70,
+    "high": 71,
+    "low": 67,
+    "volume": 6614700,
+    "market_cap": 595000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-16",
+    "close": 69,
+    "open": 67,
+    "high": 69,
+    "low": 66,
+    "volume": 8209600,
+    "market_cap": 603750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-17",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 9774900,
+    "market_cap": 603750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-20",
+    "close": 73,
+    "open": 69,
+    "high": 79,
+    "low": 68,
+    "volume": 73132200,
+    "market_cap": 638750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-21",
+    "close": 76,
+    "open": 74,
+    "high": 76,
+    "low": 71,
+    "volume": 21581500,
+    "market_cap": 665000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-22",
+    "close": 74,
+    "open": 76,
+    "high": 76,
+    "low": 72,
+    "volume": 13955200,
+    "market_cap": 647500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-23",
+    "close": 73,
+    "open": 73,
+    "high": 76,
+    "low": 72,
+    "volume": 19672400,
+    "market_cap": 638750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-24",
+    "close": 70,
+    "open": 72,
+    "high": 73,
+    "low": 68,
+    "volume": 9803600,
+    "market_cap": 612500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-27",
+    "close": 71,
+    "open": 69,
+    "high": 72,
+    "low": 69,
+    "volume": 5263300,
+    "market_cap": 621250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-28",
+    "close": 68,
+    "open": 71,
+    "high": 71,
+    "low": 68,
+    "volume": 7790700,
+    "market_cap": 595000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-29",
+    "close": 67,
+    "open": 68,
+    "high": 70,
+    "low": 65,
+    "volume": 8605500,
+    "market_cap": 586250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-30",
+    "close": 70,
+    "open": 66,
+    "high": 71,
+    "low": 66,
+    "volume": 7505300,
+    "market_cap": 612500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-07-31",
+    "close": 71,
+    "open": 70,
+    "high": 72,
+    "low": 69,
+    "volume": 5389800,
+    "market_cap": 621250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-03",
+    "close": 71,
+    "open": 72,
+    "high": 72,
+    "low": 69,
+    "volume": 3968700,
+    "market_cap": 621250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-04",
+    "close": 71,
+    "open": 71,
+    "high": 72,
+    "low": 70,
+    "volume": 1674600,
+    "market_cap": 621250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-05",
+    "close": 71,
+    "open": 72,
+    "high": 73,
+    "low": 71,
+    "volume": 6758400,
+    "market_cap": 621250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-06",
+    "close": 77,
+    "open": 71,
+    "high": 78,
+    "low": 71,
+    "volume": 21615400,
+    "market_cap": 673750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-07",
+    "close": 76,
+    "open": 78,
+    "high": 78,
+    "low": 73,
+    "volume": 16892400,
+    "market_cap": 665000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-10",
+    "close": 74,
+    "open": 75,
+    "high": 76,
+    "low": 74,
+    "volume": 6932800,
+    "market_cap": 647500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-11",
+    "close": 74,
+    "open": 76,
+    "high": 76,
+    "low": 72,
+    "volume": 6394600,
+    "market_cap": 647500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-12",
+    "close": 73,
+    "open": 74,
+    "high": 74,
+    "low": 72,
+    "volume": 4947300,
+    "market_cap": 638750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-13",
+    "close": 75,
+    "open": 74,
+    "high": 76,
+    "low": 72,
+    "volume": 6505600,
+    "market_cap": 656250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-14",
+    "close": 75,
+    "open": 75,
+    "high": 77,
+    "low": 73,
+    "volume": 7960800,
+    "market_cap": 656250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-18",
+    "close": 82,
+    "open": 76,
+    "high": 89,
+    "low": 75,
+    "volume": 144883800,
+    "market_cap": 717500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-19",
+    "close": 80,
+    "open": 82,
+    "high": 83,
+    "low": 76,
+    "volume": 29075800,
+    "market_cap": 700000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-20",
+    "close": 81,
+    "open": 80,
+    "high": 83,
+    "low": 78,
+    "volume": 15042900,
+    "market_cap": 708750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-21",
+    "close": 82,
+    "open": 83,
+    "high": 84,
+    "low": 80,
+    "volume": 13022700,
+    "market_cap": 717500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-24",
+    "close": 82,
+    "open": 81,
+    "high": 83,
+    "low": 81,
+    "volume": 4505400,
+    "market_cap": 717500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-26",
+    "close": 77,
+    "open": 82,
+    "high": 82,
+    "low": 76,
+    "volume": 14953700,
+    "market_cap": 673750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-27",
+    "close": 80,
+    "open": 76,
+    "high": 81,
+    "low": 75,
+    "volume": 4693200,
+    "market_cap": 700000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-28",
+    "close": 81,
+    "open": 81,
+    "high": 83,
+    "low": 81,
+    "volume": 6705300,
+    "market_cap": 708750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-08-31",
+    "close": 82,
+    "open": 82,
+    "high": 82,
+    "low": 79,
+    "volume": 7994100,
+    "market_cap": 717500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-01",
+    "close": 88,
+    "open": 82,
+    "high": 94,
+    "low": 81,
+    "volume": 94371200,
+    "market_cap": 770000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-02",
+    "close": 87,
+    "open": 89,
+    "high": 92,
+    "low": 85,
+    "volume": 36888600,
+    "market_cap": 761250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-03",
+    "close": 88,
+    "open": 87,
+    "high": 91,
+    "low": 87,
+    "volume": 16728600,
+    "market_cap": 770000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-04",
+    "close": 89,
+    "open": 89,
+    "high": 95,
+    "low": 88,
+    "volume": 51295300,
+    "market_cap": 778750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-07",
+    "close": 90,
+    "open": 89,
+    "high": 90,
+    "low": 86,
+    "volume": 19381600,
+    "market_cap": 787500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-08",
+    "close": 90,
+    "open": 90,
+    "high": 92,
+    "low": 88,
+    "volume": 14163300,
+    "market_cap": 787500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-09",
+    "close": 90,
+    "open": 91,
+    "high": 92,
+    "low": 89,
+    "volume": 7904400,
+    "market_cap": 787500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-10",
+    "close": 89,
+    "open": 90,
+    "high": 94,
+    "low": 88,
+    "volume": 25469600,
+    "market_cap": 778750000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-11",
+    "close": 88,
+    "open": 89,
+    "high": 89,
+    "low": 86,
+    "volume": 4754600,
+    "market_cap": 770000000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-14",
+    "close": 87,
+    "open": 88,
+    "high": 89,
+    "low": 84,
+    "volume": 8378800,
+    "market_cap": 761250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-15",
+    "close": 86,
+    "open": 86,
+    "high": 88,
+    "low": 85,
+    "volume": 5221000,
+    "market_cap": 752500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-16",
+    "close": 87,
+    "open": 86,
+    "high": 87,
+    "low": 84,
+    "volume": 4601200,
+    "market_cap": 761250000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-17",
+    "close": 86,
+    "open": 86,
+    "high": 87,
+    "low": 84,
+    "volume": 4937500,
+    "market_cap": 752500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-18",
+    "close": 86,
+    "open": 85,
+    "high": 87,
+    "low": 85,
+    "volume": 5633900,
+    "market_cap": 752500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-21",
+    "close": 86,
+    "open": 86,
+    "high": 86,
+    "low": 84,
+    "volume": 5010900,
+    "market_cap": 752500000000
+  },
+  {
+    "symbol": "SMGA.JK",
+    "date": "2026-09-22",
+    "close": 86,
+    "open": 86,
+    "high": 88,
+    "low": 84,
+    "volume": 7431000,
+    "market_cap": 752500000000
+  }
+]

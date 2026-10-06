@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-06-24",
+    "close": 85,
+    "open": 92,
+    "high": 98,
+    "low": 85,
+    "volume": 45923200,
+    "market_cap": 91448351600
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-06-25",
+    "close": 88,
+    "open": 87,
+    "high": 93,
+    "low": 84,
+    "volume": 28240600,
+    "market_cap": 94675940480
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-06-26",
+    "close": 84,
+    "open": 89,
+    "high": 89,
+    "low": 84,
+    "volume": 10601300,
+    "market_cap": 90372488640
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-06-29",
+    "close": 83,
+    "open": 84,
+    "high": 88,
+    "low": 81,
+    "volume": 11026500,
+    "market_cap": 89296625680
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-06-30",
+    "close": 77,
+    "open": 85,
+    "high": 85,
+    "low": 74,
+    "volume": 8858800,
+    "market_cap": 82841447920
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-01",
+    "close": 87,
+    "open": 81,
+    "high": 94,
+    "low": 81,
+    "volume": 124170200,
+    "market_cap": 93600077520
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-02",
+    "close": 84,
+    "open": 85,
+    "high": 87,
+    "low": 82,
+    "volume": 17686500,
+    "market_cap": 90372488640
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-03",
+    "close": 86,
+    "open": 85,
+    "high": 88,
+    "low": 84,
+    "volume": 13028100,
+    "market_cap": 92524214560
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-06",
+    "close": 87,
+    "open": 87,
+    "high": 88,
+    "low": 85,
+    "volume": 5975200,
+    "market_cap": 93600077520
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-07",
+    "close": 87,
+    "open": 87,
+    "high": 92,
+    "low": 85,
+    "volume": 33323700,
+    "market_cap": 93600077520
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-08",
+    "close": 90,
+    "open": 88,
+    "high": 98,
+    "low": 88,
+    "volume": 86958600,
+    "market_cap": 96827666400
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-09",
+    "close": 89,
+    "open": 90,
+    "high": 96,
+    "low": 87,
+    "volume": 24955700,
+    "market_cap": 95751803440
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-10",
+    "close": 88,
+    "open": 90,
+    "high": 90,
+    "low": 87,
+    "volume": 5380900,
+    "market_cap": 94675940480
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-13",
+    "close": 108,
+    "open": 89,
+    "high": 109,
+    "low": 85,
+    "volume": 117205900,
+    "market_cap": 116193199680
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-14",
+    "close": 93,
+    "open": 109,
+    "high": 131,
+    "low": 93,
+    "volume": 477162200,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-15",
+    "close": 93,
+    "open": 93,
+    "high": 97,
+    "low": 89,
+    "volume": 39485100,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-16",
+    "close": 92,
+    "open": 93,
+    "high": 96,
+    "low": 91,
+    "volume": 38921600,
+    "market_cap": 98979392320
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-17",
+    "close": 91,
+    "open": 93,
+    "high": 94,
+    "low": 90,
+    "volume": 10878400,
+    "market_cap": 97903529360
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-20",
+    "close": 95,
+    "open": 92,
+    "high": 102,
+    "low": 90,
+    "volume": 107971900,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-21",
+    "close": 96,
+    "open": 95,
+    "high": 98,
+    "low": 93,
+    "volume": 29299600,
+    "market_cap": 103282844160
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-22",
+    "close": 97,
+    "open": 96,
+    "high": 101,
+    "low": 94,
+    "volume": 42420400,
+    "market_cap": 104358707120
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-23",
+    "close": 95,
+    "open": 98,
+    "high": 102,
+    "low": 94,
+    "volume": 39379200,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-24",
+    "close": 92,
+    "open": 96,
+    "high": 96,
+    "low": 89,
+    "volume": 13212100,
+    "market_cap": 98979392320
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-27",
+    "close": 93,
+    "open": 92,
+    "high": 97,
+    "low": 91,
+    "volume": 20709100,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-28",
+    "close": 95,
+    "open": 93,
+    "high": 97,
+    "low": 92,
+    "volume": 17541500,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-29",
+    "close": 93,
+    "open": 94,
+    "high": 96,
+    "low": 91,
+    "volume": 12433700,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-30",
+    "close": 95,
+    "open": 93,
+    "high": 96,
+    "low": 92,
+    "volume": 16522700,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-07-31",
+    "close": 95,
+    "open": 95,
+    "high": 99,
+    "low": 94,
+    "volume": 33583400,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-03",
+    "close": 93,
+    "open": 95,
+    "high": 96,
+    "low": 93,
+    "volume": 9404100,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-04",
+    "close": 96,
+    "open": 94,
+    "high": 98,
+    "low": 93,
+    "volume": 17366300,
+    "market_cap": 103282844160
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-05",
+    "close": 98,
+    "open": 98,
+    "high": 99,
+    "low": 96,
+    "volume": 21550600,
+    "market_cap": 105434570080
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-06",
+    "close": 102,
+    "open": 98,
+    "high": 104,
+    "low": 97,
+    "volume": 57188800,
+    "market_cap": 109738021920
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-07",
+    "close": 99,
+    "open": 102,
+    "high": 102,
+    "low": 99,
+    "volume": 13448200,
+    "market_cap": 106510433040
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-10",
+    "close": 97,
+    "open": 100,
+    "high": 100,
+    "low": 97,
+    "volume": 15047000,
+    "market_cap": 104358707120
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-11",
+    "close": 93,
+    "open": 97,
+    "high": 97,
+    "low": 92,
+    "volume": 13108500,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-12",
+    "close": 95,
+    "open": 93,
+    "high": 96,
+    "low": 92,
+    "volume": 7358200,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-13",
+    "close": 95,
+    "open": 95,
+    "high": 96,
+    "low": 93,
+    "volume": 4793600,
+    "market_cap": 102206981200
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-14",
+    "close": 93,
+    "open": 96,
+    "high": 96,
+    "low": 91,
+    "volume": 7210300,
+    "market_cap": 100055255280
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-18",
+    "close": 97,
+    "open": 92,
+    "high": 100,
+    "low": 92,
+    "volume": 42750300,
+    "market_cap": 104358707120
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-19",
+    "close": 94,
+    "open": 98,
+    "high": 98,
+    "low": 93,
+    "volume": 19221500,
+    "market_cap": 101131118240
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-20",
+    "close": 96,
+    "open": 95,
+    "high": 97,
+    "low": 94,
+    "volume": 7817700,
+    "market_cap": 103282844160
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-21",
+    "close": 97,
+    "open": 96,
+    "high": 117,
+    "low": 95,
+    "volume": 246858200,
+    "market_cap": 104358707120
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-24",
+    "close": 99,
+    "open": 98,
+    "high": 106,
+    "low": 96,
+    "volume": 71638700,
+    "market_cap": 106510433040
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-26",
+    "close": 96,
+    "open": 99,
+    "high": 104,
+    "low": 96,
+    "volume": 52454300,
+    "market_cap": 103282844160
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-27",
+    "close": 99,
+    "open": 95,
+    "high": 99,
+    "low": 94,
+    "volume": 15820000,
+    "market_cap": 106510433040
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-28",
+    "close": 101,
+    "open": 99,
+    "high": 102,
+    "low": 98,
+    "volume": 17813200,
+    "market_cap": 108662158960
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-08-31",
+    "close": 102,
+    "open": 101,
+    "high": 106,
+    "low": 99,
+    "volume": 46151500,
+    "market_cap": 109738021920
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-01",
+    "close": 101,
+    "open": 104,
+    "high": 104,
+    "low": 99,
+    "volume": 22959100,
+    "market_cap": 108662158960
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-02",
+    "close": 102,
+    "open": 102,
+    "high": 114,
+    "low": 98,
+    "volume": 104364100,
+    "market_cap": 109738021920
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-03",
+    "close": 103,
+    "open": 103,
+    "high": 105,
+    "low": 102,
+    "volume": 26413700,
+    "market_cap": 110813884880
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-04",
+    "close": 101,
+    "open": 104,
+    "high": 106,
+    "low": 101,
+    "volume": 20192800,
+    "market_cap": 108662158960
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-07",
+    "close": 102,
+    "open": 101,
+    "high": 103,
+    "low": 99,
+    "volume": 15633400,
+    "market_cap": 109738021920
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-08",
+    "close": 103,
+    "open": 103,
+    "high": 105,
+    "low": 101,
+    "volume": 14648900,
+    "market_cap": 110813884880
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-09",
+    "close": 101,
+    "open": 102,
+    "high": 103,
+    "low": 101,
+    "volume": 10873900,
+    "market_cap": 108662158960
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-10",
+    "close": 103,
+    "open": 101,
+    "high": 120,
+    "low": 100,
+    "volume": 175184600,
+    "market_cap": 110813884880
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-11",
+    "close": 99,
+    "open": 102,
+    "high": 102,
+    "low": 96,
+    "volume": 29994100,
+    "market_cap": 106510433040
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-14",
+    "close": 98,
+    "open": 98,
+    "high": 99,
+    "low": 96,
+    "volume": 10715400,
+    "market_cap": 105434570080
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-15",
+    "close": 100,
+    "open": 98,
+    "high": 100,
+    "low": 96,
+    "volume": 9251600,
+    "market_cap": 107586296000
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-16",
+    "close": 99,
+    "open": 100,
+    "high": 103,
+    "low": 98,
+    "volume": 20345500,
+    "market_cap": 106510433040
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-17",
+    "close": 100,
+    "open": 98,
+    "high": 101,
+    "low": 98,
+    "volume": 7106000,
+    "market_cap": 107586296000
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-18",
+    "close": 98,
+    "open": 100,
+    "high": 101,
+    "low": 96,
+    "volume": 8233200,
+    "market_cap": 105434570080
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-21",
+    "close": 98,
+    "open": 98,
+    "high": 99,
+    "low": 96,
+    "volume": 6341000,
+    "market_cap": 105434570080
+  },
+  {
+    "symbol": "KIOS.JK",
+    "date": "2026-09-22",
+    "close": 94,
+    "open": 98,
+    "high": 104,
+    "low": 92,
+    "volume": 54707700,
+    "market_cap": 101131118240
+  }
+]

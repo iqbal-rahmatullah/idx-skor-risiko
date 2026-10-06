@@ -1,0 +1,206 @@
+{
+  "results": [
+    {
+      "symbol": "LPIN.JK",
+      "company_name": "Multi Prima Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 33041284491.0,
+        "operating_cash_flow[2025]": -622271884.0,
+        "total_assets[2025]": 379570000366.0,
+        "total_assets[2024]": 372240835173.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0895532620273167
+      }
+    },
+    {
+      "symbol": "PART.JK",
+      "company_name": "PT Cipta Perdana Lancar Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 30207067392.0,
+        "operating_cash_flow[2025]": 15492543510.0,
+        "total_assets[2025]": 335713805109.0,
+        "total_assets[2024]": 300990279421.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0462209187580818
+      }
+    },
+    {
+      "symbol": "AUTO.JK",
+      "company_name": "Astra Otoparts Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 2205022000000.0,
+        "operating_cash_flow[2025]": 1944258000000.0,
+        "total_assets[2025]": 22615479000000.0,
+        "total_assets[2024]": 21030018000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0119491822947966
+      }
+    },
+    {
+      "symbol": "ISAP.JK",
+      "company_name": "PT Isra Presisi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 1621028941.0,
+        "operating_cash_flow[2025]": 716945994.0,
+        "total_assets[2025]": 182068034021.0,
+        "total_assets[2024]": 177756677294.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00502512984000447
+      }
+    },
+    {
+      "symbol": "SMSM.JK",
+      "company_name": "Selamat Sempurna Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 1124703000000.0,
+        "operating_cash_flow[2025]": 1123930000000.0,
+        "total_assets[2025]": 5163198000000.0,
+        "total_assets[2024]": 4963939000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00015265913752327
+      }
+    },
+    {
+      "symbol": "INDS.JK",
+      "company_name": "Indospring Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 77237333131.0,
+        "operating_cash_flow[2025]": 99627804412.0,
+        "total_assets[2025]": 4461919696546.0,
+        "total_assets[2024]": 4255811894871.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0051367654638609
+      }
+    },
+    {
+      "symbol": "AEGS.JK",
+      "company_name": "PT Anugerah Spareparts Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 259416881.0,
+        "operating_cash_flow[2025]": 797101288.0,
+        "total_assets[2025]": 73434233435.0,
+        "total_assets[2024]": 75491493227.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00722083979781844
+      }
+    },
+    {
+      "symbol": "LMAX.JK",
+      "company_name": "PT Lupromax Pelumas Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 727087357.0,
+        "operating_cash_flow[2025]": 2457598766.0,
+        "total_assets[2025]": 70896604170.0,
+        "total_assets[2024]": 69794512388.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0246001517556597
+      }
+    },
+    {
+      "symbol": "GDYR.JK",
+      "company_name": "Goodyear Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 41957535343.0,
+        "operating_cash_flow[2025]": 101541943831.0,
+        "total_assets[2025]": 1698348613285.0,
+        "total_assets[2024]": 1972511284942.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0324634609546275
+      }
+    },
+    {
+      "symbol": "GJTL.JK",
+      "company_name": "Gajah Tunggal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 1243223000000.0,
+        "operating_cash_flow[2025]": 2018034000000.0,
+        "total_assets[2025]": 21670885000000.0,
+        "total_assets[2024]": 20563695000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0366908348561771
+      }
+    },
+    {
+      "symbol": "VKTR.JK",
+      "company_name": "PT VKTR Teknologi Mobilitas Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": -11368000000.0,
+        "operating_cash_flow[2025]": 60863000000.0,
+        "total_assets[2025]": 1798212000000.0,
+        "total_assets[2024]": 1608602000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0424038412428738
+      }
+    },
+    {
+      "symbol": "TYRE.JK",
+      "company_name": "PT King Tire Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 23460027639.0,
+        "operating_cash_flow[2025]": 54299177063.0,
+        "total_assets[2025]": 607178917866.0,
+        "total_assets[2024]": 562340688114.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0527381486660214
+      }
+    },
+    {
+      "symbol": "BOLT.JK",
+      "company_name": "PT Garuda Metalindo Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 142381210051.0,
+        "operating_cash_flow[2025]": 238885314105.0,
+        "total_assets[2025]": 1618061936923.0,
+        "total_assets[2024]": 1404114374772.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0638639801923901
+      }
+    },
+    {
+      "symbol": "DRMA.JK",
+      "company_name": "PT Dharma Polimetal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 652584272073.0,
+        "operating_cash_flow[2025]": 924029458371.0,
+        "total_assets[2025]": 4286878723108.0,
+        "total_assets[2024]": 3841488703178.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0667895955146379
+      }
+    },
+    {
+      "symbol": "BRAM.JK",
+      "company_name": "Indo Kordsa Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": -38840771343.0,
+        "operating_cash_flow[2025]": 425499692066.0,
+        "total_assets[2025]": 4521269664520.0,
+        "total_assets[2024]": 4729869008820.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.100385580587423
+      }
+    },
+    {
+      "symbol": "KAQI.JK",
+      "company_name": "PT Jantra Grupo Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "earnings[2025]": 9395021568.0,
+        "operating_cash_flow[2025]": 11720045751.0,
+        "total_assets[2025]": 137904346711.0,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 16,
+    "showing": 16,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

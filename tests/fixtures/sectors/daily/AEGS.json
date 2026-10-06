@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-06-24",
+    "close": 39,
+    "open": 40,
+    "high": 41,
+    "low": 38,
+    "volume": 1475500,
+    "market_cap": 39237148119
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-06-25",
+    "close": 39,
+    "open": 39,
+    "high": 40,
+    "low": 36,
+    "volume": 2797000,
+    "market_cap": 39237148119
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-06-26",
+    "close": 39,
+    "open": 39,
+    "high": 40,
+    "low": 38,
+    "volume": 544200,
+    "market_cap": 39237148119
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-06-29",
+    "close": 38,
+    "open": 38,
+    "high": 39,
+    "low": 37,
+    "volume": 1245800,
+    "market_cap": 38231067398
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-06-30",
+    "close": 37,
+    "open": 37,
+    "high": 39,
+    "low": 36,
+    "volume": 1583300,
+    "market_cap": 37224986677
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-01",
+    "close": 37,
+    "open": 37,
+    "high": 38,
+    "low": 36,
+    "volume": 1058900,
+    "market_cap": 37224986677
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-02",
+    "close": 36,
+    "open": 37,
+    "high": 37,
+    "low": 35,
+    "volume": 1140600,
+    "market_cap": 36218905956
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-03",
+    "close": 37,
+    "open": 36,
+    "high": 38,
+    "low": 36,
+    "volume": 801100,
+    "market_cap": 37224986677
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-06",
+    "close": 38,
+    "open": 35,
+    "high": 39,
+    "low": 35,
+    "volume": 825900,
+    "market_cap": 38231067398
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-07",
+    "close": 39,
+    "open": 38,
+    "high": 39,
+    "low": 37,
+    "volume": 772100,
+    "market_cap": 39237148119
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-08",
+    "close": 37,
+    "open": 39,
+    "high": 39,
+    "low": 37,
+    "volume": 1700300,
+    "market_cap": 37224986677
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-09",
+    "close": 37,
+    "open": 36,
+    "high": 39,
+    "low": 35,
+    "volume": 2274600,
+    "market_cap": 37224986677
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-10",
+    "close": 40,
+    "open": 39,
+    "high": 40,
+    "low": 37,
+    "volume": 4577900,
+    "market_cap": 40243228840
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-13",
+    "close": 40,
+    "open": 40,
+    "high": 43,
+    "low": 39,
+    "volume": 4185800,
+    "market_cap": 40243228840
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-14",
+    "close": 39,
+    "open": 40,
+    "high": 41,
+    "low": 39,
+    "volume": 2586500,
+    "market_cap": 39237148119
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-15",
+    "close": 41,
+    "open": 39,
+    "high": 42,
+    "low": 39,
+    "volume": 6557200,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-16",
+    "close": 41,
+    "open": 43,
+    "high": 43,
+    "low": 40,
+    "volume": 1257300,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-17",
+    "close": 41,
+    "open": 42,
+    "high": 42,
+    "low": 40,
+    "volume": 1901500,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-20",
+    "close": 41,
+    "open": 40,
+    "high": 42,
+    "low": 40,
+    "volume": 2256200,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-21",
+    "close": 45,
+    "open": 41,
+    "high": 45,
+    "low": 41,
+    "volume": 7873000,
+    "market_cap": 45273632445
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-22",
+    "close": 45,
+    "open": 47,
+    "high": 49,
+    "low": 43,
+    "volume": 9034500,
+    "market_cap": 45273632445
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-23",
+    "close": 44,
+    "open": 45,
+    "high": 46,
+    "low": 44,
+    "volume": 2802400,
+    "market_cap": 44267551724
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-24",
+    "close": 43,
+    "open": 45,
+    "high": 45,
+    "low": 42,
+    "volume": 1507000,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-27",
+    "close": 43,
+    "open": 41,
+    "high": 43,
+    "low": 41,
+    "volume": 647000,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-28",
+    "close": 41,
+    "open": 43,
+    "high": 44,
+    "low": 40,
+    "volume": 1619400,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-29",
+    "close": 41,
+    "open": 42,
+    "high": 43,
+    "low": 40,
+    "volume": 1399600,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-30",
+    "close": 44,
+    "open": 42,
+    "high": 44,
+    "low": 40,
+    "volume": 2013900,
+    "market_cap": 44267551724
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-07-31",
+    "close": 44,
+    "open": 44,
+    "high": 44,
+    "low": 42,
+    "volume": 739100,
+    "market_cap": 44267551724
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-03",
+    "close": 43,
+    "open": 44,
+    "high": 44,
+    "low": 42,
+    "volume": 583200,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-04",
+    "close": 43,
+    "open": 43,
+    "high": 43,
+    "low": 42,
+    "volume": 594900,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-05",
+    "close": 42,
+    "open": 42,
+    "high": 44,
+    "low": 42,
+    "volume": 1206900,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-06",
+    "close": 43,
+    "open": 43,
+    "high": 44,
+    "low": 42,
+    "volume": 1560500,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-07",
+    "close": 42,
+    "open": 43,
+    "high": 43,
+    "low": 42,
+    "volume": 635600,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-10",
+    "close": 42,
+    "open": 42,
+    "high": 43,
+    "low": 41,
+    "volume": 1991600,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-11",
+    "close": 41,
+    "open": 42,
+    "high": 42,
+    "low": 40,
+    "volume": 2979400,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-12",
+    "close": 42,
+    "open": 41,
+    "high": 42,
+    "low": 41,
+    "volume": 494600,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-13",
+    "close": 41,
+    "open": 42,
+    "high": 43,
+    "low": 41,
+    "volume": 828800,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-14",
+    "close": 41,
+    "open": 41,
+    "high": 42,
+    "low": 41,
+    "volume": 570200,
+    "market_cap": 41249309561
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-18",
+    "close": 42,
+    "open": 40,
+    "high": 42,
+    "low": 40,
+    "volume": 1323900,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-19",
+    "close": 42,
+    "open": 42,
+    "high": 42,
+    "low": 41,
+    "volume": 287200,
+    "market_cap": 42255390282
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-20",
+    "close": 43,
+    "open": 42,
+    "high": 43,
+    "low": 40,
+    "volume": 8652900,
+    "market_cap": 43261471003
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-21",
+    "close": 40,
+    "open": 43,
+    "high": 47,
+    "low": 39,
+    "volume": 45336000,
+    "market_cap": 40243228840
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-24",
+    "close": 44,
+    "open": 41,
+    "high": 44,
+    "low": 40,
+    "volume": 18045000,
+    "market_cap": 44267551724
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-26",
+    "close": 48,
+    "open": 48,
+    "high": 48,
+    "low": 44,
+    "volume": 21174500,
+    "market_cap": 48291874608
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-27",
+    "close": 47,
+    "open": 48,
+    "high": 52,
+    "low": 44,
+    "volume": 38527100,
+    "market_cap": 47285793887
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-28",
+    "close": 46,
+    "open": 47,
+    "high": 51,
+    "low": 43,
+    "volume": 13418800,
+    "market_cap": 46279713166
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-08-31",
+    "close": 46,
+    "open": 46,
+    "high": 46,
+    "low": 44,
+    "volume": 5735000,
+    "market_cap": 46279713166
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-01",
+    "close": 47,
+    "open": 45,
+    "high": 48,
+    "low": 44,
+    "volume": 8363500,
+    "market_cap": 47285793887
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-02",
+    "close": 46,
+    "open": 47,
+    "high": 51,
+    "low": 46,
+    "volume": 3249100,
+    "market_cap": 46279713166
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-03",
+    "close": 47,
+    "open": 46,
+    "high": 48,
+    "low": 45,
+    "volume": 2824100,
+    "market_cap": 47285793887
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-04",
+    "close": 46,
+    "open": 47,
+    "high": 51,
+    "low": 46,
+    "volume": 22479900,
+    "market_cap": 46279713166
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-07",
+    "close": 48,
+    "open": 47,
+    "high": 48,
+    "low": 46,
+    "volume": 5658400,
+    "market_cap": 48291874608
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-08",
+    "close": 49,
+    "open": 47,
+    "high": 51,
+    "low": 46,
+    "volume": 14186100,
+    "market_cap": 49297955329
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-09",
+    "close": 52,
+    "open": 49,
+    "high": 53,
+    "low": 49,
+    "volume": 17798300,
+    "market_cap": 52316197492
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-10",
+    "close": 49,
+    "open": 52,
+    "high": 54,
+    "low": 49,
+    "volume": 12385100,
+    "market_cap": 49297955329
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-11",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 48,
+    "volume": 1440200,
+    "market_cap": 50304036050
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-14",
+    "close": 49,
+    "open": 50,
+    "high": 50,
+    "low": 48,
+    "volume": 2532600,
+    "market_cap": 49297955329
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-15",
+    "close": 51,
+    "open": 49,
+    "high": 52,
+    "low": 48,
+    "volume": 5236500,
+    "market_cap": 51310116771
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-16",
+    "close": 51,
+    "open": 51,
+    "high": 52,
+    "low": 49,
+    "volume": 1862500,
+    "market_cap": 51310116771
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-17",
+    "close": 50,
+    "open": 51,
+    "high": 51,
+    "low": 49,
+    "volume": 972700,
+    "market_cap": 50304036050
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-18",
+    "close": 50,
+    "open": 49,
+    "high": 51,
+    "low": 49,
+    "volume": 6545000,
+    "market_cap": 50304036050
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-21",
+    "close": 49,
+    "open": 50,
+    "high": 50,
+    "low": 48,
+    "volume": 2627400,
+    "market_cap": 49297955329
+  },
+  {
+    "symbol": "AEGS.JK",
+    "date": "2026-09-22",
+    "close": 49,
+    "open": 50,
+    "high": 52,
+    "low": 48,
+    "volume": 1311800,
+    "market_cap": 49297955329
+  }
+]

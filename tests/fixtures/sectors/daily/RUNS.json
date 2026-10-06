@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-06-24",
+    "close": 72,
+    "open": 76,
+    "high": 76,
+    "low": 71,
+    "volume": 345500,
+    "market_cap": 70816167000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-06-25",
+    "close": 71,
+    "open": 72,
+    "high": 72,
+    "low": 67,
+    "volume": 288800,
+    "market_cap": 69832609125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-06-26",
+    "close": 71,
+    "open": 71,
+    "high": 71,
+    "low": 66,
+    "volume": 525200,
+    "market_cap": 69832609125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-06-29",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 67,
+    "volume": 272300,
+    "market_cap": 67865493375
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-06-30",
+    "close": 68,
+    "open": 68,
+    "high": 68,
+    "low": 63,
+    "volume": 328800,
+    "market_cap": 66881935500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-01",
+    "close": 73,
+    "open": 65,
+    "high": 74,
+    "low": 65,
+    "volume": 548000,
+    "market_cap": 71799724875
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-02",
+    "close": 70,
+    "open": 73,
+    "high": 73,
+    "low": 68,
+    "volume": 348900,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-03",
+    "close": 70,
+    "open": 71,
+    "high": 71,
+    "low": 65,
+    "volume": 1410900,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-06",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 67,
+    "volume": 319900,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-07",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 68,
+    "volume": 230300,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-08",
+    "close": 70,
+    "open": 69,
+    "high": 71,
+    "low": 65,
+    "volume": 349300,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-09",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 64,
+    "volume": 318800,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-10",
+    "close": 69,
+    "open": 70,
+    "high": 71,
+    "low": 65,
+    "volume": 1993700,
+    "market_cap": 67865493375
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-13",
+    "close": 70,
+    "open": 68,
+    "high": 70,
+    "low": 65,
+    "volume": 769500,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-14",
+    "close": 70,
+    "open": 69,
+    "high": 70,
+    "low": 65,
+    "volume": 197700,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-15",
+    "close": 66,
+    "open": 70,
+    "high": 70,
+    "low": 63,
+    "volume": 7012200,
+    "market_cap": 64914819750
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-16",
+    "close": 67,
+    "open": 68,
+    "high": 69,
+    "low": 64,
+    "volume": 1337600,
+    "market_cap": 65898377625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-17",
+    "close": 67,
+    "open": 67,
+    "high": 67,
+    "low": 65,
+    "volume": 485100,
+    "market_cap": 65898377625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-20",
+    "close": 72,
+    "open": 67,
+    "high": 73,
+    "low": 65,
+    "volume": 3305200,
+    "market_cap": 70816167000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-21",
+    "close": 70,
+    "open": 74,
+    "high": 79,
+    "low": 68,
+    "volume": 3208800,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-22",
+    "close": 68,
+    "open": 70,
+    "high": 70,
+    "low": 66,
+    "volume": 1388800,
+    "market_cap": 66881935500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-23",
+    "close": 68,
+    "open": 67,
+    "high": 73,
+    "low": 66,
+    "volume": 2988800,
+    "market_cap": 66881935500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-24",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 65,
+    "volume": 1178900,
+    "market_cap": 65898377625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-27",
+    "close": 67,
+    "open": 67,
+    "high": 67,
+    "low": 64,
+    "volume": 636200,
+    "market_cap": 65898377625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-28",
+    "close": 66,
+    "open": 67,
+    "high": 67,
+    "low": 65,
+    "volume": 638800,
+    "market_cap": 64914819750
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-29",
+    "close": 64,
+    "open": 66,
+    "high": 67,
+    "low": 64,
+    "volume": 449700,
+    "market_cap": 62947704000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-30",
+    "close": 64,
+    "open": 64,
+    "high": 65,
+    "low": 63,
+    "volume": 806900,
+    "market_cap": 62947704000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-07-31",
+    "close": 64,
+    "open": 64,
+    "high": 66,
+    "low": 64,
+    "volume": 186100,
+    "market_cap": 62947704000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-03",
+    "close": 64,
+    "open": 64,
+    "high": 64,
+    "low": 62,
+    "volume": 591600,
+    "market_cap": 62947704000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-04",
+    "close": 62,
+    "open": 64,
+    "high": 65,
+    "low": 61,
+    "volume": 2056400,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-05",
+    "close": 63,
+    "open": 62,
+    "high": 66,
+    "low": 62,
+    "volume": 993800,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-06",
+    "close": 64,
+    "open": 63,
+    "high": 64,
+    "low": 62,
+    "volume": 397100,
+    "market_cap": 62947704000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-07",
+    "close": 62,
+    "open": 64,
+    "high": 64,
+    "low": 61,
+    "volume": 336100,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-10",
+    "close": 63,
+    "open": 63,
+    "high": 64,
+    "low": 62,
+    "volume": 723400,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-11",
+    "close": 61,
+    "open": 63,
+    "high": 63,
+    "low": 61,
+    "volume": 334800,
+    "market_cap": 59997030375
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-12",
+    "close": 63,
+    "open": 62,
+    "high": 63,
+    "low": 60,
+    "volume": 536300,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-13",
+    "close": 62,
+    "open": 63,
+    "high": 63,
+    "low": 61,
+    "volume": 398800,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-14",
+    "close": 63,
+    "open": 62,
+    "high": 63,
+    "low": 60,
+    "volume": 558900,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-18",
+    "close": 63,
+    "open": 62,
+    "high": 64,
+    "low": 61,
+    "volume": 488600,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-19",
+    "close": 63,
+    "open": 62,
+    "high": 64,
+    "low": 62,
+    "volume": 919200,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-20",
+    "close": 63,
+    "open": 63,
+    "high": 63,
+    "low": 59,
+    "volume": 1646600,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-21",
+    "close": 63,
+    "open": 63,
+    "high": 64,
+    "low": 62,
+    "volume": 893400,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-24",
+    "close": 62,
+    "open": 63,
+    "high": 63,
+    "low": 61,
+    "volume": 1005700,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-26",
+    "close": 62,
+    "open": 63,
+    "high": 63,
+    "low": 60,
+    "volume": 510800,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-27",
+    "close": 62,
+    "open": 63,
+    "high": 63,
+    "low": 59,
+    "volume": 2627100,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-28",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 60,
+    "volume": 998700,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-08-31",
+    "close": 62,
+    "open": 62,
+    "high": 62,
+    "low": 61,
+    "volume": 341200,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-01",
+    "close": 62,
+    "open": 60,
+    "high": 63,
+    "low": 59,
+    "volume": 735600,
+    "market_cap": 60980588250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-02",
+    "close": 63,
+    "open": 62,
+    "high": 63,
+    "low": 60,
+    "volume": 1077300,
+    "market_cap": 61964146125
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-03",
+    "close": 69,
+    "open": 62,
+    "high": 69,
+    "low": 62,
+    "volume": 10975200,
+    "market_cap": 67865493375
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-04",
+    "close": 75,
+    "open": 75,
+    "high": 75,
+    "low": 70,
+    "volume": 9552900,
+    "market_cap": 73766840625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-07",
+    "close": 76,
+    "open": 82,
+    "high": 82,
+    "low": 71,
+    "volume": 13239500,
+    "market_cap": 74750398500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-08",
+    "close": 77,
+    "open": 76,
+    "high": 83,
+    "low": 71,
+    "volume": 11678300,
+    "market_cap": 75733956375
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-09",
+    "close": 76,
+    "open": 77,
+    "high": 79,
+    "low": 73,
+    "volume": 4211100,
+    "market_cap": 74750398500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-10",
+    "close": 75,
+    "open": 76,
+    "high": 78,
+    "low": 72,
+    "volume": 2839800,
+    "market_cap": 73766840625
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-11",
+    "close": 70,
+    "open": 74,
+    "high": 74,
+    "low": 69,
+    "volume": 4305500,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-14",
+    "close": 72,
+    "open": 71,
+    "high": 73,
+    "low": 67,
+    "volume": 1067100,
+    "market_cap": 70816167000
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-15",
+    "close": 70,
+    "open": 72,
+    "high": 73,
+    "low": 68,
+    "volume": 1079900,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-16",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 695200,
+    "market_cap": 66881935500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-17",
+    "close": 70,
+    "open": 68,
+    "high": 72,
+    "low": 67,
+    "volume": 812900,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-18",
+    "close": 68,
+    "open": 70,
+    "high": 72,
+    "low": 66,
+    "volume": 1203000,
+    "market_cap": 66881935500
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-21",
+    "close": 70,
+    "open": 66,
+    "high": 71,
+    "low": 66,
+    "volume": 1458500,
+    "market_cap": 68849051250
+  },
+  {
+    "symbol": "RUNS.JK",
+    "date": "2026-09-22",
+    "close": 68,
+    "open": 70,
+    "high": 70,
+    "low": 65,
+    "volume": 1494000,
+    "market_cap": 66881935500
+  }
+]

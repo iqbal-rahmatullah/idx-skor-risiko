@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-06-24",
+    "close": 3510,
+    "open": 3200,
+    "high": 3520,
+    "low": 3170,
+    "volume": 417500,
+    "market_cap": 21317526937980
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-06-25",
+    "close": 3550,
+    "open": 3550,
+    "high": 3550,
+    "low": 3300,
+    "volume": 435000,
+    "market_cap": 21560461717900
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-06-26",
+    "close": 3780,
+    "open": 3400,
+    "high": 3780,
+    "low": 3350,
+    "volume": 466300,
+    "market_cap": 22957336702440
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-06-29",
+    "close": 4050,
+    "open": 3780,
+    "high": 4050,
+    "low": 3550,
+    "volume": 679500,
+    "market_cap": 24597146466900
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-06-30",
+    "close": 4400,
+    "open": 3890,
+    "high": 4400,
+    "low": 3810,
+    "volume": 2690100,
+    "market_cap": 26722825791200
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-01",
+    "close": 4190,
+    "open": 4300,
+    "high": 4300,
+    "low": 3910,
+    "volume": 235600,
+    "market_cap": 25447418196620
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-02",
+    "close": 3990,
+    "open": 4150,
+    "high": 4150,
+    "low": 3940,
+    "volume": 215500,
+    "market_cap": 24232744297020
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-03",
+    "close": 3970,
+    "open": 3990,
+    "high": 3990,
+    "low": 3880,
+    "volume": 165400,
+    "market_cap": 24111276907060
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-06",
+    "close": 3690,
+    "open": 3970,
+    "high": 3970,
+    "low": 3690,
+    "volume": 290000,
+    "market_cap": 22410733447620
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-07",
+    "close": 3770,
+    "open": 3700,
+    "high": 3770,
+    "low": 3600,
+    "volume": 139100,
+    "market_cap": 22896603007460
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-08",
+    "close": 3870,
+    "open": 3760,
+    "high": 3870,
+    "low": 3730,
+    "volume": 125000,
+    "market_cap": 23503939957260
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-09",
+    "close": 3800,
+    "open": 3860,
+    "high": 3860,
+    "low": 3700,
+    "volume": 191700,
+    "market_cap": 23078804092400
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-10",
+    "close": 3770,
+    "open": 3800,
+    "high": 3870,
+    "low": 3720,
+    "volume": 195600,
+    "market_cap": 22896603007460
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-13",
+    "close": 3750,
+    "open": 3770,
+    "high": 3770,
+    "low": 3650,
+    "volume": 269400,
+    "market_cap": 22775135617500
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-14",
+    "close": 3690,
+    "open": 3740,
+    "high": 3790,
+    "low": 3650,
+    "volume": 275200,
+    "market_cap": 22410733447620
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-15",
+    "close": 3900,
+    "open": 3730,
+    "high": 3900,
+    "low": 3700,
+    "volume": 136500,
+    "market_cap": 23686141042200
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-16",
+    "close": 3940,
+    "open": 3900,
+    "high": 3940,
+    "low": 3850,
+    "volume": 180400,
+    "market_cap": 23929075822120
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-17",
+    "close": 4250,
+    "open": 3990,
+    "high": 4250,
+    "low": 3900,
+    "volume": 170300,
+    "market_cap": 25811820366500
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-20",
+    "close": 4260,
+    "open": 4230,
+    "high": 4260,
+    "low": 3970,
+    "volume": 175300,
+    "market_cap": 25872554061480
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-21",
+    "close": 4260,
+    "open": 4160,
+    "high": 4270,
+    "low": 4160,
+    "volume": 203600,
+    "market_cap": 25872554061480
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-22",
+    "close": 4200,
+    "open": 4260,
+    "high": 4270,
+    "low": 4170,
+    "volume": 229700,
+    "market_cap": 25508151891600
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-23",
+    "close": 4240,
+    "open": 4200,
+    "high": 4240,
+    "low": 4110,
+    "volume": 157500,
+    "market_cap": 25751086671520
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-24",
+    "close": 4050,
+    "open": 4240,
+    "high": 4240,
+    "low": 4050,
+    "volume": 399600,
+    "market_cap": 24597146466900
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-27",
+    "close": 4140,
+    "open": 4000,
+    "high": 4140,
+    "low": 3950,
+    "volume": 176300,
+    "market_cap": 25143749721720
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-28",
+    "close": 4100,
+    "open": 4130,
+    "high": 4180,
+    "low": 4050,
+    "volume": 278300,
+    "market_cap": 24900814941800
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-29",
+    "close": 4040,
+    "open": 4100,
+    "high": 4140,
+    "low": 3960,
+    "volume": 514000,
+    "market_cap": 24536412771920
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-30",
+    "close": 4200,
+    "open": 4040,
+    "high": 4200,
+    "low": 4010,
+    "volume": 739800,
+    "market_cap": 25508151891600
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-07-31",
+    "close": 4400,
+    "open": 4200,
+    "high": 4400,
+    "low": 4140,
+    "volume": 3385300,
+    "market_cap": 26722825791200
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-03",
+    "close": 4280,
+    "open": 4400,
+    "high": 4400,
+    "low": 4230,
+    "volume": 194500,
+    "market_cap": 25994021451440
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-04",
+    "close": 4050,
+    "open": 4200,
+    "high": 4200,
+    "low": 4010,
+    "volume": 397900,
+    "market_cap": 24597146466900
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-05",
+    "close": 4030,
+    "open": 4050,
+    "high": 4060,
+    "low": 4010,
+    "volume": 255200,
+    "market_cap": 24475679076940
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-06",
+    "close": 4000,
+    "open": 4030,
+    "high": 4030,
+    "low": 3970,
+    "volume": 179800,
+    "market_cap": 24293477992000
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-07",
+    "close": 4000,
+    "open": 3990,
+    "high": 4090,
+    "low": 3990,
+    "volume": 169500,
+    "market_cap": 24293477992000
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-10",
+    "close": 4000,
+    "open": 4030,
+    "high": 4080,
+    "low": 3990,
+    "volume": 136500,
+    "market_cap": 24293477992000
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-11",
+    "close": 4040,
+    "open": 4020,
+    "high": 4060,
+    "low": 3990,
+    "volume": 170200,
+    "market_cap": 24536412771920
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-12",
+    "close": 4090,
+    "open": 4040,
+    "high": 4120,
+    "low": 4020,
+    "volume": 220900,
+    "market_cap": 24840081246820
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-13",
+    "close": 4060,
+    "open": 4090,
+    "high": 4090,
+    "low": 4000,
+    "volume": 243100,
+    "market_cap": 24657880161880
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-14",
+    "close": 4110,
+    "open": 4050,
+    "high": 4130,
+    "low": 4010,
+    "volume": 181500,
+    "market_cap": 24961548636780
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-18",
+    "close": 4150,
+    "open": 4020,
+    "high": 4150,
+    "low": 4020,
+    "volume": 235500,
+    "market_cap": 25204483416700
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-19",
+    "close": 4320,
+    "open": 4140,
+    "high": 4350,
+    "low": 4080,
+    "volume": 120400,
+    "market_cap": 26236956231360
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-20",
+    "close": 4140,
+    "open": 4260,
+    "high": 4260,
+    "low": 4090,
+    "volume": 541700,
+    "market_cap": 25143749721720
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-21",
+    "close": 4170,
+    "open": 4140,
+    "high": 4190,
+    "low": 4090,
+    "volume": 223600,
+    "market_cap": 25325950806660
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-24",
+    "close": 4150,
+    "open": 4160,
+    "high": 4220,
+    "low": 4110,
+    "volume": 356900,
+    "market_cap": 25204483416700
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-26",
+    "close": 4160,
+    "open": 4150,
+    "high": 4170,
+    "low": 4090,
+    "volume": 201200,
+    "market_cap": 25265217111680
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-27",
+    "close": 4150,
+    "open": 4150,
+    "high": 4210,
+    "low": 4120,
+    "volume": 388500,
+    "market_cap": 25204483416700
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-28",
+    "close": 4100,
+    "open": 4160,
+    "high": 4180,
+    "low": 4100,
+    "volume": 566000,
+    "market_cap": 24900814941800
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-08-31",
+    "close": 4380,
+    "open": 4130,
+    "high": 4380,
+    "low": 4120,
+    "volume": 3192900,
+    "market_cap": 26601358401240
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-01",
+    "close": 4160,
+    "open": 4200,
+    "high": 4290,
+    "low": 4110,
+    "volume": 332200,
+    "market_cap": 25265217111680
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-02",
+    "close": 4260,
+    "open": 4170,
+    "high": 4270,
+    "low": 4140,
+    "volume": 121100,
+    "market_cap": 25872554061480
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-03",
+    "close": 4190,
+    "open": 4270,
+    "high": 4270,
+    "low": 4170,
+    "volume": 276400,
+    "market_cap": 25447418196620
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-04",
+    "close": 4150,
+    "open": 4190,
+    "high": 4210,
+    "low": 4150,
+    "volume": 222300,
+    "market_cap": 25204483416700
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-07",
+    "close": 4180,
+    "open": 4160,
+    "high": 4200,
+    "low": 4150,
+    "volume": 185500,
+    "market_cap": 25386684501640
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-08",
+    "close": 4180,
+    "open": 4150,
+    "high": 4210,
+    "low": 4150,
+    "volume": 231500,
+    "market_cap": 25386684501640
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-09",
+    "close": 4180,
+    "open": 4180,
+    "high": 4200,
+    "low": 4160,
+    "volume": 144200,
+    "market_cap": 25386684501640
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-10",
+    "close": 4120,
+    "open": 4180,
+    "high": 4180,
+    "low": 4120,
+    "volume": 156600,
+    "market_cap": 25022282331760
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-11",
+    "close": 4130,
+    "open": 4150,
+    "high": 4170,
+    "low": 4070,
+    "volume": 270700,
+    "market_cap": 25083016026740
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-14",
+    "close": 4080,
+    "open": 4140,
+    "high": 4150,
+    "low": 4060,
+    "volume": 360700,
+    "market_cap": 24779347551840
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-15",
+    "close": 4060,
+    "open": 4080,
+    "high": 4100,
+    "low": 4030,
+    "volume": 216800,
+    "market_cap": 24657880161880
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-16",
+    "close": 4080,
+    "open": 4030,
+    "high": 4080,
+    "low": 4020,
+    "volume": 117100,
+    "market_cap": 24779347551840
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-17",
+    "close": 4080,
+    "open": 4080,
+    "high": 4090,
+    "low": 4030,
+    "volume": 293700,
+    "market_cap": 24779347551840
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-18",
+    "close": 4060,
+    "open": 4080,
+    "high": 4100,
+    "low": 4030,
+    "volume": 505500,
+    "market_cap": 24657880161880
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-21",
+    "close": 4050,
+    "open": 4110,
+    "high": 4130,
+    "low": 4020,
+    "volume": 364700,
+    "market_cap": 24597146466900
+  },
+  {
+    "symbol": "BINA.JK",
+    "date": "2026-09-22",
+    "close": 4020,
+    "open": 4070,
+    "high": 4070,
+    "low": 3970,
+    "volume": 470500,
+    "market_cap": 24414945381960
+  }
+]

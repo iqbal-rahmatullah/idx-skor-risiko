@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-06-24",
+    "close": 186,
+    "open": 190,
+    "high": 192,
+    "low": 185,
+    "volume": 1006300,
+    "market_cap": 4818549322272
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-06-25",
+    "close": 189,
+    "open": 186,
+    "high": 190,
+    "low": 186,
+    "volume": 244000,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-06-26",
+    "close": 189,
+    "open": 190,
+    "high": 192,
+    "low": 185,
+    "volume": 693600,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-06-29",
+    "close": 188,
+    "open": 189,
+    "high": 199,
+    "low": 186,
+    "volume": 747000,
+    "market_cap": 4870361680576
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-06-30",
+    "close": 185,
+    "open": 188,
+    "high": 188,
+    "low": 181,
+    "volume": 927000,
+    "market_cap": 4792643143120
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-01",
+    "close": 187,
+    "open": 189,
+    "high": 189,
+    "low": 185,
+    "volume": 588600,
+    "market_cap": 4844455501424
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-02",
+    "close": 189,
+    "open": 187,
+    "high": 189,
+    "low": 186,
+    "volume": 112100,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-03",
+    "close": 190,
+    "open": 189,
+    "high": 192,
+    "low": 188,
+    "volume": 402600,
+    "market_cap": 4922174038880
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-06",
+    "close": 189,
+    "open": 190,
+    "high": 190,
+    "low": 187,
+    "volume": 37300,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-07",
+    "close": 191,
+    "open": 189,
+    "high": 196,
+    "low": 188,
+    "volume": 77900,
+    "market_cap": 4948080218032
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-08",
+    "close": 189,
+    "open": 195,
+    "high": 195,
+    "low": 188,
+    "volume": 192700,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-09",
+    "close": 191,
+    "open": 192,
+    "high": 192,
+    "low": 187,
+    "volume": 391500,
+    "market_cap": 4948080218032
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-10",
+    "close": 189,
+    "open": 191,
+    "high": 194,
+    "low": 189,
+    "volume": 495200,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-13",
+    "close": 190,
+    "open": 191,
+    "high": 194,
+    "low": 184,
+    "volume": 583500,
+    "market_cap": 4922174038880
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-14",
+    "close": 191,
+    "open": 189,
+    "high": 191,
+    "low": 189,
+    "volume": 76300,
+    "market_cap": 4948080218032
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-15",
+    "close": 188,
+    "open": 191,
+    "high": 192,
+    "low": 187,
+    "volume": 983500,
+    "market_cap": 4870361680576
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-16",
+    "close": 189,
+    "open": 188,
+    "high": 190,
+    "low": 186,
+    "volume": 402500,
+    "market_cap": 4896267859728
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-17",
+    "close": 198,
+    "open": 189,
+    "high": 208,
+    "low": 189,
+    "volume": 4499800,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-20",
+    "close": 199,
+    "open": 199,
+    "high": 202,
+    "low": 196,
+    "volume": 2716800,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-21",
+    "close": 200,
+    "open": 200,
+    "high": 202,
+    "low": 194,
+    "volume": 1802900,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-22",
+    "close": 200,
+    "open": 200,
+    "high": 200,
+    "low": 196,
+    "volume": 1485100,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-23",
+    "close": 199,
+    "open": 200,
+    "high": 202,
+    "low": 196,
+    "volume": 428800,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-24",
+    "close": 200,
+    "open": 202,
+    "high": 202,
+    "low": 196,
+    "volume": 2323700,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-27",
+    "close": 200,
+    "open": 202,
+    "high": 202,
+    "low": 198,
+    "volume": 632300,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-28",
+    "close": 199,
+    "open": 200,
+    "high": 200,
+    "low": 198,
+    "volume": 67600,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-29",
+    "close": 196,
+    "open": 199,
+    "high": 199,
+    "low": 195,
+    "volume": 477800,
+    "market_cap": 5077611113792
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-30",
+    "close": 197,
+    "open": 196,
+    "high": 198,
+    "low": 196,
+    "volume": 189400,
+    "market_cap": 5103517292944
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-07-31",
+    "close": 196,
+    "open": 196,
+    "high": 197,
+    "low": 195,
+    "volume": 454200,
+    "market_cap": 5077611113792
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-03",
+    "close": 199,
+    "open": 196,
+    "high": 208,
+    "low": 196,
+    "volume": 1244800,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-04",
+    "close": 202,
+    "open": 200,
+    "high": 206,
+    "low": 198,
+    "volume": 1199300,
+    "market_cap": 5233048188704
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-05",
+    "close": 204,
+    "open": 204,
+    "high": 204,
+    "low": 200,
+    "volume": 463800,
+    "market_cap": 5284860547008
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-06",
+    "close": 206,
+    "open": 208,
+    "high": 208,
+    "low": 200,
+    "volume": 667100,
+    "market_cap": 5336672905312
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-07",
+    "close": 202,
+    "open": 202,
+    "high": 204,
+    "low": 200,
+    "volume": 250200,
+    "market_cap": 5233048188704
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-10",
+    "close": 202,
+    "open": 202,
+    "high": 208,
+    "low": 198,
+    "volume": 716700,
+    "market_cap": 5233048188704
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-11",
+    "close": 200,
+    "open": 202,
+    "high": 202,
+    "low": 198,
+    "volume": 467700,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-12",
+    "close": 199,
+    "open": 200,
+    "high": 200,
+    "low": 197,
+    "volume": 703900,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-13",
+    "close": 198,
+    "open": 198,
+    "high": 200,
+    "low": 198,
+    "volume": 124200,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-14",
+    "close": 200,
+    "open": 198,
+    "high": 202,
+    "low": 196,
+    "volume": 1743500,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-18",
+    "close": 199,
+    "open": 200,
+    "high": 200,
+    "low": 198,
+    "volume": 627100,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-19",
+    "close": 198,
+    "open": 199,
+    "high": 200,
+    "low": 192,
+    "volume": 578900,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-20",
+    "close": 200,
+    "open": 198,
+    "high": 204,
+    "low": 198,
+    "volume": 1212000,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-21",
+    "close": 202,
+    "open": 200,
+    "high": 202,
+    "low": 199,
+    "volume": 964600,
+    "market_cap": 5233048188704
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-24",
+    "close": 199,
+    "open": 202,
+    "high": 202,
+    "low": 199,
+    "volume": 271400,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-26",
+    "close": 198,
+    "open": 200,
+    "high": 202,
+    "low": 197,
+    "volume": 647100,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-27",
+    "close": 198,
+    "open": 196,
+    "high": 204,
+    "low": 195,
+    "volume": 1148800,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-28",
+    "close": 202,
+    "open": 198,
+    "high": 202,
+    "low": 198,
+    "volume": 1292300,
+    "market_cap": 5233048188704
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-08-31",
+    "close": 197,
+    "open": 202,
+    "high": 202,
+    "low": 196,
+    "volume": 1709700,
+    "market_cap": 5103517292944
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-01",
+    "close": 200,
+    "open": 198,
+    "high": 200,
+    "low": 198,
+    "volume": 781800,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-02",
+    "close": 200,
+    "open": 200,
+    "high": 202,
+    "low": 199,
+    "volume": 1132900,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-03",
+    "close": 198,
+    "open": 202,
+    "high": 202,
+    "low": 195,
+    "volume": 2773200,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-04",
+    "close": 200,
+    "open": 198,
+    "high": 200,
+    "low": 198,
+    "volume": 936200,
+    "market_cap": 5181235830400
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-07",
+    "close": 198,
+    "open": 202,
+    "high": 202,
+    "low": 197,
+    "volume": 590700,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-08",
+    "close": 198,
+    "open": 199,
+    "high": 200,
+    "low": 196,
+    "volume": 1324000,
+    "market_cap": 5129423472096
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-09",
+    "close": 199,
+    "open": 198,
+    "high": 199,
+    "low": 197,
+    "volume": 368100,
+    "market_cap": 5155329651248
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-10",
+    "close": 196,
+    "open": 198,
+    "high": 198,
+    "low": 195,
+    "volume": 1145800,
+    "market_cap": 5077611113792
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-11",
+    "close": 197,
+    "open": 197,
+    "high": 197,
+    "low": 193,
+    "volume": 476300,
+    "market_cap": 5103517292944
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-14",
+    "close": 197,
+    "open": 196,
+    "high": 197,
+    "low": 194,
+    "volume": 614800,
+    "market_cap": 5103517292944
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-15",
+    "close": 197,
+    "open": 197,
+    "high": 199,
+    "low": 196,
+    "volume": 77300,
+    "market_cap": 5103517292944
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-16",
+    "close": 195,
+    "open": 198,
+    "high": 198,
+    "low": 195,
+    "volume": 737400,
+    "market_cap": 5051704934640
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-17",
+    "close": 195,
+    "open": 196,
+    "high": 197,
+    "low": 194,
+    "volume": 668100,
+    "market_cap": 5051704934640
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-18",
+    "close": 193,
+    "open": 195,
+    "high": 197,
+    "low": 193,
+    "volume": 719700,
+    "market_cap": 4999892576336
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-21",
+    "close": 210,
+    "open": 195,
+    "high": 222,
+    "low": 192,
+    "volume": 13776900,
+    "market_cap": 5440297621920
+  },
+  {
+    "symbol": "MAYA.JK",
+    "date": "2026-09-22",
+    "close": 210,
+    "open": 210,
+    "high": 212,
+    "low": 199,
+    "volume": 5545800,
+    "market_cap": 5440297621920
+  }
+]

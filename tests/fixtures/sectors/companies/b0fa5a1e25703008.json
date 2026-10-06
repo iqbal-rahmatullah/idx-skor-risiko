@@ -1,0 +1,142 @@
+{
+  "results": [
+    {
+      "symbol": "GJTL.JK",
+      "company_name": "Gajah Tunggal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 1.07217976568018
+      }
+    },
+    {
+      "symbol": "PART.JK",
+      "company_name": "PT Cipta Perdana Lancar Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.816098331293671
+      }
+    },
+    {
+      "symbol": "TYRE.JK",
+      "company_name": "PT King Tire Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.750893605704712
+      }
+    },
+    {
+      "symbol": "GDYR.JK",
+      "company_name": "Goodyear Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.698373506894065
+      }
+    },
+    {
+      "symbol": "BOLT.JK",
+      "company_name": "PT Garuda Metalindo Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.537326241961158
+      }
+    },
+    {
+      "symbol": "DRMA.JK",
+      "company_name": "PT Dharma Polimetal Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.460280093317739
+      }
+    },
+    {
+      "symbol": "VKTR.JK",
+      "company_name": "PT VKTR Teknologi Mobilitas Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.444128918685371
+      }
+    },
+    {
+      "symbol": "LMAX.JK",
+      "company_name": "PT Lupromax Pelumas Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.383873051951366
+      }
+    },
+    {
+      "symbol": "AUTO.JK",
+      "company_name": "Astra Otoparts Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.333115406149189
+      }
+    },
+    {
+      "symbol": "INDS.JK",
+      "company_name": "Indospring Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.250761847502072
+      }
+    },
+    {
+      "symbol": "BRAM.JK",
+      "company_name": "Indo Kordsa Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.210328160250659
+      }
+    },
+    {
+      "symbol": "SMSM.JK",
+      "company_name": "Selamat Sempurna Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.198851765562533
+      }
+    },
+    {
+      "symbol": "KAQI.JK",
+      "company_name": "PT Jantra Grupo Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.150815786689428
+      }
+    },
+    {
+      "symbol": "LPIN.JK",
+      "company_name": "Multi Prima Sejahtera Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.0688220399685372
+      }
+    },
+    {
+      "symbol": "AEGS.JK",
+      "company_name": "PT Anugerah Spareparts Sejahtera Tbk.",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.0604064888340084
+      }
+    },
+    {
+      "symbol": "ISAP.JK",
+      "company_name": "PT Isra Presisi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Automobiles & Components",
+        "debt_to_equity_ratio[2025]": 0.0542138913165953
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 16,
+    "showing": 16,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

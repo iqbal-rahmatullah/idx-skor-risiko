@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-06-24",
+    "close": 110,
+    "open": 110,
+    "high": 111,
+    "low": 107,
+    "volume": 3856500,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-06-25",
+    "close": 111,
+    "open": 110,
+    "high": 114,
+    "low": 110,
+    "volume": 4673600,
+    "market_cap": 2634172871652
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-06-26",
+    "close": 109,
+    "open": 113,
+    "high": 115,
+    "low": 108,
+    "volume": 1881600,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-06-29",
+    "close": 108,
+    "open": 109,
+    "high": 112,
+    "low": 108,
+    "volume": 2057700,
+    "market_cap": 2562979010256
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-06-30",
+    "close": 104,
+    "open": 108,
+    "high": 108,
+    "low": 103,
+    "volume": 1439100,
+    "market_cap": 2468053861728
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-01",
+    "close": 101,
+    "open": 104,
+    "high": 105,
+    "low": 100,
+    "volume": 3157400,
+    "market_cap": 2396860000332
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-02",
+    "close": 112,
+    "open": 101,
+    "high": 117,
+    "low": 100,
+    "volume": 11432800,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-03",
+    "close": 110,
+    "open": 110,
+    "high": 113,
+    "low": 109,
+    "volume": 3109800,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-06",
+    "close": 109,
+    "open": 112,
+    "high": 112,
+    "low": 108,
+    "volume": 1748000,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-07",
+    "close": 109,
+    "open": 111,
+    "high": 112,
+    "low": 107,
+    "volume": 3217300,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-08",
+    "close": 109,
+    "open": 109,
+    "high": 110,
+    "low": 107,
+    "volume": 3195600,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-09",
+    "close": 108,
+    "open": 109,
+    "high": 112,
+    "low": 108,
+    "volume": 7415800,
+    "market_cap": 2562979010256
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-10",
+    "close": 109,
+    "open": 108,
+    "high": 110,
+    "low": 107,
+    "volume": 1264900,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-13",
+    "close": 110,
+    "open": 109,
+    "high": 110,
+    "low": 108,
+    "volume": 543600,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-14",
+    "close": 109,
+    "open": 109,
+    "high": 110,
+    "low": 107,
+    "volume": 2528400,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-15",
+    "close": 107,
+    "open": 109,
+    "high": 109,
+    "low": 106,
+    "volume": 3910300,
+    "market_cap": 2539247723124
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-16",
+    "close": 108,
+    "open": 107,
+    "high": 109,
+    "low": 106,
+    "volume": 4588100,
+    "market_cap": 2562979010256
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-17",
+    "close": 113,
+    "open": 108,
+    "high": 116,
+    "low": 106,
+    "volume": 17637300,
+    "market_cap": 2681635445916
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-20",
+    "close": 113,
+    "open": 114,
+    "high": 115,
+    "low": 112,
+    "volume": 2954000,
+    "market_cap": 2681635445916
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-21",
+    "close": 116,
+    "open": 113,
+    "high": 116,
+    "low": 109,
+    "volume": 6997100,
+    "market_cap": 2752829307312
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-22",
+    "close": 114,
+    "open": 116,
+    "high": 116,
+    "low": 113,
+    "volume": 4601700,
+    "market_cap": 2705366733048
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-23",
+    "close": 113,
+    "open": 114,
+    "high": 116,
+    "low": 112,
+    "volume": 3110700,
+    "market_cap": 2681635445916
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-24",
+    "close": 109,
+    "open": 112,
+    "high": 113,
+    "low": 109,
+    "volume": 2282000,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-27",
+    "close": 109,
+    "open": 109,
+    "high": 111,
+    "low": 107,
+    "volume": 1116000,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-28",
+    "close": 108,
+    "open": 110,
+    "high": 110,
+    "low": 108,
+    "volume": 1566900,
+    "market_cap": 2562979010256
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-29",
+    "close": 105,
+    "open": 108,
+    "high": 109,
+    "low": 105,
+    "volume": 2319400,
+    "market_cap": 2491785148860
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-30",
+    "close": 112,
+    "open": 106,
+    "high": 114,
+    "low": 105,
+    "volume": 5695900,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-07-31",
+    "close": 114,
+    "open": 113,
+    "high": 115,
+    "low": 111,
+    "volume": 4082700,
+    "market_cap": 2705366733048
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-03",
+    "close": 115,
+    "open": 116,
+    "high": 117,
+    "low": 114,
+    "volume": 5033500,
+    "market_cap": 2729098020180
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-04",
+    "close": 112,
+    "open": 114,
+    "high": 116,
+    "low": 112,
+    "volume": 2863000,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-05",
+    "close": 112,
+    "open": 112,
+    "high": 115,
+    "low": 110,
+    "volume": 3048000,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-06",
+    "close": 109,
+    "open": 112,
+    "high": 114,
+    "low": 109,
+    "volume": 4829500,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-07",
+    "close": 114,
+    "open": 110,
+    "high": 115,
+    "low": 109,
+    "volume": 6319800,
+    "market_cap": 2705366733048
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-10",
+    "close": 112,
+    "open": 115,
+    "high": 116,
+    "low": 110,
+    "volume": 5077500,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-11",
+    "close": 110,
+    "open": 112,
+    "high": 112,
+    "low": 110,
+    "volume": 1421200,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-12",
+    "close": 110,
+    "open": 110,
+    "high": 111,
+    "low": 110,
+    "volume": 771300,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-13",
+    "close": 110,
+    "open": 110,
+    "high": 111,
+    "low": 110,
+    "volume": 1003100,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-14",
+    "close": 111,
+    "open": 110,
+    "high": 111,
+    "low": 109,
+    "volume": 1068300,
+    "market_cap": 2634172871652
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-18",
+    "close": 109,
+    "open": 111,
+    "high": 111,
+    "low": 108,
+    "volume": 4265000,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-19",
+    "close": 109,
+    "open": 110,
+    "high": 111,
+    "low": 108,
+    "volume": 1924700,
+    "market_cap": 2586710297388
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-20",
+    "close": 112,
+    "open": 109,
+    "high": 113,
+    "low": 108,
+    "volume": 9846100,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-21",
+    "close": 111,
+    "open": 112,
+    "high": 112,
+    "low": 110,
+    "volume": 4144200,
+    "market_cap": 2634172871652
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-24",
+    "close": 110,
+    "open": 111,
+    "high": 113,
+    "low": 109,
+    "volume": 3002200,
+    "market_cap": 2610441584520
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-26",
+    "close": 108,
+    "open": 110,
+    "high": 112,
+    "low": 108,
+    "volume": 2197400,
+    "market_cap": 2562979010256
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-27",
+    "close": 112,
+    "open": 109,
+    "high": 114,
+    "low": 108,
+    "volume": 13754700,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-28",
+    "close": 118,
+    "open": 113,
+    "high": 129,
+    "low": 111,
+    "volume": 71233900,
+    "market_cap": 2800291881576
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-08-31",
+    "close": 116,
+    "open": 118,
+    "high": 119,
+    "low": 114,
+    "volume": 10625100,
+    "market_cap": 2752829307312
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-01",
+    "close": 123,
+    "open": 117,
+    "high": 128,
+    "low": 115,
+    "volume": 31267700,
+    "market_cap": 2918948317236
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-02",
+    "close": 125,
+    "open": 128,
+    "high": 135,
+    "low": 122,
+    "volume": 75153500,
+    "market_cap": 2966410891500
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-03",
+    "close": 123,
+    "open": 124,
+    "high": 126,
+    "low": 120,
+    "volume": 18276800,
+    "market_cap": 2918948317236
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-04",
+    "close": 124,
+    "open": 126,
+    "high": 127,
+    "low": 122,
+    "volume": 12537000,
+    "market_cap": 2942679604368
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-07",
+    "close": 123,
+    "open": 123,
+    "high": 125,
+    "low": 121,
+    "volume": 4120000,
+    "market_cap": 2918948317236
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-08",
+    "close": 120,
+    "open": 124,
+    "high": 124,
+    "low": 120,
+    "volume": 10602200,
+    "market_cap": 2847754455840
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-09",
+    "close": 121,
+    "open": 120,
+    "high": 122,
+    "low": 118,
+    "volume": 3935000,
+    "market_cap": 2871485742972
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-10",
+    "close": 121,
+    "open": 121,
+    "high": 126,
+    "low": 120,
+    "volume": 13799500,
+    "market_cap": 2871485742972
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-11",
+    "close": 120,
+    "open": 121,
+    "high": 122,
+    "low": 119,
+    "volume": 4488700,
+    "market_cap": 2847754455840
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-14",
+    "close": 119,
+    "open": 120,
+    "high": 120,
+    "low": 115,
+    "volume": 8524700,
+    "market_cap": 2824023168708
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-15",
+    "close": 123,
+    "open": 119,
+    "high": 124,
+    "low": 117,
+    "volume": 6800800,
+    "market_cap": 2918948317236
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-16",
+    "close": 120,
+    "open": 123,
+    "high": 125,
+    "low": 117,
+    "volume": 10790500,
+    "market_cap": 2847754455840
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-17",
+    "close": 118,
+    "open": 118,
+    "high": 121,
+    "low": 117,
+    "volume": 3958000,
+    "market_cap": 2800291881576
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-18",
+    "close": 116,
+    "open": 118,
+    "high": 119,
+    "low": 115,
+    "volume": 4206700,
+    "market_cap": 2752829307312
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-21",
+    "close": 112,
+    "open": 117,
+    "high": 117,
+    "low": 112,
+    "volume": 6235700,
+    "market_cap": 2657904158784
+  },
+  {
+    "symbol": "BGTG.JK",
+    "date": "2026-09-22",
+    "close": 112,
+    "open": 112,
+    "high": 117,
+    "low": 111,
+    "volume": 10467500,
+    "market_cap": 2657904158784
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-06-24",
+    "close": 3400,
+    "open": 3360,
+    "high": 3400,
+    "low": 3360,
+    "volume": 9200,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-06-25",
+    "close": 3370,
+    "open": 3390,
+    "high": 3400,
+    "low": 3260,
+    "volume": 10700,
+    "market_cap": 4676674475210
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-06-26",
+    "close": 3370,
+    "open": 3390,
+    "high": 3400,
+    "low": 3360,
+    "volume": 8800,
+    "market_cap": 4676674475210
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-06-29",
+    "close": 3370,
+    "open": 3370,
+    "high": 3370,
+    "low": 3360,
+    "volume": 11100,
+    "market_cap": 4676674475210
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-06-30",
+    "close": 3370,
+    "open": 3370,
+    "high": 3370,
+    "low": 3370,
+    "volume": 6500,
+    "market_cap": 4676674475210
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-01",
+    "close": 3390,
+    "open": 3400,
+    "high": 3500,
+    "low": 3380,
+    "volume": 7600,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-02",
+    "close": 3380,
+    "open": 3290,
+    "high": 3380,
+    "low": 3260,
+    "volume": 11000,
+    "market_cap": 4690551847540
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-03",
+    "close": 3390,
+    "open": 3300,
+    "high": 3390,
+    "low": 3250,
+    "volume": 9200,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-06",
+    "close": 3380,
+    "open": 3390,
+    "high": 3390,
+    "low": 3370,
+    "volume": 10200,
+    "market_cap": 4690551847540
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-07",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3390,
+    "volume": 10700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-08",
+    "close": 3380,
+    "open": 3400,
+    "high": 3400,
+    "low": 3380,
+    "volume": 11200,
+    "market_cap": 4690551847540
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-09",
+    "close": 3390,
+    "open": 3370,
+    "high": 3390,
+    "low": 3370,
+    "volume": 10100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-10",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10500,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-13",
+    "close": 3390,
+    "open": 3250,
+    "high": 3390,
+    "low": 3250,
+    "volume": 11000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-14",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 9000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-15",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 9700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-16",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10800,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-17",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3390,
+    "volume": 8800,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-20",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-21",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 9500,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-22",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 11300,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-23",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3390,
+    "volume": 10500,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-24",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3380,
+    "volume": 9200,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-27",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 11000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-28",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-29",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3390,
+    "volume": 10100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-30",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-07-31",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-03",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 7600,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-04",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10500,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-05",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 9500,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-06",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-07",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 10700,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-10",
+    "close": 3400,
+    "open": 3300,
+    "high": 3400,
+    "low": 3300,
+    "volume": 12900,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-11",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3100,
+    "volume": 10000,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-12",
+    "close": 3300,
+    "open": 3370,
+    "high": 3400,
+    "low": 3300,
+    "volume": 10100,
+    "market_cap": 4579532868900
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-13",
+    "close": 3390,
+    "open": 3300,
+    "high": 3390,
+    "low": 3170,
+    "volume": 8100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-14",
+    "close": 3390,
+    "open": 3360,
+    "high": 3390,
+    "low": 3360,
+    "volume": 10100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-18",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3390,
+    "volume": 10600,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-19",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 8000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-20",
+    "close": 3380,
+    "open": 3380,
+    "high": 3380,
+    "low": 3380,
+    "volume": 5000,
+    "market_cap": 4690551847540
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-21",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 11700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-24",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3370,
+    "volume": 14000,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-26",
+    "close": 3390,
+    "open": 3390,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-27",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 11100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-28",
+    "close": 3390,
+    "open": 3380,
+    "high": 3390,
+    "low": 3380,
+    "volume": 10600,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-08-31",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 11100,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-01",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 10000,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-02",
+    "close": 3390,
+    "open": 3400,
+    "high": 3400,
+    "low": 3390,
+    "volume": 8700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-03",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 10700,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-04",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 11600,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-07",
+    "close": 3400,
+    "open": 3390,
+    "high": 3400,
+    "low": 3390,
+    "volume": 10500,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-08",
+    "close": 3400,
+    "open": 3300,
+    "high": 3400,
+    "low": 3300,
+    "volume": 11200,
+    "market_cap": 4718306592200
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-09",
+    "close": 3390,
+    "open": 3300,
+    "high": 3390,
+    "low": 3300,
+    "volume": 10100,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-10",
+    "close": 3390,
+    "open": 3310,
+    "high": 3390,
+    "low": 3300,
+    "volume": 13700,
+    "market_cap": 4704429219870
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-11",
+    "close": 3360,
+    "open": 3230,
+    "high": 3360,
+    "low": 3230,
+    "volume": 10000,
+    "market_cap": 4662797102880
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-14",
+    "close": 3340,
+    "open": 3330,
+    "high": 3340,
+    "low": 3330,
+    "volume": 8400,
+    "market_cap": 4635042358220
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-15",
+    "close": 3190,
+    "open": 3230,
+    "high": 3270,
+    "low": 3100,
+    "volume": 7800,
+    "market_cap": 4426881773270
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-16",
+    "close": 3290,
+    "open": 3300,
+    "high": 3300,
+    "low": 3130,
+    "volume": 9700,
+    "market_cap": 4565655496570
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-17",
+    "close": 3300,
+    "open": 3280,
+    "high": 3300,
+    "low": 3280,
+    "volume": 9900,
+    "market_cap": 4579532868900
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-18",
+    "close": 3240,
+    "open": 3170,
+    "high": 3240,
+    "low": 3150,
+    "volume": 8000,
+    "market_cap": 4496268634920
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-21",
+    "close": 3250,
+    "open": 3240,
+    "high": 3250,
+    "low": 3150,
+    "volume": 4100,
+    "market_cap": 4510146007250
+  },
+  {
+    "symbol": "MASB.JK",
+    "date": "2026-09-22",
+    "close": 3290,
+    "open": 3200,
+    "high": 3290,
+    "low": 3150,
+    "volume": 4000,
+    "market_cap": 4565655496570
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-06-24",
+    "close": 432,
+    "open": 428,
+    "high": 432,
+    "low": 428,
+    "volume": 6900,
+    "market_cap": 699840000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-06-25",
+    "close": 428,
+    "open": 438,
+    "high": 438,
+    "low": 428,
+    "volume": 88100,
+    "market_cap": 693360000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-06-26",
+    "close": 438,
+    "open": 428,
+    "high": 438,
+    "low": 428,
+    "volume": 1800,
+    "market_cap": 709560000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-06-29",
+    "close": 438,
+    "open": 438,
+    "high": 438,
+    "low": 432,
+    "volume": 3600,
+    "market_cap": 709560000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-06-30",
+    "close": 426,
+    "open": 438,
+    "high": 438,
+    "low": 426,
+    "volume": 32800,
+    "market_cap": 690120000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-01",
+    "close": 436,
+    "open": 432,
+    "high": 436,
+    "low": 432,
+    "volume": 5300,
+    "market_cap": 706320000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-02",
+    "close": 438,
+    "open": 428,
+    "high": 442,
+    "low": 428,
+    "volume": 300,
+    "market_cap": 709560000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-03",
+    "close": 432,
+    "open": 438,
+    "high": 438,
+    "low": 432,
+    "volume": 1000,
+    "market_cap": 699840000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-06",
+    "close": 432,
+    "open": 432,
+    "high": 432,
+    "low": 432,
+    "volume": 1200,
+    "market_cap": 699840000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-07",
+    "close": 434,
+    "open": 432,
+    "high": 434,
+    "low": 432,
+    "volume": 600,
+    "market_cap": 703080000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-08",
+    "close": 440,
+    "open": 440,
+    "high": 442,
+    "low": 424,
+    "volume": 7200,
+    "market_cap": 712800000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-09",
+    "close": 440,
+    "open": 434,
+    "high": 440,
+    "low": 434,
+    "volume": 800,
+    "market_cap": 712800000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-10",
+    "close": 440,
+    "open": 440,
+    "high": 440,
+    "low": 440,
+    "volume": 10200,
+    "market_cap": 712800000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-13",
+    "close": 442,
+    "open": 442,
+    "high": 442,
+    "low": 442,
+    "volume": 3600,
+    "market_cap": 716040000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-14",
+    "close": 444,
+    "open": 444,
+    "high": 444,
+    "low": 440,
+    "volume": 4300,
+    "market_cap": 719280000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-15",
+    "close": 444,
+    "open": 442,
+    "high": 444,
+    "low": 432,
+    "volume": 3700,
+    "market_cap": 719280000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-16",
+    "close": 444,
+    "open": 444,
+    "high": 444,
+    "low": 442,
+    "volume": 3000,
+    "market_cap": 719280000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-17",
+    "close": 442,
+    "open": 442,
+    "high": 442,
+    "low": 442,
+    "volume": 1000,
+    "market_cap": 716040000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-20",
+    "close": 444,
+    "open": 444,
+    "high": 448,
+    "low": 444,
+    "volume": 3700,
+    "market_cap": 719280000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-21",
+    "close": 446,
+    "open": 446,
+    "high": 446,
+    "low": 438,
+    "volume": 24300,
+    "market_cap": 722520000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-22",
+    "close": 452,
+    "open": 448,
+    "high": 452,
+    "low": 448,
+    "volume": 11700,
+    "market_cap": 732240000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-23",
+    "close": 442,
+    "open": 452,
+    "high": 452,
+    "low": 426,
+    "volume": 13300,
+    "market_cap": 716040000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-24",
+    "close": 446,
+    "open": 448,
+    "high": 448,
+    "low": 430,
+    "volume": 2200,
+    "market_cap": 722520000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-27",
+    "close": 446,
+    "open": 438,
+    "high": 446,
+    "low": 438,
+    "volume": 4400,
+    "market_cap": 722520000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-28",
+    "close": 450,
+    "open": 454,
+    "high": 454,
+    "low": 440,
+    "volume": 1700,
+    "market_cap": 729000000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-29",
+    "close": 450,
+    "open": 442,
+    "high": 452,
+    "low": 430,
+    "volume": 17100,
+    "market_cap": 729000000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-30",
+    "close": 452,
+    "open": 454,
+    "high": 470,
+    "low": 450,
+    "volume": 15700,
+    "market_cap": 732240000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-07-31",
+    "close": 458,
+    "open": 452,
+    "high": 458,
+    "low": 452,
+    "volume": 14300,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-03",
+    "close": 454,
+    "open": 462,
+    "high": 462,
+    "low": 454,
+    "volume": 11400,
+    "market_cap": 735480000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-04",
+    "close": 454,
+    "open": 468,
+    "high": 468,
+    "low": 428,
+    "volume": 32900,
+    "market_cap": 735480000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-05",
+    "close": 458,
+    "open": 454,
+    "high": 458,
+    "low": 452,
+    "volume": 4400,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-06",
+    "close": 458,
+    "open": 452,
+    "high": 458,
+    "low": 450,
+    "volume": 33300,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-07",
+    "close": 458,
+    "open": 460,
+    "high": 460,
+    "low": 458,
+    "volume": 5800,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-10",
+    "close": 460,
+    "open": 458,
+    "high": 460,
+    "low": 454,
+    "volume": 11600,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-11",
+    "close": 458,
+    "open": 462,
+    "high": 462,
+    "low": 440,
+    "volume": 10100,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-12",
+    "close": 458,
+    "open": 442,
+    "high": 458,
+    "low": 442,
+    "volume": 18100,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-13",
+    "close": 460,
+    "open": 458,
+    "high": 468,
+    "low": 458,
+    "volume": 24800,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-14",
+    "close": 452,
+    "open": 468,
+    "high": 468,
+    "low": 450,
+    "volume": 41200,
+    "market_cap": 732240000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-18",
+    "close": 462,
+    "open": 458,
+    "high": 462,
+    "low": 450,
+    "volume": 7700,
+    "market_cap": 748440000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-19",
+    "close": 460,
+    "open": 452,
+    "high": 462,
+    "low": 450,
+    "volume": 2200,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-20",
+    "close": 462,
+    "open": 468,
+    "high": 468,
+    "low": 452,
+    "volume": 6000,
+    "market_cap": 748440000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-21",
+    "close": 454,
+    "open": 462,
+    "high": 462,
+    "low": 452,
+    "volume": 3000,
+    "market_cap": 735480000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-24",
+    "close": 460,
+    "open": 454,
+    "high": 466,
+    "low": 452,
+    "volume": 6000,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-26",
+    "close": 460,
+    "open": 460,
+    "high": 464,
+    "low": 448,
+    "volume": 12600,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-27",
+    "close": 464,
+    "open": 460,
+    "high": 466,
+    "low": 454,
+    "volume": 4500,
+    "market_cap": 751680000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-28",
+    "close": 464,
+    "open": 464,
+    "high": 464,
+    "low": 454,
+    "volume": 900,
+    "market_cap": 751680000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-08-31",
+    "close": 464,
+    "open": 460,
+    "high": 464,
+    "low": 452,
+    "volume": 22200,
+    "market_cap": 751680000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-01",
+    "close": 462,
+    "open": 464,
+    "high": 466,
+    "low": 460,
+    "volume": 9700,
+    "market_cap": 748440000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-02",
+    "close": 460,
+    "open": 466,
+    "high": 468,
+    "low": 456,
+    "volume": 19500,
+    "market_cap": 745200000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-03",
+    "close": 466,
+    "open": 466,
+    "high": 468,
+    "low": 464,
+    "volume": 32000,
+    "market_cap": 754920000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-04",
+    "close": 466,
+    "open": 466,
+    "high": 468,
+    "low": 464,
+    "volume": 20800,
+    "market_cap": 754920000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-07",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 466,
+    "volume": 7400,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-08",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 464,
+    "volume": 14900,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-09",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 468,
+    "volume": 6800,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-10",
+    "close": 468,
+    "open": 452,
+    "high": 468,
+    "low": 452,
+    "volume": 9400,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-11",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 468,
+    "volume": 4400,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-14",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 466,
+    "volume": 19200,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-15",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 466,
+    "volume": 5800,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-16",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 466,
+    "volume": 8600,
+    "market_cap": 758160000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-17",
+    "close": 450,
+    "open": 468,
+    "high": 468,
+    "low": 444,
+    "volume": 54900,
+    "market_cap": 729000000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-18",
+    "close": 446,
+    "open": 450,
+    "high": 458,
+    "low": 444,
+    "volume": 7700,
+    "market_cap": 722520000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-21",
+    "close": 458,
+    "open": 448,
+    "high": 460,
+    "low": 448,
+    "volume": 12400,
+    "market_cap": 741960000000
+  },
+  {
+    "symbol": "KDSI.JK",
+    "date": "2026-09-22",
+    "close": 464,
+    "open": 454,
+    "high": 468,
+    "low": 454,
+    "volume": 19100,
+    "market_cap": 751680000000
+  }
+]

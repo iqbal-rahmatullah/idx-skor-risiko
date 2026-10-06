@@ -1,0 +1,113 @@
+{
+  "results": [
+    {
+      "title": "Yuliot, Ir buys shares of Bank Mandiri",
+      "body": "This is Yuliot, Ir's 3rd insider purchase in the last 6 months, totaling an accumulation of 146,900 shares transacted at an average price of IDR 4,208. Yuliot, Ir's ownership in Bank Mandiri has decreased from 0.0% to 0.0% in this period.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-3898-00.pdf-0.pdf",
+      "timestamp": "2026-09-08T17:58:46",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BMRI.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Yuliot, Ir",
+      "holding_before": 165600,
+      "holding_after": 188400,
+      "amount_transaction": 22800,
+      "price": 4380.0,
+      "transaction_value": 99864000.0,
+      "price_transaction": [
+        {
+          "date": "2026-09-07",
+          "type": "buy",
+          "price": 4380,
+          "amount_transacted": 22800
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Yuliot, Ir buys shares of Bank Mandiri",
+      "body": "Yuliot, Ir bought 22,400 shares of Bank Mandiri. This increases their holdings from 143,200 to 165,600 shares. The stated purpose of the transaction was investment.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-7905-00.pdf-0.pdf",
+      "timestamp": "2026-09-08T17:53:21",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BMRI.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Yuliot, Ir",
+      "holding_before": 143200,
+      "holding_after": 165600,
+      "amount_transaction": 22400,
+      "price": 4430.0,
+      "transaction_value": 99232000.0,
+      "price_transaction": [
+        {
+          "date": "2026-09-04",
+          "type": "buy",
+          "price": 4430,
+          "amount_transacted": 22400
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Yuliot, Ir buys shares of Bank Mandiri",
+      "body": "Yuliot, Ir bought 101,700 shares of Bank Mandiri. This increases their holdings from 0 to 101,700 shares. The stated purpose of the transaction was investment.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30072026-5491-00.pdf-0.pdf",
+      "timestamp": "2026-07-30T15:01:42",
+      "sector": "financials",
+      "sub_sector": "banks",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BMRI.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Yuliot, Ir",
+      "holding_before": 0,
+      "holding_after": 101700,
+      "amount_transaction": 101700,
+      "price": 4120.0,
+      "transaction_value": 419004000.0,
+      "price_transaction": [
+        {
+          "date": "2026-07-28",
+          "type": "buy",
+          "price": 4120,
+          "amount_transacted": 101700
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 0.0,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    }
+  ],
+  "pagination": {
+    "total_count": 3,
+    "showing": 3,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

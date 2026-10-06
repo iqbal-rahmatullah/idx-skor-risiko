@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-06-24",
+    "close": 350,
+    "open": 352,
+    "high": 360,
+    "low": 340,
+    "volume": 18400,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-06-25",
+    "close": 344,
+    "open": 338,
+    "high": 344,
+    "low": 330,
+    "volume": 6700,
+    "market_cap": 247680000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-06-26",
+    "close": 356,
+    "open": 338,
+    "high": 356,
+    "low": 336,
+    "volume": 19300,
+    "market_cap": 256320000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-06-29",
+    "close": 352,
+    "open": 356,
+    "high": 356,
+    "low": 340,
+    "volume": 10000,
+    "market_cap": 253440000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-06-30",
+    "close": 350,
+    "open": 340,
+    "high": 350,
+    "low": 340,
+    "volume": 5300,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-01",
+    "close": 352,
+    "open": 350,
+    "high": 352,
+    "low": 342,
+    "volume": 700,
+    "market_cap": 253440000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-02",
+    "close": 350,
+    "open": 342,
+    "high": 350,
+    "low": 324,
+    "volume": 3600,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-03",
+    "close": 346,
+    "open": 330,
+    "high": 348,
+    "low": 330,
+    "volume": 15900,
+    "market_cap": 249120000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-06",
+    "close": 344,
+    "open": 346,
+    "high": 346,
+    "low": 342,
+    "volume": 1000,
+    "market_cap": 247680000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-07",
+    "close": 350,
+    "open": 324,
+    "high": 380,
+    "low": 324,
+    "volume": 94700,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-08",
+    "close": 352,
+    "open": 348,
+    "high": 362,
+    "low": 340,
+    "volume": 16100,
+    "market_cap": 253440000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-09",
+    "close": 350,
+    "open": 352,
+    "high": 352,
+    "low": 346,
+    "volume": 700,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-10",
+    "close": 350,
+    "open": 350,
+    "high": 358,
+    "low": 342,
+    "volume": 3400,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-13",
+    "close": 346,
+    "open": 364,
+    "high": 364,
+    "low": 336,
+    "volume": 9000,
+    "market_cap": 249120000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-14",
+    "close": 352,
+    "open": 346,
+    "high": 352,
+    "low": 346,
+    "volume": 1500,
+    "market_cap": 253440000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-15",
+    "close": 350,
+    "open": 348,
+    "high": 350,
+    "low": 346,
+    "volume": 1900,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-16",
+    "close": 350,
+    "open": 350,
+    "high": 350,
+    "low": 350,
+    "volume": 1200,
+    "market_cap": 252000000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-17",
+    "close": 342,
+    "open": 350,
+    "high": 350,
+    "low": 336,
+    "volume": 5100,
+    "market_cap": 246240000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-20",
+    "close": 346,
+    "open": 336,
+    "high": 362,
+    "low": 336,
+    "volume": 12500,
+    "market_cap": 249120000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-21",
+    "close": 336,
+    "open": 346,
+    "high": 346,
+    "low": 308,
+    "volume": 85700,
+    "market_cap": 241920000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-22",
+    "close": 374,
+    "open": 340,
+    "high": 374,
+    "low": 334,
+    "volume": 41100,
+    "market_cap": 269280000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-23",
+    "close": 364,
+    "open": 370,
+    "high": 370,
+    "low": 348,
+    "volume": 60300,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-24",
+    "close": 366,
+    "open": 364,
+    "high": 380,
+    "low": 348,
+    "volume": 48200,
+    "market_cap": 263520000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-27",
+    "close": 366,
+    "open": 364,
+    "high": 370,
+    "low": 336,
+    "volume": 54700,
+    "market_cap": 263520000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-28",
+    "close": 360,
+    "open": 360,
+    "high": 362,
+    "low": 346,
+    "volume": 5100,
+    "market_cap": 259200000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-29",
+    "close": 356,
+    "open": 354,
+    "high": 356,
+    "low": 340,
+    "volume": 4500,
+    "market_cap": 256320000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-30",
+    "close": 354,
+    "open": 354,
+    "high": 354,
+    "low": 350,
+    "volume": 2700,
+    "market_cap": 254880000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-07-31",
+    "close": 360,
+    "open": 354,
+    "high": 360,
+    "low": 354,
+    "volume": 8400,
+    "market_cap": 259200000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-03",
+    "close": 356,
+    "open": 360,
+    "high": 360,
+    "low": 346,
+    "volume": 2600,
+    "market_cap": 256320000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-04",
+    "close": 370,
+    "open": 352,
+    "high": 374,
+    "low": 348,
+    "volume": 22500,
+    "market_cap": 266400000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-05",
+    "close": 362,
+    "open": 368,
+    "high": 372,
+    "low": 356,
+    "volume": 87800,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-06",
+    "close": 362,
+    "open": 364,
+    "high": 364,
+    "low": 356,
+    "volume": 6900,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-07",
+    "close": 368,
+    "open": 358,
+    "high": 368,
+    "low": 358,
+    "volume": 55600,
+    "market_cap": 264960000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-10",
+    "close": 368,
+    "open": 368,
+    "high": 368,
+    "low": 368,
+    "volume": 5600,
+    "market_cap": 264960000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-11",
+    "close": 364,
+    "open": 360,
+    "high": 364,
+    "low": 352,
+    "volume": 6000,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-12",
+    "close": 364,
+    "open": 362,
+    "high": 364,
+    "low": 358,
+    "volume": 2100,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-13",
+    "close": 370,
+    "open": 358,
+    "high": 370,
+    "low": 342,
+    "volume": 78900,
+    "market_cap": 266400000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-14",
+    "close": 362,
+    "open": 368,
+    "high": 368,
+    "low": 356,
+    "volume": 14600,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-18",
+    "close": 362,
+    "open": 360,
+    "high": 362,
+    "low": 358,
+    "volume": 1200,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-19",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 354,
+    "volume": 6900,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-20",
+    "close": 364,
+    "open": 372,
+    "high": 372,
+    "low": 364,
+    "volume": 3900,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-21",
+    "close": 364,
+    "open": 364,
+    "high": 370,
+    "low": 356,
+    "volume": 44500,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-24",
+    "close": 368,
+    "open": 370,
+    "high": 370,
+    "low": 358,
+    "volume": 1300,
+    "market_cap": 264960000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-26",
+    "close": 360,
+    "open": 356,
+    "high": 360,
+    "low": 354,
+    "volume": 25000,
+    "market_cap": 259200000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-27",
+    "close": 360,
+    "open": 366,
+    "high": 366,
+    "low": 350,
+    "volume": 6800,
+    "market_cap": 259200000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-28",
+    "close": 360,
+    "open": 352,
+    "high": 366,
+    "low": 352,
+    "volume": 2700,
+    "market_cap": 259200000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-08-31",
+    "close": 362,
+    "open": 362,
+    "high": 368,
+    "low": 358,
+    "volume": 214400,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-01",
+    "close": 366,
+    "open": 366,
+    "high": 366,
+    "low": 350,
+    "volume": 23600,
+    "market_cap": 263520000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-02",
+    "close": 364,
+    "open": 364,
+    "high": 368,
+    "low": 350,
+    "volume": 23200,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-03",
+    "close": 364,
+    "open": 364,
+    "high": 366,
+    "low": 364,
+    "volume": 24300,
+    "market_cap": 262080000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-04",
+    "close": 368,
+    "open": 354,
+    "high": 370,
+    "low": 354,
+    "volume": 11200,
+    "market_cap": 264960000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-07",
+    "close": 362,
+    "open": 370,
+    "high": 370,
+    "low": 360,
+    "volume": 14200,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-08",
+    "close": 362,
+    "open": 366,
+    "high": 366,
+    "low": 356,
+    "volume": 6400,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-09",
+    "close": 362,
+    "open": 364,
+    "high": 364,
+    "low": 360,
+    "volume": 5500,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-10",
+    "close": 366,
+    "open": 364,
+    "high": 366,
+    "low": 364,
+    "volume": 1800,
+    "market_cap": 263520000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-11",
+    "close": 358,
+    "open": 354,
+    "high": 368,
+    "low": 350,
+    "volume": 30300,
+    "market_cap": 257760000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-14",
+    "close": 362,
+    "open": 366,
+    "high": 434,
+    "low": 350,
+    "volume": 926700,
+    "market_cap": 260640000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-15",
+    "close": 366,
+    "open": 362,
+    "high": 378,
+    "low": 362,
+    "volume": 98500,
+    "market_cap": 263520000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-16",
+    "close": 384,
+    "open": 366,
+    "high": 386,
+    "low": 366,
+    "volume": 236600,
+    "market_cap": 276480000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-17",
+    "close": 378,
+    "open": 388,
+    "high": 388,
+    "low": 370,
+    "volume": 66200,
+    "market_cap": 272160000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-18",
+    "close": 370,
+    "open": 374,
+    "high": 374,
+    "low": 370,
+    "volume": 18900,
+    "market_cap": 266400000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-21",
+    "close": 374,
+    "open": 368,
+    "high": 380,
+    "low": 360,
+    "volume": 13900,
+    "market_cap": 269280000000
+  },
+  {
+    "symbol": "BTON.JK",
+    "date": "2026-09-22",
+    "close": 358,
+    "open": 372,
+    "high": 376,
+    "low": 350,
+    "volume": 40800,
+    "market_cap": 257760000000
+  }
+]

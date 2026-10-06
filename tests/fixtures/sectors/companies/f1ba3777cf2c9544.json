@@ -1,0 +1,302 @@
+{
+  "results": [
+    {
+      "symbol": "ATIC.JK",
+      "company_name": "PT Anabatic Technologies Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 5.4960886310809
+      }
+    },
+    {
+      "symbol": "MLPT.JK",
+      "company_name": "PT Multipolar Technology Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 3.92087548280302
+      }
+    },
+    {
+      "symbol": "CASH.JK",
+      "company_name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 3.37865022250784
+      }
+    },
+    {
+      "symbol": "EDGE.JK",
+      "company_name": "PT Indointernet Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 1.98161784398971
+      }
+    },
+    {
+      "symbol": "JATI.JK",
+      "company_name": "PT Informasi Teknologi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 1.1879576727427
+      }
+    },
+    {
+      "symbol": "UVCR.JK",
+      "company_name": "PT Trimegah Karya Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 1.09449417327793
+      }
+    },
+    {
+      "symbol": "BELI.JK",
+      "company_name": "PT Global Digital Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.882816905222188
+      }
+    },
+    {
+      "symbol": "ELIT.JK",
+      "company_name": "PT Data Sinergitama Jaya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.877221338739883
+      }
+    },
+    {
+      "symbol": "WIRG.JK",
+      "company_name": "PT Wir Asia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.845635463529126
+      }
+    },
+    {
+      "symbol": "NFCX.JK",
+      "company_name": "PT NFC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.833438263726205
+      }
+    },
+    {
+      "symbol": "WIFI.JK",
+      "company_name": "PT Solusi Sinergi Digital Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.780906367431929
+      }
+    },
+    {
+      "symbol": "MCAS.JK",
+      "company_name": "PT M Cash Integrasi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.688097450717355
+      }
+    },
+    {
+      "symbol": "DCII.JK",
+      "company_name": "PT DCI Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.659806992074717
+      }
+    },
+    {
+      "symbol": "CYBR.JK",
+      "company_name": "PT ITSEC Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.625469852641459
+      }
+    },
+    {
+      "symbol": "GOTO.JK",
+      "company_name": "PT GoTo Gojek Tokopedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.593695619866175
+      }
+    },
+    {
+      "symbol": "TRON.JK",
+      "company_name": "PT Teknologi Karya Digital Nusa Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.368184450880783
+      }
+    },
+    {
+      "symbol": "DMMX.JK",
+      "company_name": "PT Digital Mediatama Maxima Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.257414006862398
+      }
+    },
+    {
+      "symbol": "TFAS.JK",
+      "company_name": "PT Telefast Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.252374838425185
+      }
+    },
+    {
+      "symbol": "AWAN.JK",
+      "company_name": "PT Era Digital Media Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.226542089254768
+      }
+    },
+    {
+      "symbol": "TOSK.JK",
+      "company_name": "PT Topindo Solusi Komunika Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.205228452423543
+      }
+    },
+    {
+      "symbol": "AREA.JK",
+      "company_name": "PT Dunia Virtual Online Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.170268924430023
+      }
+    },
+    {
+      "symbol": "WGSH.JK",
+      "company_name": "PT Wira Global Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.16126350997288
+      }
+    },
+    {
+      "symbol": "IRSX.JK",
+      "company_name": "PT Folago Global Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.142289015496141
+      }
+    },
+    {
+      "symbol": "EMTK.JK",
+      "company_name": "Elang Mahkota Teknologi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.138198023355037
+      }
+    },
+    {
+      "symbol": "MPIX.JK",
+      "company_name": "PT Mitra Pedagang Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.0930863890418924
+      }
+    },
+    {
+      "symbol": "KIOS.JK",
+      "company_name": "PT Kioson Komersial Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.0869755346533568
+      }
+    },
+    {
+      "symbol": "DIVA.JK",
+      "company_name": "PT Distribusi Voucher Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.0480800247955737
+      }
+    },
+    {
+      "symbol": "BUKA.JK",
+      "company_name": "PT Bukalapak.com Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": 0.028336535540831
+      }
+    },
+    {
+      "symbol": "PGJO.JK",
+      "company_name": "PT Bahtera Bumi Raya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": -16.1947748107336
+      }
+    },
+    {
+      "symbol": "HDIT.JK",
+      "company_name": "PT Hensel Davest Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "KREN.JK",
+      "company_name": "PT Quantum Clovera Investama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "RUNS.JK",
+      "company_name": "PT Global Sukses Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "TECH.JK",
+      "company_name": "PT Indosterling Technomedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "LMAS.JK",
+      "company_name": "Limas Indonesia Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "SKYB.JK",
+      "company_name": "PT Northcliff Citranusa Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    },
+    {
+      "symbol": "ENVY.JK",
+      "company_name": "PT Envy Technologies Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "debt_to_equity_ratio[2025]": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 36,
+    "showing": 36,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

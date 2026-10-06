@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-06-24",
+    "close": 250,
+    "open": 258,
+    "high": 258,
+    "low": 244,
+    "volume": 37600,
+    "market_cap": 340667850000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-06-25",
+    "close": 248,
+    "open": 250,
+    "high": 250,
+    "low": 242,
+    "volume": 55400,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-06-26",
+    "close": 244,
+    "open": 242,
+    "high": 252,
+    "low": 242,
+    "volume": 29300,
+    "market_cap": 332491821600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-06-29",
+    "close": 246,
+    "open": 248,
+    "high": 258,
+    "low": 242,
+    "volume": 110900,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-06-30",
+    "close": 238,
+    "open": 246,
+    "high": 248,
+    "low": 218,
+    "volume": 67300,
+    "market_cap": 324315793200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-01",
+    "close": 242,
+    "open": 240,
+    "high": 254,
+    "low": 238,
+    "volume": 51200,
+    "market_cap": 329766478800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-02",
+    "close": 242,
+    "open": 242,
+    "high": 250,
+    "low": 240,
+    "volume": 20400,
+    "market_cap": 329766478800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-03",
+    "close": 242,
+    "open": 248,
+    "high": 248,
+    "low": 240,
+    "volume": 229500,
+    "market_cap": 329766478800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-06",
+    "close": 248,
+    "open": 246,
+    "high": 258,
+    "low": 242,
+    "volume": 272900,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-07",
+    "close": 250,
+    "open": 248,
+    "high": 256,
+    "low": 246,
+    "volume": 123400,
+    "market_cap": 340667850000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-08",
+    "close": 246,
+    "open": 250,
+    "high": 258,
+    "low": 242,
+    "volume": 113600,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-09",
+    "close": 250,
+    "open": 244,
+    "high": 250,
+    "low": 244,
+    "volume": 5800,
+    "market_cap": 340667850000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-10",
+    "close": 246,
+    "open": 250,
+    "high": 250,
+    "low": 238,
+    "volume": 53700,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-13",
+    "close": 240,
+    "open": 246,
+    "high": 248,
+    "low": 238,
+    "volume": 39400,
+    "market_cap": 327041136000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-14",
+    "close": 244,
+    "open": 244,
+    "high": 244,
+    "low": 238,
+    "volume": 19500,
+    "market_cap": 332491821600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-15",
+    "close": 246,
+    "open": 244,
+    "high": 248,
+    "low": 242,
+    "volume": 90700,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-16",
+    "close": 246,
+    "open": 250,
+    "high": 250,
+    "low": 226,
+    "volume": 424600,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-17",
+    "close": 244,
+    "open": 246,
+    "high": 248,
+    "low": 238,
+    "volume": 68600,
+    "market_cap": 332491821600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-20",
+    "close": 246,
+    "open": 246,
+    "high": 248,
+    "low": 242,
+    "volume": 59200,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-21",
+    "close": 250,
+    "open": 248,
+    "high": 252,
+    "low": 242,
+    "volume": 458500,
+    "market_cap": 340667850000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-22",
+    "close": 248,
+    "open": 250,
+    "high": 250,
+    "low": 244,
+    "volume": 76800,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-23",
+    "close": 248,
+    "open": 250,
+    "high": 250,
+    "low": 244,
+    "volume": 31100,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-24",
+    "close": 238,
+    "open": 248,
+    "high": 250,
+    "low": 236,
+    "volume": 110600,
+    "market_cap": 324315793200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-27",
+    "close": 240,
+    "open": 244,
+    "high": 244,
+    "low": 240,
+    "volume": 57900,
+    "market_cap": 327041136000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-28",
+    "close": 246,
+    "open": 240,
+    "high": 294,
+    "low": 240,
+    "volume": 1406000,
+    "market_cap": 335217164400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-29",
+    "close": 242,
+    "open": 240,
+    "high": 254,
+    "low": 234,
+    "volume": 332300,
+    "market_cap": 329766478800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-30",
+    "close": 248,
+    "open": 254,
+    "high": 290,
+    "low": 242,
+    "volume": 909000,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-07-31",
+    "close": 248,
+    "open": 250,
+    "high": 250,
+    "low": 240,
+    "volume": 212500,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-03",
+    "close": 248,
+    "open": 248,
+    "high": 258,
+    "low": 248,
+    "volume": 394900,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-04",
+    "close": 248,
+    "open": 252,
+    "high": 252,
+    "low": 248,
+    "volume": 22800,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-05",
+    "close": 248,
+    "open": 250,
+    "high": 250,
+    "low": 248,
+    "volume": 30800,
+    "market_cap": 337942507200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-06",
+    "close": 266,
+    "open": 294,
+    "high": 296,
+    "low": 256,
+    "volume": 1161000,
+    "market_cap": 362470592400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-07",
+    "close": 258,
+    "open": 266,
+    "high": 268,
+    "low": 250,
+    "volume": 198100,
+    "market_cap": 351569221200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-10",
+    "close": 258,
+    "open": 258,
+    "high": 268,
+    "low": 258,
+    "volume": 135800,
+    "market_cap": 351569221200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-11",
+    "close": 260,
+    "open": 268,
+    "high": 268,
+    "low": 252,
+    "volume": 116900,
+    "market_cap": 354294564000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-12",
+    "close": 258,
+    "open": 260,
+    "high": 260,
+    "low": 256,
+    "volume": 21200,
+    "market_cap": 351569221200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-13",
+    "close": 256,
+    "open": 256,
+    "high": 258,
+    "low": 252,
+    "volume": 52900,
+    "market_cap": 348843878400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-14",
+    "close": 256,
+    "open": 256,
+    "high": 260,
+    "low": 252,
+    "volume": 46500,
+    "market_cap": 348843878400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-18",
+    "close": 256,
+    "open": 256,
+    "high": 258,
+    "low": 254,
+    "volume": 66400,
+    "market_cap": 348843878400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-19",
+    "close": 270,
+    "open": 266,
+    "high": 320,
+    "low": 266,
+    "volume": 5168300,
+    "market_cap": 367921278000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-20",
+    "close": 272,
+    "open": 272,
+    "high": 284,
+    "low": 260,
+    "volume": 644200,
+    "market_cap": 370646620800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-21",
+    "close": 270,
+    "open": 276,
+    "high": 280,
+    "low": 264,
+    "volume": 358200,
+    "market_cap": 367921278000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-24",
+    "close": 268,
+    "open": 270,
+    "high": 274,
+    "low": 262,
+    "volume": 291600,
+    "market_cap": 365195935200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-26",
+    "close": 270,
+    "open": 270,
+    "high": 270,
+    "low": 264,
+    "volume": 123600,
+    "market_cap": 367921278000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-27",
+    "close": 272,
+    "open": 270,
+    "high": 280,
+    "low": 264,
+    "volume": 301600,
+    "market_cap": 370646620800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-28",
+    "close": 270,
+    "open": 270,
+    "high": 278,
+    "low": 266,
+    "volume": 161400,
+    "market_cap": 367921278000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-08-31",
+    "close": 270,
+    "open": 270,
+    "high": 280,
+    "low": 262,
+    "volume": 176600,
+    "market_cap": 367921278000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-01",
+    "close": 274,
+    "open": 276,
+    "high": 278,
+    "low": 268,
+    "volume": 253500,
+    "market_cap": 373371963600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-02",
+    "close": 280,
+    "open": 274,
+    "high": 294,
+    "low": 272,
+    "volume": 177200,
+    "market_cap": 381547992000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-03",
+    "close": 278,
+    "open": 280,
+    "high": 282,
+    "low": 274,
+    "volume": 358200,
+    "market_cap": 378822649200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-04",
+    "close": 278,
+    "open": 278,
+    "high": 278,
+    "low": 276,
+    "volume": 99600,
+    "market_cap": 378822649200
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-07",
+    "close": 276,
+    "open": 278,
+    "high": 278,
+    "low": 274,
+    "volume": 283300,
+    "market_cap": 376097306400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-08",
+    "close": 272,
+    "open": 276,
+    "high": 276,
+    "low": 272,
+    "volume": 134100,
+    "market_cap": 370646620800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-09",
+    "close": 282,
+    "open": 272,
+    "high": 286,
+    "low": 270,
+    "volume": 780800,
+    "market_cap": 384273334800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-10",
+    "close": 280,
+    "open": 284,
+    "high": 288,
+    "low": 276,
+    "volume": 703700,
+    "market_cap": 381547992000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-11",
+    "close": 272,
+    "open": 290,
+    "high": 312,
+    "low": 270,
+    "volume": 1935500,
+    "market_cap": 370646620800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-14",
+    "close": 290,
+    "open": 280,
+    "high": 314,
+    "low": 276,
+    "volume": 780700,
+    "market_cap": 395174706000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-15",
+    "close": 290,
+    "open": 290,
+    "high": 308,
+    "low": 286,
+    "volume": 1090900,
+    "market_cap": 395174706000
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-16",
+    "close": 292,
+    "open": 300,
+    "high": 300,
+    "low": 290,
+    "volume": 314300,
+    "market_cap": 397900048800
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-17",
+    "close": 286,
+    "open": 300,
+    "high": 300,
+    "low": 278,
+    "volume": 508900,
+    "market_cap": 389724020400
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-18",
+    "close": 284,
+    "open": 290,
+    "high": 292,
+    "low": 284,
+    "volume": 155200,
+    "market_cap": 386998677600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-21",
+    "close": 284,
+    "open": 286,
+    "high": 296,
+    "low": 278,
+    "volume": 111800,
+    "market_cap": 386998677600
+  },
+  {
+    "symbol": "APLI.JK",
+    "date": "2026-09-22",
+    "close": 280,
+    "open": 284,
+    "high": 290,
+    "low": 278,
+    "volume": 72700,
+    "market_cap": 381547992000
+  }
+]

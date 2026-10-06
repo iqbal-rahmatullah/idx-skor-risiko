@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-06-24",
+    "close": 99,
+    "open": 97,
+    "high": 107,
+    "low": 97,
+    "volume": 766721400,
+    "market_cap": 10213541985933
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-06-25",
+    "close": 104,
+    "open": 100,
+    "high": 107,
+    "low": 99,
+    "volume": 364310100,
+    "market_cap": 10729377439768
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-06-26",
+    "close": 98,
+    "open": 104,
+    "high": 105,
+    "low": 97,
+    "volume": 282244200,
+    "market_cap": 10110374895166
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-06-29",
+    "close": 99,
+    "open": 98,
+    "high": 101,
+    "low": 95,
+    "volume": 170085100,
+    "market_cap": 10213541985933
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-06-30",
+    "close": 97,
+    "open": 99,
+    "high": 100,
+    "low": 95,
+    "volume": 139749500,
+    "market_cap": 10007207804399
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-01",
+    "close": 100,
+    "open": 98,
+    "high": 102,
+    "low": 97,
+    "volume": 86753200,
+    "market_cap": 10316709076700
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-02",
+    "close": 98,
+    "open": 100,
+    "high": 101,
+    "low": 97,
+    "volume": 93005400,
+    "market_cap": 10110374895166
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-03",
+    "close": 100,
+    "open": 98,
+    "high": 101,
+    "low": 98,
+    "volume": 100493400,
+    "market_cap": 10316709076700
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-06",
+    "close": 98,
+    "open": 100,
+    "high": 100,
+    "low": 98,
+    "volume": 42293800,
+    "market_cap": 10110374895166
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-07",
+    "close": 98,
+    "open": 99,
+    "high": 99,
+    "low": 97,
+    "volume": 104748400,
+    "market_cap": 10110374895166
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-08",
+    "close": 95,
+    "open": 98,
+    "high": 99,
+    "low": 95,
+    "volume": 106651100,
+    "market_cap": 9800873622865
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-09",
+    "close": 97,
+    "open": 96,
+    "high": 97,
+    "low": 93,
+    "volume": 646528500,
+    "market_cap": 10007207804399
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-10",
+    "close": 97,
+    "open": 97,
+    "high": 99,
+    "low": 96,
+    "volume": 62381500,
+    "market_cap": 10007207804399
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-13",
+    "close": 98,
+    "open": 97,
+    "high": 98,
+    "low": 95,
+    "volume": 74268000,
+    "market_cap": 10110374895166
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-14",
+    "close": 100,
+    "open": 98,
+    "high": 102,
+    "low": 97,
+    "volume": 131453100,
+    "market_cap": 10316709076700
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-15",
+    "close": 106,
+    "open": 101,
+    "high": 107,
+    "low": 100,
+    "volume": 276012400,
+    "market_cap": 10935711621302
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-16",
+    "close": 109,
+    "open": 108,
+    "high": 115,
+    "low": 107,
+    "volume": 351337800,
+    "market_cap": 11245212893603
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-17",
+    "close": 108,
+    "open": 109,
+    "high": 112,
+    "low": 107,
+    "volume": 79127000,
+    "market_cap": 11142045802836
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-20",
+    "close": 108,
+    "open": 108,
+    "high": 111,
+    "low": 105,
+    "volume": 104672700,
+    "market_cap": 11142045802836
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-21",
+    "close": 111,
+    "open": 108,
+    "high": 112,
+    "low": 108,
+    "volume": 112778000,
+    "market_cap": 11451547075137
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-22",
+    "close": 112,
+    "open": 111,
+    "high": 113,
+    "low": 109,
+    "volume": 124656100,
+    "market_cap": 11554714165904
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-23",
+    "close": 119,
+    "open": 112,
+    "high": 122,
+    "low": 111,
+    "volume": 259879900,
+    "market_cap": 12276883801273
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-24",
+    "close": 115,
+    "open": 119,
+    "high": 120,
+    "low": 114,
+    "volume": 168353800,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-27",
+    "close": 121,
+    "open": 115,
+    "high": 121,
+    "low": 112,
+    "volume": 185647000,
+    "market_cap": 12483217982807
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-28",
+    "close": 117,
+    "open": 122,
+    "high": 124,
+    "low": 117,
+    "volume": 194163200,
+    "market_cap": 12070549619739
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-29",
+    "close": 115,
+    "open": 116,
+    "high": 118,
+    "low": 113,
+    "volume": 114974500,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-30",
+    "close": 117,
+    "open": 115,
+    "high": 118,
+    "low": 114,
+    "volume": 62416900,
+    "market_cap": 12070549619739
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-07-31",
+    "close": 118,
+    "open": 118,
+    "high": 121,
+    "low": 117,
+    "volume": 83830500,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-03",
+    "close": 118,
+    "open": 118,
+    "high": 120,
+    "low": 117,
+    "volume": 95160900,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-04",
+    "close": 120,
+    "open": 120,
+    "high": 121,
+    "low": 118,
+    "volume": 49917400,
+    "market_cap": 12380050892040
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-05",
+    "close": 120,
+    "open": 122,
+    "high": 125,
+    "low": 120,
+    "volume": 219226100,
+    "market_cap": 12380050892040
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-06",
+    "close": 118,
+    "open": 120,
+    "high": 122,
+    "low": 116,
+    "volume": 147682500,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-07",
+    "close": 118,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 57365400,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-10",
+    "close": 117,
+    "open": 119,
+    "high": 119,
+    "low": 116,
+    "volume": 44875400,
+    "market_cap": 12070549619739
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-11",
+    "close": 118,
+    "open": 117,
+    "high": 120,
+    "low": 115,
+    "volume": 109452900,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-12",
+    "close": 118,
+    "open": 118,
+    "high": 119,
+    "low": 115,
+    "volume": 83259300,
+    "market_cap": 12173716710506
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-13",
+    "close": 112,
+    "open": 114,
+    "high": 114,
+    "low": 110,
+    "volume": 218155800,
+    "market_cap": 11554714165904
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-14",
+    "close": 115,
+    "open": 111,
+    "high": 117,
+    "low": 111,
+    "volume": 61442100,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-18",
+    "close": 115,
+    "open": 115,
+    "high": 117,
+    "low": 113,
+    "volume": 54168500,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-19",
+    "close": 115,
+    "open": 115,
+    "high": 117,
+    "low": 111,
+    "volume": 225152500,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-20",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 113,
+    "volume": 181926000,
+    "market_cap": 11967382528972
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-21",
+    "close": 114,
+    "open": 116,
+    "high": 116,
+    "low": 112,
+    "volume": 171081000,
+    "market_cap": 11761048347438
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-24",
+    "close": 113,
+    "open": 113,
+    "high": 114,
+    "low": 111,
+    "volume": 143979000,
+    "market_cap": 11657881256671
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-26",
+    "close": 107,
+    "open": 112,
+    "high": 113,
+    "low": 107,
+    "volume": 97757200,
+    "market_cap": 11038878712069
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-27",
+    "close": 108,
+    "open": 107,
+    "high": 110,
+    "low": 104,
+    "volume": 98697200,
+    "market_cap": 11142045802836
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-28",
+    "close": 105,
+    "open": 108,
+    "high": 111,
+    "low": 105,
+    "volume": 115363600,
+    "market_cap": 10832544530535
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-08-31",
+    "close": 105,
+    "open": 106,
+    "high": 108,
+    "low": 105,
+    "volume": 1883828500,
+    "market_cap": 10832544530535
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-01",
+    "close": 113,
+    "open": 107,
+    "high": 117,
+    "low": 106,
+    "volume": 370491200,
+    "market_cap": 11657881256671
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-02",
+    "close": 112,
+    "open": 113,
+    "high": 114,
+    "low": 111,
+    "volume": 61961200,
+    "market_cap": 11554714165904
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-03",
+    "close": 114,
+    "open": 113,
+    "high": 115,
+    "low": 111,
+    "volume": 159782900,
+    "market_cap": 11761048347438
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-04",
+    "close": 115,
+    "open": 115,
+    "high": 116,
+    "low": 114,
+    "volume": 70638700,
+    "market_cap": 11864215438205
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-07",
+    "close": 113,
+    "open": 115,
+    "high": 116,
+    "low": 113,
+    "volume": 60366200,
+    "market_cap": 11657881256671
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-08",
+    "close": 114,
+    "open": 114,
+    "high": 116,
+    "low": 113,
+    "volume": 72375300,
+    "market_cap": 11761048347438
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-09",
+    "close": 114,
+    "open": 115,
+    "high": 118,
+    "low": 111,
+    "volume": 217779500,
+    "market_cap": 11761048347438
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-10",
+    "close": 109,
+    "open": 115,
+    "high": 115,
+    "low": 109,
+    "volume": 131772300,
+    "market_cap": 11245212893603
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-11",
+    "close": 107,
+    "open": 107,
+    "high": 109,
+    "low": 106,
+    "volume": 84072700,
+    "market_cap": 11038878712069
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-14",
+    "close": 107,
+    "open": 108,
+    "high": 109,
+    "low": 105,
+    "volume": 76321800,
+    "market_cap": 11038878712069
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-15",
+    "close": 104,
+    "open": 107,
+    "high": 108,
+    "low": 104,
+    "volume": 92945700,
+    "market_cap": 10729377439768
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-16",
+    "close": 103,
+    "open": 105,
+    "high": 106,
+    "low": 102,
+    "volume": 99710400,
+    "market_cap": 10626210349001
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-17",
+    "close": 105,
+    "open": 103,
+    "high": 107,
+    "low": 102,
+    "volume": 74231700,
+    "market_cap": 10832544530535
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-18",
+    "close": 104,
+    "open": 105,
+    "high": 105,
+    "low": 100,
+    "volume": 323025300,
+    "market_cap": 10729377439768
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-21",
+    "close": 107,
+    "open": 105,
+    "high": 109,
+    "low": 104,
+    "volume": 62188600,
+    "market_cap": 11038878712069
+  },
+  {
+    "symbol": "BUKA.JK",
+    "date": "2026-09-22",
+    "close": 106,
+    "open": 107,
+    "high": 111,
+    "low": 105,
+    "volume": 88056800,
+    "market_cap": 10935711621302
+  }
+]

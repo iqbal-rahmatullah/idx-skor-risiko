@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-06-24",
+    "close": 2050,
+    "open": 2070,
+    "high": 2100,
+    "low": 2000,
+    "volume": 73500,
+    "market_cap": 47656407937100
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-06-25",
+    "close": 2060,
+    "open": 2040,
+    "high": 2070,
+    "low": 2010,
+    "volume": 48100,
+    "market_cap": 47888878219720
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-06-26",
+    "close": 2040,
+    "open": 2030,
+    "high": 2040,
+    "low": 2010,
+    "volume": 60800,
+    "market_cap": 47423937654480
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-06-29",
+    "close": 2030,
+    "open": 2030,
+    "high": 2040,
+    "low": 2000,
+    "volume": 24000,
+    "market_cap": 47191467371860
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-06-30",
+    "close": 1965,
+    "open": 2010,
+    "high": 2030,
+    "low": 1955,
+    "volume": 63800,
+    "market_cap": 45680410534830
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-01",
+    "close": 2020,
+    "open": 1990,
+    "high": 2020,
+    "low": 1965,
+    "volume": 23800,
+    "market_cap": 46958997089240
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-02",
+    "close": 2000,
+    "open": 1940,
+    "high": 2010,
+    "low": 1940,
+    "volume": 45700,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-03",
+    "close": 2000,
+    "open": 2020,
+    "high": 2020,
+    "low": 2000,
+    "volume": 24400,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-06",
+    "close": 2000,
+    "open": 2000,
+    "high": 2000,
+    "low": 1990,
+    "volume": 6100,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-07",
+    "close": 2000,
+    "open": 1995,
+    "high": 2010,
+    "low": 1995,
+    "volume": 9500,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-08",
+    "close": 2010,
+    "open": 2000,
+    "high": 2010,
+    "low": 1990,
+    "volume": 11600,
+    "market_cap": 46726526806620
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-09",
+    "close": 1990,
+    "open": 1995,
+    "high": 2010,
+    "low": 1940,
+    "volume": 7600,
+    "market_cap": 46261586241380
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-10",
+    "close": 1995,
+    "open": 1995,
+    "high": 2000,
+    "low": 1990,
+    "volume": 8300,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-13",
+    "close": 2010,
+    "open": 1995,
+    "high": 2010,
+    "low": 1980,
+    "volume": 21100,
+    "market_cap": 46726526806620
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-14",
+    "close": 2010,
+    "open": 2000,
+    "high": 2010,
+    "low": 1970,
+    "volume": 23900,
+    "market_cap": 46726526806620
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-15",
+    "close": 1995,
+    "open": 2010,
+    "high": 2010,
+    "low": 1970,
+    "volume": 28600,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-16",
+    "close": 1995,
+    "open": 1995,
+    "high": 2010,
+    "low": 1995,
+    "volume": 32200,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-17",
+    "close": 1995,
+    "open": 1995,
+    "high": 2000,
+    "low": 1980,
+    "volume": 25200,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-20",
+    "close": 1995,
+    "open": 2000,
+    "high": 2010,
+    "low": 1975,
+    "volume": 170000,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-21",
+    "close": 2010,
+    "open": 2010,
+    "high": 2010,
+    "low": 1980,
+    "volume": 51800,
+    "market_cap": 46726526806620
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-22",
+    "close": 2000,
+    "open": 2010,
+    "high": 2010,
+    "low": 1980,
+    "volume": 29500,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-23",
+    "close": 2000,
+    "open": 2000,
+    "high": 2010,
+    "low": 1975,
+    "volume": 54100,
+    "market_cap": 46494056524000
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-24",
+    "close": 1990,
+    "open": 1995,
+    "high": 2000,
+    "low": 1975,
+    "volume": 27200,
+    "market_cap": 46261586241380
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-27",
+    "close": 1995,
+    "open": 1995,
+    "high": 2000,
+    "low": 1970,
+    "volume": 30200,
+    "market_cap": 46377821382690
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-28",
+    "close": 1985,
+    "open": 1995,
+    "high": 1995,
+    "low": 1975,
+    "volume": 14000,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-29",
+    "close": 1985,
+    "open": 1985,
+    "high": 1985,
+    "low": 1750,
+    "volume": 31200,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-30",
+    "close": 1990,
+    "open": 1980,
+    "high": 1995,
+    "low": 1930,
+    "volume": 45600,
+    "market_cap": 46261586241380
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-07-31",
+    "close": 1970,
+    "open": 1955,
+    "high": 1995,
+    "low": 1950,
+    "volume": 37300,
+    "market_cap": 45796645676140
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-03",
+    "close": 1985,
+    "open": 1970,
+    "high": 1985,
+    "low": 1965,
+    "volume": 16500,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-04",
+    "close": 1980,
+    "open": 1985,
+    "high": 1985,
+    "low": 1965,
+    "volume": 21100,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-05",
+    "close": 1980,
+    "open": 1980,
+    "high": 1990,
+    "low": 1975,
+    "volume": 14300,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-06",
+    "close": 1985,
+    "open": 1980,
+    "high": 1990,
+    "low": 1935,
+    "volume": 9200,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-07",
+    "close": 1985,
+    "open": 1960,
+    "high": 1985,
+    "low": 1960,
+    "volume": 8200,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-10",
+    "close": 1985,
+    "open": 1985,
+    "high": 1985,
+    "low": 1980,
+    "volume": 28400,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-11",
+    "close": 1985,
+    "open": 1980,
+    "high": 1990,
+    "low": 1970,
+    "volume": 28500,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-12",
+    "close": 1985,
+    "open": 1960,
+    "high": 1990,
+    "low": 1950,
+    "volume": 14700,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-13",
+    "close": 1980,
+    "open": 1980,
+    "high": 1980,
+    "low": 1950,
+    "volume": 15400,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-14",
+    "close": 1980,
+    "open": 1980,
+    "high": 1980,
+    "low": 1955,
+    "volume": 18000,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-18",
+    "close": 1975,
+    "open": 1960,
+    "high": 1980,
+    "low": 1955,
+    "volume": 78100,
+    "market_cap": 45912880817450
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-19",
+    "close": 1985,
+    "open": 1950,
+    "high": 1990,
+    "low": 1945,
+    "volume": 12300,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-20",
+    "close": 1985,
+    "open": 1985,
+    "high": 1985,
+    "low": 1900,
+    "volume": 38400,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-21",
+    "close": 1980,
+    "open": 1950,
+    "high": 1985,
+    "low": 1950,
+    "volume": 59300,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-24",
+    "close": 1980,
+    "open": 1980,
+    "high": 1990,
+    "low": 1930,
+    "volume": 26400,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-26",
+    "close": 1975,
+    "open": 1975,
+    "high": 1975,
+    "low": 1950,
+    "volume": 22800,
+    "market_cap": 45912880817450
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-27",
+    "close": 1970,
+    "open": 1975,
+    "high": 1975,
+    "low": 1945,
+    "volume": 25300,
+    "market_cap": 45796645676140
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-28",
+    "close": 1950,
+    "open": 1970,
+    "high": 1970,
+    "low": 1950,
+    "volume": 10600,
+    "market_cap": 45331705110900
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-08-31",
+    "close": 1960,
+    "open": 1950,
+    "high": 1975,
+    "low": 1945,
+    "volume": 29900,
+    "market_cap": 45564175393520
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-01",
+    "close": 1970,
+    "open": 1960,
+    "high": 1970,
+    "low": 1955,
+    "volume": 33500,
+    "market_cap": 45796645676140
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-02",
+    "close": 1970,
+    "open": 1970,
+    "high": 1970,
+    "low": 1950,
+    "volume": 23700,
+    "market_cap": 45796645676140
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-03",
+    "close": 1980,
+    "open": 1970,
+    "high": 1980,
+    "low": 1950,
+    "volume": 100400,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-04",
+    "close": 1985,
+    "open": 2000,
+    "high": 2000,
+    "low": 1980,
+    "volume": 144500,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-07",
+    "close": 1990,
+    "open": 1985,
+    "high": 2010,
+    "low": 1970,
+    "volume": 26400,
+    "market_cap": 46261586241380
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-08",
+    "close": 1985,
+    "open": 1990,
+    "high": 1990,
+    "low": 1970,
+    "volume": 19000,
+    "market_cap": 46145351100070
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-09",
+    "close": 1980,
+    "open": 1985,
+    "high": 1985,
+    "low": 1960,
+    "volume": 36200,
+    "market_cap": 46029115958760
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-10",
+    "close": 1975,
+    "open": 1980,
+    "high": 1990,
+    "low": 1900,
+    "volume": 365000,
+    "market_cap": 45912880817450
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-11",
+    "close": 1965,
+    "open": 1970,
+    "high": 1970,
+    "low": 1925,
+    "volume": 37300,
+    "market_cap": 45680410534830
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-14",
+    "close": 1945,
+    "open": 1945,
+    "high": 1960,
+    "low": 1925,
+    "volume": 41600,
+    "market_cap": 45215469969590
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-15",
+    "close": 1955,
+    "open": 1945,
+    "high": 1955,
+    "low": 1900,
+    "volume": 40100,
+    "market_cap": 45447940252210
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-16",
+    "close": 1960,
+    "open": 1955,
+    "high": 1960,
+    "low": 1920,
+    "volume": 27700,
+    "market_cap": 45564175393520
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-17",
+    "close": 1955,
+    "open": 1960,
+    "high": 1960,
+    "low": 1925,
+    "volume": 56100,
+    "market_cap": 45447940252210
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-18",
+    "close": 1960,
+    "open": 1930,
+    "high": 1960,
+    "low": 1880,
+    "volume": 66000,
+    "market_cap": 45564175393520
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-21",
+    "close": 1960,
+    "open": 1955,
+    "high": 1960,
+    "low": 1900,
+    "volume": 26800,
+    "market_cap": 45564175393520
+  },
+  {
+    "symbol": "MEGA.JK",
+    "date": "2026-09-22",
+    "close": 1970,
+    "open": 1945,
+    "high": 1970,
+    "low": 1920,
+    "volume": 25300,
+    "market_cap": 45796645676140
+  }
+]

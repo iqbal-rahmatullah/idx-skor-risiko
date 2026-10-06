@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-06-24",
+    "close": 11,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 24832100,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-06-25",
+    "close": 11,
+    "open": 11,
+    "high": 12,
+    "low": 11,
+    "volume": 8126600,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-06-26",
+    "close": 11,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 5216000,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-06-29",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 7203100,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-06-30",
+    "close": 12,
+    "open": 11,
+    "high": 12,
+    "low": 11,
+    "volume": 3431100,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-01",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 7137800,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-02",
+    "close": 11,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 7676900,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-03",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "volume": 19767100,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-06",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 13438600,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-07",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 5032300,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-08",
+    "close": 11,
+    "open": 11,
+    "high": 12,
+    "low": 11,
+    "volume": 3251700,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-09",
+    "close": 11,
+    "open": 12,
+    "high": 12,
+    "low": 11,
+    "volume": 6171600,
+    "market_cap": 200293171100
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-10",
+    "close": 12,
+    "open": 11,
+    "high": 12,
+    "low": 11,
+    "volume": 5499000,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-13",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "volume": 11004800,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-14",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "volume": 6470000,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-15",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "volume": 17747800,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-16",
+    "close": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "volume": 10812800,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-17",
+    "close": 13,
+    "open": 11,
+    "high": 13,
+    "low": 11,
+    "volume": 20507900,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-20",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 14,
+    "volume": 36698900,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-21",
+    "close": 13,
+    "open": 15,
+    "high": 15,
+    "low": 13,
+    "volume": 69071000,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-22",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 16448700,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-23",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 23485700,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-24",
+    "close": 13,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 12370700,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-27",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 14,
+    "volume": 38492000,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-28",
+    "close": 13,
+    "open": 15,
+    "high": 15,
+    "low": 13,
+    "volume": 18517900,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-29",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 5137600,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-30",
+    "close": 13,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 31546100,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-07-31",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 25024400,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-03",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 47223600,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-04",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 19380000,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-05",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 9357300,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-06",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 14615700,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-07",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 29996000,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-10",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 22143800,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-11",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 9949200,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-12",
+    "close": 13,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 17967800,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-13",
+    "close": 13,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 25242800,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-14",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 27333400,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-18",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 22500800,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-19",
+    "close": 12,
+    "open": 13,
+    "high": 13,
+    "low": 12,
+    "volume": 13297100,
+    "market_cap": 218501641200
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-20",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 12,
+    "volume": 8303500,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-21",
+    "close": 13,
+    "open": 13,
+    "high": 13,
+    "low": 13,
+    "volume": 27223100,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-24",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 37946400,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-26",
+    "close": 13,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 12561500,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-27",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 15118600,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-28",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 4932000,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-08-31",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 16889100,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-01",
+    "close": 13,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 7673600,
+    "market_cap": 236710111300
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-02",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 9571500,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-03",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 14,
+    "volume": 8853300,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-04",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 6118600,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-07",
+    "close": 14,
+    "open": 14,
+    "high": 14,
+    "low": 13,
+    "volume": 7696500,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-08",
+    "close": 14,
+    "open": 13,
+    "high": 14,
+    "low": 13,
+    "volume": 17989600,
+    "market_cap": 254918581400
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-09",
+    "close": 15,
+    "open": 14,
+    "high": 15,
+    "low": 14,
+    "volume": 43191600,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-10",
+    "close": 16,
+    "open": 15,
+    "high": 16,
+    "low": 15,
+    "volume": 63773500,
+    "market_cap": 291335521600
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-11",
+    "close": 16,
+    "open": 16,
+    "high": 16,
+    "low": 15,
+    "volume": 41554600,
+    "market_cap": 291335521600
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-14",
+    "close": 15,
+    "open": 16,
+    "high": 16,
+    "low": 15,
+    "volume": 41165400,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-15",
+    "close": 16,
+    "open": 15,
+    "high": 16,
+    "low": 15,
+    "volume": 20285100,
+    "market_cap": 291335521600
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-16",
+    "close": 15,
+    "open": 16,
+    "high": 16,
+    "low": 15,
+    "volume": 19744800,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-17",
+    "close": 15,
+    "open": 15,
+    "high": 15,
+    "low": 15,
+    "volume": 22737000,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-18",
+    "close": 15,
+    "open": 15,
+    "high": 15,
+    "low": 15,
+    "volume": 10128600,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-21",
+    "close": 15,
+    "open": 15,
+    "high": 15,
+    "low": 15,
+    "volume": 33219200,
+    "market_cap": 273127051500
+  },
+  {
+    "symbol": "KREN.JK",
+    "date": "2026-09-22",
+    "close": 15,
+    "open": 14,
+    "high": 15,
+    "low": 14,
+    "volume": 38397300,
+    "market_cap": 273127051500
+  }
+]

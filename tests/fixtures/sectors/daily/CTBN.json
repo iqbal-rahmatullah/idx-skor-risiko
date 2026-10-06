@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-06-24",
+    "close": 5525,
+    "open": 5525,
+    "high": 5525,
+    "low": 5525,
+    "volume": 2000,
+    "market_cap": 4422052537500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-06-25",
+    "close": 5525,
+    "open": 5525,
+    "high": 5525,
+    "low": 5525,
+    "volume": 500,
+    "market_cap": 4422052537500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-06-26",
+    "close": 5250,
+    "open": 5550,
+    "high": 5550,
+    "low": 4700,
+    "volume": 1200,
+    "market_cap": 4201950375000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-06-29",
+    "close": 5275,
+    "open": 5275,
+    "high": 5275,
+    "low": 5275,
+    "volume": 100,
+    "market_cap": 4221959662500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-06-30",
+    "close": 5325,
+    "open": 5250,
+    "high": 5325,
+    "low": 5250,
+    "volume": 1200,
+    "market_cap": 4261978237500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-01",
+    "close": 5325,
+    "open": 5325,
+    "high": 5325,
+    "low": 5325,
+    "volume": 300,
+    "market_cap": 4261978237500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-02",
+    "close": 5400,
+    "open": 5575,
+    "high": 5825,
+    "low": 5375,
+    "volume": 1800,
+    "market_cap": 4322006100000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-03",
+    "close": 5450,
+    "open": 5450,
+    "high": 5450,
+    "low": 5450,
+    "volume": 2200,
+    "market_cap": 4362024675000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-06",
+    "close": 5475,
+    "open": 5475,
+    "high": 5475,
+    "low": 5475,
+    "volume": 200,
+    "market_cap": 4382033962500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-07",
+    "close": 5500,
+    "open": 5500,
+    "high": 5500,
+    "low": 5500,
+    "volume": 400,
+    "market_cap": 4402043250000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-08",
+    "close": 5800,
+    "open": 5500,
+    "high": 5800,
+    "low": 5500,
+    "volume": 900,
+    "market_cap": 4642154700000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-09",
+    "close": 5775,
+    "open": 5800,
+    "high": 5800,
+    "low": 5775,
+    "volume": 1200,
+    "market_cap": 4622145412500
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-10",
+    "close": 5350,
+    "open": 5775,
+    "high": 5775,
+    "low": 5350,
+    "volume": 20000,
+    "market_cap": 4281987525000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-13",
+    "close": 5000,
+    "open": 6400,
+    "high": 6400,
+    "low": 4980,
+    "volume": 94100,
+    "market_cap": 4001857500000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-14",
+    "close": 5000,
+    "open": 5300,
+    "high": 5300,
+    "low": 5000,
+    "volume": 23800,
+    "market_cap": 4001857500000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-15",
+    "close": 5050,
+    "open": 5000,
+    "high": 5175,
+    "low": 5000,
+    "volume": 15500,
+    "market_cap": 4041876075000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-16",
+    "close": 4980,
+    "open": 5000,
+    "high": 5150,
+    "low": 4970,
+    "volume": 64400,
+    "market_cap": 3985850070000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-17",
+    "close": 4960,
+    "open": 4980,
+    "high": 5100,
+    "low": 4960,
+    "volume": 107900,
+    "market_cap": 3969842640000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-20",
+    "close": 4750,
+    "open": 4960,
+    "high": 4970,
+    "low": 4740,
+    "volume": 103000,
+    "market_cap": 3801764625000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-21",
+    "close": 4710,
+    "open": 4780,
+    "high": 4850,
+    "low": 4500,
+    "volume": 60300,
+    "market_cap": 3769749765000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-22",
+    "close": 4710,
+    "open": 4710,
+    "high": 4740,
+    "low": 4710,
+    "volume": 10400,
+    "market_cap": 3769749765000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-23",
+    "close": 4680,
+    "open": 4710,
+    "high": 4770,
+    "low": 4680,
+    "volume": 22500,
+    "market_cap": 3745738620000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-24",
+    "close": 4640,
+    "open": 4760,
+    "high": 4760,
+    "low": 4640,
+    "volume": 7200,
+    "market_cap": 3713723760000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-27",
+    "close": 4500,
+    "open": 4640,
+    "high": 4680,
+    "low": 4480,
+    "volume": 32600,
+    "market_cap": 3601671750000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-28",
+    "close": 4490,
+    "open": 4510,
+    "high": 4510,
+    "low": 4490,
+    "volume": 24000,
+    "market_cap": 3593668035000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-29",
+    "close": 4300,
+    "open": 4490,
+    "high": 4490,
+    "low": 4230,
+    "volume": 15500,
+    "market_cap": 3441597450000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-30",
+    "close": 4250,
+    "open": 4310,
+    "high": 4340,
+    "low": 4250,
+    "volume": 15800,
+    "market_cap": 3401578875000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-07-31",
+    "close": 4220,
+    "open": 4240,
+    "high": 4240,
+    "low": 4100,
+    "volume": 22700,
+    "market_cap": 3377567730000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-03",
+    "close": 3990,
+    "open": 4220,
+    "high": 4220,
+    "low": 3950,
+    "volume": 57900,
+    "market_cap": 3193482285000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-04",
+    "close": 4100,
+    "open": 4010,
+    "high": 4150,
+    "low": 4010,
+    "volume": 14500,
+    "market_cap": 3281523150000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-05",
+    "close": 4030,
+    "open": 4110,
+    "high": 4200,
+    "low": 4030,
+    "volume": 12900,
+    "market_cap": 3225497145000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-06",
+    "close": 4000,
+    "open": 4030,
+    "high": 4170,
+    "low": 4000,
+    "volume": 10000,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-07",
+    "close": 4000,
+    "open": 4070,
+    "high": 4070,
+    "low": 4000,
+    "volume": 20600,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-10",
+    "close": 4020,
+    "open": 4050,
+    "high": 4130,
+    "low": 4020,
+    "volume": 15000,
+    "market_cap": 3217493430000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-11",
+    "close": 4000,
+    "open": 4000,
+    "high": 4020,
+    "low": 4000,
+    "volume": 6800,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-12",
+    "close": 3990,
+    "open": 4010,
+    "high": 4020,
+    "low": 3990,
+    "volume": 4000,
+    "market_cap": 3193482285000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-13",
+    "close": 4000,
+    "open": 3990,
+    "high": 4000,
+    "low": 3990,
+    "volume": 3900,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-14",
+    "close": 4000,
+    "open": 4010,
+    "high": 4020,
+    "low": 4000,
+    "volume": 12200,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-18",
+    "close": 4000,
+    "open": 4010,
+    "high": 4090,
+    "low": 4000,
+    "volume": 5000,
+    "market_cap": 3201486000000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-19",
+    "close": 3990,
+    "open": 4000,
+    "high": 4010,
+    "low": 3990,
+    "volume": 6800,
+    "market_cap": 3193482285000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-20",
+    "close": 3490,
+    "open": 4000,
+    "high": 4000,
+    "low": 3470,
+    "volume": 869500,
+    "market_cap": 2793296535000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-21",
+    "close": 3470,
+    "open": 3510,
+    "high": 3570,
+    "low": 3470,
+    "volume": 227100,
+    "market_cap": 2777289105000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-24",
+    "close": 3190,
+    "open": 3490,
+    "high": 3520,
+    "low": 3190,
+    "volume": 439600,
+    "market_cap": 2553185085000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-26",
+    "close": 3150,
+    "open": 3200,
+    "high": 3270,
+    "low": 3150,
+    "volume": 101700,
+    "market_cap": 2521170225000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-27",
+    "close": 3190,
+    "open": 3150,
+    "high": 3210,
+    "low": 3130,
+    "volume": 23800,
+    "market_cap": 2553185085000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-28",
+    "close": 3130,
+    "open": 3230,
+    "high": 3240,
+    "low": 3120,
+    "volume": 143000,
+    "market_cap": 2505162795000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-08-31",
+    "close": 3120,
+    "open": 3120,
+    "high": 3130,
+    "low": 3120,
+    "volume": 84400,
+    "market_cap": 2497159080000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-01",
+    "close": 3110,
+    "open": 3120,
+    "high": 3120,
+    "low": 3100,
+    "volume": 105800,
+    "market_cap": 2489155365000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-02",
+    "close": 3110,
+    "open": 3140,
+    "high": 3140,
+    "low": 3100,
+    "volume": 31000,
+    "market_cap": 2489155365000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-03",
+    "close": 3110,
+    "open": 3110,
+    "high": 3110,
+    "low": 3100,
+    "volume": 46300,
+    "market_cap": 2489155365000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-04",
+    "close": 3090,
+    "open": 3130,
+    "high": 3130,
+    "low": 3080,
+    "volume": 99500,
+    "market_cap": 2473147935000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-07",
+    "close": 3080,
+    "open": 3100,
+    "high": 3150,
+    "low": 3080,
+    "volume": 69100,
+    "market_cap": 2465144220000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-08",
+    "close": 3090,
+    "open": 3080,
+    "high": 3090,
+    "low": 3080,
+    "volume": 22500,
+    "market_cap": 2473147935000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-09",
+    "close": 3070,
+    "open": 3110,
+    "high": 3110,
+    "low": 3060,
+    "volume": 46300,
+    "market_cap": 2457140505000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-10",
+    "close": 3070,
+    "open": 3070,
+    "high": 3070,
+    "low": 3060,
+    "volume": 45900,
+    "market_cap": 2457140505000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-11",
+    "close": 3050,
+    "open": 3070,
+    "high": 3070,
+    "low": 3050,
+    "volume": 12100,
+    "market_cap": 2441133075000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-14",
+    "close": 3050,
+    "open": 3050,
+    "high": 3070,
+    "low": 3040,
+    "volume": 9200,
+    "market_cap": 2441133075000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-15",
+    "close": 3040,
+    "open": 3050,
+    "high": 3060,
+    "low": 3020,
+    "volume": 5200,
+    "market_cap": 2433129360000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-16",
+    "close": 3030,
+    "open": 3050,
+    "high": 3070,
+    "low": 3030,
+    "volume": 6000,
+    "market_cap": 2425125645000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-17",
+    "close": 3050,
+    "open": 3000,
+    "high": 3160,
+    "low": 3000,
+    "volume": 16700,
+    "market_cap": 2441133075000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-18",
+    "close": 3070,
+    "open": 3050,
+    "high": 3130,
+    "low": 3040,
+    "volume": 9000,
+    "market_cap": 2457140505000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-21",
+    "close": 3050,
+    "open": 3000,
+    "high": 3120,
+    "low": 3000,
+    "volume": 12600,
+    "market_cap": 2441133075000
+  },
+  {
+    "symbol": "CTBN.JK",
+    "date": "2026-09-22",
+    "close": 3060,
+    "open": 3100,
+    "high": 3130,
+    "low": 3000,
+    "volume": 23000,
+    "market_cap": 2449136790000
+  }
+]

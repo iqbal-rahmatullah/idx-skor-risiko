@@ -1,0 +1,398 @@
+{
+  "results": [
+    {
+      "symbol": "NOBU.JK",
+      "company_name": "PT Bank Nationalnobu Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0560747663551402
+      }
+    },
+    {
+      "symbol": "BTPN.JK",
+      "company_name": "PT Bank SMBC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0173913043478261
+      }
+    },
+    {
+      "symbol": "MASB.JK",
+      "company_name": "PT Bank Multiarta Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0123076923076923
+      }
+    },
+    {
+      "symbol": "BRIS.JK",
+      "company_name": "PT Bank Syariah Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.00632911392405063
+      }
+    },
+    {
+      "symbol": "MEGA.JK",
+      "company_name": "Bank Mega Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.00510204081632653
+      }
+    },
+    {
+      "symbol": "BBSI.JK",
+      "company_name": "PT Krom Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "NISP.JK",
+      "company_name": "PT Bank OCBC NISP Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BJTM.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Timur Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "MAYA.JK",
+      "company_name": "PT Bank Mayapada Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PNBN.JK",
+      "company_name": "Bank Pan Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PNBS.JK",
+      "company_name": "PT Bank Panin Dubai Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BBKP.JK",
+      "company_name": "PT Bank KB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BSWD.JK",
+      "company_name": "Bank of India Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "SUPA.JK",
+      "company_name": "PT Super Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BGTG.JK",
+      "company_name": "PT Bank Ganesha Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BACA.JK",
+      "company_name": "PT Bank Capital Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BABP.JK",
+      "company_name": "PT Bank MNC Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BBCA.JK",
+      "company_name": "PT Bank Central Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00401606425702811
+      }
+    },
+    {
+      "symbol": "BNLI.JK",
+      "company_name": "Bank Permata Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00478468899521531
+      }
+    },
+    {
+      "symbol": "BSIM.JK",
+      "company_name": "Bank Sinarmas Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.005
+      }
+    },
+    {
+      "symbol": "BJBR.JK",
+      "company_name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0065359477124183
+      }
+    },
+    {
+      "symbol": "INPC.JK",
+      "company_name": "Bank Artha Graha Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00657894736842105
+      }
+    },
+    {
+      "symbol": "BDMN.JK",
+      "company_name": "PT Bank Danamon Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00674157303370787
+      }
+    },
+    {
+      "symbol": "BINA.JK",
+      "company_name": "PT Bank Ina Perdana Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00740740740740741
+      }
+    },
+    {
+      "symbol": "AMAR.JK",
+      "company_name": "PT Bank Amar Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00847457627118644
+      }
+    },
+    {
+      "symbol": "BBYB.JK",
+      "company_name": "PT Bank Neo Commerce Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00892857142857143
+      }
+    },
+    {
+      "symbol": "SDRA.JK",
+      "company_name": "PT Bank Woori Saudara Indonesia 1906 Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00952380952380952
+      }
+    },
+    {
+      "symbol": "BMRI.JK",
+      "company_name": "PT Bank Mandiri (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00952380952380952
+      }
+    },
+    {
+      "symbol": "BMAS.JK",
+      "company_name": "PT Bank Maspion Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.00980392156862745
+      }
+    },
+    {
+      "symbol": "BNII.JK",
+      "company_name": "PT Bank Maybank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0104166666666667
+      }
+    },
+    {
+      "symbol": "ARTO.JK",
+      "company_name": "PT Bank Jago Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0111731843575419
+      }
+    },
+    {
+      "symbol": "BNGA.JK",
+      "company_name": "PT Bank CIMB Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0113960113960114
+      }
+    },
+    {
+      "symbol": "BBNI.JK",
+      "company_name": "PT Bank Negara Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0138121546961326
+      }
+    },
+    {
+      "symbol": "AGRO.JK",
+      "company_name": "PT Bank Raya Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.013986013986014
+      }
+    },
+    {
+      "symbol": "MCOR.JK",
+      "company_name": "PT Bank China Construction Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0147058823529412
+      }
+    },
+    {
+      "symbol": "BBMD.JK",
+      "company_name": "PT Bank Mestika Dharma Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0151133501259446
+      }
+    },
+    {
+      "symbol": "DNAR.JK",
+      "company_name": "PT Bank Oke Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0155038759689922
+      }
+    },
+    {
+      "symbol": "AGRS.JK",
+      "company_name": "PT Bank IBK Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0169491525423729
+      }
+    },
+    {
+      "symbol": "BKSW.JK",
+      "company_name": "PT Bank QNB Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0196078431372549
+      }
+    },
+    {
+      "symbol": "BVIC.JK",
+      "company_name": "Bank Victoria International Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.021505376344086
+      }
+    },
+    {
+      "symbol": "BBTN.JK",
+      "company_name": "PT Bank Tabungan Negara (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0216450216450216
+      }
+    },
+    {
+      "symbol": "BBHI.JK",
+      "company_name": "PT Allo Bank Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0222222222222222
+      }
+    },
+    {
+      "symbol": "BTPS.JK",
+      "company_name": "PT Bank BTPN Syariah Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0301507537688442
+      }
+    },
+    {
+      "symbol": "BCIC.JK",
+      "company_name": "PT Bank JTrust Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0357142857142857
+      }
+    },
+    {
+      "symbol": "BBRI.JK",
+      "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0363636363636364
+      }
+    },
+    {
+      "symbol": "BANK.JK",
+      "company_name": "PT Bank Aladin Syariah Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0396825396825397
+      }
+    },
+    {
+      "symbol": "BEKS.JK",
+      "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.0434782608695652
+      }
+    },
+    {
+      "symbol": "BNBA.JK",
+      "company_name": "Bank Bumi Arta Tbk",
+      "query_values": {
+        "sub_sector": "Banks",
+        "daily_close_change": -0.05
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 48,
+    "showing": 48,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

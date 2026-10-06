@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-06-24",
+    "close": 3320,
+    "open": 3430,
+    "high": 3490,
+    "low": 3290,
+    "volume": 102475500,
+    "market_cap": 122588808089520
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-06-25",
+    "close": 3350,
+    "open": 3320,
+    "high": 3430,
+    "low": 3300,
+    "volume": 51645300,
+    "market_cap": 123696538283100
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-06-26",
+    "close": 3320,
+    "open": 3330,
+    "high": 3370,
+    "low": 3230,
+    "volume": 75387100,
+    "market_cap": 122588808089520
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-06-29",
+    "close": 3260,
+    "open": 3340,
+    "high": 3350,
+    "low": 3260,
+    "volume": 30133200,
+    "market_cap": 120373347702360
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-06-30",
+    "close": 3160,
+    "open": 3250,
+    "high": 3270,
+    "low": 3160,
+    "volume": 68047800,
+    "market_cap": 116680913723760
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-01",
+    "close": 3100,
+    "open": 3160,
+    "high": 3180,
+    "low": 3090,
+    "volume": 68356600,
+    "market_cap": 114465453336600
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-02",
+    "close": 3170,
+    "open": 3110,
+    "high": 3230,
+    "low": 3110,
+    "volume": 56394800,
+    "market_cap": 117050157121620
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-03",
+    "close": 3250,
+    "open": 3210,
+    "high": 3290,
+    "low": 3210,
+    "volume": 28681500,
+    "market_cap": 120004104304500
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-06",
+    "close": 3280,
+    "open": 3250,
+    "high": 3320,
+    "low": 3210,
+    "volume": 29228500,
+    "market_cap": 121111834498080
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-07",
+    "close": 3470,
+    "open": 3300,
+    "high": 3470,
+    "low": 3290,
+    "volume": 60892800,
+    "market_cap": 128127459057420
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-08",
+    "close": 3380,
+    "open": 3430,
+    "high": 3450,
+    "low": 3380,
+    "volume": 55492400,
+    "market_cap": 124804268476680
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-09",
+    "close": 3420,
+    "open": 3370,
+    "high": 3420,
+    "low": 3320,
+    "volume": 24656200,
+    "market_cap": 126281242068120
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-10",
+    "close": 3420,
+    "open": 3430,
+    "high": 3450,
+    "low": 3380,
+    "volume": 29336200,
+    "market_cap": 126281242068120
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-13",
+    "close": 3530,
+    "open": 3420,
+    "high": 3570,
+    "low": 3370,
+    "volume": 51536900,
+    "market_cap": 130342919444580
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-14",
+    "close": 3470,
+    "open": 3550,
+    "high": 3560,
+    "low": 3460,
+    "volume": 48830900,
+    "market_cap": 128127459057420
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-15",
+    "close": 3460,
+    "open": 3490,
+    "high": 3540,
+    "low": 3460,
+    "volume": 34196500,
+    "market_cap": 127758215659560
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-16",
+    "close": 3500,
+    "open": 3460,
+    "high": 3540,
+    "low": 3460,
+    "volume": 49344600,
+    "market_cap": 129235189251000
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-17",
+    "close": 3580,
+    "open": 3500,
+    "high": 3640,
+    "low": 3470,
+    "volume": 103072800,
+    "market_cap": 132189136433880
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-20",
+    "close": 3590,
+    "open": 3600,
+    "high": 3650,
+    "low": 3580,
+    "volume": 71579400,
+    "market_cap": 132558379831740
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-21",
+    "close": 3620,
+    "open": 3620,
+    "high": 3650,
+    "low": 3570,
+    "volume": 61348500,
+    "market_cap": 133666110025320
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-22",
+    "close": 3610,
+    "open": 3640,
+    "high": 3640,
+    "low": 3550,
+    "volume": 45262500,
+    "market_cap": 133296866627460
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-23",
+    "close": 3600,
+    "open": 3610,
+    "high": 3620,
+    "low": 3560,
+    "volume": 42071600,
+    "market_cap": 132927623229600
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-24",
+    "close": 3520,
+    "open": 3540,
+    "high": 3570,
+    "low": 3490,
+    "volume": 38325800,
+    "market_cap": 129973676046720
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-27",
+    "close": 3520,
+    "open": 3460,
+    "high": 3540,
+    "low": 3450,
+    "volume": 62103400,
+    "market_cap": 129973676046720
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-28",
+    "close": 3480,
+    "open": 3520,
+    "high": 3540,
+    "low": 3480,
+    "volume": 21024300,
+    "market_cap": 128496702455280
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-29",
+    "close": 3460,
+    "open": 3480,
+    "high": 3520,
+    "low": 3450,
+    "volume": 34501600,
+    "market_cap": 127758215659560
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-30",
+    "close": 3550,
+    "open": 3470,
+    "high": 3550,
+    "low": 3460,
+    "volume": 42430600,
+    "market_cap": 131081406240300
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-07-31",
+    "close": 3530,
+    "open": 3570,
+    "high": 3580,
+    "low": 3510,
+    "volume": 48321300,
+    "market_cap": 130342919444580
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-03",
+    "close": 3520,
+    "open": 3570,
+    "high": 3570,
+    "low": 3500,
+    "volume": 19986000,
+    "market_cap": 129973676046720
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-04",
+    "close": 3660,
+    "open": 3530,
+    "high": 3660,
+    "low": 3530,
+    "volume": 65344400,
+    "market_cap": 135143083616760
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-05",
+    "close": 3630,
+    "open": 3660,
+    "high": 3660,
+    "low": 3600,
+    "volume": 40879400,
+    "market_cap": 134035353423180
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-06",
+    "close": 3620,
+    "open": 3640,
+    "high": 3690,
+    "low": 3610,
+    "volume": 37046200,
+    "market_cap": 133666110025320
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-07",
+    "close": 3630,
+    "open": 3640,
+    "high": 3660,
+    "low": 3620,
+    "volume": 22690800,
+    "market_cap": 134035353423180
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-10",
+    "close": 3650,
+    "open": 3640,
+    "high": 3670,
+    "low": 3620,
+    "volume": 22297300,
+    "market_cap": 134773840218900
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-11",
+    "close": 3550,
+    "open": 3650,
+    "high": 3660,
+    "low": 3550,
+    "volume": 29926000,
+    "market_cap": 131081406240300
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-12",
+    "close": 3580,
+    "open": 3560,
+    "high": 3590,
+    "low": 3550,
+    "volume": 23117900,
+    "market_cap": 132189136433880
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-13",
+    "close": 3610,
+    "open": 3600,
+    "high": 3620,
+    "low": 3580,
+    "volume": 25813700,
+    "market_cap": 133296866627460
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-14",
+    "close": 3630,
+    "open": 3610,
+    "high": 3630,
+    "low": 3590,
+    "volume": 19651900,
+    "market_cap": 134035353423180
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-18",
+    "close": 3590,
+    "open": 3630,
+    "high": 3660,
+    "low": 3590,
+    "volume": 26064000,
+    "market_cap": 132558379831740
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-19",
+    "close": 3560,
+    "open": 3600,
+    "high": 3610,
+    "low": 3560,
+    "volume": 21565300,
+    "market_cap": 131450649638160
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-20",
+    "close": 3590,
+    "open": 3570,
+    "high": 3590,
+    "low": 3550,
+    "volume": 33838500,
+    "market_cap": 132558379831740
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-21",
+    "close": 3730,
+    "open": 3600,
+    "high": 3780,
+    "low": 3590,
+    "volume": 92322200,
+    "market_cap": 137727787401780
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-24",
+    "close": 3680,
+    "open": 3730,
+    "high": 3740,
+    "low": 3650,
+    "volume": 33072400,
+    "market_cap": 135881570412480
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-26",
+    "close": 3680,
+    "open": 3680,
+    "high": 3700,
+    "low": 3630,
+    "volume": 38659400,
+    "market_cap": 135881570412480
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-27",
+    "close": 3710,
+    "open": 3670,
+    "high": 3720,
+    "low": 3620,
+    "volume": 47055500,
+    "market_cap": 136989300606060
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-28",
+    "close": 3780,
+    "open": 3710,
+    "high": 3780,
+    "low": 3710,
+    "volume": 48082900,
+    "market_cap": 139574004391080
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-08-31",
+    "close": 3860,
+    "open": 3780,
+    "high": 3900,
+    "low": 3760,
+    "volume": 115236500,
+    "market_cap": 142527951573960
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-01",
+    "close": 3870,
+    "open": 3860,
+    "high": 3920,
+    "low": 3860,
+    "volume": 31808400,
+    "market_cap": 142897194971820
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-02",
+    "close": 3900,
+    "open": 3880,
+    "high": 3940,
+    "low": 3870,
+    "volume": 22415500,
+    "market_cap": 144004925165400
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-03",
+    "close": 3960,
+    "open": 3920,
+    "high": 4000,
+    "low": 3890,
+    "volume": 44394500,
+    "market_cap": 146220385552560
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-04",
+    "close": 3940,
+    "open": 3960,
+    "high": 4000,
+    "low": 3940,
+    "volume": 27444800,
+    "market_cap": 145481898756840
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-07",
+    "close": 3910,
+    "open": 3900,
+    "high": 3930,
+    "low": 3880,
+    "volume": 21661900,
+    "market_cap": 144374168563260
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-08",
+    "close": 3870,
+    "open": 3890,
+    "high": 3910,
+    "low": 3850,
+    "volume": 44905000,
+    "market_cap": 142897194971820
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-09",
+    "close": 3820,
+    "open": 3880,
+    "high": 3890,
+    "low": 3790,
+    "volume": 52644400,
+    "market_cap": 141050977982520
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-10",
+    "close": 3800,
+    "open": 3830,
+    "high": 3840,
+    "low": 3770,
+    "volume": 37595400,
+    "market_cap": 140312491186800
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-11",
+    "close": 3750,
+    "open": 3800,
+    "high": 3800,
+    "low": 3720,
+    "volume": 27943800,
+    "market_cap": 138466274197500
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-14",
+    "close": 3870,
+    "open": 3740,
+    "high": 3900,
+    "low": 3640,
+    "volume": 88939600,
+    "market_cap": 142897194971820
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-15",
+    "close": 3750,
+    "open": 3870,
+    "high": 3870,
+    "low": 3740,
+    "volume": 39238000,
+    "market_cap": 138466274197500
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-16",
+    "close": 3730,
+    "open": 3750,
+    "high": 3780,
+    "low": 3730,
+    "volume": 20577300,
+    "market_cap": 137727787401780
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-17",
+    "close": 3740,
+    "open": 3740,
+    "high": 3770,
+    "low": 3720,
+    "volume": 24338700,
+    "market_cap": 138097030799640
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-18",
+    "close": 3650,
+    "open": 3730,
+    "high": 3740,
+    "low": 3640,
+    "volume": 45318800,
+    "market_cap": 134773840218900
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-21",
+    "close": 3620,
+    "open": 3660,
+    "high": 3670,
+    "low": 3600,
+    "volume": 24461400,
+    "market_cap": 133666110025320
+  },
+  {
+    "symbol": "BBNI.JK",
+    "date": "2026-09-22",
+    "close": 3570,
+    "open": 3610,
+    "high": 3640,
+    "low": 3550,
+    "volume": 33279300,
+    "market_cap": 131819893036020
+  }
+]

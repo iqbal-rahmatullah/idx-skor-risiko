@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-06-24",
+    "close": 478,
+    "open": 472,
+    "high": 478,
+    "low": 462,
+    "volume": 20200,
+    "market_cap": 1342224000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-06-25",
+    "close": 480,
+    "open": 470,
+    "high": 480,
+    "low": 468,
+    "volume": 23500,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-06-26",
+    "close": 480,
+    "open": 472,
+    "high": 480,
+    "low": 460,
+    "volume": 25400,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-06-29",
+    "close": 470,
+    "open": 470,
+    "high": 486,
+    "low": 470,
+    "volume": 101100,
+    "market_cap": 1319760000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-06-30",
+    "close": 468,
+    "open": 470,
+    "high": 470,
+    "low": 458,
+    "volume": 16400,
+    "market_cap": 1314144000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-01",
+    "close": 486,
+    "open": 460,
+    "high": 486,
+    "low": 460,
+    "volume": 15100,
+    "market_cap": 1364688000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-02",
+    "close": 478,
+    "open": 476,
+    "high": 480,
+    "low": 466,
+    "volume": 30300,
+    "market_cap": 1342224000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-03",
+    "close": 480,
+    "open": 480,
+    "high": 480,
+    "low": 462,
+    "volume": 29000,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-06",
+    "close": 478,
+    "open": 480,
+    "high": 480,
+    "low": 470,
+    "volume": 36600,
+    "market_cap": 1342224000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-07",
+    "close": 482,
+    "open": 486,
+    "high": 486,
+    "low": 476,
+    "volume": 45800,
+    "market_cap": 1353456000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-08",
+    "close": 480,
+    "open": 480,
+    "high": 480,
+    "low": 480,
+    "volume": 16500,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-09",
+    "close": 482,
+    "open": 466,
+    "high": 482,
+    "low": 466,
+    "volume": 20000,
+    "market_cap": 1353456000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-10",
+    "close": 486,
+    "open": 480,
+    "high": 486,
+    "low": 472,
+    "volume": 16000,
+    "market_cap": 1364688000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-13",
+    "close": 486,
+    "open": 474,
+    "high": 486,
+    "low": 474,
+    "volume": 18200,
+    "market_cap": 1364688000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-14",
+    "close": 480,
+    "open": 484,
+    "high": 484,
+    "low": 478,
+    "volume": 16000,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-15",
+    "close": 486,
+    "open": 486,
+    "high": 486,
+    "low": 484,
+    "volume": 16800,
+    "market_cap": 1364688000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-16",
+    "close": 484,
+    "open": 484,
+    "high": 484,
+    "low": 478,
+    "volume": 17900,
+    "market_cap": 1359072000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-17",
+    "close": 484,
+    "open": 484,
+    "high": 484,
+    "low": 484,
+    "volume": 15100,
+    "market_cap": 1359072000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-20",
+    "close": 486,
+    "open": 486,
+    "high": 486,
+    "low": 478,
+    "volume": 25300,
+    "market_cap": 1364688000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-21",
+    "close": 478,
+    "open": 478,
+    "high": 478,
+    "low": 446,
+    "volume": 38200,
+    "market_cap": 1342224000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-22",
+    "close": 476,
+    "open": 478,
+    "high": 478,
+    "low": 468,
+    "volume": 33400,
+    "market_cap": 1336608000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-23",
+    "close": 474,
+    "open": 476,
+    "high": 476,
+    "low": 474,
+    "volume": 25300,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-24",
+    "close": 474,
+    "open": 456,
+    "high": 474,
+    "low": 450,
+    "volume": 125300,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-27",
+    "close": 470,
+    "open": 472,
+    "high": 472,
+    "low": 460,
+    "volume": 131200,
+    "market_cap": 1319760000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-28",
+    "close": 468,
+    "open": 460,
+    "high": 468,
+    "low": 460,
+    "volume": 48000,
+    "market_cap": 1314144000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-29",
+    "close": 464,
+    "open": 460,
+    "high": 470,
+    "low": 460,
+    "volume": 45300,
+    "market_cap": 1302912000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-30",
+    "close": 462,
+    "open": 458,
+    "high": 462,
+    "low": 454,
+    "volume": 61100,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-07-31",
+    "close": 458,
+    "open": 454,
+    "high": 460,
+    "low": 442,
+    "volume": 100300,
+    "market_cap": 1286064000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-03",
+    "close": 454,
+    "open": 460,
+    "high": 474,
+    "low": 440,
+    "volume": 179800,
+    "market_cap": 1274832000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-04",
+    "close": 460,
+    "open": 450,
+    "high": 466,
+    "low": 442,
+    "volume": 287800,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-05",
+    "close": 452,
+    "open": 468,
+    "high": 468,
+    "low": 450,
+    "volume": 131400,
+    "market_cap": 1269216000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-06",
+    "close": 454,
+    "open": 456,
+    "high": 462,
+    "low": 452,
+    "volume": 251400,
+    "market_cap": 1274832000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-07",
+    "close": 454,
+    "open": 454,
+    "high": 454,
+    "low": 452,
+    "volume": 153500,
+    "market_cap": 1274832000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-10",
+    "close": 454,
+    "open": 454,
+    "high": 454,
+    "low": 448,
+    "volume": 59200,
+    "market_cap": 1274832000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-11",
+    "close": 460,
+    "open": 454,
+    "high": 482,
+    "low": 448,
+    "volume": 673800,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-12",
+    "close": 458,
+    "open": 460,
+    "high": 460,
+    "low": 440,
+    "volume": 175000,
+    "market_cap": 1286064000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-13",
+    "close": 456,
+    "open": 458,
+    "high": 462,
+    "low": 450,
+    "volume": 114800,
+    "market_cap": 1280448000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-14",
+    "close": 456,
+    "open": 452,
+    "high": 460,
+    "low": 450,
+    "volume": 105700,
+    "market_cap": 1280448000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-18",
+    "close": 456,
+    "open": 454,
+    "high": 458,
+    "low": 448,
+    "volume": 76100,
+    "market_cap": 1280448000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-19",
+    "close": 462,
+    "open": 456,
+    "high": 464,
+    "low": 450,
+    "volume": 223300,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-20",
+    "close": 460,
+    "open": 460,
+    "high": 460,
+    "low": 454,
+    "volume": 59600,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-21",
+    "close": 458,
+    "open": 458,
+    "high": 458,
+    "low": 456,
+    "volume": 42300,
+    "market_cap": 1286064000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-24",
+    "close": 460,
+    "open": 458,
+    "high": 468,
+    "low": 450,
+    "volume": 116200,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-26",
+    "close": 474,
+    "open": 456,
+    "high": 496,
+    "low": 452,
+    "volume": 245200,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-27",
+    "close": 468,
+    "open": 456,
+    "high": 470,
+    "low": 456,
+    "volume": 74200,
+    "market_cap": 1314144000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-28",
+    "close": 466,
+    "open": 466,
+    "high": 470,
+    "low": 450,
+    "volume": 148600,
+    "market_cap": 1308528000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-08-31",
+    "close": 462,
+    "open": 460,
+    "high": 462,
+    "low": 458,
+    "volume": 103400,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-01",
+    "close": 464,
+    "open": 462,
+    "high": 466,
+    "low": 460,
+    "volume": 55000,
+    "market_cap": 1302912000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-02",
+    "close": 464,
+    "open": 464,
+    "high": 466,
+    "low": 458,
+    "volume": 68700,
+    "market_cap": 1302912000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-03",
+    "close": 460,
+    "open": 464,
+    "high": 464,
+    "low": 454,
+    "volume": 213600,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-04",
+    "close": 460,
+    "open": 460,
+    "high": 460,
+    "low": 456,
+    "volume": 62200,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-07",
+    "close": 460,
+    "open": 460,
+    "high": 460,
+    "low": 458,
+    "volume": 62200,
+    "market_cap": 1291680000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-08",
+    "close": 462,
+    "open": 458,
+    "high": 462,
+    "low": 458,
+    "volume": 55100,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-09",
+    "close": 480,
+    "open": 472,
+    "high": 480,
+    "low": 458,
+    "volume": 86300,
+    "market_cap": 1347840000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-10",
+    "close": 462,
+    "open": 480,
+    "high": 480,
+    "low": 458,
+    "volume": 289000,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-11",
+    "close": 462,
+    "open": 464,
+    "high": 464,
+    "low": 456,
+    "volume": 65400,
+    "market_cap": 1297296000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-14",
+    "close": 472,
+    "open": 466,
+    "high": 476,
+    "low": 456,
+    "volume": 137500,
+    "market_cap": 1325376000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-15",
+    "close": 464,
+    "open": 472,
+    "high": 474,
+    "low": 458,
+    "volume": 49500,
+    "market_cap": 1302912000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-16",
+    "close": 474,
+    "open": 464,
+    "high": 474,
+    "low": 460,
+    "volume": 33500,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-17",
+    "close": 474,
+    "open": 470,
+    "high": 474,
+    "low": 458,
+    "volume": 25900,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-18",
+    "close": 474,
+    "open": 470,
+    "high": 474,
+    "low": 468,
+    "volume": 31000,
+    "market_cap": 1330992000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-21",
+    "close": 490,
+    "open": 468,
+    "high": 490,
+    "low": 462,
+    "volume": 29100,
+    "market_cap": 1375920000000
+  },
+  {
+    "symbol": "TRST.JK",
+    "date": "2026-09-22",
+    "close": 468,
+    "open": 490,
+    "high": 490,
+    "low": 464,
+    "volume": 55500,
+    "market_cap": 1314144000000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-06-24",
+    "close": 408,
+    "open": 418,
+    "high": 420,
+    "low": 408,
+    "volume": 15800,
+    "market_cap": 378534484800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-06-25",
+    "close": 416,
+    "open": 406,
+    "high": 418,
+    "low": 402,
+    "volume": 6100,
+    "market_cap": 385956729600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-06-26",
+    "close": 408,
+    "open": 416,
+    "high": 418,
+    "low": 408,
+    "volume": 3800,
+    "market_cap": 378534484800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-06-29",
+    "close": 402,
+    "open": 402,
+    "high": 410,
+    "low": 402,
+    "volume": 28100,
+    "market_cap": 372967801200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-06-30",
+    "close": 406,
+    "open": 402,
+    "high": 412,
+    "low": 398,
+    "volume": 117900,
+    "market_cap": 376678923600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-01",
+    "close": 400,
+    "open": 404,
+    "high": 414,
+    "low": 398,
+    "volume": 124000,
+    "market_cap": 371112240000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-02",
+    "close": 408,
+    "open": 410,
+    "high": 410,
+    "low": 408,
+    "volume": 1100,
+    "market_cap": 378534484800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-03",
+    "close": 412,
+    "open": 414,
+    "high": 414,
+    "low": 406,
+    "volume": 30600,
+    "market_cap": 382245607200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-06",
+    "close": 408,
+    "open": 410,
+    "high": 412,
+    "low": 404,
+    "volume": 10100,
+    "market_cap": 378534484800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-07",
+    "close": 416,
+    "open": 406,
+    "high": 418,
+    "low": 404,
+    "volume": 3700,
+    "market_cap": 385956729600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-08",
+    "close": 406,
+    "open": 420,
+    "high": 420,
+    "low": 406,
+    "volume": 6700,
+    "market_cap": 376678923600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-09",
+    "close": 404,
+    "open": 410,
+    "high": 410,
+    "low": 404,
+    "volume": 30300,
+    "market_cap": 374823362400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-10",
+    "close": 402,
+    "open": 420,
+    "high": 420,
+    "low": 398,
+    "volume": 23900,
+    "market_cap": 372967801200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-13",
+    "close": 406,
+    "open": 402,
+    "high": 428,
+    "low": 402,
+    "volume": 112800,
+    "market_cap": 376678923600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-14",
+    "close": 414,
+    "open": 410,
+    "high": 414,
+    "low": 406,
+    "volume": 2900,
+    "market_cap": 384101168400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-15",
+    "close": 414,
+    "open": 414,
+    "high": 420,
+    "low": 406,
+    "volume": 16200,
+    "market_cap": 384101168400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-16",
+    "close": 416,
+    "open": 414,
+    "high": 420,
+    "low": 414,
+    "volume": 8400,
+    "market_cap": 385956729600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-17",
+    "close": 420,
+    "open": 422,
+    "high": 422,
+    "low": 410,
+    "volume": 32100,
+    "market_cap": 389667852000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-20",
+    "close": 416,
+    "open": 420,
+    "high": 438,
+    "low": 412,
+    "volume": 613000,
+    "market_cap": 385956729600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-21",
+    "close": 426,
+    "open": 432,
+    "high": 432,
+    "low": 416,
+    "volume": 6600,
+    "market_cap": 395234535600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-22",
+    "close": 430,
+    "open": 422,
+    "high": 430,
+    "low": 420,
+    "volume": 52400,
+    "market_cap": 398945658000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-23",
+    "close": 428,
+    "open": 430,
+    "high": 444,
+    "low": 422,
+    "volume": 52700,
+    "market_cap": 397090096800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-24",
+    "close": 418,
+    "open": 430,
+    "high": 430,
+    "low": 418,
+    "volume": 106700,
+    "market_cap": 387812290800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-27",
+    "close": 418,
+    "open": 416,
+    "high": 430,
+    "low": 416,
+    "volume": 4500,
+    "market_cap": 387812290800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-28",
+    "close": 424,
+    "open": 418,
+    "high": 426,
+    "low": 414,
+    "volume": 12600,
+    "market_cap": 393378974400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-29",
+    "close": 432,
+    "open": 416,
+    "high": 500,
+    "low": 416,
+    "volume": 237300,
+    "market_cap": 400801219200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-30",
+    "close": 424,
+    "open": 434,
+    "high": 434,
+    "low": 416,
+    "volume": 102800,
+    "market_cap": 393378974400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-07-31",
+    "close": 436,
+    "open": 434,
+    "high": 460,
+    "low": 430,
+    "volume": 150200,
+    "market_cap": 404512341600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-03",
+    "close": 444,
+    "open": 438,
+    "high": 444,
+    "low": 436,
+    "volume": 77100,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-04",
+    "close": 442,
+    "open": 444,
+    "high": 444,
+    "low": 436,
+    "volume": 8500,
+    "market_cap": 410079025200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-05",
+    "close": 442,
+    "open": 444,
+    "high": 444,
+    "low": 440,
+    "volume": 11900,
+    "market_cap": 410079025200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-06",
+    "close": 444,
+    "open": 442,
+    "high": 444,
+    "low": 442,
+    "volume": 11200,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-07",
+    "close": 444,
+    "open": 444,
+    "high": 448,
+    "low": 442,
+    "volume": 26600,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-10",
+    "close": 444,
+    "open": 448,
+    "high": 448,
+    "low": 444,
+    "volume": 19400,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-11",
+    "close": 444,
+    "open": 442,
+    "high": 448,
+    "low": 440,
+    "volume": 46200,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-12",
+    "close": 444,
+    "open": 440,
+    "high": 448,
+    "low": 438,
+    "volume": 48400,
+    "market_cap": 411934586400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-13",
+    "close": 446,
+    "open": 446,
+    "high": 446,
+    "low": 438,
+    "volume": 61500,
+    "market_cap": 413790147600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-14",
+    "close": 452,
+    "open": 444,
+    "high": 468,
+    "low": 442,
+    "volume": 61100,
+    "market_cap": 419356831200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-18",
+    "close": 452,
+    "open": 452,
+    "high": 466,
+    "low": 452,
+    "volume": 22600,
+    "market_cap": 419356831200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-19",
+    "close": 456,
+    "open": 452,
+    "high": 464,
+    "low": 452,
+    "volume": 15800,
+    "market_cap": 423067953600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-20",
+    "close": 466,
+    "open": 468,
+    "high": 470,
+    "low": 462,
+    "volume": 38900,
+    "market_cap": 432345759600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-21",
+    "close": 470,
+    "open": 470,
+    "high": 478,
+    "low": 466,
+    "volume": 60600,
+    "market_cap": 436056882000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-24",
+    "close": 468,
+    "open": 470,
+    "high": 470,
+    "low": 466,
+    "volume": 31400,
+    "market_cap": 434201320800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-26",
+    "close": 466,
+    "open": 468,
+    "high": 468,
+    "low": 464,
+    "volume": 79300,
+    "market_cap": 432345759600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-27",
+    "close": 472,
+    "open": 466,
+    "high": 474,
+    "low": 466,
+    "volume": 16200,
+    "market_cap": 437912443200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-28",
+    "close": 470,
+    "open": 472,
+    "high": 472,
+    "low": 466,
+    "volume": 12600,
+    "market_cap": 436056882000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-08-31",
+    "close": 474,
+    "open": 470,
+    "high": 474,
+    "low": 470,
+    "volume": 62600,
+    "market_cap": 439768004400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-01",
+    "close": 484,
+    "open": 474,
+    "high": 484,
+    "low": 472,
+    "volume": 43000,
+    "market_cap": 449045810400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-02",
+    "close": 482,
+    "open": 484,
+    "high": 492,
+    "low": 468,
+    "volume": 253000,
+    "market_cap": 447190249200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-03",
+    "close": 482,
+    "open": 468,
+    "high": 490,
+    "low": 468,
+    "volume": 710000,
+    "market_cap": 447190249200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-04",
+    "close": 476,
+    "open": 482,
+    "high": 488,
+    "low": 472,
+    "volume": 36600,
+    "market_cap": 441623565600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-07",
+    "close": 476,
+    "open": 476,
+    "high": 486,
+    "low": 474,
+    "volume": 33500,
+    "market_cap": 441623565600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-08",
+    "close": 476,
+    "open": 484,
+    "high": 484,
+    "low": 472,
+    "volume": 17500,
+    "market_cap": 441623565600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-09",
+    "close": 474,
+    "open": 478,
+    "high": 478,
+    "low": 472,
+    "volume": 47500,
+    "market_cap": 439768004400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-10",
+    "close": 472,
+    "open": 472,
+    "high": 476,
+    "low": 472,
+    "volume": 97300,
+    "market_cap": 437912443200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-11",
+    "close": 466,
+    "open": 472,
+    "high": 472,
+    "low": 462,
+    "volume": 119100,
+    "market_cap": 432345759600
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-14",
+    "close": 468,
+    "open": 472,
+    "high": 472,
+    "low": 466,
+    "volume": 29200,
+    "market_cap": 434201320800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-15",
+    "close": 468,
+    "open": 476,
+    "high": 476,
+    "low": 468,
+    "volume": 8300,
+    "market_cap": 434201320800
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-16",
+    "close": 474,
+    "open": 476,
+    "high": 482,
+    "low": 472,
+    "volume": 21400,
+    "market_cap": 439768004400
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-17",
+    "close": 472,
+    "open": 474,
+    "high": 474,
+    "low": 468,
+    "volume": 4200,
+    "market_cap": 437912443200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-18",
+    "close": 472,
+    "open": 472,
+    "high": 472,
+    "low": 466,
+    "volume": 2400,
+    "market_cap": 437912443200
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-21",
+    "close": 470,
+    "open": 472,
+    "high": 472,
+    "low": 470,
+    "volume": 1000,
+    "market_cap": 436056882000
+  },
+  {
+    "symbol": "IGAR.JK",
+    "date": "2026-09-22",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 452,
+    "volume": 82500,
+    "market_cap": 432345759600
+  }
+]

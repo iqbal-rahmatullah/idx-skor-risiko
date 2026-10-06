@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-06-24",
+    "close": 184,
+    "open": 191,
+    "high": 200,
+    "low": 182,
+    "volume": 119716600,
+    "market_cap": 368026650192
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-06-25",
+    "close": 185,
+    "open": 185,
+    "high": 204,
+    "low": 182,
+    "volume": 252440300,
+    "market_cap": 370026795030
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-06-26",
+    "close": 158,
+    "open": 188,
+    "high": 189,
+    "low": 158,
+    "volume": 57648300,
+    "market_cap": 316022884404
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-06-29",
+    "close": 135,
+    "open": 135,
+    "high": 135,
+    "low": 135,
+    "volume": 14209400,
+    "market_cap": 270019553130
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-06-30",
+    "close": 121,
+    "open": 115,
+    "high": 142,
+    "low": 115,
+    "volume": 153469000,
+    "market_cap": 242017525398
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-01",
+    "close": 123,
+    "open": 121,
+    "high": 131,
+    "low": 118,
+    "volume": 70109700,
+    "market_cap": 246017815074
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-02",
+    "close": 130,
+    "open": 123,
+    "high": 143,
+    "low": 118,
+    "volume": 111460800,
+    "market_cap": 260018828940
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-03",
+    "close": 129,
+    "open": 133,
+    "high": 133,
+    "low": 127,
+    "volume": 55559700,
+    "market_cap": 258018684102
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-06",
+    "close": 131,
+    "open": 130,
+    "high": 133,
+    "low": 126,
+    "volume": 31299000,
+    "market_cap": 262018973778
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-07",
+    "close": 129,
+    "open": 132,
+    "high": 133,
+    "low": 126,
+    "volume": 42205200,
+    "market_cap": 258018684102
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-08",
+    "close": 128,
+    "open": 127,
+    "high": 130,
+    "low": 124,
+    "volume": 42170300,
+    "market_cap": 256018539264
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-09",
+    "close": 130,
+    "open": 130,
+    "high": 138,
+    "low": 125,
+    "volume": 104621300,
+    "market_cap": 260018828940
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-10",
+    "close": 132,
+    "open": 131,
+    "high": 134,
+    "low": 129,
+    "volume": 38192300,
+    "market_cap": 264019118616
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-13",
+    "close": 136,
+    "open": 133,
+    "high": 137,
+    "low": 131,
+    "volume": 43332700,
+    "market_cap": 272019697968
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-14",
+    "close": 134,
+    "open": 136,
+    "high": 136,
+    "low": 132,
+    "volume": 43405900,
+    "market_cap": 268019408292
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-15",
+    "close": 136,
+    "open": 135,
+    "high": 138,
+    "low": 133,
+    "volume": 36955800,
+    "market_cap": 272019697968
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-16",
+    "close": 139,
+    "open": 137,
+    "high": 142,
+    "low": 136,
+    "volume": 55794000,
+    "market_cap": 278020132482
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-17",
+    "close": 139,
+    "open": 139,
+    "high": 140,
+    "low": 137,
+    "volume": 34576000,
+    "market_cap": 278020132482
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-20",
+    "close": 141,
+    "open": 139,
+    "high": 145,
+    "low": 138,
+    "volume": 32432500,
+    "market_cap": 282020422158
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-21",
+    "close": 156,
+    "open": 141,
+    "high": 158,
+    "low": 139,
+    "volume": 78685900,
+    "market_cap": 312022594728
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-22",
+    "close": 150,
+    "open": 157,
+    "high": 158,
+    "low": 145,
+    "volume": 65661600,
+    "market_cap": 300021725700
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-23",
+    "close": 147,
+    "open": 148,
+    "high": 149,
+    "low": 143,
+    "volume": 30719600,
+    "market_cap": 294021291186
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-24",
+    "close": 147,
+    "open": 146,
+    "high": 148,
+    "low": 139,
+    "volume": 24353700,
+    "market_cap": 294021291186
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-27",
+    "close": 154,
+    "open": 147,
+    "high": 168,
+    "low": 144,
+    "volume": 134818400,
+    "market_cap": 308022305052
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-28",
+    "close": 156,
+    "open": 155,
+    "high": 157,
+    "low": 151,
+    "volume": 20963700,
+    "market_cap": 312022594728
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-29",
+    "close": 150,
+    "open": 156,
+    "high": 158,
+    "low": 148,
+    "volume": 33355800,
+    "market_cap": 300021725700
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-30",
+    "close": 147,
+    "open": 151,
+    "high": 152,
+    "low": 145,
+    "volume": 41745600,
+    "market_cap": 294021291186
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-07-31",
+    "close": 147,
+    "open": 151,
+    "high": 153,
+    "low": 146,
+    "volume": 26036800,
+    "market_cap": 294021291186
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-03",
+    "close": 147,
+    "open": 147,
+    "high": 150,
+    "low": 143,
+    "volume": 21081300,
+    "market_cap": 294021291186
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-04",
+    "close": 153,
+    "open": 149,
+    "high": 153,
+    "low": 147,
+    "volume": 38037600,
+    "market_cap": 306022160214
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-05",
+    "close": 155,
+    "open": 154,
+    "high": 157,
+    "low": 150,
+    "volume": 21675000,
+    "market_cap": 310022449890
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-06",
+    "close": 154,
+    "open": 155,
+    "high": 157,
+    "low": 153,
+    "volume": 20055500,
+    "market_cap": 308022305052
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-07",
+    "close": 158,
+    "open": 155,
+    "high": 159,
+    "low": 152,
+    "volume": 42710100,
+    "market_cap": 316022884404
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-10",
+    "close": 151,
+    "open": 158,
+    "high": 160,
+    "low": 148,
+    "volume": 39141200,
+    "market_cap": 302021870538
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-11",
+    "close": 146,
+    "open": 151,
+    "high": 151,
+    "low": 144,
+    "volume": 20519200,
+    "market_cap": 292021146348
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-12",
+    "close": 146,
+    "open": 147,
+    "high": 148,
+    "low": 144,
+    "volume": 48901500,
+    "market_cap": 292021146348
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-13",
+    "close": 146,
+    "open": 146,
+    "high": 147,
+    "low": 142,
+    "volume": 23223800,
+    "market_cap": 292021146348
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-14",
+    "close": 145,
+    "open": 146,
+    "high": 146,
+    "low": 143,
+    "volume": 23121900,
+    "market_cap": 290021001510
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-18",
+    "close": 139,
+    "open": 145,
+    "high": 145,
+    "low": 139,
+    "volume": 51477300,
+    "market_cap": 278020132482
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-19",
+    "close": 143,
+    "open": 139,
+    "high": 146,
+    "low": 129,
+    "volume": 37809500,
+    "market_cap": 286020711834
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-20",
+    "close": 142,
+    "open": 144,
+    "high": 146,
+    "low": 141,
+    "volume": 40813600,
+    "market_cap": 284020566996
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-21",
+    "close": 141,
+    "open": 143,
+    "high": 143,
+    "low": 140,
+    "volume": 25293300,
+    "market_cap": 282020422158
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-24",
+    "close": 142,
+    "open": 141,
+    "high": 144,
+    "low": 135,
+    "volume": 52714200,
+    "market_cap": 284020566996
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-26",
+    "close": 137,
+    "open": 142,
+    "high": 143,
+    "low": 136,
+    "volume": 34991200,
+    "market_cap": 274019842806
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-27",
+    "close": 140,
+    "open": 138,
+    "high": 140,
+    "low": 134,
+    "volume": 39971500,
+    "market_cap": 280020277320
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-28",
+    "close": 141,
+    "open": 140,
+    "high": 141,
+    "low": 135,
+    "volume": 54513700,
+    "market_cap": 282020422158
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-08-31",
+    "close": 141,
+    "open": 141,
+    "high": 142,
+    "low": 138,
+    "volume": 24076200,
+    "market_cap": 282020422158
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-01",
+    "close": 140,
+    "open": 141,
+    "high": 141,
+    "low": 139,
+    "volume": 18936600,
+    "market_cap": 280020277320
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-02",
+    "close": 153,
+    "open": 141,
+    "high": 153,
+    "low": 139,
+    "volume": 101154200,
+    "market_cap": 306022160214
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-03",
+    "close": 148,
+    "open": 153,
+    "high": 155,
+    "low": 147,
+    "volume": 60836500,
+    "market_cap": 296021436024
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-04",
+    "close": 146,
+    "open": 149,
+    "high": 151,
+    "low": 143,
+    "volume": 28836200,
+    "market_cap": 292021146348
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-07",
+    "close": 152,
+    "open": 147,
+    "high": 152,
+    "low": 142,
+    "volume": 60524100,
+    "market_cap": 304022015376
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-08",
+    "close": 150,
+    "open": 153,
+    "high": 154,
+    "low": 148,
+    "volume": 33912200,
+    "market_cap": 300021725700
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-09",
+    "close": 161,
+    "open": 151,
+    "high": 164,
+    "low": 150,
+    "volume": 102588000,
+    "market_cap": 322023318918
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-10",
+    "close": 157,
+    "open": 162,
+    "high": 165,
+    "low": 156,
+    "volume": 87362400,
+    "market_cap": 314022739566
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-11",
+    "close": 155,
+    "open": 157,
+    "high": 157,
+    "low": 150,
+    "volume": 49325000,
+    "market_cap": 310022449890
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-14",
+    "close": 155,
+    "open": 155,
+    "high": 159,
+    "low": 150,
+    "volume": 47077500,
+    "market_cap": 310022449890
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-15",
+    "close": 173,
+    "open": 155,
+    "high": 173,
+    "low": 151,
+    "volume": 178628100,
+    "market_cap": 346025056974
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-16",
+    "close": 170,
+    "open": 173,
+    "high": 176,
+    "low": 164,
+    "volume": 131792900,
+    "market_cap": 340024622460
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-17",
+    "close": 174,
+    "open": 175,
+    "high": 177,
+    "low": 165,
+    "volume": 103874700,
+    "market_cap": 348025201812
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-18",
+    "close": 178,
+    "open": 174,
+    "high": 182,
+    "low": 172,
+    "volume": 118015800,
+    "market_cap": 356025781164
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-21",
+    "close": 188,
+    "open": 179,
+    "high": 192,
+    "low": 179,
+    "volume": 131717700,
+    "market_cap": 376027229544
+  },
+  {
+    "symbol": "UVCR.JK",
+    "date": "2026-09-22",
+    "close": 172,
+    "open": 188,
+    "high": 188,
+    "low": 163,
+    "volume": 105358200,
+    "market_cap": 344024912136
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-06-24",
+    "close": 1795,
+    "open": 2030,
+    "high": 2060,
+    "low": 1785,
+    "volume": 750989100,
+    "market_cap": 155288223440140
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-06-25",
+    "close": 1890,
+    "open": 1790,
+    "high": 1925,
+    "low": 1785,
+    "volume": 554382600,
+    "market_cap": 163506820223880
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-06-26",
+    "close": 1795,
+    "open": 1885,
+    "high": 1900,
+    "low": 1755,
+    "volume": 446489400,
+    "market_cap": 155288223440140
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-06-29",
+    "close": 1710,
+    "open": 1800,
+    "high": 1825,
+    "low": 1710,
+    "volume": 271633200,
+    "market_cap": 147934742107320
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-06-30",
+    "close": 1655,
+    "open": 1730,
+    "high": 1750,
+    "low": 1625,
+    "volume": 393620800,
+    "market_cap": 143176607127260
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-01",
+    "close": 1680,
+    "open": 1655,
+    "high": 1770,
+    "low": 1635,
+    "volume": 484233900,
+    "market_cap": 145339395754560
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-02",
+    "close": 1770,
+    "open": 1680,
+    "high": 1825,
+    "low": 1665,
+    "volume": 436620300,
+    "market_cap": 153125434812840
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-03",
+    "close": 1785,
+    "open": 1805,
+    "high": 1835,
+    "low": 1775,
+    "volume": 255806900,
+    "market_cap": 154423107989220
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-06",
+    "close": 1885,
+    "open": 1800,
+    "high": 1905,
+    "low": 1790,
+    "volume": 342520900,
+    "market_cap": 163074262498420
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-07",
+    "close": 1890,
+    "open": 1905,
+    "high": 1915,
+    "low": 1860,
+    "volume": 302538500,
+    "market_cap": 163506820223880
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-08",
+    "close": 1785,
+    "open": 1885,
+    "high": 1885,
+    "low": 1785,
+    "volume": 225051500,
+    "market_cap": 154423107989220
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-09",
+    "close": 1825,
+    "open": 1785,
+    "high": 1860,
+    "low": 1770,
+    "volume": 205236900,
+    "market_cap": 157883569792900
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-10",
+    "close": 1805,
+    "open": 1845,
+    "high": 1855,
+    "low": 1790,
+    "volume": 135492000,
+    "market_cap": 156153338891060
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-13",
+    "close": 1890,
+    "open": 1805,
+    "high": 1890,
+    "low": 1790,
+    "volume": 242053400,
+    "market_cap": 163506820223880
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-14",
+    "close": 1880,
+    "open": 1920,
+    "high": 2000,
+    "low": 1855,
+    "volume": 736711100,
+    "market_cap": 162641704772960
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-15",
+    "close": 1910,
+    "open": 1910,
+    "high": 1955,
+    "low": 1905,
+    "volume": 293212000,
+    "market_cap": 165237051125720
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-16",
+    "close": 1930,
+    "open": 1925,
+    "high": 1960,
+    "low": 1890,
+    "volume": 271533700,
+    "market_cap": 166967282027560
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-17",
+    "close": 1945,
+    "open": 1935,
+    "high": 1980,
+    "low": 1895,
+    "volume": 320340100,
+    "market_cap": 168264955203940
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-20",
+    "close": 2120,
+    "open": 1955,
+    "high": 2130,
+    "low": 1955,
+    "volume": 805070400,
+    "market_cap": 183404475595040
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-21",
+    "close": 2250,
+    "open": 2150,
+    "high": 2300,
+    "low": 2080,
+    "volume": 1022958500,
+    "market_cap": 194650976457000
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-22",
+    "close": 2280,
+    "open": 2270,
+    "high": 2350,
+    "low": 2190,
+    "volume": 735480100,
+    "market_cap": 197246322809760
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-23",
+    "close": 2170,
+    "open": 2290,
+    "high": 2370,
+    "low": 2160,
+    "volume": 741912300,
+    "market_cap": 187730052849640
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-24",
+    "close": 2100,
+    "open": 2110,
+    "high": 2140,
+    "low": 2000,
+    "volume": 595850600,
+    "market_cap": 181674244693200
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-27",
+    "close": 2090,
+    "open": 2090,
+    "high": 2140,
+    "low": 2050,
+    "volume": 280587700,
+    "market_cap": 180809129242280
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-28",
+    "close": 2090,
+    "open": 2070,
+    "high": 2150,
+    "low": 2050,
+    "volume": 257098900,
+    "market_cap": 180809129242280
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-29",
+    "close": 2200,
+    "open": 2090,
+    "high": 2240,
+    "low": 2030,
+    "volume": 653191000,
+    "market_cap": 190325399202400
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-30",
+    "close": 2110,
+    "open": 2180,
+    "high": 2200,
+    "low": 2090,
+    "volume": 542946300,
+    "market_cap": 182539360144120
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-07-31",
+    "close": 2160,
+    "open": 2130,
+    "high": 2180,
+    "low": 2120,
+    "volume": 266975100,
+    "market_cap": 186864937398720
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-03",
+    "close": 2080,
+    "open": 2170,
+    "high": 2200,
+    "low": 2060,
+    "volume": 336732400,
+    "market_cap": 179944013791360
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-04",
+    "close": 2070,
+    "open": 2100,
+    "high": 2120,
+    "low": 2050,
+    "volume": 249953500,
+    "market_cap": 179078898340440
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-05",
+    "close": 2060,
+    "open": 2090,
+    "high": 2120,
+    "low": 2060,
+    "volume": 243303400,
+    "market_cap": 178213782889520
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-06",
+    "close": 2130,
+    "open": 2100,
+    "high": 2150,
+    "low": 2080,
+    "volume": 415816900,
+    "market_cap": 184269591045960
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-07",
+    "close": 2230,
+    "open": 2150,
+    "high": 2250,
+    "low": 2110,
+    "volume": 578851700,
+    "market_cap": 192920745555160
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-10",
+    "close": 2120,
+    "open": 2260,
+    "high": 2270,
+    "low": 2120,
+    "volume": 654992400,
+    "market_cap": 183404475595040
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-11",
+    "close": 2070,
+    "open": 2130,
+    "high": 2150,
+    "low": 2030,
+    "volume": 374462700,
+    "market_cap": 179078898340440
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-12",
+    "close": 2160,
+    "open": 2070,
+    "high": 2170,
+    "low": 2070,
+    "volume": 390809300,
+    "market_cap": 186864937398720
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-13",
+    "close": 2060,
+    "open": 2150,
+    "high": 2150,
+    "low": 2040,
+    "volume": 330510600,
+    "market_cap": 178213782889520
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-14",
+    "close": 2010,
+    "open": 2070,
+    "high": 2100,
+    "low": 1975,
+    "volume": 426815200,
+    "market_cap": 173888205634920
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-18",
+    "close": 1965,
+    "open": 2010,
+    "high": 2030,
+    "low": 1965,
+    "volume": 292831100,
+    "market_cap": 169995186105780
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-19",
+    "close": 1950,
+    "open": 1960,
+    "high": 1975,
+    "low": 1940,
+    "volume": 210344500,
+    "market_cap": 168697512929400
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-20",
+    "close": 1965,
+    "open": 1975,
+    "high": 2010,
+    "low": 1960,
+    "volume": 174537600,
+    "market_cap": 169995186105780
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-21",
+    "close": 2030,
+    "open": 2010,
+    "high": 2080,
+    "low": 2000,
+    "volume": 327069000,
+    "market_cap": 175618436536760
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-24",
+    "close": 1990,
+    "open": 2080,
+    "high": 2080,
+    "low": 1990,
+    "volume": 218907300,
+    "market_cap": 172157974733080
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-26",
+    "close": 1870,
+    "open": 1990,
+    "high": 1995,
+    "low": 1870,
+    "volume": 346133100,
+    "market_cap": 161776589322040
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-27",
+    "close": 1950,
+    "open": 1850,
+    "high": 1955,
+    "low": 1830,
+    "volume": 250093700,
+    "market_cap": 168697512929400
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-28",
+    "close": 1965,
+    "open": 1950,
+    "high": 2040,
+    "low": 1935,
+    "volume": 353309300,
+    "market_cap": 169995186105780
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-08-31",
+    "close": 1955,
+    "open": 1975,
+    "high": 1990,
+    "low": 1950,
+    "volume": 130464400,
+    "market_cap": 169130070654860
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-01",
+    "close": 2000,
+    "open": 1965,
+    "high": 2030,
+    "low": 1960,
+    "volume": 226101300,
+    "market_cap": 173023090184000
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-02",
+    "close": 2020,
+    "open": 2030,
+    "high": 2040,
+    "low": 1980,
+    "volume": 140920500,
+    "market_cap": 174753321085840
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-03",
+    "close": 2010,
+    "open": 2030,
+    "high": 2060,
+    "low": 2000,
+    "volume": 198549900,
+    "market_cap": 173888205634920
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-04",
+    "close": 1995,
+    "open": 2030,
+    "high": 2050,
+    "low": 1990,
+    "volume": 163271900,
+    "market_cap": 172590532458540
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-07",
+    "close": 1975,
+    "open": 1995,
+    "high": 2010,
+    "low": 1970,
+    "volume": 149990100,
+    "market_cap": 170860301556700
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-08",
+    "close": 1950,
+    "open": 1975,
+    "high": 1985,
+    "low": 1950,
+    "volume": 155494000,
+    "market_cap": 168697512929400
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-09",
+    "close": 1935,
+    "open": 1955,
+    "high": 1970,
+    "low": 1930,
+    "volume": 122353400,
+    "market_cap": 167399839753020
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-10",
+    "close": 1930,
+    "open": 1940,
+    "high": 1990,
+    "low": 1930,
+    "volume": 206590700,
+    "market_cap": 166967282027560
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-11",
+    "close": 1880,
+    "open": 1915,
+    "high": 1915,
+    "low": 1875,
+    "volume": 197416800,
+    "market_cap": 162641704772960
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-14",
+    "close": 1865,
+    "open": 1880,
+    "high": 1880,
+    "low": 1805,
+    "volume": 192119000,
+    "market_cap": 161344031596580
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-15",
+    "close": 1835,
+    "open": 1870,
+    "high": 1880,
+    "low": 1830,
+    "volume": 77735600,
+    "market_cap": 158748685243820
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-16",
+    "close": 1825,
+    "open": 1835,
+    "high": 1870,
+    "low": 1825,
+    "volume": 66688400,
+    "market_cap": 157883569792900
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-17",
+    "close": 1830,
+    "open": 1830,
+    "high": 1860,
+    "low": 1810,
+    "volume": 80199800,
+    "market_cap": 158316127518360
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-18",
+    "close": 1835,
+    "open": 1850,
+    "high": 1855,
+    "low": 1815,
+    "volume": 88082300,
+    "market_cap": 158748685243820
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-21",
+    "close": 1880,
+    "open": 1845,
+    "high": 1910,
+    "low": 1845,
+    "volume": 181223400,
+    "market_cap": 162641704772960
+  },
+  {
+    "symbol": "TPIA.JK",
+    "date": "2026-09-22",
+    "close": 1810,
+    "open": 1890,
+    "high": 1905,
+    "low": 1805,
+    "volume": 140409700,
+    "market_cap": 156585896616520
+  }
+]

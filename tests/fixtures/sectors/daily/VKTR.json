@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-06-24",
+    "close": 555,
+    "open": 610,
+    "high": 615,
+    "low": 550,
+    "volume": 30965100,
+    "market_cap": 24281250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-06-25",
+    "close": 570,
+    "open": 555,
+    "high": 590,
+    "low": 550,
+    "volume": 13191500,
+    "market_cap": 24937500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-06-26",
+    "close": 520,
+    "open": 585,
+    "high": 585,
+    "low": 510,
+    "volume": 26513900,
+    "market_cap": 22750000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-06-29",
+    "close": 530,
+    "open": 510,
+    "high": 540,
+    "low": 505,
+    "volume": 13244700,
+    "market_cap": 23187500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-06-30",
+    "close": 468,
+    "open": 550,
+    "high": 550,
+    "low": 462,
+    "volume": 65330900,
+    "market_cap": 20475000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-01",
+    "close": 460,
+    "open": 468,
+    "high": 490,
+    "low": 448,
+    "volume": 66119000,
+    "market_cap": 20125000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-02",
+    "close": 530,
+    "open": 456,
+    "high": 535,
+    "low": 456,
+    "volume": 76344700,
+    "market_cap": 23187500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-03",
+    "close": 520,
+    "open": 530,
+    "high": 550,
+    "low": 520,
+    "volume": 47342400,
+    "market_cap": 22750000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-06",
+    "close": 530,
+    "open": 525,
+    "high": 545,
+    "low": 520,
+    "volume": 19671800,
+    "market_cap": 23187500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-07",
+    "close": 525,
+    "open": 530,
+    "high": 535,
+    "low": 515,
+    "volume": 15316200,
+    "market_cap": 22968750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-08",
+    "close": 500,
+    "open": 525,
+    "high": 530,
+    "low": 498,
+    "volume": 15839300,
+    "market_cap": 21875000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-09",
+    "close": 545,
+    "open": 500,
+    "high": 550,
+    "low": 500,
+    "volume": 36563800,
+    "market_cap": 23843750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-10",
+    "close": 520,
+    "open": 545,
+    "high": 550,
+    "low": 515,
+    "volume": 18016600,
+    "market_cap": 22750000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-13",
+    "close": 650,
+    "open": 530,
+    "high": 650,
+    "low": 515,
+    "volume": 186438000,
+    "market_cap": 28437500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-14",
+    "close": 725,
+    "open": 675,
+    "high": 800,
+    "low": 635,
+    "volume": 283057300,
+    "market_cap": 31718750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-15",
+    "close": 715,
+    "open": 725,
+    "high": 725,
+    "low": 690,
+    "volume": 51770700,
+    "market_cap": 31281250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-16",
+    "close": 695,
+    "open": 720,
+    "high": 720,
+    "low": 690,
+    "volume": 28625500,
+    "market_cap": 30406250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-17",
+    "close": 705,
+    "open": 700,
+    "high": 750,
+    "low": 700,
+    "volume": 81702400,
+    "market_cap": 30843750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-20",
+    "close": 760,
+    "open": 715,
+    "high": 760,
+    "low": 710,
+    "volume": 75988400,
+    "market_cap": 33250000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-21",
+    "close": 775,
+    "open": 780,
+    "high": 815,
+    "low": 745,
+    "volume": 168720600,
+    "market_cap": 33906250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-22",
+    "close": 855,
+    "open": 780,
+    "high": 865,
+    "low": 770,
+    "volume": 190520400,
+    "market_cap": 37406250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-23",
+    "close": 810,
+    "open": 855,
+    "high": 900,
+    "low": 800,
+    "volume": 225805900,
+    "market_cap": 35437500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-24",
+    "close": 770,
+    "open": 790,
+    "high": 810,
+    "low": 755,
+    "volume": 70686100,
+    "market_cap": 33687500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-27",
+    "close": 800,
+    "open": 790,
+    "high": 830,
+    "low": 775,
+    "volume": 114348500,
+    "market_cap": 35000000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-28",
+    "close": 770,
+    "open": 785,
+    "high": 795,
+    "low": 760,
+    "volume": 39517600,
+    "market_cap": 33687500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-29",
+    "close": 710,
+    "open": 760,
+    "high": 770,
+    "low": 700,
+    "volume": 96693800,
+    "market_cap": 31062500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-30",
+    "close": 720,
+    "open": 715,
+    "high": 730,
+    "low": 695,
+    "volume": 38562600,
+    "market_cap": 31500000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-07-31",
+    "close": 730,
+    "open": 735,
+    "high": 760,
+    "low": 725,
+    "volume": 40867500,
+    "market_cap": 31937500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-03",
+    "close": 710,
+    "open": 745,
+    "high": 745,
+    "low": 705,
+    "volume": 36324100,
+    "market_cap": 31062500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-04",
+    "close": 740,
+    "open": 715,
+    "high": 740,
+    "low": 705,
+    "volume": 25406500,
+    "market_cap": 32375000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-05",
+    "close": 890,
+    "open": 755,
+    "high": 890,
+    "low": 745,
+    "volume": 193775600,
+    "market_cap": 38937500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-06",
+    "close": 860,
+    "open": 900,
+    "high": 920,
+    "low": 845,
+    "volume": 178669500,
+    "market_cap": 37625000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-07",
+    "close": 885,
+    "open": 870,
+    "high": 935,
+    "low": 860,
+    "volume": 92110300,
+    "market_cap": 38718750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-10",
+    "close": 855,
+    "open": 890,
+    "high": 915,
+    "low": 855,
+    "volume": 73568300,
+    "market_cap": 37406250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-11",
+    "close": 795,
+    "open": 865,
+    "high": 865,
+    "low": 785,
+    "volume": 79025900,
+    "market_cap": 34781250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-12",
+    "close": 860,
+    "open": 795,
+    "high": 860,
+    "low": 795,
+    "volume": 65826600,
+    "market_cap": 37625000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-13",
+    "close": 820,
+    "open": 865,
+    "high": 870,
+    "low": 805,
+    "volume": 43708800,
+    "market_cap": 35875000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-14",
+    "close": 885,
+    "open": 820,
+    "high": 920,
+    "low": 810,
+    "volume": 201417800,
+    "market_cap": 38718750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-18",
+    "close": 875,
+    "open": 900,
+    "high": 915,
+    "low": 870,
+    "volume": 76397400,
+    "market_cap": 38281250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-19",
+    "close": 875,
+    "open": 875,
+    "high": 930,
+    "low": 855,
+    "volume": 90166900,
+    "market_cap": 38281250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-20",
+    "close": 930,
+    "open": 880,
+    "high": 960,
+    "low": 880,
+    "volume": 164850400,
+    "market_cap": 40687500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-21",
+    "close": 915,
+    "open": 915,
+    "high": 935,
+    "low": 910,
+    "volume": 60985100,
+    "market_cap": 40031250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-24",
+    "close": 895,
+    "open": 920,
+    "high": 925,
+    "low": 895,
+    "volume": 28782200,
+    "market_cap": 39156250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-26",
+    "close": 830,
+    "open": 895,
+    "high": 895,
+    "low": 830,
+    "volume": 63547300,
+    "market_cap": 36312500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-27",
+    "close": 905,
+    "open": 830,
+    "high": 905,
+    "low": 825,
+    "volume": 59050000,
+    "market_cap": 39593750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-28",
+    "close": 965,
+    "open": 905,
+    "high": 990,
+    "low": 890,
+    "volume": 188058400,
+    "market_cap": 42218750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-08-31",
+    "close": 960,
+    "open": 955,
+    "high": 1005,
+    "low": 955,
+    "volume": 119363900,
+    "market_cap": 42000000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-01",
+    "close": 930,
+    "open": 960,
+    "high": 975,
+    "low": 925,
+    "volume": 66776700,
+    "market_cap": 40687500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-02",
+    "close": 935,
+    "open": 975,
+    "high": 990,
+    "low": 910,
+    "volume": 127019500,
+    "market_cap": 40906250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-03",
+    "close": 915,
+    "open": 945,
+    "high": 950,
+    "low": 905,
+    "volume": 95025900,
+    "market_cap": 40031250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-04",
+    "close": 865,
+    "open": 915,
+    "high": 920,
+    "low": 860,
+    "volume": 125700100,
+    "market_cap": 37843750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-07",
+    "close": 880,
+    "open": 870,
+    "high": 890,
+    "low": 845,
+    "volume": 73974900,
+    "market_cap": 38500000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-08",
+    "close": 875,
+    "open": 885,
+    "high": 910,
+    "low": 865,
+    "volume": 101058600,
+    "market_cap": 38281250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-09",
+    "close": 855,
+    "open": 890,
+    "high": 895,
+    "low": 855,
+    "volume": 87548700,
+    "market_cap": 37406250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-10",
+    "close": 805,
+    "open": 855,
+    "high": 855,
+    "low": 795,
+    "volume": 189995300,
+    "market_cap": 35218750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-11",
+    "close": 795,
+    "open": 795,
+    "high": 795,
+    "low": 760,
+    "volume": 51611000,
+    "market_cap": 34781250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-14",
+    "close": 765,
+    "open": 795,
+    "high": 800,
+    "low": 730,
+    "volume": 90553500,
+    "market_cap": 33468750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-15",
+    "close": 755,
+    "open": 775,
+    "high": 795,
+    "low": 750,
+    "volume": 57379800,
+    "market_cap": 33031250000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-16",
+    "close": 730,
+    "open": 755,
+    "high": 765,
+    "low": 725,
+    "volume": 35130500,
+    "market_cap": 31937500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-17",
+    "close": 770,
+    "open": 730,
+    "high": 775,
+    "low": 725,
+    "volume": 55437800,
+    "market_cap": 33687500000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-18",
+    "close": 785,
+    "open": 770,
+    "high": 800,
+    "low": 740,
+    "volume": 88317400,
+    "market_cap": 34343750000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-21",
+    "close": 780,
+    "open": 795,
+    "high": 815,
+    "low": 765,
+    "volume": 59073600,
+    "market_cap": 34125000000000
+  },
+  {
+    "symbol": "VKTR.JK",
+    "date": "2026-09-22",
+    "close": 770,
+    "open": 785,
+    "high": 790,
+    "low": 760,
+    "volume": 42174400,
+    "market_cap": 33687500000000
+  }
+]

@@ -1,0 +1,212 @@
+{
+  "symbol": "ANTM.JK",
+  "start": "2026-09-16",
+  "end": "2026-09-16",
+  "origin": "all",
+  "cohort": "all",
+  "foreign": false,
+  "top_buyers": [
+    {
+      "rank": 1,
+      "broker_code": "ZP",
+      "net_idr": 23280621000,
+      "buy_idr": 56892248000,
+      "sell_idr": 33611627000,
+      "foreign_net_idr": 29300887000,
+      "foreign_buy_idr": 54267587000,
+      "foreign_sell_idr": 24966700000
+    },
+    {
+      "rank": 2,
+      "broker_code": "TP",
+      "net_idr": 23262370000,
+      "buy_idr": 28095864000,
+      "sell_idr": 4833494000,
+      "foreign_net_idr": 25638262000,
+      "foreign_buy_idr": 25638262000,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 3,
+      "broker_code": "SS",
+      "net_idr": 18144000000,
+      "buy_idr": 18144000000,
+      "sell_idr": 0,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 4,
+      "broker_code": "AI",
+      "net_idr": 11239339000,
+      "buy_idr": 12886347000,
+      "sell_idr": 1647008000,
+      "foreign_net_idr": 9980112000,
+      "foreign_buy_idr": 9980112000,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 5,
+      "broker_code": "KI",
+      "net_idr": 7441463000,
+      "buy_idr": 8023474000,
+      "sell_idr": 582011000,
+      "foreign_net_idr": 530310000,
+      "foreign_buy_idr": 530310000,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 6,
+      "broker_code": "XC",
+      "net_idr": 7054439000,
+      "buy_idr": 22324371000,
+      "sell_idr": 15269932000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 7,
+      "broker_code": "PD",
+      "net_idr": 5705479000,
+      "buy_idr": 16966448000,
+      "sell_idr": 11260969000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 8,
+      "broker_code": "DR",
+      "net_idr": 3717559000,
+      "buy_idr": 9800255000,
+      "sell_idr": 6082696000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 9,
+      "broker_code": "GR",
+      "net_idr": 3203255000,
+      "buy_idr": 4704455000,
+      "sell_idr": 1501200000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 10,
+      "broker_code": "DX",
+      "net_idr": 1984507000,
+      "buy_idr": 2349138000,
+      "sell_idr": 364631000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    }
+  ],
+  "top_sellers": [
+    {
+      "rank": 1,
+      "broker_code": "AZ",
+      "net_idr": -17994121000,
+      "buy_idr": 4121273000,
+      "sell_idr": 22115394000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 2,
+      "broker_code": "BK",
+      "net_idr": -16712593000,
+      "buy_idr": 23083158000,
+      "sell_idr": 39795751000,
+      "foreign_net_idr": -16712593000,
+      "foreign_buy_idr": 23083158000,
+      "foreign_sell_idr": 39795751000
+    },
+    {
+      "rank": 3,
+      "broker_code": "BB",
+      "net_idr": -15829769000,
+      "buy_idr": 3059482000,
+      "sell_idr": 18889251000,
+      "foreign_net_idr": 2951934000,
+      "foreign_buy_idr": 2951934000,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 4,
+      "broker_code": "CC",
+      "net_idr": -15669458000,
+      "buy_idr": 37116719000,
+      "sell_idr": 52786177000,
+      "foreign_net_idr": 6308484000,
+      "foreign_buy_idr": 11914160000,
+      "foreign_sell_idr": 5605676000
+    },
+    {
+      "rank": 5,
+      "broker_code": "LG",
+      "net_idr": -11184058000,
+      "buy_idr": 8415132000,
+      "sell_idr": 19599190000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 6,
+      "broker_code": "AG",
+      "net_idr": -5827887000,
+      "buy_idr": 4233364000,
+      "sell_idr": 10061251000,
+      "foreign_net_idr": -7544376000,
+      "foreign_buy_idr": 258305000,
+      "foreign_sell_idr": 7802681000
+    },
+    {
+      "rank": 7,
+      "broker_code": "RF",
+      "net_idr": -4823380000,
+      "buy_idr": 6620000,
+      "sell_idr": 4830000000,
+      "foreign_net_idr": 0,
+      "foreign_buy_idr": 0,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 8,
+      "broker_code": "XL",
+      "net_idr": -4548820000,
+      "buy_idr": 44161680000,
+      "sell_idr": 48710500000,
+      "foreign_net_idr": 82152000,
+      "foreign_buy_idr": 82152000,
+      "foreign_sell_idr": 0
+    },
+    {
+      "rank": 9,
+      "broker_code": "HD",
+      "net_idr": -3782697000,
+      "buy_idr": 4384533000,
+      "sell_idr": 8167230000,
+      "foreign_net_idr": -3393846000,
+      "foreign_buy_idr": 4017858000,
+      "foreign_sell_idr": 7411704000
+    },
+    {
+      "rank": 10,
+      "broker_code": "YP",
+      "net_idr": -3499317000,
+      "buy_idr": 18504933000,
+      "sell_idr": 22004250000,
+      "foreign_net_idr": -1123785000,
+      "foreign_buy_idr": 126547000,
+      "foreign_sell_idr": 1250332000
+    }
+  ]
+}

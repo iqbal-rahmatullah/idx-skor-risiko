@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-06-24",
+    "close": 212,
+    "open": 228,
+    "high": 232,
+    "low": 212,
+    "volume": 14806600,
+    "market_cap": 2801999234876
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-06-25",
+    "close": 222,
+    "open": 212,
+    "high": 226,
+    "low": 210,
+    "volume": 17382200,
+    "market_cap": 2934169010106
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-06-26",
+    "close": 212,
+    "open": 220,
+    "high": 222,
+    "low": 206,
+    "volume": 14272200,
+    "market_cap": 2801999234876
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-06-29",
+    "close": 210,
+    "open": 212,
+    "high": 216,
+    "low": 208,
+    "volume": 6061800,
+    "market_cap": 2775565279830
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-06-30",
+    "close": 206,
+    "open": 210,
+    "high": 210,
+    "low": 202,
+    "volume": 13223900,
+    "market_cap": 2722697369738
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-01",
+    "close": 204,
+    "open": 204,
+    "high": 210,
+    "low": 202,
+    "volume": 6513700,
+    "market_cap": 2696263414692
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-02",
+    "close": 212,
+    "open": 206,
+    "high": 214,
+    "low": 206,
+    "volume": 10165600,
+    "market_cap": 2801999234876
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-03",
+    "close": 212,
+    "open": 212,
+    "high": 220,
+    "low": 210,
+    "volume": 10652000,
+    "market_cap": 2801999234876
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-06",
+    "close": 214,
+    "open": 214,
+    "high": 216,
+    "low": 208,
+    "volume": 10209800,
+    "market_cap": 2828433189922
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-07",
+    "close": 222,
+    "open": 216,
+    "high": 222,
+    "low": 214,
+    "volume": 13849900,
+    "market_cap": 2934169010106
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-08",
+    "close": 212,
+    "open": 220,
+    "high": 220,
+    "low": 212,
+    "volume": 9071000,
+    "market_cap": 2801999234876
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-09",
+    "close": 226,
+    "open": 212,
+    "high": 228,
+    "low": 208,
+    "volume": 24103000,
+    "market_cap": 2987036920198
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-10",
+    "close": 218,
+    "open": 222,
+    "high": 224,
+    "low": 216,
+    "volume": 10159400,
+    "market_cap": 2881301100014
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-13",
+    "close": 224,
+    "open": 218,
+    "high": 224,
+    "low": 212,
+    "volume": 9585900,
+    "market_cap": 2960602965152
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-14",
+    "close": 224,
+    "open": 226,
+    "high": 230,
+    "low": 222,
+    "volume": 13652800,
+    "market_cap": 2960602965152
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-15",
+    "close": 232,
+    "open": 226,
+    "high": 236,
+    "low": 222,
+    "volume": 29257000,
+    "market_cap": 3066338785336
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-16",
+    "close": 234,
+    "open": 234,
+    "high": 238,
+    "low": 228,
+    "volume": 19394200,
+    "market_cap": 3092772740382
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-17",
+    "close": 262,
+    "open": 234,
+    "high": 270,
+    "low": 234,
+    "volume": 160758000,
+    "market_cap": 3462848111026
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-20",
+    "close": 256,
+    "open": 258,
+    "high": 266,
+    "low": 254,
+    "volume": 47307900,
+    "market_cap": 3383546245888
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-21",
+    "close": 262,
+    "open": 260,
+    "high": 262,
+    "low": 254,
+    "volume": 37104600,
+    "market_cap": 3462848111026
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-22",
+    "close": 262,
+    "open": 264,
+    "high": 268,
+    "low": 254,
+    "volume": 33413400,
+    "market_cap": 3462848111026
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-23",
+    "close": 254,
+    "open": 268,
+    "high": 268,
+    "low": 254,
+    "volume": 33567800,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-24",
+    "close": 244,
+    "open": 252,
+    "high": 252,
+    "low": 240,
+    "volume": 28294800,
+    "market_cap": 3224942515612
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-27",
+    "close": 244,
+    "open": 238,
+    "high": 248,
+    "low": 238,
+    "volume": 13189300,
+    "market_cap": 3224942515612
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-28",
+    "close": 238,
+    "open": 244,
+    "high": 246,
+    "low": 238,
+    "volume": 13871800,
+    "market_cap": 3145640650474
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-29",
+    "close": 232,
+    "open": 240,
+    "high": 244,
+    "low": 220,
+    "volume": 27567500,
+    "market_cap": 3066338785336
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-30",
+    "close": 244,
+    "open": 232,
+    "high": 244,
+    "low": 232,
+    "volume": 21135700,
+    "market_cap": 3224942515612
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-07-31",
+    "close": 264,
+    "open": 248,
+    "high": 264,
+    "low": 244,
+    "volume": 32801000,
+    "market_cap": 3489282066072
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-03",
+    "close": 252,
+    "open": 264,
+    "high": 264,
+    "low": 250,
+    "volume": 30640400,
+    "market_cap": 3330678335796
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-04",
+    "close": 260,
+    "open": 254,
+    "high": 266,
+    "low": 254,
+    "volume": 36285300,
+    "market_cap": 3436414155980
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-05",
+    "close": 260,
+    "open": 262,
+    "high": 266,
+    "low": 260,
+    "volume": 25069300,
+    "market_cap": 3436414155980
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-06",
+    "close": 260,
+    "open": 264,
+    "high": 266,
+    "low": 260,
+    "volume": 20303600,
+    "market_cap": 3436414155980
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-07",
+    "close": 270,
+    "open": 260,
+    "high": 274,
+    "low": 260,
+    "volume": 45546200,
+    "market_cap": 3568583931210
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-10",
+    "close": 264,
+    "open": 270,
+    "high": 274,
+    "low": 262,
+    "volume": 32392800,
+    "market_cap": 3489282066072
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-11",
+    "close": 254,
+    "open": 266,
+    "high": 266,
+    "low": 254,
+    "volume": 22149000,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-12",
+    "close": 256,
+    "open": 254,
+    "high": 260,
+    "low": 254,
+    "volume": 19921800,
+    "market_cap": 3383546245888
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-13",
+    "close": 250,
+    "open": 258,
+    "high": 260,
+    "low": 248,
+    "volume": 19190300,
+    "market_cap": 3304244380750
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-14",
+    "close": 250,
+    "open": 250,
+    "high": 254,
+    "low": 246,
+    "volume": 10511100,
+    "market_cap": 3304244380750
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-18",
+    "close": 252,
+    "open": 250,
+    "high": 266,
+    "low": 250,
+    "volume": 50054500,
+    "market_cap": 3330678335796
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-19",
+    "close": 250,
+    "open": 254,
+    "high": 256,
+    "low": 250,
+    "volume": 11127900,
+    "market_cap": 3304244380750
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-20",
+    "close": 254,
+    "open": 250,
+    "high": 256,
+    "low": 250,
+    "volume": 20771100,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-21",
+    "close": 256,
+    "open": 256,
+    "high": 260,
+    "low": 254,
+    "volume": 24403100,
+    "market_cap": 3383546245888
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-24",
+    "close": 252,
+    "open": 256,
+    "high": 258,
+    "low": 250,
+    "volume": 20078900,
+    "market_cap": 3330678335796
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-26",
+    "close": 242,
+    "open": 252,
+    "high": 252,
+    "low": 242,
+    "volume": 27829900,
+    "market_cap": 3198508560566
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-27",
+    "close": 248,
+    "open": 240,
+    "high": 250,
+    "low": 240,
+    "volume": 16578600,
+    "market_cap": 3277810425704
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-28",
+    "close": 254,
+    "open": 248,
+    "high": 262,
+    "low": 248,
+    "volume": 56903700,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-08-31",
+    "close": 254,
+    "open": 254,
+    "high": 258,
+    "low": 248,
+    "volume": 33967500,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-01",
+    "close": 266,
+    "open": 254,
+    "high": 276,
+    "low": 254,
+    "volume": 99902000,
+    "market_cap": 3515716021118
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-02",
+    "close": 278,
+    "open": 266,
+    "high": 294,
+    "low": 262,
+    "volume": 228560900,
+    "market_cap": 3674319751394
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-03",
+    "close": 274,
+    "open": 278,
+    "high": 280,
+    "low": 270,
+    "volume": 56600200,
+    "market_cap": 3621451841302
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-04",
+    "close": 270,
+    "open": 276,
+    "high": 278,
+    "low": 268,
+    "volume": 31063600,
+    "market_cap": 3568583931210
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-07",
+    "close": 264,
+    "open": 270,
+    "high": 272,
+    "low": 264,
+    "volume": 23992000,
+    "market_cap": 3489282066072
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-08",
+    "close": 266,
+    "open": 264,
+    "high": 268,
+    "low": 264,
+    "volume": 32956300,
+    "market_cap": 3515716021118
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-09",
+    "close": 260,
+    "open": 268,
+    "high": 268,
+    "low": 260,
+    "volume": 27622400,
+    "market_cap": 3436414155980
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-10",
+    "close": 254,
+    "open": 260,
+    "high": 264,
+    "low": 254,
+    "volume": 35226300,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-11",
+    "close": 250,
+    "open": 252,
+    "high": 254,
+    "low": 244,
+    "volume": 33698600,
+    "market_cap": 3304244380750
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-14",
+    "close": 254,
+    "open": 250,
+    "high": 256,
+    "low": 238,
+    "volume": 31445700,
+    "market_cap": 3357112290842
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-15",
+    "close": 248,
+    "open": 254,
+    "high": 256,
+    "low": 246,
+    "volume": 17127400,
+    "market_cap": 3277810425704
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-16",
+    "close": 242,
+    "open": 248,
+    "high": 252,
+    "low": 242,
+    "volume": 14427800,
+    "market_cap": 3198508560566
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-17",
+    "close": 244,
+    "open": 242,
+    "high": 248,
+    "low": 242,
+    "volume": 29197800,
+    "market_cap": 3224942515612
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-18",
+    "close": 228,
+    "open": 248,
+    "high": 250,
+    "low": 228,
+    "volume": 220785800,
+    "market_cap": 3013470875244
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-21",
+    "close": 224,
+    "open": 230,
+    "high": 230,
+    "low": 224,
+    "volume": 45250200,
+    "market_cap": 2960602965152
+  },
+  {
+    "symbol": "BBYB.JK",
+    "date": "2026-09-22",
+    "close": 222,
+    "open": 226,
+    "high": 230,
+    "low": 218,
+    "volume": 48906300,
+    "market_cap": 2934169010106
+  }
+]

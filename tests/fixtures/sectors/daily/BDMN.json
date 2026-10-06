@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-06-24",
+    "close": 4010,
+    "open": 4160,
+    "high": 4230,
+    "low": 4010,
+    "volume": 1139100,
+    "market_cap": 38800027537410
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-06-25",
+    "close": 4020,
+    "open": 4010,
+    "high": 4120,
+    "low": 3960,
+    "volume": 581000,
+    "market_cap": 38896785710820
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-06-26",
+    "close": 3990,
+    "open": 4020,
+    "high": 4050,
+    "low": 3970,
+    "volume": 1412600,
+    "market_cap": 38606511190590
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-06-29",
+    "close": 3990,
+    "open": 3990,
+    "high": 4030,
+    "low": 3900,
+    "volume": 1634400,
+    "market_cap": 38606511190590
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-06-30",
+    "close": 3750,
+    "open": 3990,
+    "high": 3990,
+    "low": 3750,
+    "volume": 2477300,
+    "market_cap": 36284315028750
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-01",
+    "close": 3730,
+    "open": 3740,
+    "high": 3770,
+    "low": 3650,
+    "volume": 1991600,
+    "market_cap": 36090798681930
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-02",
+    "close": 3760,
+    "open": 3730,
+    "high": 3860,
+    "low": 3730,
+    "volume": 1119400,
+    "market_cap": 36381073202160
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-03",
+    "close": 3830,
+    "open": 3770,
+    "high": 3870,
+    "low": 3770,
+    "volume": 299000,
+    "market_cap": 37058380416030
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-06",
+    "close": 3810,
+    "open": 3830,
+    "high": 3870,
+    "low": 3790,
+    "volume": 718700,
+    "market_cap": 36864864069210
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-07",
+    "close": 3840,
+    "open": 3820,
+    "high": 3870,
+    "low": 3810,
+    "volume": 457500,
+    "market_cap": 37155138589440
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-08",
+    "close": 3810,
+    "open": 3810,
+    "high": 3840,
+    "low": 3790,
+    "volume": 1051500,
+    "market_cap": 36864864069210
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-09",
+    "close": 3940,
+    "open": 3820,
+    "high": 3940,
+    "low": 3800,
+    "volume": 1597500,
+    "market_cap": 38122720323540
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-10",
+    "close": 4140,
+    "open": 3950,
+    "high": 4190,
+    "low": 3950,
+    "volume": 2007000,
+    "market_cap": 40057883791740
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-13",
+    "close": 4150,
+    "open": 4180,
+    "high": 4200,
+    "low": 4100,
+    "volume": 1961500,
+    "market_cap": 40154641965150
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-14",
+    "close": 4160,
+    "open": 4170,
+    "high": 4180,
+    "low": 4080,
+    "volume": 1583200,
+    "market_cap": 40251400138560
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-15",
+    "close": 4160,
+    "open": 4160,
+    "high": 4270,
+    "low": 4140,
+    "volume": 652600,
+    "market_cap": 40251400138560
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-16",
+    "close": 4220,
+    "open": 4160,
+    "high": 4300,
+    "low": 4160,
+    "volume": 1439800,
+    "market_cap": 40831949179020
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-17",
+    "close": 4270,
+    "open": 4230,
+    "high": 4300,
+    "low": 4190,
+    "volume": 1255500,
+    "market_cap": 41315740046070
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-20",
+    "close": 4250,
+    "open": 4280,
+    "high": 4350,
+    "low": 4220,
+    "volume": 635000,
+    "market_cap": 41122223699250
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-21",
+    "close": 4250,
+    "open": 4250,
+    "high": 4260,
+    "low": 4190,
+    "volume": 528400,
+    "market_cap": 41122223699250
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-22",
+    "close": 4170,
+    "open": 4250,
+    "high": 4260,
+    "low": 4130,
+    "volume": 952900,
+    "market_cap": 40348158311970
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-23",
+    "close": 4100,
+    "open": 4140,
+    "high": 4220,
+    "low": 4070,
+    "volume": 2147600,
+    "market_cap": 39670851098100
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-24",
+    "close": 4070,
+    "open": 4100,
+    "high": 4140,
+    "low": 4010,
+    "volume": 1108000,
+    "market_cap": 39380576577870
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-27",
+    "close": 4080,
+    "open": 4100,
+    "high": 4100,
+    "low": 4040,
+    "volume": 573600,
+    "market_cap": 39477334751280
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-28",
+    "close": 4070,
+    "open": 4070,
+    "high": 4140,
+    "low": 4050,
+    "volume": 499100,
+    "market_cap": 39380576577870
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-29",
+    "close": 4050,
+    "open": 4070,
+    "high": 4100,
+    "low": 4010,
+    "volume": 923200,
+    "market_cap": 39187060231050
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-30",
+    "close": 4150,
+    "open": 4080,
+    "high": 4160,
+    "low": 4080,
+    "volume": 711500,
+    "market_cap": 40154641965150
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-07-31",
+    "close": 4200,
+    "open": 4200,
+    "high": 4250,
+    "low": 4120,
+    "volume": 1911600,
+    "market_cap": 40638432832200
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-03",
+    "close": 4180,
+    "open": 4200,
+    "high": 4210,
+    "low": 4150,
+    "volume": 2546100,
+    "market_cap": 40444916485380
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-04",
+    "close": 4190,
+    "open": 4200,
+    "high": 4210,
+    "low": 4150,
+    "volume": 2035900,
+    "market_cap": 40541674658790
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-05",
+    "close": 4220,
+    "open": 4200,
+    "high": 4240,
+    "low": 4170,
+    "volume": 1693400,
+    "market_cap": 40831949179020
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-06",
+    "close": 4530,
+    "open": 4220,
+    "high": 4680,
+    "low": 4220,
+    "volume": 9178900,
+    "market_cap": 43831452554730
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-07",
+    "close": 4450,
+    "open": 4540,
+    "high": 4550,
+    "low": 4430,
+    "volume": 1062400,
+    "market_cap": 43057387167450
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-10",
+    "close": 4340,
+    "open": 4450,
+    "high": 4450,
+    "low": 4310,
+    "volume": 2196100,
+    "market_cap": 41993047259940
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-11",
+    "close": 4200,
+    "open": 4350,
+    "high": 4390,
+    "low": 4190,
+    "volume": 2991200,
+    "market_cap": 40638432832200
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-12",
+    "close": 4300,
+    "open": 4200,
+    "high": 4300,
+    "low": 4200,
+    "volume": 2165900,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-13",
+    "close": 4160,
+    "open": 4330,
+    "high": 4330,
+    "low": 4150,
+    "volume": 2381200,
+    "market_cap": 40251400138560
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-14",
+    "close": 4150,
+    "open": 4150,
+    "high": 4220,
+    "low": 4150,
+    "volume": 4287500,
+    "market_cap": 40154641965150
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-18",
+    "close": 4300,
+    "open": 4210,
+    "high": 4380,
+    "low": 4200,
+    "volume": 2862400,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-19",
+    "close": 4300,
+    "open": 4340,
+    "high": 4340,
+    "low": 4270,
+    "volume": 1530400,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-20",
+    "close": 4300,
+    "open": 4300,
+    "high": 4320,
+    "low": 4280,
+    "volume": 1637100,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-21",
+    "close": 4300,
+    "open": 4310,
+    "high": 4340,
+    "low": 4290,
+    "volume": 1428100,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-24",
+    "close": 4270,
+    "open": 4330,
+    "high": 4330,
+    "low": 4260,
+    "volume": 2424800,
+    "market_cap": 41315740046070
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-26",
+    "close": 4200,
+    "open": 4260,
+    "high": 4260,
+    "low": 4190,
+    "volume": 1561500,
+    "market_cap": 40638432832200
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-27",
+    "close": 4310,
+    "open": 4200,
+    "high": 4310,
+    "low": 4190,
+    "volume": 1658900,
+    "market_cap": 41702772739710
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-28",
+    "close": 4280,
+    "open": 4310,
+    "high": 4330,
+    "low": 4240,
+    "volume": 2548100,
+    "market_cap": 41412498219480
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-08-31",
+    "close": 4300,
+    "open": 4300,
+    "high": 4330,
+    "low": 4280,
+    "volume": 1267900,
+    "market_cap": 41606014566300
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-01",
+    "close": 4370,
+    "open": 4330,
+    "high": 4420,
+    "low": 4330,
+    "volume": 3447900,
+    "market_cap": 42283321780170
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-02",
+    "close": 4330,
+    "open": 4370,
+    "high": 4400,
+    "low": 4300,
+    "volume": 1860100,
+    "market_cap": 41896289086530
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-03",
+    "close": 4470,
+    "open": 4330,
+    "high": 4470,
+    "low": 4250,
+    "volume": 6119800,
+    "market_cap": 43250903514270
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-04",
+    "close": 4460,
+    "open": 4470,
+    "high": 4490,
+    "low": 4380,
+    "volume": 2361600,
+    "market_cap": 43154145340860
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-07",
+    "close": 4400,
+    "open": 4430,
+    "high": 4470,
+    "low": 4370,
+    "volume": 987600,
+    "market_cap": 42573596300400
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-08",
+    "close": 4410,
+    "open": 4400,
+    "high": 4430,
+    "low": 4380,
+    "volume": 1435400,
+    "market_cap": 42670354473810
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-09",
+    "close": 4540,
+    "open": 4430,
+    "high": 4750,
+    "low": 4430,
+    "volume": 9157700,
+    "market_cap": 43928210728140
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-10",
+    "close": 4430,
+    "open": 4540,
+    "high": 4570,
+    "low": 4400,
+    "volume": 3181800,
+    "market_cap": 42863870820630
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-11",
+    "close": 4460,
+    "open": 4410,
+    "high": 4470,
+    "low": 4400,
+    "volume": 1076300,
+    "market_cap": 43154145340860
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-14",
+    "close": 4470,
+    "open": 4440,
+    "high": 4470,
+    "low": 4350,
+    "volume": 2596900,
+    "market_cap": 43250903514270
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-15",
+    "close": 4430,
+    "open": 4400,
+    "high": 4470,
+    "low": 4370,
+    "volume": 1634400,
+    "market_cap": 42863870820630
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-16",
+    "close": 4420,
+    "open": 4420,
+    "high": 4440,
+    "low": 4380,
+    "volume": 542400,
+    "market_cap": 42767112647220
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-17",
+    "close": 4440,
+    "open": 4420,
+    "high": 4470,
+    "low": 4370,
+    "volume": 1594000,
+    "market_cap": 42960628994040
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-18",
+    "close": 4400,
+    "open": 4490,
+    "high": 4500,
+    "low": 4400,
+    "volume": 2659900,
+    "market_cap": 42573596300400
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-21",
+    "close": 4450,
+    "open": 4440,
+    "high": 4480,
+    "low": 4420,
+    "volume": 1206700,
+    "market_cap": 43057387167450
+  },
+  {
+    "symbol": "BDMN.JK",
+    "date": "2026-09-22",
+    "close": 4420,
+    "open": 4450,
+    "high": 4490,
+    "low": 4410,
+    "volume": 1272700,
+    "market_cap": 42767112647220
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-06-24",
+    "close": 160,
+    "open": 162,
+    "high": 162,
+    "low": 155,
+    "volume": 1051800,
+    "market_cap": 128958868960
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-06-25",
+    "close": 167,
+    "open": 159,
+    "high": 197,
+    "low": 157,
+    "volume": 2143200,
+    "market_cap": 134600819477
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-06-26",
+    "close": 162,
+    "open": 167,
+    "high": 172,
+    "low": 161,
+    "volume": 335700,
+    "market_cap": 130570854822
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-06-29",
+    "close": 163,
+    "open": 161,
+    "high": 166,
+    "low": 160,
+    "volume": 119800,
+    "market_cap": 131376847753
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-06-30",
+    "close": 154,
+    "open": 163,
+    "high": 164,
+    "low": 151,
+    "volume": 377700,
+    "market_cap": 124122911374
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-01",
+    "close": 158,
+    "open": 152,
+    "high": 164,
+    "low": 152,
+    "volume": 173400,
+    "market_cap": 127346883098
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-02",
+    "close": 160,
+    "open": 158,
+    "high": 161,
+    "low": 151,
+    "volume": 354900,
+    "market_cap": 128958868960
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-03",
+    "close": 160,
+    "open": 160,
+    "high": 164,
+    "low": 156,
+    "volume": 236300,
+    "market_cap": 128958868960
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-06",
+    "close": 166,
+    "open": 163,
+    "high": 174,
+    "low": 159,
+    "volume": 444500,
+    "market_cap": 133794826546
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-07",
+    "close": 172,
+    "open": 163,
+    "high": 172,
+    "low": 163,
+    "volume": 405100,
+    "market_cap": 138630784132
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-08",
+    "close": 170,
+    "open": 178,
+    "high": 178,
+    "low": 167,
+    "volume": 313300,
+    "market_cap": 137018798270
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-09",
+    "close": 168,
+    "open": 172,
+    "high": 172,
+    "low": 166,
+    "volume": 114800,
+    "market_cap": 135406812408
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-10",
+    "close": 175,
+    "open": 168,
+    "high": 180,
+    "low": 168,
+    "volume": 352800,
+    "market_cap": 141048762925
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-13",
+    "close": 174,
+    "open": 179,
+    "high": 180,
+    "low": 165,
+    "volume": 395800,
+    "market_cap": 140242769994
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-14",
+    "close": 175,
+    "open": 174,
+    "high": 204,
+    "low": 172,
+    "volume": 2202600,
+    "market_cap": 141048762925
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-15",
+    "close": 185,
+    "open": 175,
+    "high": 204,
+    "low": 175,
+    "volume": 2362400,
+    "market_cap": 149108692235
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-16",
+    "close": 190,
+    "open": 187,
+    "high": 200,
+    "low": 178,
+    "volume": 1421500,
+    "market_cap": 153138656890
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-17",
+    "close": 199,
+    "open": 189,
+    "high": 200,
+    "low": 183,
+    "volume": 1099500,
+    "market_cap": 160392593269
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-20",
+    "close": 195,
+    "open": 190,
+    "high": 242,
+    "low": 186,
+    "volume": 4057200,
+    "market_cap": 157168621545
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-21",
+    "close": 202,
+    "open": 202,
+    "high": 220,
+    "low": 193,
+    "volume": 4456200,
+    "market_cap": 162810572062
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-22",
+    "close": 210,
+    "open": 202,
+    "high": 220,
+    "low": 200,
+    "volume": 1232400,
+    "market_cap": 169258515510
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-23",
+    "close": 206,
+    "open": 210,
+    "high": 218,
+    "low": 200,
+    "volume": 1035000,
+    "market_cap": 166034543786
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-24",
+    "close": 204,
+    "open": 206,
+    "high": 220,
+    "low": 199,
+    "volume": 1548400,
+    "market_cap": 164422557924
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-27",
+    "close": 198,
+    "open": 208,
+    "high": 208,
+    "low": 198,
+    "volume": 454800,
+    "market_cap": 159586600338
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-28",
+    "close": 193,
+    "open": 204,
+    "high": 208,
+    "low": 190,
+    "volume": 482300,
+    "market_cap": 155556635683
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-29",
+    "close": 190,
+    "open": 200,
+    "high": 200,
+    "low": 186,
+    "volume": 1098100,
+    "market_cap": 153138656890
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-30",
+    "close": 186,
+    "open": 190,
+    "high": 198,
+    "low": 180,
+    "volume": 652400,
+    "market_cap": 149914685166
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-07-31",
+    "close": 180,
+    "open": 187,
+    "high": 187,
+    "low": 175,
+    "volume": 1058900,
+    "market_cap": 145078727580
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-03",
+    "close": 177,
+    "open": 183,
+    "high": 184,
+    "low": 170,
+    "volume": 1422900,
+    "market_cap": 142660748787
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-04",
+    "close": 180,
+    "open": 178,
+    "high": 187,
+    "low": 178,
+    "volume": 376100,
+    "market_cap": 145078727580
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-05",
+    "close": 188,
+    "open": 182,
+    "high": 189,
+    "low": 181,
+    "volume": 551000,
+    "market_cap": 151526671028
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-06",
+    "close": 197,
+    "open": 188,
+    "high": 197,
+    "low": 182,
+    "volume": 770400,
+    "market_cap": 158780607407
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-07",
+    "close": 204,
+    "open": 194,
+    "high": 204,
+    "low": 189,
+    "volume": 492300,
+    "market_cap": 164422557924
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-10",
+    "close": 197,
+    "open": 202,
+    "high": 204,
+    "low": 197,
+    "volume": 1245900,
+    "market_cap": 158780607407
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-11",
+    "close": 192,
+    "open": 197,
+    "high": 200,
+    "low": 190,
+    "volume": 629700,
+    "market_cap": 154750642752
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-12",
+    "close": 194,
+    "open": 193,
+    "high": 198,
+    "low": 190,
+    "volume": 328700,
+    "market_cap": 156362628614
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-13",
+    "close": 195,
+    "open": 200,
+    "high": 200,
+    "low": 191,
+    "volume": 267200,
+    "market_cap": 157168621545
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-14",
+    "close": 186,
+    "open": 194,
+    "high": 194,
+    "low": 184,
+    "volume": 596500,
+    "market_cap": 149914685166
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-18",
+    "close": 193,
+    "open": 187,
+    "high": 195,
+    "low": 185,
+    "volume": 616800,
+    "market_cap": 155556635683
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-19",
+    "close": 194,
+    "open": 193,
+    "high": 199,
+    "low": 188,
+    "volume": 797500,
+    "market_cap": 156362628614
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-20",
+    "close": 199,
+    "open": 195,
+    "high": 204,
+    "low": 193,
+    "volume": 1781700,
+    "market_cap": 160392593269
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-21",
+    "close": 196,
+    "open": 199,
+    "high": 204,
+    "low": 190,
+    "volume": 1198500,
+    "market_cap": 157974614476
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-24",
+    "close": 194,
+    "open": 196,
+    "high": 197,
+    "low": 190,
+    "volume": 394400,
+    "market_cap": 156362628614
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-26",
+    "close": 192,
+    "open": 195,
+    "high": 195,
+    "low": 188,
+    "volume": 881400,
+    "market_cap": 154750642752
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-27",
+    "close": 195,
+    "open": 192,
+    "high": 198,
+    "low": 187,
+    "volume": 675000,
+    "market_cap": 157168621545
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-28",
+    "close": 195,
+    "open": 194,
+    "high": 196,
+    "low": 191,
+    "volume": 369900,
+    "market_cap": 157168621545
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-08-31",
+    "close": 198,
+    "open": 196,
+    "high": 210,
+    "low": 192,
+    "volume": 1645100,
+    "market_cap": 159586600338
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-01",
+    "close": 184,
+    "open": 190,
+    "high": 190,
+    "low": 178,
+    "volume": 8127800,
+    "market_cap": 148302699304
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-02",
+    "close": 181,
+    "open": 185,
+    "high": 185,
+    "low": 180,
+    "volume": 622800,
+    "market_cap": 145884720511
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-03",
+    "close": 185,
+    "open": 182,
+    "high": 187,
+    "low": 182,
+    "volume": 922400,
+    "market_cap": 149108692235
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-04",
+    "close": 186,
+    "open": 186,
+    "high": 186,
+    "low": 183,
+    "volume": 615900,
+    "market_cap": 149914685166
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-07",
+    "close": 192,
+    "open": 186,
+    "high": 199,
+    "low": 186,
+    "volume": 2361900,
+    "market_cap": 154750642752
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-08",
+    "close": 197,
+    "open": 216,
+    "high": 222,
+    "low": 192,
+    "volume": 3669300,
+    "market_cap": 158780607407
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-09",
+    "close": 197,
+    "open": 200,
+    "high": 204,
+    "low": 195,
+    "volume": 548100,
+    "market_cap": 158780607407
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-10",
+    "close": 194,
+    "open": 202,
+    "high": 202,
+    "low": 191,
+    "volume": 485600,
+    "market_cap": 156362628614
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-11",
+    "close": 195,
+    "open": 197,
+    "high": 197,
+    "low": 191,
+    "volume": 444000,
+    "market_cap": 157168621545
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-14",
+    "close": 192,
+    "open": 192,
+    "high": 195,
+    "low": 191,
+    "volume": 488000,
+    "market_cap": 154750642752
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-15",
+    "close": 202,
+    "open": 202,
+    "high": 210,
+    "low": 192,
+    "volume": 2146000,
+    "market_cap": 162810572062
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-16",
+    "close": 210,
+    "open": 234,
+    "high": 250,
+    "low": 206,
+    "volume": 16549300,
+    "market_cap": 169258515510
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-17",
+    "close": 204,
+    "open": 216,
+    "high": 224,
+    "low": 202,
+    "volume": 1625500,
+    "market_cap": 164422557924
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-18",
+    "close": 200,
+    "open": 204,
+    "high": 210,
+    "low": 197,
+    "volume": 1529200,
+    "market_cap": 161198586200
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-21",
+    "close": 191,
+    "open": 198,
+    "high": 208,
+    "low": 187,
+    "volume": 1759400,
+    "market_cap": 153944649821
+  },
+  {
+    "symbol": "OBMD.JK",
+    "date": "2026-09-22",
+    "close": 195,
+    "open": 193,
+    "high": 206,
+    "low": 187,
+    "volume": 1445200,
+    "market_cap": 157168621545
+  }
+]

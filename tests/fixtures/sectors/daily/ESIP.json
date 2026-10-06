@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-06-24",
+    "close": 130,
+    "open": 144,
+    "high": 153,
+    "low": 127,
+    "volume": 190059100,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-06-25",
+    "close": 137,
+    "open": 130,
+    "high": 139,
+    "low": 128,
+    "volume": 66733900,
+    "market_cap": 152063677039
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-06-26",
+    "close": 128,
+    "open": 137,
+    "high": 139,
+    "low": 124,
+    "volume": 44785600,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-06-29",
+    "close": 134,
+    "open": 128,
+    "high": 142,
+    "low": 128,
+    "volume": 134923800,
+    "market_cap": 148733815498
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-06-30",
+    "close": 128,
+    "open": 134,
+    "high": 136,
+    "low": 128,
+    "volume": 37259900,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-01",
+    "close": 129,
+    "open": 129,
+    "high": 132,
+    "low": 124,
+    "volume": 38144000,
+    "market_cap": 143184046263
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-02",
+    "close": 128,
+    "open": 131,
+    "high": 132,
+    "low": 127,
+    "volume": 23363700,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-03",
+    "close": 132,
+    "open": 128,
+    "high": 140,
+    "low": 128,
+    "volume": 84885700,
+    "market_cap": 146513907804
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-06",
+    "close": 133,
+    "open": 134,
+    "high": 135,
+    "low": 129,
+    "volume": 38535900,
+    "market_cap": 147623861651
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-07",
+    "close": 135,
+    "open": 135,
+    "high": 136,
+    "low": 131,
+    "volume": 51976600,
+    "market_cap": 149843769345
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-08",
+    "close": 127,
+    "open": 135,
+    "high": 136,
+    "low": 125,
+    "volume": 40352000,
+    "market_cap": 140964138569
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-09",
+    "close": 128,
+    "open": 126,
+    "high": 132,
+    "low": 122,
+    "volume": 37121800,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-10",
+    "close": 126,
+    "open": 127,
+    "high": 129,
+    "low": 126,
+    "volume": 12476900,
+    "market_cap": 139854184722
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-13",
+    "close": 125,
+    "open": 128,
+    "high": 128,
+    "low": 121,
+    "volume": 21079800,
+    "market_cap": 138744230875
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-14",
+    "close": 126,
+    "open": 125,
+    "high": 129,
+    "low": 123,
+    "volume": 20968200,
+    "market_cap": 139854184722
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-15",
+    "close": 128,
+    "open": 126,
+    "high": 134,
+    "low": 126,
+    "volume": 66980600,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-16",
+    "close": 131,
+    "open": 128,
+    "high": 131,
+    "low": 128,
+    "volume": 26302100,
+    "market_cap": 145403953957
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-17",
+    "close": 130,
+    "open": 133,
+    "high": 134,
+    "low": 128,
+    "volume": 23465500,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-20",
+    "close": 131,
+    "open": 129,
+    "high": 133,
+    "low": 129,
+    "volume": 20721500,
+    "market_cap": 145403953957
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-21",
+    "close": 134,
+    "open": 131,
+    "high": 135,
+    "low": 130,
+    "volume": 44844500,
+    "market_cap": 148733815498
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-22",
+    "close": 132,
+    "open": 135,
+    "high": 139,
+    "low": 130,
+    "volume": 60280600,
+    "market_cap": 146513907804
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-23",
+    "close": 130,
+    "open": 132,
+    "high": 137,
+    "low": 130,
+    "volume": 61961900,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-24",
+    "close": 139,
+    "open": 134,
+    "high": 151,
+    "low": 133,
+    "volume": 530964800,
+    "market_cap": 154283584733
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-27",
+    "close": 137,
+    "open": 142,
+    "high": 144,
+    "low": 134,
+    "volume": 69617600,
+    "market_cap": 152063677039
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-28",
+    "close": 131,
+    "open": 137,
+    "high": 137,
+    "low": 130,
+    "volume": 47918800,
+    "market_cap": 145403953957
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-29",
+    "close": 123,
+    "open": 131,
+    "high": 134,
+    "low": 118,
+    "volume": 49881800,
+    "market_cap": 136524323181
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-30",
+    "close": 126,
+    "open": 126,
+    "high": 127,
+    "low": 123,
+    "volume": 15991400,
+    "market_cap": 139854184722
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-07-31",
+    "close": 130,
+    "open": 127,
+    "high": 131,
+    "low": 126,
+    "volume": 24698000,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-03",
+    "close": 130,
+    "open": 130,
+    "high": 139,
+    "low": 127,
+    "volume": 88320900,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-04",
+    "close": 130,
+    "open": 131,
+    "high": 132,
+    "low": 128,
+    "volume": 17209500,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-05",
+    "close": 131,
+    "open": 131,
+    "high": 135,
+    "low": 130,
+    "volume": 30943400,
+    "market_cap": 145403953957
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-06",
+    "close": 130,
+    "open": 132,
+    "high": 133,
+    "low": 129,
+    "volume": 19975700,
+    "market_cap": 144294000110
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-07",
+    "close": 128,
+    "open": 130,
+    "high": 131,
+    "low": 128,
+    "volume": 17827700,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-10",
+    "close": 128,
+    "open": 130,
+    "high": 131,
+    "low": 128,
+    "volume": 14893800,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-11",
+    "close": 125,
+    "open": 128,
+    "high": 129,
+    "low": 123,
+    "volume": 16936800,
+    "market_cap": 138744230875
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-12",
+    "close": 125,
+    "open": 127,
+    "high": 128,
+    "low": 124,
+    "volume": 11204500,
+    "market_cap": 138744230875
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-13",
+    "close": 122,
+    "open": 125,
+    "high": 126,
+    "low": 121,
+    "volume": 12993900,
+    "market_cap": 135414369334
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-14",
+    "close": 123,
+    "open": 123,
+    "high": 124,
+    "low": 119,
+    "volume": 9528900,
+    "market_cap": 136524323181
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-18",
+    "close": 124,
+    "open": 123,
+    "high": 126,
+    "low": 123,
+    "volume": 8271400,
+    "market_cap": 137634277028
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-19",
+    "close": 126,
+    "open": 124,
+    "high": 127,
+    "low": 124,
+    "volume": 10075000,
+    "market_cap": 139854184722
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-20",
+    "close": 127,
+    "open": 127,
+    "high": 128,
+    "low": 125,
+    "volume": 13512700,
+    "market_cap": 140964138569
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-21",
+    "close": 126,
+    "open": 127,
+    "high": 128,
+    "low": 126,
+    "volume": 7176700,
+    "market_cap": 139854184722
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-24",
+    "close": 124,
+    "open": 126,
+    "high": 127,
+    "low": 120,
+    "volume": 8965000,
+    "market_cap": 137634277028
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-26",
+    "close": 117,
+    "open": 124,
+    "high": 125,
+    "low": 117,
+    "volume": 16024400,
+    "market_cap": 129864600099
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-27",
+    "close": 121,
+    "open": 115,
+    "high": 122,
+    "low": 110,
+    "volume": 10661000,
+    "market_cap": 134304415487
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-28",
+    "close": 120,
+    "open": 121,
+    "high": 121,
+    "low": 118,
+    "volume": 8973800,
+    "market_cap": 133194461640
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-08-31",
+    "close": 119,
+    "open": 120,
+    "high": 122,
+    "low": 119,
+    "volume": 6310100,
+    "market_cap": 132084507793
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-01",
+    "close": 122,
+    "open": 120,
+    "high": 122,
+    "low": 119,
+    "volume": 8097500,
+    "market_cap": 135414369334
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-02",
+    "close": 121,
+    "open": 122,
+    "high": 123,
+    "low": 119,
+    "volume": 9456900,
+    "market_cap": 134304415487
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-03",
+    "close": 120,
+    "open": 121,
+    "high": 122,
+    "low": 119,
+    "volume": 8015200,
+    "market_cap": 133194461640
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-04",
+    "close": 120,
+    "open": 120,
+    "high": 121,
+    "low": 118,
+    "volume": 7868100,
+    "market_cap": 133194461640
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-07",
+    "close": 119,
+    "open": 120,
+    "high": 121,
+    "low": 118,
+    "volume": 5260400,
+    "market_cap": 132084507793
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-08",
+    "close": 137,
+    "open": 120,
+    "high": 137,
+    "low": 118,
+    "volume": 265650400,
+    "market_cap": 152063677039
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-09",
+    "close": 128,
+    "open": 136,
+    "high": 137,
+    "low": 127,
+    "volume": 73133900,
+    "market_cap": 142074092416
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-10",
+    "close": 120,
+    "open": 130,
+    "high": 133,
+    "low": 120,
+    "volume": 52606300,
+    "market_cap": 133194461640
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-11",
+    "close": 122,
+    "open": 125,
+    "high": 135,
+    "low": 118,
+    "volume": 144652200,
+    "market_cap": 135414369334
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-14",
+    "close": 123,
+    "open": 124,
+    "high": 126,
+    "low": 120,
+    "volume": 19457600,
+    "market_cap": 136524323181
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-15",
+    "close": 123,
+    "open": 125,
+    "high": 125,
+    "low": 121,
+    "volume": 12197800,
+    "market_cap": 136524323181
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-16",
+    "close": 121,
+    "open": 123,
+    "high": 124,
+    "low": 120,
+    "volume": 8930400,
+    "market_cap": 134304415487
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-17",
+    "close": 120,
+    "open": 120,
+    "high": 123,
+    "low": 119,
+    "volume": 10692700,
+    "market_cap": 133194461640
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-18",
+    "close": 115,
+    "open": 121,
+    "high": 122,
+    "low": 115,
+    "volume": 16617800,
+    "market_cap": 127644692405
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-21",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 114,
+    "volume": 9706000,
+    "market_cap": 128754646252
+  },
+  {
+    "symbol": "ESIP.JK",
+    "date": "2026-09-22",
+    "close": 113,
+    "open": 117,
+    "high": 118,
+    "low": 112,
+    "volume": 12392100,
+    "market_cap": 125424784711
+  }
+]

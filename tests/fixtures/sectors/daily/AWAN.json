@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-06-24",
+    "close": 138,
+    "open": 139,
+    "high": 143,
+    "low": 134,
+    "volume": 250500,
+    "market_cap": 474030000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-06-25",
+    "close": 137,
+    "open": 134,
+    "high": 138,
+    "low": 134,
+    "volume": 105900,
+    "market_cap": 470595000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-06-26",
+    "close": 134,
+    "open": 138,
+    "high": 138,
+    "low": 133,
+    "volume": 159200,
+    "market_cap": 460290000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-06-29",
+    "close": 151,
+    "open": 134,
+    "high": 178,
+    "low": 133,
+    "volume": 15149400,
+    "market_cap": 518685000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-06-30",
+    "close": 160,
+    "open": 151,
+    "high": 169,
+    "low": 151,
+    "volume": 6625300,
+    "market_cap": 549600000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-01",
+    "close": 150,
+    "open": 167,
+    "high": 167,
+    "low": 149,
+    "volume": 1184700,
+    "market_cap": 515250000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-02",
+    "close": 145,
+    "open": 149,
+    "high": 149,
+    "low": 140,
+    "volume": 718700,
+    "market_cap": 498075000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-03",
+    "close": 142,
+    "open": 145,
+    "high": 146,
+    "low": 141,
+    "volume": 424400,
+    "market_cap": 487770000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-06",
+    "close": 147,
+    "open": 147,
+    "high": 160,
+    "low": 141,
+    "volume": 580500,
+    "market_cap": 504945000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-07",
+    "close": 145,
+    "open": 148,
+    "high": 148,
+    "low": 145,
+    "volume": 391100,
+    "market_cap": 498075000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-08",
+    "close": 145,
+    "open": 146,
+    "high": 146,
+    "low": 144,
+    "volume": 68500,
+    "market_cap": 498075000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-09",
+    "close": 143,
+    "open": 144,
+    "high": 144,
+    "low": 140,
+    "volume": 181300,
+    "market_cap": 491205000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-10",
+    "close": 141,
+    "open": 142,
+    "high": 142,
+    "low": 140,
+    "volume": 260900,
+    "market_cap": 484335000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-13",
+    "close": 140,
+    "open": 141,
+    "high": 143,
+    "low": 139,
+    "volume": 177700,
+    "market_cap": 480900000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-14",
+    "close": 142,
+    "open": 140,
+    "high": 144,
+    "low": 139,
+    "volume": 381000,
+    "market_cap": 487770000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-15",
+    "close": 146,
+    "open": 142,
+    "high": 159,
+    "low": 140,
+    "volume": 2624900,
+    "market_cap": 501510000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-16",
+    "close": 145,
+    "open": 147,
+    "high": 148,
+    "low": 143,
+    "volume": 4139600,
+    "market_cap": 498075000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-17",
+    "close": 147,
+    "open": 146,
+    "high": 157,
+    "low": 144,
+    "volume": 1104100,
+    "market_cap": 504945000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-20",
+    "close": 150,
+    "open": 147,
+    "high": 157,
+    "low": 144,
+    "volume": 1550700,
+    "market_cap": 515250000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-21",
+    "close": 156,
+    "open": 150,
+    "high": 165,
+    "low": 147,
+    "volume": 11390300,
+    "market_cap": 535860000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-22",
+    "close": 157,
+    "open": 156,
+    "high": 161,
+    "low": 152,
+    "volume": 1500600,
+    "market_cap": 539295000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-23",
+    "close": 152,
+    "open": 158,
+    "high": 165,
+    "low": 149,
+    "volume": 21698200,
+    "market_cap": 522120000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-24",
+    "close": 147,
+    "open": 153,
+    "high": 180,
+    "low": 146,
+    "volume": 27039200,
+    "market_cap": 504945000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-27",
+    "close": 149,
+    "open": 147,
+    "high": 153,
+    "low": 141,
+    "volume": 1401000,
+    "market_cap": 511815000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-28",
+    "close": 152,
+    "open": 150,
+    "high": 176,
+    "low": 147,
+    "volume": 16955000,
+    "market_cap": 522120000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-29",
+    "close": 155,
+    "open": 152,
+    "high": 157,
+    "low": 145,
+    "volume": 2294600,
+    "market_cap": 532425000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-30",
+    "close": 157,
+    "open": 155,
+    "high": 160,
+    "low": 153,
+    "volume": 1160700,
+    "market_cap": 539295000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-07-31",
+    "close": 165,
+    "open": 157,
+    "high": 170,
+    "low": 155,
+    "volume": 11833900,
+    "market_cap": 566775000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-03",
+    "close": 165,
+    "open": 165,
+    "high": 183,
+    "low": 159,
+    "volume": 12850300,
+    "market_cap": 566775000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-04",
+    "close": 159,
+    "open": 167,
+    "high": 170,
+    "low": 149,
+    "volume": 25808700,
+    "market_cap": 546165000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-05",
+    "close": 160,
+    "open": 161,
+    "high": 163,
+    "low": 159,
+    "volume": 1663900,
+    "market_cap": 549600000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-06",
+    "close": 157,
+    "open": 160,
+    "high": 164,
+    "low": 155,
+    "volume": 776800,
+    "market_cap": 539295000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-07",
+    "close": 154,
+    "open": 160,
+    "high": 160,
+    "low": 154,
+    "volume": 664400,
+    "market_cap": 528990000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-10",
+    "close": 154,
+    "open": 154,
+    "high": 157,
+    "low": 153,
+    "volume": 878000,
+    "market_cap": 528990000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-11",
+    "close": 151,
+    "open": 155,
+    "high": 156,
+    "low": 151,
+    "volume": 379500,
+    "market_cap": 518685000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-12",
+    "close": 162,
+    "open": 153,
+    "high": 167,
+    "low": 150,
+    "volume": 18653500,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-13",
+    "close": 161,
+    "open": 165,
+    "high": 165,
+    "low": 157,
+    "volume": 1056100,
+    "market_cap": 553035000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-14",
+    "close": 163,
+    "open": 161,
+    "high": 165,
+    "low": 161,
+    "volume": 767600,
+    "market_cap": 559905000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-18",
+    "close": 163,
+    "open": 163,
+    "high": 164,
+    "low": 159,
+    "volume": 1040800,
+    "market_cap": 559905000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-19",
+    "close": 162,
+    "open": 163,
+    "high": 164,
+    "low": 161,
+    "volume": 248700,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-20",
+    "close": 170,
+    "open": 163,
+    "high": 171,
+    "low": 162,
+    "volume": 2321000,
+    "market_cap": 583950000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-21",
+    "close": 168,
+    "open": 171,
+    "high": 172,
+    "low": 165,
+    "volume": 699400,
+    "market_cap": 577080000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-24",
+    "close": 164,
+    "open": 168,
+    "high": 175,
+    "low": 161,
+    "volume": 1246300,
+    "market_cap": 563340000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-26",
+    "close": 160,
+    "open": 164,
+    "high": 169,
+    "low": 157,
+    "volume": 659900,
+    "market_cap": 549600000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-27",
+    "close": 163,
+    "open": 158,
+    "high": 164,
+    "low": 158,
+    "volume": 314600,
+    "market_cap": 559905000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-28",
+    "close": 168,
+    "open": 164,
+    "high": 169,
+    "low": 164,
+    "volume": 538600,
+    "market_cap": 577080000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-08-31",
+    "close": 170,
+    "open": 169,
+    "high": 171,
+    "low": 165,
+    "volume": 802400,
+    "market_cap": 583950000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-01",
+    "close": 175,
+    "open": 174,
+    "high": 175,
+    "low": 165,
+    "volume": 1760600,
+    "market_cap": 601125000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-02",
+    "close": 170,
+    "open": 176,
+    "high": 176,
+    "low": 168,
+    "volume": 549400,
+    "market_cap": 583950000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-03",
+    "close": 167,
+    "open": 172,
+    "high": 173,
+    "low": 165,
+    "volume": 444100,
+    "market_cap": 573645000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-04",
+    "close": 169,
+    "open": 170,
+    "high": 170,
+    "low": 165,
+    "volume": 215000,
+    "market_cap": 580515000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-07",
+    "close": 168,
+    "open": 169,
+    "high": 170,
+    "low": 161,
+    "volume": 259600,
+    "market_cap": 577080000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-08",
+    "close": 167,
+    "open": 163,
+    "high": 168,
+    "low": 162,
+    "volume": 409800,
+    "market_cap": 573645000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-09",
+    "close": 162,
+    "open": 167,
+    "high": 167,
+    "low": 156,
+    "volume": 718700,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-10",
+    "close": 163,
+    "open": 164,
+    "high": 165,
+    "low": 162,
+    "volume": 144000,
+    "market_cap": 559905000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-11",
+    "close": 161,
+    "open": 162,
+    "high": 163,
+    "low": 159,
+    "volume": 157400,
+    "market_cap": 553035000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-14",
+    "close": 159,
+    "open": 161,
+    "high": 163,
+    "low": 159,
+    "volume": 109400,
+    "market_cap": 546165000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-15",
+    "close": 164,
+    "open": 161,
+    "high": 165,
+    "low": 161,
+    "volume": 162700,
+    "market_cap": 563340000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-16",
+    "close": 162,
+    "open": 164,
+    "high": 164,
+    "low": 161,
+    "volume": 101200,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-17",
+    "close": 162,
+    "open": 162,
+    "high": 164,
+    "low": 160,
+    "volume": 97000,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-18",
+    "close": 162,
+    "open": 161,
+    "high": 162,
+    "low": 158,
+    "volume": 317200,
+    "market_cap": 556470000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-21",
+    "close": 160,
+    "open": 156,
+    "high": 160,
+    "low": 156,
+    "volume": 129700,
+    "market_cap": 549600000000
+  },
+  {
+    "symbol": "AWAN.JK",
+    "date": "2026-09-22",
+    "close": 159,
+    "open": 159,
+    "high": 162,
+    "low": 157,
+    "volume": 158800,
+    "market_cap": 546165000000
+  }
+]

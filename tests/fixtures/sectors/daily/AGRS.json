@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-06-24",
+    "close": 61,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 740200,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-06-25",
+    "close": 61,
+    "open": 60,
+    "high": 62,
+    "low": 60,
+    "volume": 1024200,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-06-26",
+    "close": 61,
+    "open": 61,
+    "high": 61,
+    "low": 59,
+    "volume": 2045500,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-06-29",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 60,
+    "volume": 578300,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-06-30",
+    "close": 60,
+    "open": 59,
+    "high": 60,
+    "low": 59,
+    "volume": 887500,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-01",
+    "close": 58,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 1469200,
+    "market_cap": 2747289356692
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-02",
+    "close": 60,
+    "open": 58,
+    "high": 60,
+    "low": 58,
+    "volume": 2010700,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-03",
+    "close": 62,
+    "open": 60,
+    "high": 64,
+    "low": 59,
+    "volume": 2223500,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-06",
+    "close": 60,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 2792000,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-07",
+    "close": 61,
+    "open": 60,
+    "high": 62,
+    "low": 59,
+    "volume": 2153500,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-08",
+    "close": 60,
+    "open": 61,
+    "high": 61,
+    "low": 59,
+    "volume": 2605900,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-09",
+    "close": 59,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 1901500,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-10",
+    "close": 59,
+    "open": 60,
+    "high": 60,
+    "low": 59,
+    "volume": 796000,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-13",
+    "close": 60,
+    "open": 59,
+    "high": 60,
+    "low": 59,
+    "volume": 463800,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-14",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 1859300,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-15",
+    "close": 59,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 2773700,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-16",
+    "close": 60,
+    "open": 59,
+    "high": 61,
+    "low": 58,
+    "volume": 8019600,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-17",
+    "close": 62,
+    "open": 60,
+    "high": 66,
+    "low": 59,
+    "volume": 33503100,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-20",
+    "close": 62,
+    "open": 63,
+    "high": 65,
+    "low": 62,
+    "volume": 3216900,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-21",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 4735300,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-22",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 2795200,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-23",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 3105200,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-24",
+    "close": 62,
+    "open": 62,
+    "high": 62,
+    "low": 61,
+    "volume": 775300,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-27",
+    "close": 61,
+    "open": 62,
+    "high": 62,
+    "low": 61,
+    "volume": 1663100,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-28",
+    "close": 63,
+    "open": 61,
+    "high": 64,
+    "low": 61,
+    "volume": 4904900,
+    "market_cap": 2984124646062
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-29",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 1945800,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-30",
+    "close": 62,
+    "open": 62,
+    "high": 62,
+    "low": 61,
+    "volume": 746000,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-07-31",
+    "close": 61,
+    "open": 62,
+    "high": 67,
+    "low": 61,
+    "volume": 27620400,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-03",
+    "close": 62,
+    "open": 61,
+    "high": 63,
+    "low": 61,
+    "volume": 14821800,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-04",
+    "close": 61,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 6413900,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-05",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 5689400,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-06",
+    "close": 61,
+    "open": 62,
+    "high": 62,
+    "low": 61,
+    "volume": 2894200,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-07",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 2137500,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-10",
+    "close": 61,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 3868500,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-11",
+    "close": 60,
+    "open": 61,
+    "high": 61,
+    "low": 60,
+    "volume": 5993800,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-12",
+    "close": 61,
+    "open": 59,
+    "high": 64,
+    "low": 59,
+    "volume": 8918300,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-13",
+    "close": 62,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 1594500,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-14",
+    "close": 60,
+    "open": 62,
+    "high": 62,
+    "low": 60,
+    "volume": 3363400,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-18",
+    "close": 61,
+    "open": 60,
+    "high": 62,
+    "low": 60,
+    "volume": 821400,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-19",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 2489300,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-20",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 61,
+    "volume": 5924600,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-21",
+    "close": 62,
+    "open": 61,
+    "high": 62,
+    "low": 61,
+    "volume": 3730400,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-24",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 7663200,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-26",
+    "close": 60,
+    "open": 61,
+    "high": 62,
+    "low": 58,
+    "volume": 18469000,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-27",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 1205400,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-28",
+    "close": 61,
+    "open": 60,
+    "high": 63,
+    "low": 59,
+    "volume": 20811100,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-08-31",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 9104900,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-01",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 61,
+    "volume": 1918800,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-02",
+    "close": 62,
+    "open": 61,
+    "high": 63,
+    "low": 60,
+    "volume": 10448600,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-03",
+    "close": 65,
+    "open": 62,
+    "high": 68,
+    "low": 61,
+    "volume": 56193800,
+    "market_cap": 3078858761810
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-04",
+    "close": 64,
+    "open": 65,
+    "high": 65,
+    "low": 63,
+    "volume": 7833300,
+    "market_cap": 3031491703936
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-07",
+    "close": 63,
+    "open": 64,
+    "high": 64,
+    "low": 62,
+    "volume": 7177200,
+    "market_cap": 2984124646062
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-08",
+    "close": 63,
+    "open": 63,
+    "high": 64,
+    "low": 62,
+    "volume": 3828500,
+    "market_cap": 2984124646062
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-09",
+    "close": 62,
+    "open": 63,
+    "high": 63,
+    "low": 61,
+    "volume": 6204700,
+    "market_cap": 2936757588188
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-10",
+    "close": 60,
+    "open": 62,
+    "high": 63,
+    "low": 60,
+    "volume": 7207400,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-11",
+    "close": 61,
+    "open": 60,
+    "high": 61,
+    "low": 60,
+    "volume": 4451700,
+    "market_cap": 2889390530314
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-14",
+    "close": 60,
+    "open": 61,
+    "high": 61,
+    "low": 59,
+    "volume": 6576000,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-15",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 2139400,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-16",
+    "close": 59,
+    "open": 61,
+    "high": 61,
+    "low": 59,
+    "volume": 10078100,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-17",
+    "close": 60,
+    "open": 59,
+    "high": 60,
+    "low": 59,
+    "volume": 2168400,
+    "market_cap": 2842023472440
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-18",
+    "close": 59,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 7827900,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-21",
+    "close": 59,
+    "open": 59,
+    "high": 60,
+    "low": 57,
+    "volume": 5212900,
+    "market_cap": 2794656414566
+  },
+  {
+    "symbol": "AGRS.JK",
+    "date": "2026-09-22",
+    "close": 58,
+    "open": 59,
+    "high": 59,
+    "low": 57,
+    "volume": 3654700,
+    "market_cap": 2747289356692
+  }
+]

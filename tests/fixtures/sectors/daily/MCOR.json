@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-06-24",
+    "close": 64,
+    "open": 66,
+    "high": 67,
+    "low": 64,
+    "volume": 5026700,
+    "market_cap": 2402594125376
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-06-25",
+    "close": 66,
+    "open": 64,
+    "high": 66,
+    "low": 64,
+    "volume": 1996800,
+    "market_cap": 2477675191794
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-06-26",
+    "close": 65,
+    "open": 66,
+    "high": 66,
+    "low": 64,
+    "volume": 2610300,
+    "market_cap": 2440134658585
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-06-29",
+    "close": 68,
+    "open": 64,
+    "high": 70,
+    "low": 64,
+    "volume": 11726000,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-06-30",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 66,
+    "volume": 2354400,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-01",
+    "close": 67,
+    "open": 66,
+    "high": 68,
+    "low": 65,
+    "volume": 5610700,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-02",
+    "close": 66,
+    "open": 67,
+    "high": 68,
+    "low": 66,
+    "volume": 1316500,
+    "market_cap": 2477675191794
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-03",
+    "close": 68,
+    "open": 67,
+    "high": 68,
+    "low": 66,
+    "volume": 2467500,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-06",
+    "close": 68,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 1505800,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-07",
+    "close": 67,
+    "open": 67,
+    "high": 68,
+    "low": 66,
+    "volume": 3215900,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-08",
+    "close": 67,
+    "open": 67,
+    "high": 68,
+    "low": 66,
+    "volume": 2195300,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-09",
+    "close": 68,
+    "open": 67,
+    "high": 69,
+    "low": 67,
+    "volume": 1363100,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-10",
+    "close": 67,
+    "open": 67,
+    "high": 68,
+    "low": 67,
+    "volume": 2143100,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-13",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 245700,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-14",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 1597300,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-15",
+    "close": 68,
+    "open": 67,
+    "high": 68,
+    "low": 67,
+    "volume": 1207100,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-16",
+    "close": 68,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 485400,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-17",
+    "close": 70,
+    "open": 68,
+    "high": 71,
+    "low": 67,
+    "volume": 14919600,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-20",
+    "close": 68,
+    "open": 70,
+    "high": 71,
+    "low": 68,
+    "volume": 3694900,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-21",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 2595900,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-22",
+    "close": 67,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 1660600,
+    "market_cap": 2515215725003
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-23",
+    "close": 68,
+    "open": 68,
+    "high": 70,
+    "low": 67,
+    "volume": 6552100,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-24",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 1555900,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-27",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 931700,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-28",
+    "close": 68,
+    "open": 69,
+    "high": 69,
+    "low": 67,
+    "volume": 534400,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-29",
+    "close": 68,
+    "open": 67,
+    "high": 68,
+    "low": 67,
+    "volume": 1672200,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-30",
+    "close": 69,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 1773000,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-07-31",
+    "close": 69,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 1059200,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-03",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 2163300,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-04",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 2262300,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-05",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 1435600,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-06",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 69,
+    "volume": 595400,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-07",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 2310000,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-10",
+    "close": 68,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 3229200,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-11",
+    "close": 69,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 1144000,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-12",
+    "close": 69,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 509800,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-13",
+    "close": 68,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 1297600,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-14",
+    "close": 69,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 2635600,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-18",
+    "close": 69,
+    "open": 69,
+    "high": 69,
+    "low": 67,
+    "volume": 2601700,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-19",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 1351500,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-20",
+    "close": 70,
+    "open": 68,
+    "high": 71,
+    "low": 68,
+    "volume": 9937400,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-21",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 3489800,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-24",
+    "close": 70,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 1270300,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-26",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 5276400,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-27",
+    "close": 68,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 2248600,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-28",
+    "close": 69,
+    "open": 68,
+    "high": 70,
+    "low": 68,
+    "volume": 3458200,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-08-31",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 3558300,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-01",
+    "close": 71,
+    "open": 70,
+    "high": 73,
+    "low": 70,
+    "volume": 21901700,
+    "market_cap": 2665377857839
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-02",
+    "close": 70,
+    "open": 71,
+    "high": 72,
+    "low": 69,
+    "volume": 8936600,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-03",
+    "close": 69,
+    "open": 71,
+    "high": 72,
+    "low": 68,
+    "volume": 12105200,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-04",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 3046100,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-07",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 69,
+    "volume": 3622500,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-08",
+    "close": 69,
+    "open": 71,
+    "high": 71,
+    "low": 69,
+    "volume": 4564700,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-09",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 69,
+    "volume": 3532400,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-10",
+    "close": 69,
+    "open": 71,
+    "high": 71,
+    "low": 69,
+    "volume": 3380400,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-11",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 1907000,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-14",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 1429900,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-15",
+    "close": 70,
+    "open": 69,
+    "high": 70,
+    "low": 69,
+    "volume": 2298500,
+    "market_cap": 2627837324630
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-16",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 68,
+    "volume": 3207200,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-17",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 1176200,
+    "market_cap": 2590296791421
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-18",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 4394700,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-21",
+    "close": 68,
+    "open": 68,
+    "high": 68,
+    "low": 66,
+    "volume": 6397200,
+    "market_cap": 2552756258212
+  },
+  {
+    "symbol": "MCOR.JK",
+    "date": "2026-09-22",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 66,
+    "volume": 6731600,
+    "market_cap": 2515215725003
+  }
+]

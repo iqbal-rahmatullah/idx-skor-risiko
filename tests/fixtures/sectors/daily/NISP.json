@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-06-24",
+    "close": 1215,
+    "open": 1245,
+    "high": 1260,
+    "low": 1205,
+    "volume": 1110600,
+    "market_cap": 27599667878880
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-06-25",
+    "close": 1230,
+    "open": 1230,
+    "high": 1235,
+    "low": 1220,
+    "volume": 877500,
+    "market_cap": 27940404519360
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-06-26",
+    "close": 1215,
+    "open": 1230,
+    "high": 1240,
+    "low": 1205,
+    "volume": 3264100,
+    "market_cap": 27599667878880
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-06-29",
+    "close": 1195,
+    "open": 1230,
+    "high": 1230,
+    "low": 1190,
+    "volume": 2240500,
+    "market_cap": 27145352358240
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-06-30",
+    "close": 1175,
+    "open": 1195,
+    "high": 1215,
+    "low": 1145,
+    "volume": 9706900,
+    "market_cap": 26691036837600
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-01",
+    "close": 1155,
+    "open": 1170,
+    "high": 1170,
+    "low": 1140,
+    "volume": 1765500,
+    "market_cap": 26236721316960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-02",
+    "close": 1165,
+    "open": 1155,
+    "high": 1175,
+    "low": 1150,
+    "volume": 2096900,
+    "market_cap": 26463879077280
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-03",
+    "close": 1185,
+    "open": 1175,
+    "high": 1195,
+    "low": 1170,
+    "volume": 1182300,
+    "market_cap": 26918194597920
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-06",
+    "close": 1190,
+    "open": 1195,
+    "high": 1200,
+    "low": 1180,
+    "volume": 1939000,
+    "market_cap": 27031773478080
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-07",
+    "close": 1205,
+    "open": 1200,
+    "high": 1210,
+    "low": 1185,
+    "volume": 1109400,
+    "market_cap": 27372510118560
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-08",
+    "close": 1195,
+    "open": 1205,
+    "high": 1210,
+    "low": 1180,
+    "volume": 2558800,
+    "market_cap": 27145352358240
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-09",
+    "close": 1200,
+    "open": 1195,
+    "high": 1205,
+    "low": 1185,
+    "volume": 1581400,
+    "market_cap": 27258931238400
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-10",
+    "close": 1205,
+    "open": 1205,
+    "high": 1210,
+    "low": 1195,
+    "volume": 1180100,
+    "market_cap": 27372510118560
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-13",
+    "close": 1205,
+    "open": 1200,
+    "high": 1205,
+    "low": 1190,
+    "volume": 2963500,
+    "market_cap": 27372510118560
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-14",
+    "close": 1205,
+    "open": 1205,
+    "high": 1225,
+    "low": 1195,
+    "volume": 1826200,
+    "market_cap": 27372510118560
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-15",
+    "close": 1205,
+    "open": 1205,
+    "high": 1210,
+    "low": 1190,
+    "volume": 1931100,
+    "market_cap": 27372510118560
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-16",
+    "close": 1200,
+    "open": 1205,
+    "high": 1215,
+    "low": 1200,
+    "volume": 3350900,
+    "market_cap": 27258931238400
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-17",
+    "close": 1240,
+    "open": 1200,
+    "high": 1250,
+    "low": 1195,
+    "volume": 6579400,
+    "market_cap": 28167562279680
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-20",
+    "close": 1235,
+    "open": 1240,
+    "high": 1260,
+    "low": 1235,
+    "volume": 1664900,
+    "market_cap": 28053983399520
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-21",
+    "close": 1245,
+    "open": 1240,
+    "high": 1250,
+    "low": 1230,
+    "volume": 2247000,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-22",
+    "close": 1245,
+    "open": 1245,
+    "high": 1255,
+    "low": 1235,
+    "volume": 1801500,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-23",
+    "close": 1250,
+    "open": 1255,
+    "high": 1270,
+    "low": 1245,
+    "volume": 4416800,
+    "market_cap": 28394720040000
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-24",
+    "close": 1240,
+    "open": 1235,
+    "high": 1250,
+    "low": 1225,
+    "volume": 2325600,
+    "market_cap": 28167562279680
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-27",
+    "close": 1250,
+    "open": 1230,
+    "high": 1255,
+    "low": 1230,
+    "volume": 2312500,
+    "market_cap": 28394720040000
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-28",
+    "close": 1255,
+    "open": 1255,
+    "high": 1265,
+    "low": 1245,
+    "volume": 2024000,
+    "market_cap": 28508298920160
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-29",
+    "close": 1245,
+    "open": 1255,
+    "high": 1255,
+    "low": 1235,
+    "volume": 764300,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-30",
+    "close": 1260,
+    "open": 1245,
+    "high": 1280,
+    "low": 1240,
+    "volume": 3523100,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-07-31",
+    "close": 1290,
+    "open": 1260,
+    "high": 1310,
+    "low": 1260,
+    "volume": 5738700,
+    "market_cap": 29303351081280
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-03",
+    "close": 1280,
+    "open": 1290,
+    "high": 1300,
+    "low": 1280,
+    "volume": 2020300,
+    "market_cap": 29076193320960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-04",
+    "close": 1280,
+    "open": 1285,
+    "high": 1285,
+    "low": 1270,
+    "volume": 2124300,
+    "market_cap": 29076193320960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-05",
+    "close": 1280,
+    "open": 1295,
+    "high": 1295,
+    "low": 1270,
+    "volume": 6508200,
+    "market_cap": 29076193320960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-06",
+    "close": 1275,
+    "open": 1280,
+    "high": 1290,
+    "low": 1275,
+    "volume": 1666200,
+    "market_cap": 28962614440800
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-07",
+    "close": 1275,
+    "open": 1280,
+    "high": 1290,
+    "low": 1275,
+    "volume": 1217300,
+    "market_cap": 28962614440800
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-10",
+    "close": 1275,
+    "open": 1290,
+    "high": 1290,
+    "low": 1270,
+    "volume": 1767400,
+    "market_cap": 28962614440800
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-11",
+    "close": 1260,
+    "open": 1275,
+    "high": 1275,
+    "low": 1250,
+    "volume": 1604600,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-12",
+    "close": 1270,
+    "open": 1275,
+    "high": 1295,
+    "low": 1255,
+    "volume": 1183300,
+    "market_cap": 28849035560640
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-13",
+    "close": 1265,
+    "open": 1270,
+    "high": 1270,
+    "low": 1250,
+    "volume": 1439600,
+    "market_cap": 28735456680480
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-14",
+    "close": 1255,
+    "open": 1265,
+    "high": 1265,
+    "low": 1245,
+    "volume": 1409100,
+    "market_cap": 28508298920160
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-18",
+    "close": 1260,
+    "open": 1255,
+    "high": 1265,
+    "low": 1245,
+    "volume": 3062000,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-19",
+    "close": 1250,
+    "open": 1255,
+    "high": 1265,
+    "low": 1250,
+    "volume": 1706800,
+    "market_cap": 28394720040000
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-20",
+    "close": 1260,
+    "open": 1250,
+    "high": 1260,
+    "low": 1250,
+    "volume": 1545500,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-21",
+    "close": 1260,
+    "open": 1260,
+    "high": 1265,
+    "low": 1255,
+    "volume": 1613000,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-24",
+    "close": 1265,
+    "open": 1260,
+    "high": 1270,
+    "low": 1255,
+    "volume": 1726700,
+    "market_cap": 28735456680480
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-26",
+    "close": 1245,
+    "open": 1265,
+    "high": 1265,
+    "low": 1245,
+    "volume": 2573000,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-27",
+    "close": 1245,
+    "open": 1250,
+    "high": 1255,
+    "low": 1240,
+    "volume": 5030600,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-28",
+    "close": 1240,
+    "open": 1245,
+    "high": 1255,
+    "low": 1235,
+    "volume": 3309000,
+    "market_cap": 28167562279680
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-08-31",
+    "close": 1240,
+    "open": 1245,
+    "high": 1255,
+    "low": 1235,
+    "volume": 9402900,
+    "market_cap": 28167562279680
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-01",
+    "close": 1240,
+    "open": 1240,
+    "high": 1260,
+    "low": 1240,
+    "volume": 6182200,
+    "market_cap": 28167562279680
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-02",
+    "close": 1245,
+    "open": 1260,
+    "high": 1265,
+    "low": 1240,
+    "volume": 3810600,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-03",
+    "close": 1250,
+    "open": 1245,
+    "high": 1260,
+    "low": 1240,
+    "volume": 15052700,
+    "market_cap": 28394720040000
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-04",
+    "close": 1250,
+    "open": 1260,
+    "high": 1260,
+    "low": 1245,
+    "volume": 12494300,
+    "market_cap": 28394720040000
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-07",
+    "close": 1245,
+    "open": 1245,
+    "high": 1250,
+    "low": 1240,
+    "volume": 9256000,
+    "market_cap": 28281141159840
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-08",
+    "close": 1255,
+    "open": 1250,
+    "high": 1260,
+    "low": 1245,
+    "volume": 4521000,
+    "market_cap": 28508298920160
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-09",
+    "close": 1260,
+    "open": 1255,
+    "high": 1265,
+    "low": 1245,
+    "volume": 9122900,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-10",
+    "close": 1280,
+    "open": 1260,
+    "high": 1295,
+    "low": 1260,
+    "volume": 8892500,
+    "market_cap": 29076193320960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-11",
+    "close": 1265,
+    "open": 1280,
+    "high": 1280,
+    "low": 1260,
+    "volume": 5999900,
+    "market_cap": 28735456680480
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-14",
+    "close": 1285,
+    "open": 1265,
+    "high": 1295,
+    "low": 1255,
+    "volume": 3696100,
+    "market_cap": 29189772201120
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-15",
+    "close": 1280,
+    "open": 1280,
+    "high": 1285,
+    "low": 1260,
+    "volume": 2656800,
+    "market_cap": 29076193320960
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-16",
+    "close": 1265,
+    "open": 1280,
+    "high": 1280,
+    "low": 1265,
+    "volume": 3442300,
+    "market_cap": 28735456680480
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-17",
+    "close": 1265,
+    "open": 1265,
+    "high": 1275,
+    "low": 1260,
+    "volume": 5647300,
+    "market_cap": 28735456680480
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-18",
+    "close": 1275,
+    "open": 1270,
+    "high": 1275,
+    "low": 1255,
+    "volume": 4699000,
+    "market_cap": 28962614440800
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-21",
+    "close": 1260,
+    "open": 1260,
+    "high": 1270,
+    "low": 1260,
+    "volume": 3374400,
+    "market_cap": 28621877800320
+  },
+  {
+    "symbol": "NISP.JK",
+    "date": "2026-09-22",
+    "close": 1260,
+    "open": 1260,
+    "high": 1270,
+    "low": 1245,
+    "volume": 5429600,
+    "market_cap": 28621877800320
+  }
+]

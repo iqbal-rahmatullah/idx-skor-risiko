@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-06-24",
+    "close": 20,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 3241600,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-06-25",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 4486600,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-06-26",
+    "close": 20,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 7792000,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-06-29",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 6844000,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-06-30",
+    "close": 20,
+    "open": 20,
+    "high": 20,
+    "low": 20,
+    "volume": 16036700,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-01",
+    "close": 20,
+    "open": 20,
+    "high": 20,
+    "low": 20,
+    "volume": 5135900,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-02",
+    "close": 20,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 6300800,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-03",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 3274400,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-06",
+    "close": 20,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 7112600,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-07",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 8721700,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-08",
+    "close": 20,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 3621100,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-09",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 3305000,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-10",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 3302700,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-13",
+    "close": 20,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 8746900,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-14",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 11265600,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-15",
+    "close": 20,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 6398300,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-16",
+    "close": 21,
+    "open": 20,
+    "high": 21,
+    "low": 20,
+    "volume": 15807300,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-17",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 10421200,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-20",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 28198100,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-21",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 15448500,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-22",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 3317100,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-23",
+    "close": 21,
+    "open": 22,
+    "high": 22,
+    "low": 21,
+    "volume": 16247500,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-24",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 21,
+    "volume": 22897000,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-27",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 21,
+    "volume": 5828100,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-28",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 3079300,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-29",
+    "close": 20,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 7708900,
+    "market_cap": 1027034677660
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-30",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 41966500,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-07-31",
+    "close": 21,
+    "open": 21,
+    "high": 22,
+    "low": 21,
+    "volume": 24097700,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-03",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 21,
+    "volume": 17492500,
+    "market_cap": 1078386411543
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-04",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 16770600,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-05",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 6283700,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-06",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 8746300,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-07",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 6676000,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-10",
+    "close": 23,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 7929600,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-11",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 14086200,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-12",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 24,
+    "volume": 24778700,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-13",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 15404200,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-14",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 8240000,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-18",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 24,
+    "volume": 6906500,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-19",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 8102200,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-20",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 8608900,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-21",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 27327100,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-24",
+    "close": 22,
+    "open": 23,
+    "high": 23,
+    "low": 22,
+    "volume": 8174100,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-26",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 22,
+    "volume": 6045100,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-27",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 22,
+    "volume": 7429700,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-28",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 4582500,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-08-31",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 5337400,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-01",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 25325100,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-02",
+    "close": 23,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 5660700,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-03",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 15124700,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-04",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 5559200,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-07",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 5457900,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-08",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 3684200,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-09",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 7543400,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-10",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 19271800,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-11",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 6455800,
+    "market_cap": 1232441613192
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-14",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 13248800,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-15",
+    "close": 23,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 6050100,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-16",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 23,
+    "volume": 10235400,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-17",
+    "close": 23,
+    "open": 23,
+    "high": 23,
+    "low": 22,
+    "volume": 6538600,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-18",
+    "close": 22,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 11177200,
+    "market_cap": 1129738145426
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-21",
+    "close": 23,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 9669600,
+    "market_cap": 1181089879309
+  },
+  {
+    "symbol": "BEKS.JK",
+    "date": "2026-09-22",
+    "close": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "volume": 19577500,
+    "market_cap": 1129738145426
+  }
+]

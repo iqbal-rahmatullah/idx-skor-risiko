@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-06-24",
+    "close": 91,
+    "open": 98,
+    "high": 98,
+    "low": 91,
+    "volume": 9152800,
+    "market_cap": 296889329646
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-06-25",
+    "close": 97,
+    "open": 91,
+    "high": 97,
+    "low": 91,
+    "volume": 8274400,
+    "market_cap": 316464450282
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-06-26",
+    "close": 92,
+    "open": 97,
+    "high": 97,
+    "low": 92,
+    "volume": 3711000,
+    "market_cap": 300151849752
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-06-29",
+    "close": 93,
+    "open": 93,
+    "high": 95,
+    "low": 91,
+    "volume": 2380700,
+    "market_cap": 303414369858
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-06-30",
+    "close": 88,
+    "open": 92,
+    "high": 92,
+    "low": 87,
+    "volume": 4095300,
+    "market_cap": 287101769328
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-01",
+    "close": 89,
+    "open": 89,
+    "high": 91,
+    "low": 88,
+    "volume": 1928100,
+    "market_cap": 290364289434
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-02",
+    "close": 88,
+    "open": 89,
+    "high": 91,
+    "low": 88,
+    "volume": 1946900,
+    "market_cap": 287101769328
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-03",
+    "close": 91,
+    "open": 88,
+    "high": 94,
+    "low": 88,
+    "volume": 2890400,
+    "market_cap": 296889329646
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-06",
+    "close": 92,
+    "open": 90,
+    "high": 92,
+    "low": 89,
+    "volume": 1577900,
+    "market_cap": 300151849752
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-07",
+    "close": 91,
+    "open": 91,
+    "high": 93,
+    "low": 89,
+    "volume": 2736100,
+    "market_cap": 296889329646
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-08",
+    "close": 89,
+    "open": 91,
+    "high": 91,
+    "low": 89,
+    "volume": 1735200,
+    "market_cap": 290364289434
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-09",
+    "close": 90,
+    "open": 89,
+    "high": 92,
+    "low": 88,
+    "volume": 3979800,
+    "market_cap": 293626809540
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-10",
+    "close": 90,
+    "open": 92,
+    "high": 92,
+    "low": 89,
+    "volume": 2361600,
+    "market_cap": 293626809540
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-13",
+    "close": 90,
+    "open": 91,
+    "high": 91,
+    "low": 89,
+    "volume": 1016000,
+    "market_cap": 293626809540
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-14",
+    "close": 96,
+    "open": 92,
+    "high": 97,
+    "low": 90,
+    "volume": 49672800,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-15",
+    "close": 93,
+    "open": 96,
+    "high": 98,
+    "low": 93,
+    "volume": 25729900,
+    "market_cap": 303414369858
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-16",
+    "close": 94,
+    "open": 95,
+    "high": 96,
+    "low": 94,
+    "volume": 8745700,
+    "market_cap": 306676889964
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-17",
+    "close": 95,
+    "open": 94,
+    "high": 96,
+    "low": 93,
+    "volume": 3520400,
+    "market_cap": 309939410070
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-20",
+    "close": 94,
+    "open": 95,
+    "high": 96,
+    "low": 94,
+    "volume": 12972600,
+    "market_cap": 306676889964
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-21",
+    "close": 95,
+    "open": 95,
+    "high": 97,
+    "low": 94,
+    "volume": 12807800,
+    "market_cap": 309939410070
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-22",
+    "close": 95,
+    "open": 96,
+    "high": 96,
+    "low": 94,
+    "volume": 11323400,
+    "market_cap": 309939410070
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-23",
+    "close": 95,
+    "open": 95,
+    "high": 96,
+    "low": 94,
+    "volume": 8717200,
+    "market_cap": 309939410070
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-24",
+    "close": 94,
+    "open": 94,
+    "high": 95,
+    "low": 92,
+    "volume": 6877400,
+    "market_cap": 306676889964
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-27",
+    "close": 96,
+    "open": 94,
+    "high": 97,
+    "low": 93,
+    "volume": 23748700,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-28",
+    "close": 96,
+    "open": 97,
+    "high": 102,
+    "low": 95,
+    "volume": 21431300,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-29",
+    "close": 94,
+    "open": 97,
+    "high": 97,
+    "low": 93,
+    "volume": 11187500,
+    "market_cap": 306676889964
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-30",
+    "close": 96,
+    "open": 94,
+    "high": 96,
+    "low": 94,
+    "volume": 4723600,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-07-31",
+    "close": 95,
+    "open": 96,
+    "high": 97,
+    "low": 95,
+    "volume": 9491600,
+    "market_cap": 309939410070
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-03",
+    "close": 96,
+    "open": 96,
+    "high": 97,
+    "low": 94,
+    "volume": 9468300,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-04",
+    "close": 96,
+    "open": 95,
+    "high": 97,
+    "low": 95,
+    "volume": 6142600,
+    "market_cap": 313201930176
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-05",
+    "close": 99,
+    "open": 97,
+    "high": 100,
+    "low": 96,
+    "volume": 12935500,
+    "market_cap": 322989490494
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-06",
+    "close": 102,
+    "open": 99,
+    "high": 102,
+    "low": 98,
+    "volume": 17874500,
+    "market_cap": 332777050812
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-07",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 99,
+    "volume": 8791900,
+    "market_cap": 322989490494
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-10",
+    "close": 100,
+    "open": 99,
+    "high": 101,
+    "low": 99,
+    "volume": 10045000,
+    "market_cap": 326252010600
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-11",
+    "close": 98,
+    "open": 100,
+    "high": 100,
+    "low": 96,
+    "volume": 13160300,
+    "market_cap": 319726970388
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-12",
+    "close": 99,
+    "open": 98,
+    "high": 100,
+    "low": 96,
+    "volume": 27144100,
+    "market_cap": 322989490494
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-13",
+    "close": 98,
+    "open": 100,
+    "high": 100,
+    "low": 98,
+    "volume": 9799300,
+    "market_cap": 319726970388
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-14",
+    "close": 99,
+    "open": 98,
+    "high": 100,
+    "low": 97,
+    "volume": 6030700,
+    "market_cap": 322989490494
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-18",
+    "close": 99,
+    "open": 99,
+    "high": 101,
+    "low": 98,
+    "volume": 12905200,
+    "market_cap": 322989490494
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-19",
+    "close": 100,
+    "open": 99,
+    "high": 108,
+    "low": 98,
+    "volume": 48236200,
+    "market_cap": 326252010600
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-20",
+    "close": 103,
+    "open": 100,
+    "high": 105,
+    "low": 100,
+    "volume": 19392600,
+    "market_cap": 336039570918
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-21",
+    "close": 105,
+    "open": 103,
+    "high": 106,
+    "low": 102,
+    "volume": 17438300,
+    "market_cap": 342564611130
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-24",
+    "close": 104,
+    "open": 105,
+    "high": 108,
+    "low": 103,
+    "volume": 17160000,
+    "market_cap": 339302091024
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-26",
+    "close": 101,
+    "open": 105,
+    "high": 108,
+    "low": 100,
+    "volume": 20707100,
+    "market_cap": 329514530706
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-27",
+    "close": 105,
+    "open": 101,
+    "high": 106,
+    "low": 100,
+    "volume": 14147600,
+    "market_cap": 342564611130
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-28",
+    "close": 104,
+    "open": 105,
+    "high": 107,
+    "low": 103,
+    "volume": 11302300,
+    "market_cap": 339302091024
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-08-31",
+    "close": 106,
+    "open": 104,
+    "high": 106,
+    "low": 103,
+    "volume": 11134600,
+    "market_cap": 345827131236
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-01",
+    "close": 106,
+    "open": 106,
+    "high": 107,
+    "low": 105,
+    "volume": 11796300,
+    "market_cap": 345827131236
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-02",
+    "close": 109,
+    "open": 107,
+    "high": 111,
+    "low": 105,
+    "volume": 18533000,
+    "market_cap": 355614691554
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-03",
+    "close": 110,
+    "open": 109,
+    "high": 110,
+    "low": 107,
+    "volume": 11979200,
+    "market_cap": 358877211660
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-04",
+    "close": 110,
+    "open": 110,
+    "high": 113,
+    "low": 110,
+    "volume": 15083400,
+    "market_cap": 358877211660
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-07",
+    "close": 110,
+    "open": 111,
+    "high": 112,
+    "low": 110,
+    "volume": 22671200,
+    "market_cap": 358877211660
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-08",
+    "close": 112,
+    "open": 111,
+    "high": 113,
+    "low": 111,
+    "volume": 12065900,
+    "market_cap": 365402251872
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-09",
+    "close": 112,
+    "open": 113,
+    "high": 114,
+    "low": 110,
+    "volume": 16308900,
+    "market_cap": 365402251872
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-10",
+    "close": 112,
+    "open": 112,
+    "high": 113,
+    "low": 109,
+    "volume": 17511900,
+    "market_cap": 365402251872
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-11",
+    "close": 111,
+    "open": 111,
+    "high": 113,
+    "low": 108,
+    "volume": 13912000,
+    "market_cap": 362139731766
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-14",
+    "close": 124,
+    "open": 111,
+    "high": 127,
+    "low": 111,
+    "volume": 183529800,
+    "market_cap": 404552493144
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-15",
+    "close": 118,
+    "open": 125,
+    "high": 125,
+    "low": 116,
+    "volume": 45385500,
+    "market_cap": 384977372508
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-16",
+    "close": 114,
+    "open": 118,
+    "high": 121,
+    "low": 114,
+    "volume": 27245700,
+    "market_cap": 371927292084
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-17",
+    "close": 116,
+    "open": 114,
+    "high": 118,
+    "low": 113,
+    "volume": 24220000,
+    "market_cap": 378452332296
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-18",
+    "close": 117,
+    "open": 117,
+    "high": 119,
+    "low": 115,
+    "volume": 22726700,
+    "market_cap": 381714852402
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-21",
+    "close": 117,
+    "open": 118,
+    "high": 120,
+    "low": 116,
+    "volume": 15151000,
+    "market_cap": 381714852402
+  },
+  {
+    "symbol": "JATI.JK",
+    "date": "2026-09-22",
+    "close": 117,
+    "open": 118,
+    "high": 118,
+    "low": 114,
+    "volume": 21071800,
+    "market_cap": 381714852402
+  }
+]

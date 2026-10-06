@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-06-24",
+    "close": 1460,
+    "open": 1530,
+    "high": 1560,
+    "low": 1450,
+    "volume": 20895000,
+    "market_cap": 9857248529940
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-06-25",
+    "close": 1485,
+    "open": 1460,
+    "high": 1530,
+    "low": 1445,
+    "volume": 24206400,
+    "market_cap": 10026037032165
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-06-26",
+    "close": 1465,
+    "open": 1485,
+    "high": 1505,
+    "low": 1435,
+    "volume": 14731800,
+    "market_cap": 9891006230385
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-06-29",
+    "close": 1490,
+    "open": 1465,
+    "high": 1490,
+    "low": 1445,
+    "volume": 9973700,
+    "market_cap": 10059794732610
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-06-30",
+    "close": 1415,
+    "open": 1490,
+    "high": 1490,
+    "low": 1390,
+    "volume": 27373000,
+    "market_cap": 9553429225935
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-01",
+    "close": 1400,
+    "open": 1415,
+    "high": 1440,
+    "low": 1400,
+    "volume": 9944600,
+    "market_cap": 9452156124600
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-02",
+    "close": 1395,
+    "open": 1400,
+    "high": 1425,
+    "low": 1395,
+    "volume": 14038600,
+    "market_cap": 9418398424155
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-03",
+    "close": 1425,
+    "open": 1410,
+    "high": 1460,
+    "low": 1405,
+    "volume": 11522500,
+    "market_cap": 9620944626825
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-06",
+    "close": 1405,
+    "open": 1425,
+    "high": 1425,
+    "low": 1380,
+    "volume": 18086000,
+    "market_cap": 9485913825045
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-07",
+    "close": 1520,
+    "open": 1410,
+    "high": 1530,
+    "low": 1410,
+    "volume": 28499700,
+    "market_cap": 10262340935280
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-08",
+    "close": 1420,
+    "open": 1510,
+    "high": 1510,
+    "low": 1420,
+    "volume": 24825100,
+    "market_cap": 9587186926380
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-09",
+    "close": 1410,
+    "open": 1410,
+    "high": 1440,
+    "low": 1405,
+    "volume": 11869200,
+    "market_cap": 9519671525490
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-10",
+    "close": 1415,
+    "open": 1425,
+    "high": 1435,
+    "low": 1410,
+    "volume": 6650900,
+    "market_cap": 9553429225935
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-13",
+    "close": 1435,
+    "open": 1420,
+    "high": 1445,
+    "low": 1415,
+    "volume": 8153500,
+    "market_cap": 9688460027715
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-14",
+    "close": 1440,
+    "open": 1440,
+    "high": 1480,
+    "low": 1430,
+    "volume": 12976800,
+    "market_cap": 9722217728160
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-15",
+    "close": 1450,
+    "open": 1440,
+    "high": 1470,
+    "low": 1430,
+    "volume": 11279900,
+    "market_cap": 9789733129050
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-16",
+    "close": 1495,
+    "open": 1450,
+    "high": 1500,
+    "low": 1450,
+    "volume": 37705200,
+    "market_cap": 10093552433055
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-17",
+    "close": 1505,
+    "open": 1495,
+    "high": 1520,
+    "low": 1475,
+    "volume": 23697600,
+    "market_cap": 10161067833945
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-20",
+    "close": 1505,
+    "open": 1505,
+    "high": 1530,
+    "low": 1490,
+    "volume": 13849600,
+    "market_cap": 10161067833945
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-21",
+    "close": 1520,
+    "open": 1510,
+    "high": 1535,
+    "low": 1500,
+    "volume": 13773500,
+    "market_cap": 10262340935280
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-22",
+    "close": 1510,
+    "open": 1520,
+    "high": 1535,
+    "low": 1495,
+    "volume": 11777100,
+    "market_cap": 10194825534390
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-23",
+    "close": 1515,
+    "open": 1510,
+    "high": 1550,
+    "low": 1505,
+    "volume": 15293800,
+    "market_cap": 10228583234835
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-24",
+    "close": 1455,
+    "open": 1510,
+    "high": 1510,
+    "low": 1450,
+    "volume": 20170600,
+    "market_cap": 9823490829495
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-27",
+    "close": 1455,
+    "open": 1450,
+    "high": 1470,
+    "low": 1440,
+    "volume": 6304500,
+    "market_cap": 9823490829495
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-28",
+    "close": 1480,
+    "open": 1440,
+    "high": 1495,
+    "low": 1430,
+    "volume": 15004600,
+    "market_cap": 9992279331720
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-29",
+    "close": 1460,
+    "open": 1480,
+    "high": 1485,
+    "low": 1430,
+    "volume": 11064900,
+    "market_cap": 9857248529940
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-30",
+    "close": 1455,
+    "open": 1465,
+    "high": 1510,
+    "low": 1450,
+    "volume": 21604800,
+    "market_cap": 9823490829495
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-07-31",
+    "close": 1460,
+    "open": 1465,
+    "high": 1470,
+    "low": 1450,
+    "volume": 10042000,
+    "market_cap": 9857248529940
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-03",
+    "close": 1480,
+    "open": 1460,
+    "high": 1495,
+    "low": 1445,
+    "volume": 9211300,
+    "market_cap": 9992279331720
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-04",
+    "close": 1530,
+    "open": 1475,
+    "high": 1530,
+    "low": 1475,
+    "volume": 17651600,
+    "market_cap": 10329856336170
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-05",
+    "close": 1565,
+    "open": 1545,
+    "high": 1575,
+    "low": 1530,
+    "volume": 13639300,
+    "market_cap": 10566160239285
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-06",
+    "close": 1625,
+    "open": 1580,
+    "high": 1640,
+    "low": 1575,
+    "volume": 27886200,
+    "market_cap": 10971252644625
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-07",
+    "close": 1620,
+    "open": 1635,
+    "high": 1640,
+    "low": 1610,
+    "volume": 13686400,
+    "market_cap": 10937494944180
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-10",
+    "close": 1610,
+    "open": 1620,
+    "high": 1640,
+    "low": 1590,
+    "volume": 13350200,
+    "market_cap": 10869979543290
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-11",
+    "close": 1545,
+    "open": 1615,
+    "high": 1635,
+    "low": 1530,
+    "volume": 25220400,
+    "market_cap": 10431129437505
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-12",
+    "close": 1555,
+    "open": 1550,
+    "high": 1565,
+    "low": 1535,
+    "volume": 11706800,
+    "market_cap": 10498644838395
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-13",
+    "close": 1510,
+    "open": 1500,
+    "high": 1520,
+    "low": 1480,
+    "volume": 15883400,
+    "market_cap": 10194825534390
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-14",
+    "close": 1580,
+    "open": 1515,
+    "high": 1610,
+    "low": 1495,
+    "volume": 22509200,
+    "market_cap": 10667433340620
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-18",
+    "close": 1550,
+    "open": 1595,
+    "high": 1605,
+    "low": 1545,
+    "volume": 16770000,
+    "market_cap": 10464887137950
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-19",
+    "close": 1525,
+    "open": 1550,
+    "high": 1550,
+    "low": 1520,
+    "volume": 11770400,
+    "market_cap": 10296098635725
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-20",
+    "close": 1545,
+    "open": 1530,
+    "high": 1555,
+    "low": 1525,
+    "volume": 8406400,
+    "market_cap": 10431129437505
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-21",
+    "close": 1565,
+    "open": 1545,
+    "high": 1585,
+    "low": 1545,
+    "volume": 12348600,
+    "market_cap": 10566160239285
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-24",
+    "close": 1505,
+    "open": 1575,
+    "high": 1575,
+    "low": 1500,
+    "volume": 26914900,
+    "market_cap": 10161067833945
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-26",
+    "close": 1490,
+    "open": 1505,
+    "high": 1520,
+    "low": 1485,
+    "volume": 16460200,
+    "market_cap": 10059794732610
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-27",
+    "close": 1505,
+    "open": 1485,
+    "high": 1520,
+    "low": 1465,
+    "volume": 23426700,
+    "market_cap": 10161067833945
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-28",
+    "close": 1500,
+    "open": 1510,
+    "high": 1530,
+    "low": 1490,
+    "volume": 20679200,
+    "market_cap": 10127310133500
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-08-31",
+    "close": 1480,
+    "open": 1505,
+    "high": 1530,
+    "low": 1480,
+    "volume": 119990500,
+    "market_cap": 9992279331720
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-01",
+    "close": 1730,
+    "open": 1530,
+    "high": 1785,
+    "low": 1530,
+    "volume": 135860100,
+    "market_cap": 11680164353970
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-02",
+    "close": 1680,
+    "open": 1725,
+    "high": 1725,
+    "low": 1675,
+    "volume": 23574400,
+    "market_cap": 11342587349520
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-03",
+    "close": 1785,
+    "open": 1685,
+    "high": 1840,
+    "low": 1680,
+    "volume": 61532100,
+    "market_cap": 12051499058865
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-04",
+    "close": 1795,
+    "open": 1805,
+    "high": 1830,
+    "low": 1770,
+    "volume": 24656500,
+    "market_cap": 12119014459755
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-07",
+    "close": 1755,
+    "open": 1750,
+    "high": 1800,
+    "low": 1750,
+    "volume": 19225700,
+    "market_cap": 11848952856195
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-08",
+    "close": 1760,
+    "open": 1760,
+    "high": 1795,
+    "low": 1755,
+    "volume": 18083100,
+    "market_cap": 11882710556640
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-09",
+    "close": 1730,
+    "open": 1780,
+    "high": 1790,
+    "low": 1720,
+    "volume": 20604300,
+    "market_cap": 11680164353970
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-10",
+    "close": 1730,
+    "open": 1745,
+    "high": 1780,
+    "low": 1705,
+    "volume": 27120100,
+    "market_cap": 11680164353970
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-11",
+    "close": 1695,
+    "open": 1715,
+    "high": 1730,
+    "low": 1670,
+    "volume": 20887700,
+    "market_cap": 11443860450855
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-14",
+    "close": 1655,
+    "open": 1695,
+    "high": 1705,
+    "low": 1620,
+    "volume": 22734500,
+    "market_cap": 11173798847295
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-15",
+    "close": 1585,
+    "open": 1670,
+    "high": 1680,
+    "low": 1585,
+    "volume": 25254800,
+    "market_cap": 10701191041065
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-16",
+    "close": 1585,
+    "open": 1585,
+    "high": 1625,
+    "low": 1585,
+    "volume": 13419400,
+    "market_cap": 10701191041065
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-17",
+    "close": 1620,
+    "open": 1590,
+    "high": 1625,
+    "low": 1580,
+    "volume": 14461100,
+    "market_cap": 10937494944180
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-18",
+    "close": 1550,
+    "open": 1630,
+    "high": 1635,
+    "low": 1550,
+    "volume": 26294200,
+    "market_cap": 10464887137950
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-21",
+    "close": 1560,
+    "open": 1570,
+    "high": 1580,
+    "low": 1555,
+    "volume": 8790200,
+    "market_cap": 10532402538840
+  },
+  {
+    "symbol": "SMGR.JK",
+    "date": "2026-09-22",
+    "close": 1580,
+    "open": 1580,
+    "high": 1620,
+    "low": 1570,
+    "volume": 17266700,
+    "market_cap": 10667433340620
+  }
+]

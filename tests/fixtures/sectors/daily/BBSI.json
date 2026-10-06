@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-06-24",
+    "close": 4770,
+    "open": 4770,
+    "high": 4770,
+    "low": 4770,
+    "volume": 0,
+    "market_cap": 17353145844360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-06-25",
+    "close": 4770,
+    "open": 4760,
+    "high": 4770,
+    "low": 4440,
+    "volume": 1000,
+    "market_cap": 17353145844360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-06-26",
+    "close": 4750,
+    "open": 4770,
+    "high": 4770,
+    "low": 4750,
+    "volume": 600,
+    "market_cap": 17280386323000
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-06-29",
+    "close": 4750,
+    "open": 4750,
+    "high": 4750,
+    "low": 4750,
+    "volume": 0,
+    "market_cap": 17280386323000
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-06-30",
+    "close": 4750,
+    "open": 4750,
+    "high": 4750,
+    "low": 4750,
+    "volume": 0,
+    "market_cap": 17280386323000
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-01",
+    "close": 4750,
+    "open": 4750,
+    "high": 4750,
+    "low": 4750,
+    "volume": 100,
+    "market_cap": 17280386323000
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-02",
+    "close": 4550,
+    "open": 4750,
+    "high": 4750,
+    "low": 4550,
+    "volume": 300,
+    "market_cap": 16552791109400
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-03",
+    "close": 4600,
+    "open": 4700,
+    "high": 4760,
+    "low": 4600,
+    "volume": 5100,
+    "market_cap": 16734689912800
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-06",
+    "close": 4610,
+    "open": 4600,
+    "high": 4750,
+    "low": 4600,
+    "volume": 800,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-07",
+    "close": 4610,
+    "open": 4610,
+    "high": 4610,
+    "low": 4610,
+    "volume": 0,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-08",
+    "close": 4710,
+    "open": 4600,
+    "high": 4740,
+    "low": 4600,
+    "volume": 1900,
+    "market_cap": 17134867280280
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-09",
+    "close": 4710,
+    "open": 4710,
+    "high": 4710,
+    "low": 4710,
+    "volume": 0,
+    "market_cap": 17134867280280
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-10",
+    "close": 4710,
+    "open": 4710,
+    "high": 4710,
+    "low": 4710,
+    "volume": 0,
+    "market_cap": 17134867280280
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-13",
+    "close": 4610,
+    "open": 4710,
+    "high": 4710,
+    "low": 4610,
+    "volume": 300,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-14",
+    "close": 4700,
+    "open": 4710,
+    "high": 4710,
+    "low": 4700,
+    "volume": 2100,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-15",
+    "close": 4710,
+    "open": 4570,
+    "high": 4710,
+    "low": 4570,
+    "volume": 5700,
+    "market_cap": 17134867280280
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-16",
+    "close": 4710,
+    "open": 4710,
+    "high": 4710,
+    "low": 4710,
+    "volume": 1000,
+    "market_cap": 17134867280280
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-17",
+    "close": 4720,
+    "open": 4700,
+    "high": 4720,
+    "low": 4500,
+    "volume": 6900,
+    "market_cap": 17171247040960
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-20",
+    "close": 4700,
+    "open": 4720,
+    "high": 4730,
+    "low": 4530,
+    "volume": 3100,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-21",
+    "close": 4700,
+    "open": 4700,
+    "high": 4730,
+    "low": 4620,
+    "volume": 1000,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-22",
+    "close": 4700,
+    "open": 4700,
+    "high": 4700,
+    "low": 4630,
+    "volume": 2300,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-23",
+    "close": 4690,
+    "open": 4700,
+    "high": 4700,
+    "low": 4610,
+    "volume": 900,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-24",
+    "close": 4690,
+    "open": 4730,
+    "high": 4730,
+    "low": 4690,
+    "volume": 2000,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-27",
+    "close": 4690,
+    "open": 4640,
+    "high": 4700,
+    "low": 4630,
+    "volume": 2100,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-28",
+    "close": 4700,
+    "open": 4650,
+    "high": 4700,
+    "low": 4640,
+    "volume": 1500,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-29",
+    "close": 4690,
+    "open": 4690,
+    "high": 4700,
+    "low": 4600,
+    "volume": 1000,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-30",
+    "close": 4690,
+    "open": 4600,
+    "high": 4700,
+    "low": 4600,
+    "volume": 1200,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-07-31",
+    "close": 4690,
+    "open": 4690,
+    "high": 4700,
+    "low": 4610,
+    "volume": 1400,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-03",
+    "close": 4690,
+    "open": 4500,
+    "high": 4700,
+    "low": 4500,
+    "volume": 1700,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-04",
+    "close": 4690,
+    "open": 4690,
+    "high": 4700,
+    "low": 4690,
+    "volume": 1500,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-05",
+    "close": 4700,
+    "open": 4610,
+    "high": 4700,
+    "low": 4610,
+    "volume": 2500,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-06",
+    "close": 4610,
+    "open": 4700,
+    "high": 4700,
+    "low": 4610,
+    "volume": 500,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-07",
+    "close": 4650,
+    "open": 4650,
+    "high": 4690,
+    "low": 4650,
+    "volume": 600,
+    "market_cap": 16916588716200
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-10",
+    "close": 4700,
+    "open": 4690,
+    "high": 4700,
+    "low": 4690,
+    "volume": 400,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-11",
+    "close": 4700,
+    "open": 4700,
+    "high": 4700,
+    "low": 4700,
+    "volume": 0,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-12",
+    "close": 4610,
+    "open": 4610,
+    "high": 4610,
+    "low": 4610,
+    "volume": 100,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-13",
+    "close": 4600,
+    "open": 4610,
+    "high": 4610,
+    "low": 4600,
+    "volume": 200,
+    "market_cap": 16734689912800
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-14",
+    "close": 4700,
+    "open": 4660,
+    "high": 4700,
+    "low": 4660,
+    "volume": 500,
+    "market_cap": 17098487519600
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-18",
+    "close": 4670,
+    "open": 4670,
+    "high": 4700,
+    "low": 4600,
+    "volume": 900,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-19",
+    "close": 4670,
+    "open": 4670,
+    "high": 4670,
+    "low": 4670,
+    "volume": 0,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-20",
+    "close": 4680,
+    "open": 4680,
+    "high": 4700,
+    "low": 4680,
+    "volume": 700,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-21",
+    "close": 4670,
+    "open": 4610,
+    "high": 4670,
+    "low": 4600,
+    "volume": 400,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-24",
+    "close": 4660,
+    "open": 4660,
+    "high": 4660,
+    "low": 4660,
+    "volume": 100,
+    "market_cap": 16952968476880
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-26",
+    "close": 4660,
+    "open": 4690,
+    "high": 4690,
+    "low": 4650,
+    "volume": 700,
+    "market_cap": 16952968476880
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-27",
+    "close": 4690,
+    "open": 4690,
+    "high": 4690,
+    "low": 4690,
+    "volume": 200,
+    "market_cap": 17062107758920
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-28",
+    "close": 4680,
+    "open": 4630,
+    "high": 4680,
+    "low": 4630,
+    "volume": 200,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-08-31",
+    "close": 4680,
+    "open": 4600,
+    "high": 4680,
+    "low": 4600,
+    "volume": 800,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-01",
+    "close": 4680,
+    "open": 4680,
+    "high": 4700,
+    "low": 4670,
+    "volume": 4900,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-02",
+    "close": 4680,
+    "open": 4680,
+    "high": 4680,
+    "low": 4680,
+    "volume": 1600,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-03",
+    "close": 4660,
+    "open": 4670,
+    "high": 4670,
+    "low": 4630,
+    "volume": 1000,
+    "market_cap": 16952968476880
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-04",
+    "close": 4680,
+    "open": 4670,
+    "high": 4680,
+    "low": 4670,
+    "volume": 13700,
+    "market_cap": 17025727998240
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-07",
+    "close": 4670,
+    "open": 4680,
+    "high": 4680,
+    "low": 4600,
+    "volume": 3900,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-08",
+    "close": 4670,
+    "open": 4660,
+    "high": 4670,
+    "low": 4660,
+    "volume": 400,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-09",
+    "close": 4670,
+    "open": 4670,
+    "high": 4670,
+    "low": 4670,
+    "volume": 3500,
+    "market_cap": 16989348237560
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-10",
+    "close": 4610,
+    "open": 4610,
+    "high": 4610,
+    "low": 4610,
+    "volume": 400,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-11",
+    "close": 4610,
+    "open": 4610,
+    "high": 4610,
+    "low": 4610,
+    "volume": 0,
+    "market_cap": 16771069673480
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-14",
+    "close": 4580,
+    "open": 4600,
+    "high": 4600,
+    "low": 4500,
+    "volume": 400,
+    "market_cap": 16661930391440
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-15",
+    "close": 4580,
+    "open": 4550,
+    "high": 4580,
+    "low": 4550,
+    "volume": 700,
+    "market_cap": 16661930391440
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-16",
+    "close": 4520,
+    "open": 4580,
+    "high": 4580,
+    "low": 4520,
+    "volume": 200,
+    "market_cap": 16443651827360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-17",
+    "close": 4520,
+    "open": 4520,
+    "high": 4520,
+    "low": 4520,
+    "volume": 0,
+    "market_cap": 16443651827360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-18",
+    "close": 4520,
+    "open": 4520,
+    "high": 4520,
+    "low": 4520,
+    "volume": 0,
+    "market_cap": 16443651827360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-21",
+    "close": 4520,
+    "open": 4520,
+    "high": 4520,
+    "low": 4520,
+    "volume": 700,
+    "market_cap": 16443651827360
+  },
+  {
+    "symbol": "BBSI.JK",
+    "date": "2026-09-22",
+    "close": 4520,
+    "open": 4520,
+    "high": 4520,
+    "low": 4520,
+    "volume": 300,
+    "market_cap": 16443651827360
+  }
+]

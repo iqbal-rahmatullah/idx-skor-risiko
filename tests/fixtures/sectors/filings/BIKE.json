@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "title": "Sendi buys shares of Sepeda Bersama Indonesia",
+      "body": "Sendi bought 75,962,140 shares of Sepeda Bersama Indonesia. This increases their holdings from 0 to 75,962,140 shares. The stated purpose of the transaction was investment.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06082026-0573-00.pdf-0.pdf",
+      "timestamp": "2026-08-06T18:10:30",
+      "sector": "consumer-cyclicals",
+      "sub_sector": "leisure-goods",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "BIKE.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Sendi",
+      "holding_before": 0,
+      "holding_after": 75962140,
+      "amount_transaction": 75962140,
+      "price": 620.0,
+      "transaction_value": 47096526800.0,
+      "price_transaction": [
+        {
+          "date": "2026-04-17",
+          "type": "buy",
+          "price": 620,
+          "amount_transacted": 75962140
+        }
+      ],
+      "share_percentage_before": 0.0,
+      "share_percentage_after": 5.87,
+      "share_percentage_transaction": 5.87,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Stephen Mulyadi sells shares of Sepeda Bersama Indonesia",
+      "body": "This is Stephen Mulyadi's 3rd insider disposal in the last 6 months, totaling a distribution of 800,250,000 shares transacted at an average price of IDR 31. Stephen Mulyadi's ownership in Sepeda Bersama Indonesia has decreased from 20.62% to 0.0% in this period.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26062026-5524-00.pdf-0.pdf",
+      "timestamp": "2026-06-26T16:45:25",
+      "sector": "consumer-cyclicals",
+      "sub_sector": "leisure-goods",
+      "tags": [
+        "divestment"
+      ],
+      "symbol": "BIKE.JK",
+      "transaction_type": "sell",
+      "holder_type": "insider",
+      "holder_name": "Stephen Mulyadi",
+      "holding_before": 266750000,
+      "holding_after": 0,
+      "amount_transaction": 266750000,
+      "price": 47.0,
+      "transaction_value": 12537250000.0,
+      "price_transaction": [
+        {
+          "date": "2026-04-15",
+          "type": "sell",
+          "price": 47,
+          "amount_transacted": 266750000
+        }
+      ],
+      "share_percentage_before": 20.62,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 20.62,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Henry Mulyadi sells shares of Sepeda Bersama Indonesia",
+      "body": "This is Henry Mulyadi's 3rd insider disposal in the last 6 months, totaling a distribution of 982,125,000 shares transacted at an average price of IDR 31. Henry Mulyadi's ownership in Sepeda Bersama Indonesia has decreased from 25.3% to 0.0% in this period.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26062026-7796-00.pdf-0.pdf",
+      "timestamp": "2026-06-26T16:41:28",
+      "sector": "consumer-cyclicals",
+      "sub_sector": "leisure-goods",
+      "tags": [
+        "divestment"
+      ],
+      "symbol": "BIKE.JK",
+      "transaction_type": "sell",
+      "holder_type": "insider",
+      "holder_name": "Henry Mulyadi",
+      "holding_before": 327375000,
+      "holding_after": 0,
+      "amount_transaction": 327375000,
+      "price": 47.0,
+      "transaction_value": 15386625000.0,
+      "price_transaction": [
+        {
+          "date": "2026-04-15",
+          "type": "sell",
+          "price": 47,
+          "amount_transacted": 327375000
+        }
+      ],
+      "share_percentage_before": 25.3,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 25.3,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    },
+    {
+      "title": "Andrew Mulyadi sells shares of Sepeda Bersama Indonesia",
+      "body": "This is Andrew Mulyadi's 3rd insider disposal in the last 6 months, totaling a distribution of 982,125,000 shares transacted at an average price of IDR 31. Andrew Mulyadi's ownership in Sepeda Bersama Indonesia has decreased from 25.3% to 0.0% in this period.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26062026-4701-00.pdf-0.pdf",
+      "timestamp": "2026-06-26T16:38:08",
+      "sector": "consumer-cyclicals",
+      "sub_sector": "leisure-goods",
+      "tags": [
+        "divestment"
+      ],
+      "symbol": "BIKE.JK",
+      "transaction_type": "sell",
+      "holder_type": "insider",
+      "holder_name": "Andrew Mulyadi",
+      "holding_before": 327375000,
+      "holding_after": 0,
+      "amount_transaction": 327375000,
+      "price": 47.0,
+      "transaction_value": 15386625000.0,
+      "price_transaction": [
+        {
+          "date": "2026-04-15",
+          "type": "sell",
+          "price": 47,
+          "amount_transacted": 327375000
+        }
+      ],
+      "share_percentage_before": 25.3,
+      "share_percentage_after": 0.0,
+      "share_percentage_transaction": 25.3,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    }
+  ],
+  "pagination": {
+    "total_count": 4,
+    "showing": 4,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

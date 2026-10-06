@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-06-24",
+    "close": 630,
+    "open": 660,
+    "high": 670,
+    "low": 625,
+    "volume": 74523900,
+    "market_cap": 10852994691000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-06-25",
+    "close": 635,
+    "open": 630,
+    "high": 650,
+    "low": 620,
+    "volume": 55868900,
+    "market_cap": 10939129569500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-06-26",
+    "close": 620,
+    "open": 640,
+    "high": 640,
+    "low": 605,
+    "volume": 135525400,
+    "market_cap": 10680724934000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-06-29",
+    "close": 570,
+    "open": 580,
+    "high": 595,
+    "low": 560,
+    "volume": 107040800,
+    "market_cap": 9819376149000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-06-30",
+    "close": 515,
+    "open": 570,
+    "high": 575,
+    "low": 505,
+    "volume": 179129400,
+    "market_cap": 8871892485500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-01",
+    "close": 540,
+    "open": 520,
+    "high": 555,
+    "low": 510,
+    "volume": 82169900,
+    "market_cap": 9302566878000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-02",
+    "close": 545,
+    "open": 540,
+    "high": 555,
+    "low": 530,
+    "volume": 37024900,
+    "market_cap": 9388701756500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-03",
+    "close": 540,
+    "open": 545,
+    "high": 555,
+    "low": 535,
+    "volume": 73091900,
+    "market_cap": 9302566878000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-06",
+    "close": 540,
+    "open": 540,
+    "high": 545,
+    "low": 530,
+    "volume": 26385600,
+    "market_cap": 9302566878000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-07",
+    "close": 545,
+    "open": 540,
+    "high": 550,
+    "low": 535,
+    "volume": 33585600,
+    "market_cap": 9388701756500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-08",
+    "close": 540,
+    "open": 545,
+    "high": 550,
+    "low": 535,
+    "volume": 38572700,
+    "market_cap": 9302566878000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-09",
+    "close": 565,
+    "open": 545,
+    "high": 575,
+    "low": 545,
+    "volume": 81879600,
+    "market_cap": 9733241270500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-10",
+    "close": 575,
+    "open": 570,
+    "high": 580,
+    "low": 565,
+    "volume": 32827000,
+    "market_cap": 9905511027500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-13",
+    "close": 590,
+    "open": 580,
+    "high": 600,
+    "low": 580,
+    "volume": 63958600,
+    "market_cap": 10163915663000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-14",
+    "close": 580,
+    "open": 600,
+    "high": 610,
+    "low": 565,
+    "volume": 160931000,
+    "market_cap": 9991645906000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-15",
+    "close": 610,
+    "open": 585,
+    "high": 610,
+    "low": 575,
+    "volume": 98779300,
+    "market_cap": 10508455177000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-16",
+    "close": 595,
+    "open": 605,
+    "high": 610,
+    "low": 585,
+    "volume": 85522500,
+    "market_cap": 10250050541500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-17",
+    "close": 595,
+    "open": 595,
+    "high": 600,
+    "low": 585,
+    "volume": 37597300,
+    "market_cap": 10250050541500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-20",
+    "close": 605,
+    "open": 600,
+    "high": 605,
+    "low": 595,
+    "volume": 66564300,
+    "market_cap": 10422320298500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-21",
+    "close": 610,
+    "open": 605,
+    "high": 620,
+    "low": 600,
+    "volume": 69249200,
+    "market_cap": 10508455177000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-22",
+    "close": 620,
+    "open": 620,
+    "high": 635,
+    "low": 610,
+    "volume": 109065400,
+    "market_cap": 10680724934000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-23",
+    "close": 645,
+    "open": 635,
+    "high": 660,
+    "low": 630,
+    "volume": 168081400,
+    "market_cap": 11111399326500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-24",
+    "close": 640,
+    "open": 650,
+    "high": 670,
+    "low": 635,
+    "volume": 142394200,
+    "market_cap": 11025264448000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-27",
+    "close": 610,
+    "open": 630,
+    "high": 635,
+    "low": 605,
+    "volume": 61769100,
+    "market_cap": 10508455177000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-28",
+    "close": 605,
+    "open": 610,
+    "high": 615,
+    "low": 600,
+    "volume": 43753200,
+    "market_cap": 10422320298500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-29",
+    "close": 615,
+    "open": 610,
+    "high": 630,
+    "low": 600,
+    "volume": 60166400,
+    "market_cap": 10594590055500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-30",
+    "close": 635,
+    "open": 620,
+    "high": 640,
+    "low": 615,
+    "volume": 41610600,
+    "market_cap": 10939129569500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-07-31",
+    "close": 640,
+    "open": 635,
+    "high": 650,
+    "low": 630,
+    "volume": 34982900,
+    "market_cap": 11025264448000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-03",
+    "close": 625,
+    "open": 640,
+    "high": 640,
+    "low": 615,
+    "volume": 47280300,
+    "market_cap": 10766859812500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-04",
+    "close": 615,
+    "open": 620,
+    "high": 630,
+    "low": 610,
+    "volume": 77148400,
+    "market_cap": 10594590055500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-05",
+    "close": 630,
+    "open": 615,
+    "high": 630,
+    "low": 610,
+    "volume": 88684600,
+    "market_cap": 10852994691000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-06",
+    "close": 625,
+    "open": 630,
+    "high": 640,
+    "low": 615,
+    "volume": 72878900,
+    "market_cap": 10766859812500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-07",
+    "close": 635,
+    "open": 625,
+    "high": 635,
+    "low": 625,
+    "volume": 63338300,
+    "market_cap": 10939129569500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-10",
+    "close": 685,
+    "open": 635,
+    "high": 695,
+    "low": 630,
+    "volume": 260695400,
+    "market_cap": 11800478354500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-11",
+    "close": 695,
+    "open": 690,
+    "high": 695,
+    "low": 665,
+    "volume": 161873300,
+    "market_cap": 11972748111500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-12",
+    "close": 710,
+    "open": 695,
+    "high": 735,
+    "low": 685,
+    "volume": 164279600,
+    "market_cap": 12231152747000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-13",
+    "close": 660,
+    "open": 675,
+    "high": 695,
+    "low": 650,
+    "volume": 149328000,
+    "market_cap": 11369803962000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-14",
+    "close": 655,
+    "open": 660,
+    "high": 670,
+    "low": 645,
+    "volume": 45958100,
+    "market_cap": 11283669083500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-18",
+    "close": 650,
+    "open": 655,
+    "high": 660,
+    "low": 645,
+    "volume": 46713200,
+    "market_cap": 11197534205000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-19",
+    "close": 620,
+    "open": 650,
+    "high": 650,
+    "low": 615,
+    "volume": 102415200,
+    "market_cap": 10680724934000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-20",
+    "close": 635,
+    "open": 620,
+    "high": 640,
+    "low": 620,
+    "volume": 96343700,
+    "market_cap": 10939129569500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-21",
+    "close": 625,
+    "open": 635,
+    "high": 635,
+    "low": 625,
+    "volume": 43494400,
+    "market_cap": 10766859812500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-24",
+    "close": 615,
+    "open": 625,
+    "high": 630,
+    "low": 610,
+    "volume": 101908100,
+    "market_cap": 10594590055500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-26",
+    "close": 605,
+    "open": 615,
+    "high": 620,
+    "low": 600,
+    "volume": 74903200,
+    "market_cap": 10422320298500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-27",
+    "close": 615,
+    "open": 600,
+    "high": 620,
+    "low": 590,
+    "volume": 54308900,
+    "market_cap": 10594590055500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-28",
+    "close": 615,
+    "open": 615,
+    "high": 625,
+    "low": 610,
+    "volume": 74417700,
+    "market_cap": 10594590055500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-08-31",
+    "close": 650,
+    "open": 610,
+    "high": 650,
+    "low": 610,
+    "volume": 391874400,
+    "market_cap": 11197534205000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-01",
+    "close": 695,
+    "open": 660,
+    "high": 710,
+    "low": 645,
+    "volume": 396346000,
+    "market_cap": 11972748111500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-02",
+    "close": 715,
+    "open": 700,
+    "high": 720,
+    "low": 685,
+    "volume": 195900500,
+    "market_cap": 12317287625500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-03",
+    "close": 720,
+    "open": 715,
+    "high": 725,
+    "low": 685,
+    "volume": 102700600,
+    "market_cap": 12403422504000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-04",
+    "close": 705,
+    "open": 725,
+    "high": 725,
+    "low": 690,
+    "volume": 62679800,
+    "market_cap": 12145017868500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-07",
+    "close": 685,
+    "open": 705,
+    "high": 705,
+    "low": 685,
+    "volume": 49156800,
+    "market_cap": 11800478354500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-08",
+    "close": 690,
+    "open": 690,
+    "high": 705,
+    "low": 675,
+    "volume": 81125000,
+    "market_cap": 11886613233000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-09",
+    "close": 695,
+    "open": 690,
+    "high": 705,
+    "low": 680,
+    "volume": 88247900,
+    "market_cap": 11972748111500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-10",
+    "close": 680,
+    "open": 695,
+    "high": 705,
+    "low": 665,
+    "volume": 121222800,
+    "market_cap": 11714343476000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-11",
+    "close": 655,
+    "open": 660,
+    "high": 670,
+    "low": 640,
+    "volume": 133287200,
+    "market_cap": 11283669083500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-14",
+    "close": 650,
+    "open": 645,
+    "high": 655,
+    "low": 625,
+    "volume": 106822000,
+    "market_cap": 11197534205000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-15",
+    "close": 620,
+    "open": 650,
+    "high": 655,
+    "low": 615,
+    "volume": 106490400,
+    "market_cap": 10680724934000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-16",
+    "close": 605,
+    "open": 625,
+    "high": 625,
+    "low": 600,
+    "volume": 120637000,
+    "market_cap": 10422320298500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-17",
+    "close": 610,
+    "open": 610,
+    "high": 620,
+    "low": 605,
+    "volume": 82439400,
+    "market_cap": 10508455177000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-18",
+    "close": 605,
+    "open": 610,
+    "high": 620,
+    "low": 605,
+    "volume": 71550600,
+    "market_cap": 10422320298500
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-21",
+    "close": 600,
+    "open": 610,
+    "high": 615,
+    "low": 600,
+    "volume": 49672300,
+    "market_cap": 10336185420000
+  },
+  {
+    "symbol": "ESSA.JK",
+    "date": "2026-09-22",
+    "close": 595,
+    "open": 605,
+    "high": 610,
+    "low": 585,
+    "volume": 84908300,
+    "market_cap": 10250050541500
+  }
+]

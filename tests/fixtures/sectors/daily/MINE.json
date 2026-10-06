@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-06-24",
+    "close": 202,
+    "open": 214,
+    "high": 214,
+    "low": 202,
+    "volume": 320700,
+    "market_cap": 825055930600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-06-25",
+    "close": 212,
+    "open": 202,
+    "high": 212,
+    "low": 202,
+    "volume": 115700,
+    "market_cap": 865900283600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-06-26",
+    "close": 206,
+    "open": 212,
+    "high": 216,
+    "low": 200,
+    "volume": 940200,
+    "market_cap": 841393671800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-06-29",
+    "close": 204,
+    "open": 206,
+    "high": 214,
+    "low": 204,
+    "volume": 171300,
+    "market_cap": 833224801200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-06-30",
+    "close": 204,
+    "open": 204,
+    "high": 208,
+    "low": 200,
+    "volume": 257700,
+    "market_cap": 833224801200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-01",
+    "close": 202,
+    "open": 206,
+    "high": 206,
+    "low": 200,
+    "volume": 54200,
+    "market_cap": 825055930600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-02",
+    "close": 206,
+    "open": 206,
+    "high": 220,
+    "low": 200,
+    "volume": 202400,
+    "market_cap": 841393671800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-03",
+    "close": 212,
+    "open": 210,
+    "high": 212,
+    "low": 206,
+    "volume": 886300,
+    "market_cap": 865900283600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-06",
+    "close": 226,
+    "open": 212,
+    "high": 226,
+    "low": 210,
+    "volume": 1817400,
+    "market_cap": 923082377800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-07",
+    "close": 224,
+    "open": 234,
+    "high": 234,
+    "low": 216,
+    "volume": 1664000,
+    "market_cap": 914913507200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-08",
+    "close": 216,
+    "open": 224,
+    "high": 224,
+    "low": 212,
+    "volume": 1382100,
+    "market_cap": 882238024800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-09",
+    "close": 220,
+    "open": 218,
+    "high": 222,
+    "low": 208,
+    "volume": 1051200,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-10",
+    "close": 218,
+    "open": 220,
+    "high": 222,
+    "low": 214,
+    "volume": 239400,
+    "market_cap": 890406895400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-13",
+    "close": 218,
+    "open": 218,
+    "high": 224,
+    "low": 212,
+    "volume": 1377800,
+    "market_cap": 890406895400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-14",
+    "close": 224,
+    "open": 218,
+    "high": 230,
+    "low": 216,
+    "volume": 2079500,
+    "market_cap": 914913507200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-15",
+    "close": 222,
+    "open": 224,
+    "high": 224,
+    "low": 218,
+    "volume": 1317800,
+    "market_cap": 906744636600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-16",
+    "close": 226,
+    "open": 222,
+    "high": 226,
+    "low": 218,
+    "volume": 724000,
+    "market_cap": 923082377800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-17",
+    "close": 226,
+    "open": 228,
+    "high": 230,
+    "low": 220,
+    "volume": 1148500,
+    "market_cap": 923082377800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-20",
+    "close": 222,
+    "open": 226,
+    "high": 226,
+    "low": 220,
+    "volume": 1293900,
+    "market_cap": 906744636600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-21",
+    "close": 220,
+    "open": 222,
+    "high": 222,
+    "low": 218,
+    "volume": 2020700,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-22",
+    "close": 220,
+    "open": 222,
+    "high": 224,
+    "low": 206,
+    "volume": 1744800,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-23",
+    "close": 220,
+    "open": 222,
+    "high": 228,
+    "low": 218,
+    "volume": 2623600,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-24",
+    "close": 216,
+    "open": 220,
+    "high": 220,
+    "low": 210,
+    "volume": 767600,
+    "market_cap": 882238024800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-27",
+    "close": 220,
+    "open": 214,
+    "high": 220,
+    "low": 210,
+    "volume": 704800,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-28",
+    "close": 220,
+    "open": 220,
+    "high": 222,
+    "low": 216,
+    "volume": 1554700,
+    "market_cap": 898575766000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-29",
+    "close": 218,
+    "open": 220,
+    "high": 222,
+    "low": 214,
+    "volume": 532500,
+    "market_cap": 890406895400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-30",
+    "close": 216,
+    "open": 216,
+    "high": 220,
+    "low": 212,
+    "volume": 1751200,
+    "market_cap": 882238024800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-07-31",
+    "close": 222,
+    "open": 216,
+    "high": 224,
+    "low": 216,
+    "volume": 1122100,
+    "market_cap": 906744636600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-03",
+    "close": 228,
+    "open": 222,
+    "high": 258,
+    "low": 222,
+    "volume": 7938500,
+    "market_cap": 931251248400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-04",
+    "close": 234,
+    "open": 226,
+    "high": 248,
+    "low": 226,
+    "volume": 3022200,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-05",
+    "close": 234,
+    "open": 240,
+    "high": 240,
+    "low": 234,
+    "volume": 1078700,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-06",
+    "close": 234,
+    "open": 236,
+    "high": 240,
+    "low": 232,
+    "volume": 1157700,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-07",
+    "close": 234,
+    "open": 234,
+    "high": 236,
+    "low": 230,
+    "volume": 769900,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-10",
+    "close": 240,
+    "open": 236,
+    "high": 242,
+    "low": 234,
+    "volume": 2131900,
+    "market_cap": 980264472000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-11",
+    "close": 234,
+    "open": 238,
+    "high": 238,
+    "low": 232,
+    "volume": 1392000,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-12",
+    "close": 232,
+    "open": 240,
+    "high": 240,
+    "low": 230,
+    "volume": 1047600,
+    "market_cap": 947588989600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-13",
+    "close": 226,
+    "open": 232,
+    "high": 234,
+    "low": 222,
+    "volume": 1141000,
+    "market_cap": 923082377800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-14",
+    "close": 226,
+    "open": 226,
+    "high": 228,
+    "low": 220,
+    "volume": 334200,
+    "market_cap": 923082377800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-18",
+    "close": 236,
+    "open": 228,
+    "high": 242,
+    "low": 226,
+    "volume": 4063000,
+    "market_cap": 963926730800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-19",
+    "close": 234,
+    "open": 234,
+    "high": 236,
+    "low": 230,
+    "volume": 2064700,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-20",
+    "close": 242,
+    "open": 234,
+    "high": 244,
+    "low": 230,
+    "volume": 3744700,
+    "market_cap": 988433342600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-21",
+    "close": 240,
+    "open": 242,
+    "high": 244,
+    "low": 240,
+    "volume": 968500,
+    "market_cap": 980264472000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-24",
+    "close": 240,
+    "open": 240,
+    "high": 242,
+    "low": 236,
+    "volume": 566200,
+    "market_cap": 980264472000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-26",
+    "close": 234,
+    "open": 242,
+    "high": 242,
+    "low": 232,
+    "volume": 1456300,
+    "market_cap": 955757860200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-27",
+    "close": 238,
+    "open": 234,
+    "high": 242,
+    "low": 230,
+    "volume": 1376600,
+    "market_cap": 972095601400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-28",
+    "close": 236,
+    "open": 238,
+    "high": 238,
+    "low": 234,
+    "volume": 365500,
+    "market_cap": 963926730800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-08-31",
+    "close": 244,
+    "open": 236,
+    "high": 246,
+    "low": 236,
+    "volume": 1775300,
+    "market_cap": 996602213200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-01",
+    "close": 246,
+    "open": 244,
+    "high": 252,
+    "low": 238,
+    "volume": 1757000,
+    "market_cap": 1004771083800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-02",
+    "close": 252,
+    "open": 246,
+    "high": 254,
+    "low": 242,
+    "volume": 1336500,
+    "market_cap": 1029277695600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-03",
+    "close": 284,
+    "open": 252,
+    "high": 312,
+    "low": 252,
+    "volume": 21477400,
+    "market_cap": 1159979625200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-04",
+    "close": 284,
+    "open": 300,
+    "high": 304,
+    "low": 270,
+    "volume": 4818200,
+    "market_cap": 1159979625200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-07",
+    "close": 274,
+    "open": 284,
+    "high": 286,
+    "low": 270,
+    "volume": 2722800,
+    "market_cap": 1119135272200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-08",
+    "close": 278,
+    "open": 278,
+    "high": 278,
+    "low": 272,
+    "volume": 790200,
+    "market_cap": 1135473013400
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-09",
+    "close": 276,
+    "open": 278,
+    "high": 280,
+    "low": 270,
+    "volume": 1169300,
+    "market_cap": 1127304142800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-10",
+    "close": 280,
+    "open": 276,
+    "high": 292,
+    "low": 272,
+    "volume": 2845700,
+    "market_cap": 1143641884000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-11",
+    "close": 286,
+    "open": 278,
+    "high": 292,
+    "low": 258,
+    "volume": 2025300,
+    "market_cap": 1168148495800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-14",
+    "close": 286,
+    "open": 286,
+    "high": 292,
+    "low": 272,
+    "volume": 1821400,
+    "market_cap": 1168148495800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-15",
+    "close": 304,
+    "open": 290,
+    "high": 320,
+    "low": 282,
+    "volume": 10601600,
+    "market_cap": 1241668331200
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-16",
+    "close": 300,
+    "open": 308,
+    "high": 310,
+    "low": 298,
+    "volume": 3902100,
+    "market_cap": 1225330590000
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-17",
+    "close": 306,
+    "open": 300,
+    "high": 310,
+    "low": 290,
+    "volume": 2981300,
+    "market_cap": 1249837201800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-18",
+    "close": 306,
+    "open": 318,
+    "high": 318,
+    "low": 300,
+    "volume": 1592500,
+    "market_cap": 1249837201800
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-21",
+    "close": 302,
+    "open": 310,
+    "high": 310,
+    "low": 302,
+    "volume": 1482500,
+    "market_cap": 1233499460600
+  },
+  {
+    "symbol": "MINE.JK",
+    "date": "2026-09-22",
+    "close": 294,
+    "open": 304,
+    "high": 306,
+    "low": 288,
+    "volume": 1967800,
+    "market_cap": 1200823978200
+  }
+]

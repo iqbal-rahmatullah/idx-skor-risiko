@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-06-24",
+    "close": 191,
+    "open": 194,
+    "high": 194,
+    "low": 188,
+    "volume": 1255900,
+    "market_cap": 3475681198160
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-06-25",
+    "close": 196,
+    "open": 191,
+    "high": 197,
+    "low": 190,
+    "volume": 2540900,
+    "market_cap": 3566667616960
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-06-26",
+    "close": 200,
+    "open": 197,
+    "high": 200,
+    "low": 195,
+    "volume": 1126200,
+    "market_cap": 3639456752000
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-06-29",
+    "close": 194,
+    "open": 200,
+    "high": 200,
+    "low": 193,
+    "volume": 1057100,
+    "market_cap": 3530273049440
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-06-30",
+    "close": 194,
+    "open": 197,
+    "high": 197,
+    "low": 189,
+    "volume": 1188700,
+    "market_cap": 3530273049440
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-01",
+    "close": 199,
+    "open": 193,
+    "high": 200,
+    "low": 193,
+    "volume": 609800,
+    "market_cap": 3621259468240
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-02",
+    "close": 198,
+    "open": 200,
+    "high": 206,
+    "low": 193,
+    "volume": 1719400,
+    "market_cap": 3603062184480
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-03",
+    "close": 206,
+    "open": 198,
+    "high": 206,
+    "low": 198,
+    "volume": 491000,
+    "market_cap": 3748640454560
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-06",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 198,
+    "volume": 220900,
+    "market_cap": 3748640454560
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-07",
+    "close": 210,
+    "open": 206,
+    "high": 210,
+    "low": 204,
+    "volume": 199000,
+    "market_cap": 3821429589600
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-08",
+    "close": 204,
+    "open": 208,
+    "high": 208,
+    "low": 200,
+    "volume": 683300,
+    "market_cap": 3712245887040
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-09",
+    "close": 204,
+    "open": 204,
+    "high": 206,
+    "low": 200,
+    "volume": 103800,
+    "market_cap": 3712245887040
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-10",
+    "close": 202,
+    "open": 204,
+    "high": 206,
+    "low": 202,
+    "volume": 413200,
+    "market_cap": 3675851319520
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-13",
+    "close": 208,
+    "open": 202,
+    "high": 208,
+    "low": 202,
+    "volume": 630200,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-14",
+    "close": 206,
+    "open": 208,
+    "high": 208,
+    "low": 204,
+    "volume": 154500,
+    "market_cap": 3748640454560
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-15",
+    "close": 206,
+    "open": 206,
+    "high": 206,
+    "low": 204,
+    "volume": 181500,
+    "market_cap": 3748640454560
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-16",
+    "close": 208,
+    "open": 206,
+    "high": 210,
+    "low": 206,
+    "volume": 151100,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-17",
+    "close": 208,
+    "open": 208,
+    "high": 210,
+    "low": 204,
+    "volume": 586600,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-20",
+    "close": 208,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 331500,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-21",
+    "close": 208,
+    "open": 210,
+    "high": 210,
+    "low": 204,
+    "volume": 268800,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-22",
+    "close": 208,
+    "open": 208,
+    "high": 208,
+    "low": 206,
+    "volume": 119500,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-23",
+    "close": 210,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 168200,
+    "market_cap": 3821429589600
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-24",
+    "close": 208,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 113600,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-27",
+    "close": 210,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 107500,
+    "market_cap": 3821429589600
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-28",
+    "close": 208,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 316200,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-29",
+    "close": 208,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 24800,
+    "market_cap": 3785035022080
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-30",
+    "close": 212,
+    "open": 208,
+    "high": 216,
+    "low": 206,
+    "volume": 778900,
+    "market_cap": 3857824157120
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-07-31",
+    "close": 220,
+    "open": 214,
+    "high": 220,
+    "low": 208,
+    "volume": 1422400,
+    "market_cap": 4003402427200
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-03",
+    "close": 216,
+    "open": 220,
+    "high": 222,
+    "low": 216,
+    "volume": 553100,
+    "market_cap": 3930613292160
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-04",
+    "close": 224,
+    "open": 218,
+    "high": 224,
+    "low": 216,
+    "volume": 1882700,
+    "market_cap": 4076191562240
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-05",
+    "close": 222,
+    "open": 224,
+    "high": 226,
+    "low": 222,
+    "volume": 352200,
+    "market_cap": 4039796994720
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-06",
+    "close": 222,
+    "open": 222,
+    "high": 224,
+    "low": 220,
+    "volume": 317100,
+    "market_cap": 4039796994720
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-07",
+    "close": 220,
+    "open": 224,
+    "high": 224,
+    "low": 216,
+    "volume": 652900,
+    "market_cap": 4003402427200
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-10",
+    "close": 222,
+    "open": 222,
+    "high": 224,
+    "low": 220,
+    "volume": 494400,
+    "market_cap": 4039796994720
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-11",
+    "close": 222,
+    "open": 222,
+    "high": 224,
+    "low": 220,
+    "volume": 570900,
+    "market_cap": 4039796994720
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-12",
+    "close": 220,
+    "open": 220,
+    "high": 220,
+    "low": 212,
+    "volume": 459500,
+    "market_cap": 4003402427200
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-13",
+    "close": 216,
+    "open": 220,
+    "high": 220,
+    "low": 214,
+    "volume": 170100,
+    "market_cap": 3930613292160
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-14",
+    "close": 218,
+    "open": 216,
+    "high": 218,
+    "low": 216,
+    "volume": 34900,
+    "market_cap": 3967007859680
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-18",
+    "close": 226,
+    "open": 218,
+    "high": 226,
+    "low": 218,
+    "volume": 812700,
+    "market_cap": 4112586129760
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-19",
+    "close": 226,
+    "open": 226,
+    "high": 230,
+    "low": 222,
+    "volume": 1610000,
+    "market_cap": 4112586129760
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-20",
+    "close": 230,
+    "open": 226,
+    "high": 232,
+    "low": 224,
+    "volume": 1045900,
+    "market_cap": 4185375264800
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-21",
+    "close": 232,
+    "open": 230,
+    "high": 234,
+    "low": 226,
+    "volume": 1547300,
+    "market_cap": 4221769832320
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-24",
+    "close": 228,
+    "open": 232,
+    "high": 232,
+    "low": 224,
+    "volume": 417200,
+    "market_cap": 4148980697280
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-26",
+    "close": 228,
+    "open": 228,
+    "high": 230,
+    "low": 224,
+    "volume": 494000,
+    "market_cap": 4148980697280
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-27",
+    "close": 228,
+    "open": 228,
+    "high": 230,
+    "low": 224,
+    "volume": 520100,
+    "market_cap": 4148980697280
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-28",
+    "close": 234,
+    "open": 230,
+    "high": 234,
+    "low": 218,
+    "volume": 1178200,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-08-31",
+    "close": 234,
+    "open": 234,
+    "high": 236,
+    "low": 228,
+    "volume": 484000,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-01",
+    "close": 234,
+    "open": 234,
+    "high": 236,
+    "low": 230,
+    "volume": 174100,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-02",
+    "close": 236,
+    "open": 236,
+    "high": 236,
+    "low": 232,
+    "volume": 190700,
+    "market_cap": 4294558967360
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-03",
+    "close": 236,
+    "open": 236,
+    "high": 236,
+    "low": 232,
+    "volume": 608400,
+    "market_cap": 4294558967360
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-04",
+    "close": 236,
+    "open": 236,
+    "high": 236,
+    "low": 232,
+    "volume": 102100,
+    "market_cap": 4294558967360
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-07",
+    "close": 234,
+    "open": 234,
+    "high": 238,
+    "low": 232,
+    "volume": 385100,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-08",
+    "close": 234,
+    "open": 228,
+    "high": 236,
+    "low": 226,
+    "volume": 228800,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-09",
+    "close": 232,
+    "open": 234,
+    "high": 234,
+    "low": 222,
+    "volume": 536900,
+    "market_cap": 4221769832320
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-10",
+    "close": 234,
+    "open": 232,
+    "high": 234,
+    "low": 226,
+    "volume": 367600,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-11",
+    "close": 230,
+    "open": 232,
+    "high": 232,
+    "low": 228,
+    "volume": 117000,
+    "market_cap": 4185375264800
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-14",
+    "close": 226,
+    "open": 228,
+    "high": 232,
+    "low": 224,
+    "volume": 118400,
+    "market_cap": 4112586129760
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-15",
+    "close": 232,
+    "open": 228,
+    "high": 232,
+    "low": 226,
+    "volume": 440700,
+    "market_cap": 4221769832320
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-16",
+    "close": 234,
+    "open": 230,
+    "high": 234,
+    "low": 230,
+    "volume": 312000,
+    "market_cap": 4258164399840
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-17",
+    "close": 238,
+    "open": 234,
+    "high": 238,
+    "low": 232,
+    "volume": 1167600,
+    "market_cap": 4330953534880
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-18",
+    "close": 240,
+    "open": 238,
+    "high": 240,
+    "low": 236,
+    "volume": 3718500,
+    "market_cap": 4367348102400
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-21",
+    "close": 236,
+    "open": 240,
+    "high": 240,
+    "low": 234,
+    "volume": 422100,
+    "market_cap": 4294558967360
+  },
+  {
+    "symbol": "AMAR.JK",
+    "date": "2026-09-22",
+    "close": 234,
+    "open": 236,
+    "high": 238,
+    "low": 228,
+    "volume": 364900,
+    "market_cap": 4258164399840
+  }
+]

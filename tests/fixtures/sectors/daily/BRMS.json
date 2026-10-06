@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-06-24",
+    "close": 550,
+    "open": 640,
+    "high": 640,
+    "low": 550,
+    "volume": 535950500,
+    "market_cap": 77981222185900
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-06-25",
+    "close": 545,
+    "open": 545,
+    "high": 575,
+    "low": 525,
+    "volume": 287762700,
+    "market_cap": 77272301984210
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-06-26",
+    "close": 498,
+    "open": 545,
+    "high": 545,
+    "low": 482,
+    "volume": 662401100,
+    "market_cap": 70608452088324
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-06-29",
+    "close": 500,
+    "open": 505,
+    "high": 515,
+    "low": 486,
+    "volume": 351895700,
+    "market_cap": 70892020169000
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-06-30",
+    "close": 474,
+    "open": 500,
+    "high": 500,
+    "low": 450,
+    "volume": 566270300,
+    "market_cap": 67205635120212
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-01",
+    "close": 476,
+    "open": 464,
+    "high": 520,
+    "low": 450,
+    "volume": 837181500,
+    "market_cap": 67489203200888
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-02",
+    "close": 484,
+    "open": 486,
+    "high": 520,
+    "low": 482,
+    "volume": 596893600,
+    "market_cap": 68623475523592
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-03",
+    "close": 498,
+    "open": 505,
+    "high": 520,
+    "low": 496,
+    "volume": 426069900,
+    "market_cap": 70608452088324
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-06",
+    "close": 525,
+    "open": 505,
+    "high": 525,
+    "low": 500,
+    "volume": 346291100,
+    "market_cap": 74436621177450
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-07",
+    "close": 510,
+    "open": 530,
+    "high": 530,
+    "low": 510,
+    "volume": 219122600,
+    "market_cap": 72309860572380
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-08",
+    "close": 476,
+    "open": 505,
+    "high": 510,
+    "low": 476,
+    "volume": 369387800,
+    "market_cap": 67489203200888
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-09",
+    "close": 492,
+    "open": 480,
+    "high": 505,
+    "low": 472,
+    "volume": 422962000,
+    "market_cap": 69757747846296
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-10",
+    "close": 505,
+    "open": 498,
+    "high": 520,
+    "low": 494,
+    "volume": 335500700,
+    "market_cap": 71600940370690
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-13",
+    "close": 530,
+    "open": 505,
+    "high": 535,
+    "low": 494,
+    "volume": 401639700,
+    "market_cap": 75145541379140
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-14",
+    "close": 575,
+    "open": 550,
+    "high": 600,
+    "low": 530,
+    "volume": 878186000,
+    "market_cap": 81525823194350
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-15",
+    "close": 555,
+    "open": 590,
+    "high": 595,
+    "low": 555,
+    "volume": 393803000,
+    "market_cap": 78690142387590
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-16",
+    "close": 560,
+    "open": 560,
+    "high": 580,
+    "low": 550,
+    "volume": 338829700,
+    "market_cap": 79399062589280
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-17",
+    "close": 545,
+    "open": 560,
+    "high": 560,
+    "low": 535,
+    "volume": 444103900,
+    "market_cap": 77272301984210
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-20",
+    "close": 575,
+    "open": 540,
+    "high": 575,
+    "low": 540,
+    "volume": 564581800,
+    "market_cap": 81525823194350
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-21",
+    "close": 620,
+    "open": 575,
+    "high": 620,
+    "low": 555,
+    "volume": 1135656300,
+    "market_cap": 87906105009560
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-22",
+    "close": 605,
+    "open": 625,
+    "high": 630,
+    "low": 595,
+    "volume": 709241600,
+    "market_cap": 85779344404490
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-23",
+    "close": 610,
+    "open": 610,
+    "high": 650,
+    "low": 605,
+    "volume": 756721800,
+    "market_cap": 86488264606180
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-24",
+    "close": 585,
+    "open": 605,
+    "high": 610,
+    "low": 575,
+    "volume": 350796900,
+    "market_cap": 82943663597730
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-27",
+    "close": 575,
+    "open": 575,
+    "high": 590,
+    "low": 565,
+    "volume": 277879600,
+    "market_cap": 81525823194350
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-28",
+    "close": 555,
+    "open": 575,
+    "high": 575,
+    "low": 555,
+    "volume": 188948400,
+    "market_cap": 78690142387590
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-29",
+    "close": 545,
+    "open": 560,
+    "high": 570,
+    "low": 535,
+    "volume": 245458400,
+    "market_cap": 77272301984210
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-30",
+    "close": 555,
+    "open": 555,
+    "high": 575,
+    "low": 545,
+    "volume": 261804400,
+    "market_cap": 78690142387590
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-07-31",
+    "close": 560,
+    "open": 565,
+    "high": 580,
+    "low": 555,
+    "volume": 276338500,
+    "market_cap": 79399062589280
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-03",
+    "close": 560,
+    "open": 555,
+    "high": 570,
+    "low": 545,
+    "volume": 365525400,
+    "market_cap": 79399062589280
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-04",
+    "close": 580,
+    "open": 565,
+    "high": 580,
+    "low": 555,
+    "volume": 279944000,
+    "market_cap": 82234743396040
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-05",
+    "close": 610,
+    "open": 590,
+    "high": 620,
+    "low": 585,
+    "volume": 543840900,
+    "market_cap": 86488264606180
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-06",
+    "close": 610,
+    "open": 640,
+    "high": 640,
+    "low": 600,
+    "volume": 594608600,
+    "market_cap": 86488264606180
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-07",
+    "close": 615,
+    "open": 605,
+    "high": 620,
+    "low": 590,
+    "volume": 317737500,
+    "market_cap": 87197184807870
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-10",
+    "close": 615,
+    "open": 625,
+    "high": 635,
+    "low": 610,
+    "volume": 420122800,
+    "market_cap": 87197184807870
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-11",
+    "close": 600,
+    "open": 625,
+    "high": 630,
+    "low": 590,
+    "volume": 304173400,
+    "market_cap": 85070424202800
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-12",
+    "close": 635,
+    "open": 605,
+    "high": 635,
+    "low": 600,
+    "volume": 333524300,
+    "market_cap": 90032865614630
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-13",
+    "close": 625,
+    "open": 650,
+    "high": 650,
+    "low": 610,
+    "volume": 416076400,
+    "market_cap": 88615025211250
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-14",
+    "close": 620,
+    "open": 620,
+    "high": 630,
+    "low": 605,
+    "volume": 232646200,
+    "market_cap": 87906105009560
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-18",
+    "close": 645,
+    "open": 625,
+    "high": 670,
+    "low": 625,
+    "volume": 636028900,
+    "market_cap": 91450706018010
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-19",
+    "close": 625,
+    "open": 635,
+    "high": 640,
+    "low": 625,
+    "volume": 229188800,
+    "market_cap": 88615025211250
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-20",
+    "close": 685,
+    "open": 650,
+    "high": 695,
+    "low": 650,
+    "volume": 829146100,
+    "market_cap": 97122067631530
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-21",
+    "close": 695,
+    "open": 700,
+    "high": 705,
+    "low": 675,
+    "volume": 382416200,
+    "market_cap": 98539908034910
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-24",
+    "close": 730,
+    "open": 700,
+    "high": 745,
+    "low": 700,
+    "volume": 534003500,
+    "market_cap": 103502349446740
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-26",
+    "close": 720,
+    "open": 740,
+    "high": 760,
+    "low": 720,
+    "volume": 445613200,
+    "market_cap": 102084509043360
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-27",
+    "close": 765,
+    "open": 710,
+    "high": 765,
+    "low": 710,
+    "volume": 334913000,
+    "market_cap": 108464790858570
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-28",
+    "close": 750,
+    "open": 780,
+    "high": 785,
+    "low": 745,
+    "volume": 253908500,
+    "market_cap": 106338030253500
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-08-31",
+    "close": 750,
+    "open": 730,
+    "high": 750,
+    "low": 710,
+    "volume": 809415300,
+    "market_cap": 106338030253500
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-01",
+    "close": 730,
+    "open": 745,
+    "high": 755,
+    "low": 730,
+    "volume": 353790700,
+    "market_cap": 103502349446740
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-02",
+    "close": 720,
+    "open": 730,
+    "high": 735,
+    "low": 710,
+    "volume": 179974700,
+    "market_cap": 102084509043360
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-03",
+    "close": 730,
+    "open": 730,
+    "high": 740,
+    "low": 725,
+    "volume": 279993900,
+    "market_cap": 103502349446740
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-04",
+    "close": 715,
+    "open": 740,
+    "high": 745,
+    "low": 715,
+    "volume": 185888100,
+    "market_cap": 101375588841670
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-07",
+    "close": 715,
+    "open": 715,
+    "high": 725,
+    "low": 710,
+    "volume": 128091500,
+    "market_cap": 101375588841670
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-08",
+    "close": 710,
+    "open": 720,
+    "high": 725,
+    "low": 700,
+    "volume": 200461200,
+    "market_cap": 100666668639980
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-09",
+    "close": 705,
+    "open": 710,
+    "high": 715,
+    "low": 690,
+    "volume": 215943300,
+    "market_cap": 99957748438290
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-10",
+    "close": 690,
+    "open": 710,
+    "high": 715,
+    "low": 690,
+    "volume": 179825000,
+    "market_cap": 97830987833220
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-11",
+    "close": 675,
+    "open": 675,
+    "high": 685,
+    "low": 655,
+    "volume": 255646100,
+    "market_cap": 95704227228150
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-14",
+    "close": 730,
+    "open": 690,
+    "high": 730,
+    "low": 685,
+    "volume": 631741100,
+    "market_cap": 103502349446740
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-15",
+    "close": 735,
+    "open": 730,
+    "high": 740,
+    "low": 720,
+    "volume": 450319900,
+    "market_cap": 104211269648430
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-16",
+    "close": 730,
+    "open": 735,
+    "high": 750,
+    "low": 725,
+    "volume": 416318400,
+    "market_cap": 103502349446740
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-17",
+    "close": 735,
+    "open": 730,
+    "high": 740,
+    "low": 715,
+    "volume": 242175500,
+    "market_cap": 104211269648430
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-18",
+    "close": 720,
+    "open": 735,
+    "high": 745,
+    "low": 700,
+    "volume": 872252700,
+    "market_cap": 102084509043360
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-21",
+    "close": 690,
+    "open": 715,
+    "high": 725,
+    "low": 690,
+    "volume": 163759400,
+    "market_cap": 97830987833220
+  },
+  {
+    "symbol": "BRMS.JK",
+    "date": "2026-09-22",
+    "close": 665,
+    "open": 695,
+    "high": 700,
+    "low": 655,
+    "volume": 227947700,
+    "market_cap": 94286386824770
+  }
+]

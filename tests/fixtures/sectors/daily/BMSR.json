@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-06-24",
+    "close": 286,
+    "open": 324,
+    "high": 334,
+    "low": 284,
+    "volume": 196700,
+    "market_cap": 331531206864
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-06-25",
+    "close": 290,
+    "open": 286,
+    "high": 300,
+    "low": 284,
+    "volume": 18200,
+    "market_cap": 336168006960
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-06-26",
+    "close": 312,
+    "open": 298,
+    "high": 360,
+    "low": 298,
+    "volume": 1413300,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-06-29",
+    "close": 290,
+    "open": 314,
+    "high": 316,
+    "low": 288,
+    "volume": 286200,
+    "market_cap": 336168006960
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-06-30",
+    "close": 282,
+    "open": 300,
+    "high": 304,
+    "low": 280,
+    "volume": 24200,
+    "market_cap": 326894406768
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-01",
+    "close": 282,
+    "open": 278,
+    "high": 288,
+    "low": 260,
+    "volume": 90200,
+    "market_cap": 326894406768
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-02",
+    "close": 284,
+    "open": 282,
+    "high": 304,
+    "low": 260,
+    "volume": 102200,
+    "market_cap": 329212806816
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-03",
+    "close": 290,
+    "open": 298,
+    "high": 298,
+    "low": 280,
+    "volume": 26900,
+    "market_cap": 336168006960
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-06",
+    "close": 282,
+    "open": 284,
+    "high": 288,
+    "low": 272,
+    "volume": 17200,
+    "market_cap": 326894406768
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-07",
+    "close": 282,
+    "open": 288,
+    "high": 288,
+    "low": 272,
+    "volume": 34100,
+    "market_cap": 326894406768
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-08",
+    "close": 282,
+    "open": 276,
+    "high": 282,
+    "low": 274,
+    "volume": 8600,
+    "market_cap": 326894406768
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-09",
+    "close": 304,
+    "open": 276,
+    "high": 330,
+    "low": 276,
+    "volume": 374500,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-10",
+    "close": 306,
+    "open": 306,
+    "high": 328,
+    "low": 300,
+    "volume": 441100,
+    "market_cap": 354715207344
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-13",
+    "close": 292,
+    "open": 302,
+    "high": 302,
+    "low": 292,
+    "volume": 306000,
+    "market_cap": 338486407008
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-14",
+    "close": 308,
+    "open": 304,
+    "high": 318,
+    "low": 296,
+    "volume": 113000,
+    "market_cap": 357033607392
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-15",
+    "close": 302,
+    "open": 316,
+    "high": 316,
+    "low": 300,
+    "volume": 33400,
+    "market_cap": 350078407248
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-16",
+    "close": 294,
+    "open": 302,
+    "high": 302,
+    "low": 294,
+    "volume": 16300,
+    "market_cap": 340804807056
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-17",
+    "close": 316,
+    "open": 292,
+    "high": 338,
+    "low": 292,
+    "volume": 715400,
+    "market_cap": 366307207584
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-20",
+    "close": 314,
+    "open": 316,
+    "high": 318,
+    "low": 304,
+    "volume": 134200,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-21",
+    "close": 320,
+    "open": 314,
+    "high": 326,
+    "low": 282,
+    "volume": 185900,
+    "market_cap": 370944007680
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-22",
+    "close": 324,
+    "open": 322,
+    "high": 324,
+    "low": 310,
+    "volume": 186900,
+    "market_cap": 375580807776
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-23",
+    "close": 314,
+    "open": 322,
+    "high": 324,
+    "low": 300,
+    "volume": 479200,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-24",
+    "close": 314,
+    "open": 316,
+    "high": 318,
+    "low": 312,
+    "volume": 25300,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-27",
+    "close": 314,
+    "open": 314,
+    "high": 322,
+    "low": 312,
+    "volume": 124900,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-28",
+    "close": 312,
+    "open": 314,
+    "high": 314,
+    "low": 310,
+    "volume": 7000,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-29",
+    "close": 312,
+    "open": 310,
+    "high": 312,
+    "low": 306,
+    "volume": 9900,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-30",
+    "close": 312,
+    "open": 312,
+    "high": 312,
+    "low": 308,
+    "volume": 9500,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-07-31",
+    "close": 310,
+    "open": 312,
+    "high": 312,
+    "low": 308,
+    "volume": 2400,
+    "market_cap": 359352007440
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-03",
+    "close": 306,
+    "open": 312,
+    "high": 312,
+    "low": 304,
+    "volume": 38100,
+    "market_cap": 354715207344
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-04",
+    "close": 304,
+    "open": 316,
+    "high": 320,
+    "low": 304,
+    "volume": 138900,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-05",
+    "close": 304,
+    "open": 310,
+    "high": 310,
+    "low": 302,
+    "volume": 24800,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-06",
+    "close": 304,
+    "open": 304,
+    "high": 304,
+    "low": 300,
+    "volume": 10100,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-07",
+    "close": 308,
+    "open": 304,
+    "high": 308,
+    "low": 304,
+    "volume": 31100,
+    "market_cap": 357033607392
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-10",
+    "close": 308,
+    "open": 302,
+    "high": 312,
+    "low": 300,
+    "volume": 56800,
+    "market_cap": 357033607392
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-11",
+    "close": 300,
+    "open": 306,
+    "high": 306,
+    "low": 300,
+    "volume": 31200,
+    "market_cap": 347760007200
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-12",
+    "close": 306,
+    "open": 306,
+    "high": 306,
+    "low": 306,
+    "volume": 1300,
+    "market_cap": 354715207344
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-13",
+    "close": 306,
+    "open": 304,
+    "high": 306,
+    "low": 304,
+    "volume": 2400,
+    "market_cap": 354715207344
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-14",
+    "close": 304,
+    "open": 306,
+    "high": 306,
+    "low": 302,
+    "volume": 10500,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-18",
+    "close": 304,
+    "open": 304,
+    "high": 304,
+    "low": 302,
+    "volume": 21100,
+    "market_cap": 352396807296
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-19",
+    "close": 314,
+    "open": 304,
+    "high": 316,
+    "low": 304,
+    "volume": 178800,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-20",
+    "close": 310,
+    "open": 314,
+    "high": 314,
+    "low": 308,
+    "volume": 18600,
+    "market_cap": 359352007440
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-21",
+    "close": 308,
+    "open": 310,
+    "high": 310,
+    "low": 306,
+    "volume": 28700,
+    "market_cap": 357033607392
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-24",
+    "close": 314,
+    "open": 320,
+    "high": 320,
+    "low": 310,
+    "volume": 15900,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-26",
+    "close": 312,
+    "open": 314,
+    "high": 316,
+    "low": 306,
+    "volume": 17300,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-27",
+    "close": 312,
+    "open": 320,
+    "high": 320,
+    "low": 308,
+    "volume": 72800,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-28",
+    "close": 310,
+    "open": 312,
+    "high": 312,
+    "low": 310,
+    "volume": 23300,
+    "market_cap": 359352007440
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-08-31",
+    "close": 312,
+    "open": 310,
+    "high": 314,
+    "low": 308,
+    "volume": 10900,
+    "market_cap": 361670407488
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-01",
+    "close": 310,
+    "open": 326,
+    "high": 326,
+    "low": 302,
+    "volume": 103100,
+    "market_cap": 359352007440
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-02",
+    "close": 314,
+    "open": 320,
+    "high": 322,
+    "low": 314,
+    "volume": 16800,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-03",
+    "close": 320,
+    "open": 318,
+    "high": 320,
+    "low": 314,
+    "volume": 36400,
+    "market_cap": 370944007680
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-04",
+    "close": 318,
+    "open": 320,
+    "high": 322,
+    "low": 308,
+    "volume": 173500,
+    "market_cap": 368625607632
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-07",
+    "close": 314,
+    "open": 322,
+    "high": 322,
+    "low": 304,
+    "volume": 25700,
+    "market_cap": 363988807536
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-08",
+    "close": 320,
+    "open": 314,
+    "high": 320,
+    "low": 314,
+    "volume": 13200,
+    "market_cap": 370944007680
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-09",
+    "close": 316,
+    "open": 320,
+    "high": 320,
+    "low": 314,
+    "volume": 30600,
+    "market_cap": 366307207584
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-10",
+    "close": 320,
+    "open": 316,
+    "high": 322,
+    "low": 314,
+    "volume": 115300,
+    "market_cap": 370944007680
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-11",
+    "close": 322,
+    "open": 324,
+    "high": 340,
+    "low": 314,
+    "volume": 551100,
+    "market_cap": 373262407728
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-14",
+    "close": 400,
+    "open": 330,
+    "high": 402,
+    "low": 322,
+    "volume": 4695200,
+    "market_cap": 463680009600
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-15",
+    "close": 362,
+    "open": 400,
+    "high": 404,
+    "low": 352,
+    "volume": 1436300,
+    "market_cap": 419630408688
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-16",
+    "close": 370,
+    "open": 362,
+    "high": 396,
+    "low": 342,
+    "volume": 1139200,
+    "market_cap": 428904008880
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-17",
+    "close": 362,
+    "open": 380,
+    "high": 380,
+    "low": 354,
+    "volume": 280900,
+    "market_cap": 419630408688
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-18",
+    "close": 358,
+    "open": 380,
+    "high": 380,
+    "low": 346,
+    "volume": 151300,
+    "market_cap": 414993608592
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-21",
+    "close": 358,
+    "open": 358,
+    "high": 368,
+    "low": 342,
+    "volume": 208600,
+    "market_cap": 414993608592
+  },
+  {
+    "symbol": "BMSR.JK",
+    "date": "2026-09-22",
+    "close": 324,
+    "open": 346,
+    "high": 364,
+    "low": 324,
+    "volume": 288100,
+    "market_cap": 375580807776
+  }
+]

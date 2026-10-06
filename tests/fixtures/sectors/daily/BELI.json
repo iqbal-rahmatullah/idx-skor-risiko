@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-06-24",
+    "close": 272,
+    "open": 284,
+    "high": 286,
+    "low": 270,
+    "volume": 528400,
+    "market_cap": 37323564107408
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-06-25",
+    "close": 276,
+    "open": 272,
+    "high": 278,
+    "low": 266,
+    "volume": 222300,
+    "market_cap": 37872440050164
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-06-26",
+    "close": 270,
+    "open": 280,
+    "high": 282,
+    "low": 268,
+    "volume": 70800,
+    "market_cap": 37049126136030
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-06-29",
+    "close": 268,
+    "open": 270,
+    "high": 280,
+    "low": 268,
+    "volume": 115600,
+    "market_cap": 36774688164652
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-06-30",
+    "close": 268,
+    "open": 268,
+    "high": 288,
+    "low": 266,
+    "volume": 148500,
+    "market_cap": 36774688164652
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-01",
+    "close": 280,
+    "open": 268,
+    "high": 298,
+    "low": 262,
+    "volume": 365500,
+    "market_cap": 38421315992920
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-02",
+    "close": 276,
+    "open": 280,
+    "high": 280,
+    "low": 262,
+    "volume": 207000,
+    "market_cap": 37872440050164
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-03",
+    "close": 274,
+    "open": 276,
+    "high": 290,
+    "low": 270,
+    "volume": 217900,
+    "market_cap": 37598002078786
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-06",
+    "close": 274,
+    "open": 276,
+    "high": 278,
+    "low": 266,
+    "volume": 85300,
+    "market_cap": 37598002078786
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-07",
+    "close": 264,
+    "open": 262,
+    "high": 278,
+    "low": 262,
+    "volume": 377300,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-08",
+    "close": 268,
+    "open": 268,
+    "high": 270,
+    "low": 260,
+    "volume": 575200,
+    "market_cap": 36774688164652
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-09",
+    "close": 262,
+    "open": 268,
+    "high": 268,
+    "low": 262,
+    "volume": 99700,
+    "market_cap": 35951374250518
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-10",
+    "close": 264,
+    "open": 266,
+    "high": 268,
+    "low": 262,
+    "volume": 96600,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-13",
+    "close": 264,
+    "open": 264,
+    "high": 266,
+    "low": 256,
+    "volume": 538400,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-14",
+    "close": 270,
+    "open": 266,
+    "high": 270,
+    "low": 256,
+    "volume": 383200,
+    "market_cap": 37049126136030
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-15",
+    "close": 262,
+    "open": 270,
+    "high": 274,
+    "low": 250,
+    "volume": 746500,
+    "market_cap": 35951374250518
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-16",
+    "close": 264,
+    "open": 264,
+    "high": 264,
+    "low": 260,
+    "volume": 158400,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-17",
+    "close": 260,
+    "open": 264,
+    "high": 264,
+    "low": 256,
+    "volume": 362300,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-20",
+    "close": 258,
+    "open": 262,
+    "high": 262,
+    "low": 254,
+    "volume": 358100,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-21",
+    "close": 260,
+    "open": 260,
+    "high": 260,
+    "low": 250,
+    "volume": 1334000,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-22",
+    "close": 260,
+    "open": 260,
+    "high": 266,
+    "low": 252,
+    "volume": 244700,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-23",
+    "close": 256,
+    "open": 260,
+    "high": 260,
+    "low": 252,
+    "volume": 508900,
+    "market_cap": 35128060336384
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-24",
+    "close": 254,
+    "open": 260,
+    "high": 260,
+    "low": 252,
+    "volume": 64600,
+    "market_cap": 34853622365006
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-27",
+    "close": 256,
+    "open": 256,
+    "high": 258,
+    "low": 252,
+    "volume": 267100,
+    "market_cap": 35128060336384
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-28",
+    "close": 256,
+    "open": 256,
+    "high": 258,
+    "low": 250,
+    "volume": 368500,
+    "market_cap": 35128060336384
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-29",
+    "close": 254,
+    "open": 256,
+    "high": 256,
+    "low": 250,
+    "volume": 621800,
+    "market_cap": 34853622365006
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-30",
+    "close": 254,
+    "open": 250,
+    "high": 254,
+    "low": 248,
+    "volume": 648100,
+    "market_cap": 34853622365006
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-07-31",
+    "close": 256,
+    "open": 254,
+    "high": 260,
+    "low": 252,
+    "volume": 539800,
+    "market_cap": 35128060336384
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-03",
+    "close": 258,
+    "open": 258,
+    "high": 258,
+    "low": 250,
+    "volume": 429900,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-04",
+    "close": 252,
+    "open": 258,
+    "high": 258,
+    "low": 250,
+    "volume": 582800,
+    "market_cap": 34579184393628
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-05",
+    "close": 250,
+    "open": 252,
+    "high": 254,
+    "low": 250,
+    "volume": 1142500,
+    "market_cap": 34304746422250
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-06",
+    "close": 254,
+    "open": 252,
+    "high": 258,
+    "low": 250,
+    "volume": 257000,
+    "market_cap": 34853622365006
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-07",
+    "close": 258,
+    "open": 254,
+    "high": 262,
+    "low": 252,
+    "volume": 949200,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-10",
+    "close": 260,
+    "open": 258,
+    "high": 260,
+    "low": 250,
+    "volume": 765900,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-11",
+    "close": 258,
+    "open": 260,
+    "high": 270,
+    "low": 250,
+    "volume": 1722400,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-12",
+    "close": 260,
+    "open": 258,
+    "high": 262,
+    "low": 252,
+    "volume": 758400,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-13",
+    "close": 258,
+    "open": 260,
+    "high": 270,
+    "low": 258,
+    "volume": 1307200,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-14",
+    "close": 270,
+    "open": 258,
+    "high": 270,
+    "low": 252,
+    "volume": 1354300,
+    "market_cap": 37049126136030
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-18",
+    "close": 266,
+    "open": 270,
+    "high": 274,
+    "low": 260,
+    "volume": 2690800,
+    "market_cap": 36500250193274
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-19",
+    "close": 264,
+    "open": 266,
+    "high": 270,
+    "low": 260,
+    "volume": 1754300,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-20",
+    "close": 264,
+    "open": 264,
+    "high": 266,
+    "low": 262,
+    "volume": 740700,
+    "market_cap": 36225812221896
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-21",
+    "close": 266,
+    "open": 264,
+    "high": 270,
+    "low": 260,
+    "volume": 1108500,
+    "market_cap": 36500250193274
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-24",
+    "close": 260,
+    "open": 268,
+    "high": 270,
+    "low": 260,
+    "volume": 751900,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-26",
+    "close": 258,
+    "open": 260,
+    "high": 270,
+    "low": 252,
+    "volume": 2304500,
+    "market_cap": 35402498307762
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-27",
+    "close": 262,
+    "open": 258,
+    "high": 262,
+    "low": 250,
+    "volume": 1240900,
+    "market_cap": 35951374250518
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-28",
+    "close": 260,
+    "open": 262,
+    "high": 262,
+    "low": 260,
+    "volume": 238100,
+    "market_cap": 35676936279140
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-08-31",
+    "close": 262,
+    "open": 262,
+    "high": 266,
+    "low": 256,
+    "volume": 810900,
+    "market_cap": 35951374250518
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-01",
+    "close": 326,
+    "open": 268,
+    "high": 326,
+    "low": 266,
+    "volume": 8279400,
+    "market_cap": 44733389334614
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-02",
+    "close": 406,
+    "open": 342,
+    "high": 406,
+    "low": 342,
+    "volume": 13679100,
+    "market_cap": 55710908189734
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-03",
+    "close": 358,
+    "open": 374,
+    "high": 388,
+    "low": 348,
+    "volume": 9177400,
+    "market_cap": 49124396876662
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-04",
+    "close": 348,
+    "open": 364,
+    "high": 398,
+    "low": 336,
+    "volume": 5958700,
+    "market_cap": 47752207019772
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-07",
+    "close": 340,
+    "open": 348,
+    "high": 356,
+    "low": 328,
+    "volume": 894900,
+    "market_cap": 46654455134260
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-08",
+    "close": 320,
+    "open": 340,
+    "high": 340,
+    "low": 314,
+    "volume": 2522100,
+    "market_cap": 43910075420480
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-09",
+    "close": 298,
+    "open": 320,
+    "high": 326,
+    "low": 290,
+    "volume": 3458900,
+    "market_cap": 40891257735322
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-10",
+    "close": 304,
+    "open": 304,
+    "high": 336,
+    "low": 298,
+    "volume": 9970700,
+    "market_cap": 41714571649456
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-11",
+    "close": 296,
+    "open": 304,
+    "high": 306,
+    "low": 290,
+    "volume": 1168500,
+    "market_cap": 40616819763944
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-14",
+    "close": 290,
+    "open": 296,
+    "high": 302,
+    "low": 288,
+    "volume": 1352700,
+    "market_cap": 39793505849810
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-15",
+    "close": 288,
+    "open": 296,
+    "high": 298,
+    "low": 286,
+    "volume": 759800,
+    "market_cap": 39519067878432
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-16",
+    "close": 286,
+    "open": 290,
+    "high": 290,
+    "low": 284,
+    "volume": 698500,
+    "market_cap": 39244629907054
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-17",
+    "close": 286,
+    "open": 286,
+    "high": 302,
+    "low": 268,
+    "volume": 2164000,
+    "market_cap": 39244629907054
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-18",
+    "close": 280,
+    "open": 286,
+    "high": 288,
+    "low": 278,
+    "volume": 958600,
+    "market_cap": 38421315992920
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-21",
+    "close": 284,
+    "open": 288,
+    "high": 288,
+    "low": 278,
+    "volume": 1099300,
+    "market_cap": 38970191935676
+  },
+  {
+    "symbol": "BELI.JK",
+    "date": "2026-09-22",
+    "close": 280,
+    "open": 288,
+    "high": 288,
+    "low": 280,
+    "volume": 463600,
+    "market_cap": 38421315992920
+  }
+]

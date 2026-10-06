@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-06-24",
+    "close": 1900,
+    "open": 1900,
+    "high": 1900,
+    "low": 1900,
+    "volume": 100,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-06-25",
+    "close": 2000,
+    "open": 2000,
+    "high": 2000,
+    "low": 1900,
+    "volume": 800,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-06-26",
+    "close": 1995,
+    "open": 1995,
+    "high": 1995,
+    "low": 1995,
+    "volume": 200,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-06-29",
+    "close": 1900,
+    "open": 1910,
+    "high": 1910,
+    "low": 1900,
+    "volume": 2000,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-06-30",
+    "close": 1900,
+    "open": 1980,
+    "high": 1980,
+    "low": 1900,
+    "volume": 1600,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-01",
+    "close": 1905,
+    "open": 1905,
+    "high": 1905,
+    "low": 1905,
+    "volume": 300,
+    "market_cap": 7713705235500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-02",
+    "close": 1905,
+    "open": 1905,
+    "high": 1905,
+    "low": 1905,
+    "volume": 0,
+    "market_cap": 7713705235500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-03",
+    "close": 1905,
+    "open": 1905,
+    "high": 1905,
+    "low": 1905,
+    "volume": 600,
+    "market_cap": 7713705235500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-06",
+    "close": 1905,
+    "open": 1905,
+    "high": 1905,
+    "low": 1905,
+    "volume": 0,
+    "market_cap": 7713705235500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-07",
+    "close": 2000,
+    "open": 1990,
+    "high": 2000,
+    "low": 1900,
+    "volume": 1500,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-08",
+    "close": 1900,
+    "open": 2000,
+    "high": 2000,
+    "low": 1900,
+    "volume": 1200,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-09",
+    "close": 1900,
+    "open": 1900,
+    "high": 1900,
+    "low": 1900,
+    "volume": 300,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-10",
+    "close": 1900,
+    "open": 1900,
+    "high": 1900,
+    "low": 1900,
+    "volume": 200,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-13",
+    "close": 1990,
+    "open": 1990,
+    "high": 1990,
+    "low": 1990,
+    "volume": 300,
+    "market_cap": 8057886309000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-14",
+    "close": 1920,
+    "open": 2000,
+    "high": 2000,
+    "low": 1920,
+    "volume": 3600,
+    "market_cap": 7774443072000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-15",
+    "close": 1920,
+    "open": 1920,
+    "high": 1920,
+    "low": 1920,
+    "volume": 0,
+    "market_cap": 7774443072000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-16",
+    "close": 1955,
+    "open": 1940,
+    "high": 1955,
+    "low": 1925,
+    "volume": 400,
+    "market_cap": 7916164690500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-17",
+    "close": 1975,
+    "open": 1980,
+    "high": 2140,
+    "low": 1945,
+    "volume": 11700,
+    "market_cap": 7997148472500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-20",
+    "close": 1925,
+    "open": 2020,
+    "high": 2050,
+    "low": 1920,
+    "volume": 2700,
+    "market_cap": 7794689017500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-21",
+    "close": 1945,
+    "open": 1945,
+    "high": 1945,
+    "low": 1945,
+    "volume": 100,
+    "market_cap": 7875672799500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-22",
+    "close": 1985,
+    "open": 1970,
+    "high": 2000,
+    "low": 1970,
+    "volume": 400,
+    "market_cap": 8037640363500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-23",
+    "close": 1970,
+    "open": 2000,
+    "high": 2000,
+    "low": 1925,
+    "volume": 1100,
+    "market_cap": 7976902527000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-24",
+    "close": 2010,
+    "open": 1955,
+    "high": 2010,
+    "low": 1950,
+    "volume": 500,
+    "market_cap": 8138870091000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-27",
+    "close": 1995,
+    "open": 1955,
+    "high": 1995,
+    "low": 1945,
+    "volume": 5300,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-28",
+    "close": 2000,
+    "open": 1995,
+    "high": 2000,
+    "low": 1995,
+    "volume": 129800,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-29",
+    "close": 1990,
+    "open": 1955,
+    "high": 2050,
+    "low": 1900,
+    "volume": 23400,
+    "market_cap": 8057886309000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-30",
+    "close": 1955,
+    "open": 1990,
+    "high": 1990,
+    "low": 1955,
+    "volume": 300,
+    "market_cap": 7916164690500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-07-31",
+    "close": 1960,
+    "open": 1980,
+    "high": 2000,
+    "low": 1955,
+    "volume": 51900,
+    "market_cap": 7936410636000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-03",
+    "close": 2000,
+    "open": 1960,
+    "high": 2000,
+    "low": 1960,
+    "volume": 50600,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-04",
+    "close": 1990,
+    "open": 2000,
+    "high": 2000,
+    "low": 1990,
+    "volume": 500,
+    "market_cap": 8057886309000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-05",
+    "close": 2000,
+    "open": 2000,
+    "high": 2000,
+    "low": 2000,
+    "volume": 100,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-06",
+    "close": 2000,
+    "open": 2000,
+    "high": 2000,
+    "low": 2000,
+    "volume": 0,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-07",
+    "close": 2000,
+    "open": 1990,
+    "high": 2000,
+    "low": 1990,
+    "volume": 40000,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-10",
+    "close": 2040,
+    "open": 2000,
+    "high": 2040,
+    "low": 2000,
+    "volume": 52800,
+    "market_cap": 8260345764000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-11",
+    "close": 2020,
+    "open": 2010,
+    "high": 2040,
+    "low": 2000,
+    "volume": 9700,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-12",
+    "close": 2020,
+    "open": 2020,
+    "high": 2020,
+    "low": 2020,
+    "volume": 0,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-13",
+    "close": 2020,
+    "open": 2020,
+    "high": 2020,
+    "low": 2020,
+    "volume": 0,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-14",
+    "close": 2020,
+    "open": 2020,
+    "high": 2020,
+    "low": 2020,
+    "volume": 300,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-18",
+    "close": 2020,
+    "open": 2020,
+    "high": 2020,
+    "low": 2020,
+    "volume": 0,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-19",
+    "close": 1955,
+    "open": 2020,
+    "high": 2020,
+    "low": 1950,
+    "volume": 8000,
+    "market_cap": 7916164690500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-20",
+    "close": 1950,
+    "open": 1950,
+    "high": 1980,
+    "low": 1950,
+    "volume": 5700,
+    "market_cap": 7895918745000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-21",
+    "close": 1950,
+    "open": 1955,
+    "high": 1955,
+    "low": 1950,
+    "volume": 1800,
+    "market_cap": 7895918745000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-24",
+    "close": 1995,
+    "open": 1980,
+    "high": 2010,
+    "low": 1940,
+    "volume": 30500,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-26",
+    "close": 1990,
+    "open": 2000,
+    "high": 2000,
+    "low": 1965,
+    "volume": 5600,
+    "market_cap": 8057886309000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-27",
+    "close": 1970,
+    "open": 1950,
+    "high": 1970,
+    "low": 1950,
+    "volume": 1700,
+    "market_cap": 7976902527000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-28",
+    "close": 2000,
+    "open": 1985,
+    "high": 2000,
+    "low": 1985,
+    "volume": 1000,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-08-31",
+    "close": 2000,
+    "open": 2000,
+    "high": 2000,
+    "low": 2000,
+    "volume": 0,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-01",
+    "close": 2020,
+    "open": 2020,
+    "high": 2060,
+    "low": 2000,
+    "volume": 1400,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-02",
+    "close": 2020,
+    "open": 2020,
+    "high": 2020,
+    "low": 2020,
+    "volume": 0,
+    "market_cap": 8179361982000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-03",
+    "close": 1955,
+    "open": 1955,
+    "high": 1955,
+    "low": 1955,
+    "volume": 100,
+    "market_cap": 7916164690500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-04",
+    "close": 1955,
+    "open": 2000,
+    "high": 2000,
+    "low": 1955,
+    "volume": 1500,
+    "market_cap": 7916164690500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-07",
+    "close": 1950,
+    "open": 2000,
+    "high": 2000,
+    "low": 1945,
+    "volume": 6300,
+    "market_cap": 7895918745000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-08",
+    "close": 1995,
+    "open": 2000,
+    "high": 2000,
+    "low": 1960,
+    "volume": 8600,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-09",
+    "close": 1985,
+    "open": 1980,
+    "high": 1990,
+    "low": 1955,
+    "volume": 17900,
+    "market_cap": 8037640363500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-10",
+    "close": 2000,
+    "open": 1985,
+    "high": 2000,
+    "low": 1955,
+    "volume": 17100,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-11",
+    "close": 2010,
+    "open": 1995,
+    "high": 2010,
+    "low": 1995,
+    "volume": 900,
+    "market_cap": 8138870091000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-14",
+    "close": 2000,
+    "open": 2020,
+    "high": 2020,
+    "low": 1955,
+    "volume": 5700,
+    "market_cap": 8098378200000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-15",
+    "close": 1995,
+    "open": 1995,
+    "high": 1995,
+    "low": 1995,
+    "volume": 100,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-16",
+    "close": 1995,
+    "open": 1995,
+    "high": 1995,
+    "low": 1995,
+    "volume": 0,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-17",
+    "close": 1995,
+    "open": 1995,
+    "high": 1995,
+    "low": 1995,
+    "volume": 0,
+    "market_cap": 8078132254500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-18",
+    "close": 1900,
+    "open": 1900,
+    "high": 1900,
+    "low": 1900,
+    "volume": 400,
+    "market_cap": 7693459290000
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-21",
+    "close": 1985,
+    "open": 1930,
+    "high": 1985,
+    "low": 1930,
+    "volume": 5100,
+    "market_cap": 8037640363500
+  },
+  {
+    "symbol": "BBMD.JK",
+    "date": "2026-09-22",
+    "close": 1955,
+    "open": 2000,
+    "high": 2020,
+    "low": 1955,
+    "volume": 3700,
+    "market_cap": 7916164690500
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "symbol": "BMRI.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-03-10",
+        "agm_time": "14:00:00",
+        "agm_place": "Auditorium, Plaza Mandiri Lt. 3Jl. Jend. Gatot Subroto Kav. 36-38Jakarta Selatan 12190",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-09-15",
+        "agm_time": "10:00:00",
+        "agm_place": "Pubex Live 2022",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-03-14",
+        "agm_time": "14:00:00",
+        "agm_place": "Jl. Jendral Gatot Subroto Kav.36-38, Senayan, Kebayoran Baru Jakarta Selatan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-11-27",
+        "agm_time": "11:00:00",
+        "agm_place": "Pubex Live 2023",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-03-07",
+        "agm_time": "14:00:00",
+        "agm_place": "Plaza Mandiri Jl. Jenderal Gatot Subroto Kav. 36-38 Jakarta Selatan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-08-27",
+        "agm_time": "14:00:00",
+        "agm_place": "IDX Public Expose",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-03-25",
+        "agm_time": "14:00:00",
+        "agm_place": "Jl. Jenderal Gatot Subroto Kav. 36-38, Jakarta Selatan 12190 Kota Adm. Jakarta Selatan Dki. Jakarta",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-08-04",
+        "agm_time": "15:00:00",
+        "agm_place": "Menara Mandiri 1 Jl. Jenderal Sudirman Kav. 54-55, Jakarta Selatan 12190 Kota Adm. Jakartaselatan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-04-29",
+        "agm_time": "14:00:00",
+        "agm_place": "Dilaksanakan Secara Elektronik",
+        "agm_result": "Agenda #1: The meeting approved the 2025 Annual Report, the Board of Commissioners' Oversight Report, and the audited Consolidated Financial Statements, granting a full release of liability to the Board. It also ratified the Micro and Small Business Funding Program (PUMK) Financial Report.\nAgenda #2: Shareholders approved allocating 79% of the 2025 net profit as cash dividends totaling Rp44.47 trillion and 21% as retained earnings. The final dividend to be distributed is Rp376.95 per share, following an interim dividend paid in January 2026.\nAgenda #3: Authority was delegated to the majority Series B Shareholder and the Board of Commissioners to determine the 2026 remuneration for the Board and Directors and 2025 performance-based pay.\nAgenda #4: Shareholders approved the appointment of Public Accountant Yovita and KAP Purwanto Susanti dan Surja (Ernst & Young Global Limited) to audit the 2026 financial statements and PUMK reports.\nAgenda #5: The meeting approved the updated Recovery Plan in compliance with OJK Regulation No. 5 of 2024 and authorized the Board to execute necessary actions.\nAgenda #6: The company reported on the realization of funds used from Green Bond I Phase II 2025 and Sustainability Bond I Phase I 2025. This item was for reporting purposes only and did not require a shareholder decision.\nAgenda #7: Shareholders approved a share buyback program with a maximum value of Rp1.167 trillion and the allocation of treasury stocks for employee and management share ownership programs.\nAgenda #8: Authority was delegated to the Board of Commissioners, with approval from Series B shareholders, to approve the 2026-2030 Long-Term Work Plan (RJPP) and 2027 Annual Work Plan (RKAP).\nAgenda #9: The meeting approved amending the Articles of Association to reclassify 485,333,332 Series B shares owned by the Republic of Indonesia into Series A Dwiwarna shares.\nAgenda #10: Shareholders approved changes to the management composition, including the reappointment of Timothy Utama as Director of Operations and the confirmation of a 12-member Board of Directors and 6-member Board of Commissioners.\nAgenda #11: The Board of Directors was granted power of attorney to notarize meeting decisions and perform necessary adjustments required by authorities.\nAgenda #12: The meeting achieved a quorum with 85.5975% shareholder attendance, and the official summary of the results was submitted by the Corporate Secretary on April 30, 2026."
+      },
+      {
+        "agm_date": "2026-07-23",
+        "agm_time": "15:00:00",
+        "agm_place": null,
+        "agm_result": null
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": [
+      {
+        "ex_date": "2026-01-06",
+        "payment_date": "2026-01-14",
+        "dividend_yield": null,
+        "dividend_amount": 100
+      },
+      {
+        "ex_date": "2026-09-16",
+        "payment_date": "2026-10-02",
+        "dividend_yield": null,
+        "dividend_amount": 66
+      },
+      {
+        "ex_date": "2026-05-11",
+        "payment_date": "2026-05-25",
+        "dividend_yield": null,
+        "dividend_amount": 376.957
+      },
+      {
+        "ex_date": "2025-04-14",
+        "payment_date": "2025-04-23",
+        "dividend_yield": 0.0952207,
+        "dividend_amount": 466.184
+      },
+      {
+        "ex_date": "2024-03-20",
+        "payment_date": "2024-03-28",
+        "dividend_yield": 0.0532724,
+        "dividend_amount": 353.958
+      },
+      {
+        "ex_date": "2023-03-27",
+        "payment_date": "2023-04-12",
+        "dividend_yield": 0.04829,
+        "dividend_amount": 264.668
+      },
+      {
+        "ex_date": "2022-03-21",
+        "payment_date": "2022-04-06",
+        "dividend_yield": 0.0421836,
+        "dividend_amount": 180.318
+      },
+      {
+        "ex_date": "2021-03-24",
+        "payment_date": "2021-04-12",
+        "dividend_yield": 0.0341979,
+        "dividend_amount": 110.136
+      },
+      {
+        "ex_date": "2020-02-28",
+        "payment_date": "2020-03-20",
+        "dividend_yield": 0.0602168,
+        "dividend_amount": 176.671
+      }
+    ],
+    "right_issue": null,
+    "stock_split": [
+      {
+        "date": "2023-04-04",
+        "split_ratio": 2
+      },
+      {
+        "date": "2017-09-13",
+        "split_ratio": 2
+      }
+    ],
+    "upcoming_dividend": null
+  }
+}

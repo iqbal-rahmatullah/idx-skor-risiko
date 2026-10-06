@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-06-24",
+    "close": 755,
+    "open": 770,
+    "high": 785,
+    "low": 750,
+    "volume": 641600,
+    "market_cap": 2532360600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-06-25",
+    "close": 735,
+    "open": 730,
+    "high": 740,
+    "low": 725,
+    "volume": 266900,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-06-26",
+    "close": 695,
+    "open": 725,
+    "high": 725,
+    "low": 680,
+    "volume": 1088700,
+    "market_cap": 2331113400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-06-29",
+    "close": 700,
+    "open": 700,
+    "high": 740,
+    "low": 695,
+    "volume": 1077500,
+    "market_cap": 2347884000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-06-30",
+    "close": 720,
+    "open": 705,
+    "high": 865,
+    "low": 700,
+    "volume": 8360400,
+    "market_cap": 2414966400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-01",
+    "close": 745,
+    "open": 725,
+    "high": 750,
+    "low": 725,
+    "volume": 399800,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-02",
+    "close": 750,
+    "open": 750,
+    "high": 770,
+    "low": 740,
+    "volume": 105900,
+    "market_cap": 2515590000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-03",
+    "close": 760,
+    "open": 760,
+    "high": 770,
+    "low": 740,
+    "volume": 71200,
+    "market_cap": 2549131200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-06",
+    "close": 730,
+    "open": 765,
+    "high": 770,
+    "low": 705,
+    "volume": 374200,
+    "market_cap": 2448507600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-07",
+    "close": 735,
+    "open": 740,
+    "high": 745,
+    "low": 725,
+    "volume": 97400,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-08",
+    "close": 735,
+    "open": 750,
+    "high": 750,
+    "low": 720,
+    "volume": 88900,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-09",
+    "close": 735,
+    "open": 720,
+    "high": 750,
+    "low": 720,
+    "volume": 211900,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-10",
+    "close": 745,
+    "open": 740,
+    "high": 750,
+    "low": 740,
+    "volume": 40100,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-13",
+    "close": 730,
+    "open": 735,
+    "high": 745,
+    "low": 730,
+    "volume": 119700,
+    "market_cap": 2448507600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-14",
+    "close": 760,
+    "open": 735,
+    "high": 790,
+    "low": 730,
+    "volume": 889700,
+    "market_cap": 2549131200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-15",
+    "close": 745,
+    "open": 760,
+    "high": 775,
+    "low": 740,
+    "volume": 30900,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-16",
+    "close": 745,
+    "open": 745,
+    "high": 755,
+    "low": 740,
+    "volume": 5300,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-17",
+    "close": 755,
+    "open": 755,
+    "high": 770,
+    "low": 730,
+    "volume": 126900,
+    "market_cap": 2532360600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-20",
+    "close": 755,
+    "open": 755,
+    "high": 765,
+    "low": 740,
+    "volume": 1377400,
+    "market_cap": 2532360600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-21",
+    "close": 750,
+    "open": 750,
+    "high": 755,
+    "low": 735,
+    "volume": 296500,
+    "market_cap": 2515590000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-22",
+    "close": 745,
+    "open": 750,
+    "high": 750,
+    "low": 725,
+    "volume": 217400,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-23",
+    "close": 750,
+    "open": 745,
+    "high": 755,
+    "low": 730,
+    "volume": 236900,
+    "market_cap": 2515590000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-24",
+    "close": 740,
+    "open": 735,
+    "high": 750,
+    "low": 730,
+    "volume": 398600,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-27",
+    "close": 735,
+    "open": 730,
+    "high": 740,
+    "low": 725,
+    "volume": 27500,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-28",
+    "close": 735,
+    "open": 730,
+    "high": 775,
+    "low": 725,
+    "volume": 653500,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-29",
+    "close": 745,
+    "open": 735,
+    "high": 745,
+    "low": 730,
+    "volume": 124400,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-30",
+    "close": 740,
+    "open": 745,
+    "high": 745,
+    "low": 725,
+    "volume": 40000,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-07-31",
+    "close": 740,
+    "open": 750,
+    "high": 750,
+    "low": 730,
+    "volume": 32600,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-03",
+    "close": 740,
+    "open": 750,
+    "high": 750,
+    "low": 735,
+    "volume": 67600,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-04",
+    "close": 740,
+    "open": 750,
+    "high": 750,
+    "low": 735,
+    "volume": 71100,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-05",
+    "close": 735,
+    "open": 740,
+    "high": 745,
+    "low": 735,
+    "volume": 77100,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-06",
+    "close": 735,
+    "open": 735,
+    "high": 735,
+    "low": 730,
+    "volume": 57500,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-07",
+    "close": 740,
+    "open": 735,
+    "high": 745,
+    "low": 725,
+    "volume": 75700,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-10",
+    "close": 740,
+    "open": 740,
+    "high": 755,
+    "low": 730,
+    "volume": 343700,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-11",
+    "close": 720,
+    "open": 725,
+    "high": 740,
+    "low": 720,
+    "volume": 213300,
+    "market_cap": 2414966400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-12",
+    "close": 740,
+    "open": 720,
+    "high": 740,
+    "low": 720,
+    "volume": 86400,
+    "market_cap": 2482048800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-13",
+    "close": 735,
+    "open": 740,
+    "high": 740,
+    "low": 735,
+    "volume": 35700,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-14",
+    "close": 735,
+    "open": 735,
+    "high": 740,
+    "low": 730,
+    "volume": 23100,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-18",
+    "close": 730,
+    "open": 735,
+    "high": 740,
+    "low": 730,
+    "volume": 63900,
+    "market_cap": 2448507600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-19",
+    "close": 745,
+    "open": 725,
+    "high": 745,
+    "low": 720,
+    "volume": 164500,
+    "market_cap": 2498819400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-20",
+    "close": 735,
+    "open": 745,
+    "high": 745,
+    "low": 730,
+    "volume": 188800,
+    "market_cap": 2465278200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-21",
+    "close": 730,
+    "open": 730,
+    "high": 735,
+    "low": 720,
+    "volume": 224600,
+    "market_cap": 2448507600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-24",
+    "close": 725,
+    "open": 730,
+    "high": 730,
+    "low": 720,
+    "volume": 59200,
+    "market_cap": 2431737000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-26",
+    "close": 695,
+    "open": 720,
+    "high": 730,
+    "low": 690,
+    "volume": 895000,
+    "market_cap": 2331113400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-27",
+    "close": 715,
+    "open": 700,
+    "high": 715,
+    "low": 700,
+    "volume": 111200,
+    "market_cap": 2398195800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-28",
+    "close": 720,
+    "open": 715,
+    "high": 800,
+    "low": 700,
+    "volume": 2066200,
+    "market_cap": 2414966400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-08-31",
+    "close": 780,
+    "open": 725,
+    "high": 810,
+    "low": 710,
+    "volume": 1805200,
+    "market_cap": 2616213600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-01",
+    "close": 785,
+    "open": 780,
+    "high": 805,
+    "low": 750,
+    "volume": 924700,
+    "market_cap": 2632984200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-02",
+    "close": 775,
+    "open": 785,
+    "high": 800,
+    "low": 750,
+    "volume": 458000,
+    "market_cap": 2599443000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-03",
+    "close": 795,
+    "open": 795,
+    "high": 820,
+    "low": 775,
+    "volume": 1119200,
+    "market_cap": 2666525400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-04",
+    "close": 780,
+    "open": 815,
+    "high": 815,
+    "low": 780,
+    "volume": 625000,
+    "market_cap": 2616213600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-07",
+    "close": 770,
+    "open": 785,
+    "high": 795,
+    "low": 765,
+    "volume": 333400,
+    "market_cap": 2582672400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-08",
+    "close": 830,
+    "open": 770,
+    "high": 875,
+    "low": 770,
+    "volume": 3724700,
+    "market_cap": 2783919600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-09",
+    "close": 825,
+    "open": 830,
+    "high": 865,
+    "low": 795,
+    "volume": 1044800,
+    "market_cap": 2767149000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-10",
+    "close": 805,
+    "open": 835,
+    "high": 835,
+    "low": 800,
+    "volume": 262900,
+    "market_cap": 2700066600000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-11",
+    "close": 785,
+    "open": 805,
+    "high": 805,
+    "low": 750,
+    "volume": 1289100,
+    "market_cap": 2632984200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-14",
+    "close": 785,
+    "open": 790,
+    "high": 790,
+    "low": 770,
+    "volume": 255800,
+    "market_cap": 2632984200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-15",
+    "close": 785,
+    "open": 785,
+    "high": 800,
+    "low": 785,
+    "volume": 440900,
+    "market_cap": 2632984200000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-16",
+    "close": 800,
+    "open": 800,
+    "high": 825,
+    "low": 785,
+    "volume": 381800,
+    "market_cap": 2683296000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-17",
+    "close": 820,
+    "open": 810,
+    "high": 820,
+    "low": 800,
+    "volume": 200700,
+    "market_cap": 2750378400000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-18",
+    "close": 790,
+    "open": 810,
+    "high": 815,
+    "low": 790,
+    "volume": 295200,
+    "market_cap": 2649754800000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-21",
+    "close": 800,
+    "open": 800,
+    "high": 805,
+    "low": 790,
+    "volume": 392700,
+    "market_cap": 2683296000000
+  },
+  {
+    "symbol": "BNBA.JK",
+    "date": "2026-09-22",
+    "close": 760,
+    "open": 800,
+    "high": 800,
+    "low": 760,
+    "volume": 745800,
+    "market_cap": 2549131200000
+  }
+]

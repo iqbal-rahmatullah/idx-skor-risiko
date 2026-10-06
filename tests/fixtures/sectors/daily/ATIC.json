@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-06-24",
+    "close": 460,
+    "open": 480,
+    "high": 482,
+    "low": 460,
+    "volume": 48300,
+    "market_cap": 1065066223300
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-06-25",
+    "close": 460,
+    "open": 462,
+    "high": 464,
+    "low": 448,
+    "volume": 93700,
+    "market_cap": 1065066223300
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-06-26",
+    "close": 480,
+    "open": 468,
+    "high": 484,
+    "low": 444,
+    "volume": 49900,
+    "market_cap": 1111373450400
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-06-29",
+    "close": 478,
+    "open": 480,
+    "high": 482,
+    "low": 460,
+    "volume": 53400,
+    "market_cap": 1106742727690
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-06-30",
+    "close": 470,
+    "open": 478,
+    "high": 478,
+    "low": 458,
+    "volume": 62600,
+    "market_cap": 1088219836850
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-01",
+    "close": 470,
+    "open": 460,
+    "high": 470,
+    "low": 452,
+    "volume": 86500,
+    "market_cap": 1088219836850
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-02",
+    "close": 488,
+    "open": 466,
+    "high": 585,
+    "low": 462,
+    "volume": 3233600,
+    "market_cap": 1129896341240
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-03",
+    "close": 492,
+    "open": 488,
+    "high": 510,
+    "low": 488,
+    "volume": 709400,
+    "market_cap": 1139157786660
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-06",
+    "close": 480,
+    "open": 494,
+    "high": 496,
+    "low": 466,
+    "volume": 279200,
+    "market_cap": 1111373450400
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-07",
+    "close": 486,
+    "open": 484,
+    "high": 490,
+    "low": 474,
+    "volume": 213500,
+    "market_cap": 1125265618530
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-08",
+    "close": 468,
+    "open": 486,
+    "high": 486,
+    "low": 460,
+    "volume": 160400,
+    "market_cap": 1083589114140
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-09",
+    "close": 462,
+    "open": 462,
+    "high": 468,
+    "low": 456,
+    "volume": 109100,
+    "market_cap": 1069696946010
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-10",
+    "close": 460,
+    "open": 468,
+    "high": 470,
+    "low": 458,
+    "volume": 48600,
+    "market_cap": 1065066223300
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-13",
+    "close": 472,
+    "open": 462,
+    "high": 480,
+    "low": 456,
+    "volume": 137600,
+    "market_cap": 1092850559560
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-14",
+    "close": 464,
+    "open": 472,
+    "high": 472,
+    "low": 456,
+    "volume": 337600,
+    "market_cap": 1074327668720
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-15",
+    "close": 474,
+    "open": 468,
+    "high": 492,
+    "low": 468,
+    "volume": 109300,
+    "market_cap": 1097481282270
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-16",
+    "close": 480,
+    "open": 474,
+    "high": 498,
+    "low": 470,
+    "volume": 123200,
+    "market_cap": 1132213619520
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-17",
+    "close": 488,
+    "open": 496,
+    "high": 496,
+    "low": 472,
+    "volume": 87500,
+    "market_cap": 1222634051248
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-20",
+    "close": 478,
+    "open": 488,
+    "high": 540,
+    "low": 468,
+    "volume": 1307800,
+    "market_cap": 1216534842616
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-21",
+    "close": 474,
+    "open": 478,
+    "high": 484,
+    "low": 466,
+    "volume": 245900,
+    "market_cap": 1206430363338
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-22",
+    "close": 476,
+    "open": 474,
+    "high": 484,
+    "low": 460,
+    "volume": 95200,
+    "market_cap": 1269774003820
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-23",
+    "close": 478,
+    "open": 480,
+    "high": 484,
+    "low": 470,
+    "volume": 188700,
+    "market_cap": 1275109188710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-24",
+    "close": 488,
+    "open": 476,
+    "high": 492,
+    "low": 462,
+    "volume": 95000,
+    "market_cap": 1301785113160
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-27",
+    "close": 476,
+    "open": 488,
+    "high": 515,
+    "low": 476,
+    "volume": 82000,
+    "market_cap": 1377640005868
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-28",
+    "close": 474,
+    "open": 476,
+    "high": 486,
+    "low": 468,
+    "volume": 87300,
+    "market_cap": 1371851602482
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-29",
+    "close": 480,
+    "open": 478,
+    "high": 500,
+    "low": 468,
+    "volume": 172700,
+    "market_cap": 1389216812640
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-30",
+    "close": 474,
+    "open": 476,
+    "high": 494,
+    "low": 470,
+    "volume": 105100,
+    "market_cap": 1371851602482
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-07-31",
+    "close": 478,
+    "open": 480,
+    "high": 482,
+    "low": 454,
+    "volume": 380600,
+    "market_cap": 1383428409254
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-03",
+    "close": 460,
+    "open": 478,
+    "high": 480,
+    "low": 450,
+    "volume": 120700,
+    "market_cap": 1331332778780
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-04",
+    "close": 460,
+    "open": 462,
+    "high": 480,
+    "low": 460,
+    "volume": 158400,
+    "market_cap": 1331332778780
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-05",
+    "close": 470,
+    "open": 468,
+    "high": 470,
+    "low": 460,
+    "volume": 150300,
+    "market_cap": 1360274795710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-06",
+    "close": 460,
+    "open": 470,
+    "high": 474,
+    "low": 460,
+    "volume": 76400,
+    "market_cap": 1331332778780
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-07",
+    "close": 470,
+    "open": 468,
+    "high": 472,
+    "low": 458,
+    "volume": 108000,
+    "market_cap": 1360274795710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-10",
+    "close": 474,
+    "open": 470,
+    "high": 474,
+    "low": 468,
+    "volume": 83300,
+    "market_cap": 1371851602482
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-11",
+    "close": 454,
+    "open": 472,
+    "high": 472,
+    "low": 454,
+    "volume": 109300,
+    "market_cap": 1313967568622
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-12",
+    "close": 460,
+    "open": 460,
+    "high": 468,
+    "low": 458,
+    "volume": 38000,
+    "market_cap": 1331332778780
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-13",
+    "close": 456,
+    "open": 460,
+    "high": 462,
+    "low": 454,
+    "volume": 33600,
+    "market_cap": 1319755972008
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-14",
+    "close": 462,
+    "open": 452,
+    "high": 462,
+    "low": 450,
+    "volume": 69900,
+    "market_cap": 1337121182166
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-18",
+    "close": 464,
+    "open": 462,
+    "high": 470,
+    "low": 456,
+    "volume": 89500,
+    "market_cap": 1342909585552
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-19",
+    "close": 464,
+    "open": 464,
+    "high": 464,
+    "low": 462,
+    "volume": 95600,
+    "market_cap": 1342909585552
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-20",
+    "close": 464,
+    "open": 460,
+    "high": 466,
+    "low": 460,
+    "volume": 35500,
+    "market_cap": 1342909585552
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-21",
+    "close": 472,
+    "open": 464,
+    "high": 472,
+    "low": 462,
+    "volume": 125200,
+    "market_cap": 1366063199096
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-24",
+    "close": 470,
+    "open": 472,
+    "high": 472,
+    "low": 456,
+    "volume": 133700,
+    "market_cap": 1360274795710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-26",
+    "close": 468,
+    "open": 470,
+    "high": 470,
+    "low": 458,
+    "volume": 47700,
+    "market_cap": 1354486392324
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-27",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 462,
+    "volume": 26800,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-28",
+    "close": 468,
+    "open": 462,
+    "high": 468,
+    "low": 460,
+    "volume": 130100,
+    "market_cap": 1354486392324
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-08-31",
+    "close": 462,
+    "open": 468,
+    "high": 468,
+    "low": 460,
+    "volume": 54400,
+    "market_cap": 1337121182166
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-01",
+    "close": 470,
+    "open": 468,
+    "high": 470,
+    "low": 460,
+    "volume": 50700,
+    "market_cap": 1360274795710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-02",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 464,
+    "volume": 43100,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-03",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 462,
+    "volume": 35600,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-04",
+    "close": 460,
+    "open": 472,
+    "high": 472,
+    "low": 460,
+    "volume": 52700,
+    "market_cap": 1331332778780
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-07",
+    "close": 470,
+    "open": 462,
+    "high": 470,
+    "low": 460,
+    "volume": 56200,
+    "market_cap": 1360274795710
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-08",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 462,
+    "volume": 44600,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-09",
+    "close": 468,
+    "open": 466,
+    "high": 468,
+    "low": 462,
+    "volume": 42800,
+    "market_cap": 1354486392324
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-10",
+    "close": 466,
+    "open": 468,
+    "high": 468,
+    "low": 460,
+    "volume": 186600,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-11",
+    "close": 466,
+    "open": 466,
+    "high": 466,
+    "low": 460,
+    "volume": 60100,
+    "market_cap": 1348697988938
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-14",
+    "close": 464,
+    "open": 460,
+    "high": 466,
+    "low": 460,
+    "volume": 19500,
+    "market_cap": 1342909585552
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-15",
+    "close": 456,
+    "open": 462,
+    "high": 462,
+    "low": 454,
+    "volume": 186200,
+    "market_cap": 1319755972008
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-16",
+    "close": 462,
+    "open": 456,
+    "high": 462,
+    "low": 456,
+    "volume": 81800,
+    "market_cap": 1337121182166
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-17",
+    "close": 458,
+    "open": 458,
+    "high": 460,
+    "low": 454,
+    "volume": 28700,
+    "market_cap": 1325544375394
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-18",
+    "close": 450,
+    "open": 458,
+    "high": 458,
+    "low": 444,
+    "volume": 58400,
+    "market_cap": 1302390761850
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-21",
+    "close": 442,
+    "open": 448,
+    "high": 448,
+    "low": 442,
+    "volume": 99200,
+    "market_cap": 1279237148306
+  },
+  {
+    "symbol": "ATIC.JK",
+    "date": "2026-09-22",
+    "close": 442,
+    "open": 464,
+    "high": 464,
+    "low": 442,
+    "volume": 270000,
+    "market_cap": 1279237148306
+  }
+]

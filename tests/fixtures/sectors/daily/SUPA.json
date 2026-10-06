@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-06-24",
+    "close": 500,
+    "open": 565,
+    "high": 590,
+    "low": 500,
+    "volume": 58126100,
+    "market_cap": 16779023725000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-06-25",
+    "close": 525,
+    "open": 498,
+    "high": 530,
+    "low": 482,
+    "volume": 43018500,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-06-26",
+    "close": 515,
+    "open": 525,
+    "high": 530,
+    "low": 494,
+    "volume": 30045900,
+    "market_cap": 17282394436750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-06-29",
+    "close": 545,
+    "open": 515,
+    "high": 565,
+    "low": 505,
+    "volume": 37830300,
+    "market_cap": 18289135860250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-06-30",
+    "close": 535,
+    "open": 550,
+    "high": 570,
+    "low": 510,
+    "volume": 43377900,
+    "market_cap": 17953555385750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-01",
+    "close": 515,
+    "open": 535,
+    "high": 540,
+    "low": 505,
+    "volume": 26815600,
+    "market_cap": 17282394436750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-02",
+    "close": 540,
+    "open": 515,
+    "high": 565,
+    "low": 510,
+    "volume": 23295400,
+    "market_cap": 18121345623000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-03",
+    "close": 550,
+    "open": 550,
+    "high": 565,
+    "low": 545,
+    "volume": 15661200,
+    "market_cap": 18456926097500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-06",
+    "close": 565,
+    "open": 550,
+    "high": 575,
+    "low": 535,
+    "volume": 9628400,
+    "market_cap": 18960296809250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-07",
+    "close": 565,
+    "open": 565,
+    "high": 575,
+    "low": 555,
+    "volume": 17249200,
+    "market_cap": 18960296809250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-08",
+    "close": 555,
+    "open": 560,
+    "high": 570,
+    "low": 535,
+    "volume": 12061700,
+    "market_cap": 18624716334750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-09",
+    "close": 550,
+    "open": 555,
+    "high": 560,
+    "low": 540,
+    "volume": 7130900,
+    "market_cap": 18456926097500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-10",
+    "close": 555,
+    "open": 550,
+    "high": 565,
+    "low": 545,
+    "volume": 7095800,
+    "market_cap": 18624716334750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-13",
+    "close": 595,
+    "open": 560,
+    "high": 600,
+    "low": 545,
+    "volume": 22646000,
+    "market_cap": 19967038232750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-14",
+    "close": 580,
+    "open": 600,
+    "high": 605,
+    "low": 580,
+    "volume": 13073600,
+    "market_cap": 19463667521000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-15",
+    "close": 585,
+    "open": 585,
+    "high": 595,
+    "low": 570,
+    "volume": 10031800,
+    "market_cap": 19631457758250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-16",
+    "close": 590,
+    "open": 580,
+    "high": 600,
+    "low": 570,
+    "volume": 9838300,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-17",
+    "close": 590,
+    "open": 595,
+    "high": 610,
+    "low": 580,
+    "volume": 14749600,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-20",
+    "close": 580,
+    "open": 590,
+    "high": 605,
+    "low": 580,
+    "volume": 12330800,
+    "market_cap": 19463667521000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-21",
+    "close": 600,
+    "open": 580,
+    "high": 605,
+    "low": 580,
+    "volume": 18815100,
+    "market_cap": 20134828470000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-22",
+    "close": 605,
+    "open": 605,
+    "high": 620,
+    "low": 590,
+    "volume": 18426500,
+    "market_cap": 20302618707250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-23",
+    "close": 600,
+    "open": 610,
+    "high": 625,
+    "low": 595,
+    "volume": 23049000,
+    "market_cap": 20134828470000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-24",
+    "close": 590,
+    "open": 600,
+    "high": 600,
+    "low": 570,
+    "volume": 15377300,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-27",
+    "close": 605,
+    "open": 590,
+    "high": 610,
+    "low": 585,
+    "volume": 9499100,
+    "market_cap": 20302618707250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-28",
+    "close": 595,
+    "open": 605,
+    "high": 605,
+    "low": 590,
+    "volume": 11051800,
+    "market_cap": 19967038232750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-29",
+    "close": 590,
+    "open": 605,
+    "high": 615,
+    "low": 570,
+    "volume": 18733100,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-30",
+    "close": 610,
+    "open": 595,
+    "high": 610,
+    "low": 590,
+    "volume": 8128100,
+    "market_cap": 20470408944500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-07-31",
+    "close": 605,
+    "open": 610,
+    "high": 615,
+    "low": 605,
+    "volume": 7215100,
+    "market_cap": 20302618707250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-03",
+    "close": 600,
+    "open": 615,
+    "high": 620,
+    "low": 595,
+    "volume": 10101400,
+    "market_cap": 20134828470000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-04",
+    "close": 600,
+    "open": 595,
+    "high": 605,
+    "low": 590,
+    "volume": 14920400,
+    "market_cap": 20134828470000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-05",
+    "close": 600,
+    "open": 600,
+    "high": 605,
+    "low": 595,
+    "volume": 10084900,
+    "market_cap": 20134828470000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-06",
+    "close": 590,
+    "open": 600,
+    "high": 605,
+    "low": 585,
+    "volume": 23771100,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-07",
+    "close": 590,
+    "open": 590,
+    "high": 595,
+    "low": 580,
+    "volume": 14908500,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-10",
+    "close": 590,
+    "open": 590,
+    "high": 600,
+    "low": 575,
+    "volume": 20810300,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-11",
+    "close": 590,
+    "open": 590,
+    "high": 595,
+    "low": 575,
+    "volume": 23457100,
+    "market_cap": 19799247995500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-12",
+    "close": 570,
+    "open": 580,
+    "high": 595,
+    "low": 550,
+    "volume": 51070300,
+    "market_cap": 19128087046500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-13",
+    "close": 540,
+    "open": 570,
+    "high": 575,
+    "low": 530,
+    "volume": 68312200,
+    "market_cap": 18121345623000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-14",
+    "close": 535,
+    "open": 530,
+    "high": 540,
+    "low": 515,
+    "volume": 26060900,
+    "market_cap": 17953555385750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-18",
+    "close": 525,
+    "open": 535,
+    "high": 540,
+    "low": 525,
+    "volume": 12993100,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-19",
+    "close": 530,
+    "open": 525,
+    "high": 535,
+    "low": 515,
+    "volume": 11358000,
+    "market_cap": 17785765148500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-20",
+    "close": 550,
+    "open": 535,
+    "high": 560,
+    "low": 530,
+    "volume": 24520800,
+    "market_cap": 18456926097500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-21",
+    "close": 545,
+    "open": 555,
+    "high": 560,
+    "low": 540,
+    "volume": 8562600,
+    "market_cap": 18289135860250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-24",
+    "close": 525,
+    "open": 545,
+    "high": 545,
+    "low": 525,
+    "volume": 12420700,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-26",
+    "close": 510,
+    "open": 525,
+    "high": 525,
+    "low": 510,
+    "volume": 15202100,
+    "market_cap": 17114604199500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-27",
+    "close": 520,
+    "open": 505,
+    "high": 525,
+    "low": 505,
+    "volume": 11278800,
+    "market_cap": 17450184674000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-28",
+    "close": 520,
+    "open": 520,
+    "high": 525,
+    "low": 515,
+    "volume": 12207000,
+    "market_cap": 17450184674000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-08-31",
+    "close": 525,
+    "open": 520,
+    "high": 530,
+    "low": 515,
+    "volume": 5865900,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-01",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 515,
+    "volume": 18921900,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-02",
+    "close": 540,
+    "open": 525,
+    "high": 550,
+    "low": 525,
+    "volume": 25442000,
+    "market_cap": 18121345623000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-03",
+    "close": 530,
+    "open": 540,
+    "high": 540,
+    "low": 525,
+    "volume": 15314400,
+    "market_cap": 17785765148500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-04",
+    "close": 515,
+    "open": 530,
+    "high": 530,
+    "low": 515,
+    "volume": 14243200,
+    "market_cap": 17282394436750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-07",
+    "close": 520,
+    "open": 515,
+    "high": 530,
+    "low": 510,
+    "volume": 15734100,
+    "market_cap": 17450184674000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-08",
+    "close": 515,
+    "open": 520,
+    "high": 525,
+    "low": 515,
+    "volume": 7025800,
+    "market_cap": 17282394436750
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-09",
+    "close": 525,
+    "open": 520,
+    "high": 525,
+    "low": 510,
+    "volume": 14085000,
+    "market_cap": 17617974911250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-10",
+    "close": 510,
+    "open": 525,
+    "high": 525,
+    "low": 510,
+    "volume": 10065100,
+    "market_cap": 17114604199500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-11",
+    "close": 505,
+    "open": 510,
+    "high": 510,
+    "low": 500,
+    "volume": 11903900,
+    "market_cap": 16946813962250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-14",
+    "close": 505,
+    "open": 505,
+    "high": 510,
+    "low": 498,
+    "volume": 12557000,
+    "market_cap": 16946813962250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-15",
+    "close": 498,
+    "open": 505,
+    "high": 505,
+    "low": 498,
+    "volume": 6952600,
+    "market_cap": 16711907630100
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-16",
+    "close": 498,
+    "open": 500,
+    "high": 505,
+    "low": 498,
+    "volume": 8126000,
+    "market_cap": 16711907630100
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-17",
+    "close": 505,
+    "open": 498,
+    "high": 510,
+    "low": 490,
+    "volume": 21476900,
+    "market_cap": 16946813962250
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-18",
+    "close": 500,
+    "open": 505,
+    "high": 510,
+    "low": 494,
+    "volume": 9692700,
+    "market_cap": 16779023725000
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-21",
+    "close": 490,
+    "open": 496,
+    "high": 498,
+    "low": 490,
+    "volume": 11371900,
+    "market_cap": 16443443250500
+  },
+  {
+    "symbol": "SUPA.JK",
+    "date": "2026-09-22",
+    "close": 490,
+    "open": 490,
+    "high": 492,
+    "low": 452,
+    "volume": 36032100,
+    "market_cap": 16443443250500
+  }
+]

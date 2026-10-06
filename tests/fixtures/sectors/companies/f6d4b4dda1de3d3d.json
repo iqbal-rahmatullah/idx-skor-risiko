@@ -1,0 +1,1382 @@
+{
+  "results": [
+    {
+      "symbol": "INTD.JK",
+      "company_name": "Inter-Delta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -2442680916.0,
+        "operating_cash_flow[2025]": -12972594468.0,
+        "total_assets[2025]": 39320616976.0,
+        "total_assets[2024]": 40763799386.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.262970351295372
+      }
+    },
+    {
+      "symbol": "CITA.JK",
+      "company_name": "Cita Mineral Investindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 2399116148219.0,
+        "operating_cash_flow[2025]": 460960904970.0,
+        "total_assets[2025]": 9127849319164.0,
+        "total_assets[2024]": 7943806720848.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.227061187116987
+      }
+    },
+    {
+      "symbol": "SMGA.JK",
+      "company_name": "PT Sumber Mineral Global Abadi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 48091498645.0,
+        "operating_cash_flow[2025]": -117951756318.0,
+        "total_assets[2025]": 934952168706.0,
+        "total_assets[2024]": 790209329425.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.192495896926621
+      }
+    },
+    {
+      "symbol": "TBMS.JK",
+      "company_name": "Tembaga Mulia Semanan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 68024153381.0,
+        "operating_cash_flow[2025]": -406121699848.0,
+        "total_assets[2025]": 2939213674086.0,
+        "total_assets[2024]": 2421285935747.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.176903605163688
+      }
+    },
+    {
+      "symbol": "KRAS.JK",
+      "company_name": "Krakatau Steel (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 7443741422520.0,
+        "operating_cash_flow[2025]": -29339014380.0,
+        "total_assets[2025]": 46289918641980.0,
+        "total_assets[2024]": 46768310712000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.160610845247732
+      }
+    },
+    {
+      "symbol": "ALKA.JK",
+      "company_name": "Alakasa Industrindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 19440395000.0,
+        "operating_cash_flow[2025]": -17772945000.0,
+        "total_assets[2025]": 248806140000.0,
+        "total_assets[2024]": 224245664000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.157333043380593
+      }
+    },
+    {
+      "symbol": "KKES.JK",
+      "company_name": "PT Kusuma Kemindo Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -3084697535.0,
+        "operating_cash_flow[2025]": -16634589337.0,
+        "total_assets[2025]": 129783351052.0,
+        "total_assets[2024]": 108821108709.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.113576182235423
+      }
+    },
+    {
+      "symbol": "GDST.JK",
+      "company_name": "Gunawan Dianjaya Steel Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 73238288798.0,
+        "operating_cash_flow[2025]": -193080596944.0,
+        "total_assets[2025]": 3495704841602.0,
+        "total_assets[2024]": 2755475158820.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0852059565470908
+      }
+    },
+    {
+      "symbol": "TPIA.JK",
+      "company_name": "PT Chandra Asri Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 18244264417860.0,
+        "operating_cash_flow[2025]": 5856288191520.0,
+        "total_assets[2025]": 206238777317040.0,
+        "total_assets[2024]": 91430297962000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0832332093263454
+      }
+    },
+    {
+      "symbol": "DKFT.JK",
+      "company_name": "Central Omega Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 573485525622.0,
+        "operating_cash_flow[2025]": 345623866670.0,
+        "total_assets[2025]": 3089048824767.0,
+        "total_assets[2024]": 2540822189493.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0809473816983889
+      }
+    },
+    {
+      "symbol": "DGWG.JK",
+      "company_name": "PT Delta Giri Wacana Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 218849000000.0,
+        "operating_cash_flow[2025]": -24965000000.0,
+        "total_assets[2025]": 4040985000000.0,
+        "total_assets[2024]": 2910383000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0701484945121593
+      }
+    },
+    {
+      "symbol": "AMMN.JK",
+      "company_name": "PT Amman Mineral Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 4167027074340.0,
+        "operating_cash_flow[2025]": -7949182514520.0,
+        "total_assets[2025]": 232145545426080.0,
+        "total_assets[2024]": 179689881616000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0588400549990664
+      }
+    },
+    {
+      "symbol": "SOLA.JK",
+      "company_name": "PT Xolare RCR Energy Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 44646409613.0,
+        "operating_cash_flow[2025]": 30370735733.0,
+        "total_assets[2025]": 309854897245.0,
+        "total_assets[2024]": 184518911448.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0577525493016764
+      }
+    },
+    {
+      "symbol": "ARCI.JK",
+      "company_name": "PT Archi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1704123411653.0,
+        "operating_cash_flow[2025]": 877244145051.0,
+        "total_assets[2025]": 17184384188625.0,
+        "total_assets[2024]": 13982264520129.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0530618016925091
+      }
+    },
+    {
+      "symbol": "PICO.JK",
+      "company_name": "Pelangi Indah Canindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 4992596226.0,
+        "operating_cash_flow[2025]": -30539583203.0,
+        "total_assets[2025]": 666983823941.0,
+        "total_assets[2024]": 712824447581.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0515030677266577
+      }
+    },
+    {
+      "symbol": "ANTM.JK",
+      "company_name": "Aneka Tambang Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 7208834000000.0,
+        "operating_cash_flow[2025]": 4853256000000.0,
+        "total_assets[2025]": 52530405000000.0,
+        "total_assets[2024]": 44522645000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0485420705480147
+      }
+    },
+    {
+      "symbol": "OBMD.JK",
+      "company_name": "PT OBM Drilchem Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 33898511316.0,
+        "operating_cash_flow[2025]": 24009267425.0,
+        "total_assets[2025]": 228725112858.0,
+        "total_assets[2024]": 204853608769.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0456168321816657
+      }
+    },
+    {
+      "symbol": "LMSH.JK",
+      "company_name": "Lionmesh Prima Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -4814781222.0,
+        "operating_cash_flow[2025]": -9950534255.0,
+        "total_assets[2025]": 108703310242.0,
+        "total_assets[2024]": 119106076175.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0450881600075874
+      }
+    },
+    {
+      "symbol": "TKIM.JK",
+      "company_name": "Pabrik Kertas Tjiwi Kimia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 4615965877380.0,
+        "operating_cash_flow[2025]": 1931738949660.0,
+        "total_assets[2025]": 65640111600180.0,
+        "total_assets[2024]": 62303508567000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0419595275514731
+      }
+    },
+    {
+      "symbol": "ALDO.JK",
+      "company_name": "Alkindo Naratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 35118202918.0,
+        "operating_cash_flow[2025]": -46123416933.0,
+        "total_assets[2025]": 2088153839835.0,
+        "total_assets[2024]": 2046681278169.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0392961835393415
+      }
+    },
+    {
+      "symbol": "PACK.JK",
+      "company_name": "PT Abadi Nusantara Hijau Investama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 31260396106.0,
+        "operating_cash_flow[2025]": -22471937167.0,
+        "total_assets[2025]": 2999626692839.0,
+        "total_assets[2024]": 66918151108.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0350442181721629
+      }
+    },
+    {
+      "symbol": "TINS.JK",
+      "company_name": "PT Timah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1313630000000.0,
+        "operating_cash_flow[2025]": 965971000000.0,
+        "total_assets[2025]": 13643395000000.0,
+        "total_assets[2024]": 12799576000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0262950029329155
+      }
+    },
+    {
+      "symbol": "CHEM.JK",
+      "company_name": "PT Chemstar Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1861132512.0,
+        "operating_cash_flow[2025]": -2629022175.0,
+        "total_assets[2025]": 197914173031.0,
+        "total_assets[2024]": 170328129268.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0243869574949276
+      }
+    },
+    {
+      "symbol": "BRPT.JK",
+      "company_name": "Barito Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 8197635263220.0,
+        "operating_cash_flow[2025]": 5181741907680.0,
+        "total_assets[2025]": 290431321773060.0,
+        "total_assets[2024]": 170174636548000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0130953293202421
+      }
+    },
+    {
+      "symbol": "NCKL.JK",
+      "company_name": "PT Trimegah Bangun Persada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 8951516000000.0,
+        "operating_cash_flow[2025]": 8601085000000.0,
+        "total_assets[2025]": 61770103000000.0,
+        "total_assets[2024]": 52253838000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0061466214362824
+      }
+    },
+    {
+      "symbol": "SQMI.JK",
+      "company_name": "Wilton Makmur Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -27422814037.0,
+        "operating_cash_flow[2025]": -29701829457.0,
+        "total_assets[2025]": 513145027785.0,
+        "total_assets[2024]": 536991744747.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00434041637167896
+      }
+    },
+    {
+      "symbol": "PBID.JK",
+      "company_name": "PT Panca Budi Idaman Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 400585982000.0,
+        "operating_cash_flow[2025]": 386949874000.0,
+        "total_assets[2025]": 3480808548000.0,
+        "total_assets[2024]": 3583499263000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00386056450676368
+      }
+    },
+    {
+      "symbol": "LTLS.JK",
+      "company_name": "PT Lautan Luas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 149451000000.0,
+        "operating_cash_flow[2025]": 128687000000.0,
+        "total_assets[2025]": 6682022000000.0,
+        "total_assets[2024]": 6060384000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00325903914849362
+      }
+    },
+    {
+      "symbol": "BMSR.JK",
+      "company_name": "Bintang Mitra Semestaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 46669494321.0,
+        "operating_cash_flow[2025]": 41484502302.0,
+        "total_assets[2025]": 1814266357774.0,
+        "total_assets[2024]": 1789756273498.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00287733599340358
+      }
+    },
+    {
+      "symbol": "AVIA.JK",
+      "company_name": "PT Avia Avian Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1747462000000.0,
+        "operating_cash_flow[2025]": 1738165000000.0,
+        "total_assets[2025]": 11084379000000.0,
+        "total_assets[2024]": 11060975000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.000839634354004908
+      }
+    },
+    {
+      "symbol": "PPRI.JK",
+      "company_name": "PT Paperocks Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 2963441409.0,
+        "operating_cash_flow[2025]": 3183950395.0,
+        "total_assets[2025]": 121677307268.0,
+        "total_assets[2024]": 121224145841.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00181562508727396
+      }
+    },
+    {
+      "symbol": "MBMA.JK",
+      "company_name": "PT Merdeka Battery Materials Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 494801021447.0,
+        "operating_cash_flow[2025]": 622433432771.0,
+        "total_assets[2025]": 62516267441655.0,
+        "total_assets[2024]": 55502868314434.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00216291045526344
+      }
+    },
+    {
+      "symbol": "CLPI.JK",
+      "company_name": "Colorpak Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 68188518325.0,
+        "operating_cash_flow[2025]": 71323001393.0,
+        "total_assets[2025]": 851024116343.0,
+        "total_assets[2024]": 801657692915.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00379320816680046
+      }
+    },
+    {
+      "symbol": "IFSH.JK",
+      "company_name": "PT Ifishdeco Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 72141272410.0,
+        "operating_cash_flow[2025]": 79992250550.0,
+        "total_assets[2025]": 1060783953777.0,
+        "total_assets[2024]": 1007971015427.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00759005126935921
+      }
+    },
+    {
+      "symbol": "WTON.JK",
+      "company_name": "Wijaya Karya Beton",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 40019501701.0,
+        "operating_cash_flow[2025]": 93486381777.0,
+        "total_assets[2025]": 6290468416823.0,
+        "total_assets[2024]": 7194688328878.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.00792973801999669
+      }
+    },
+    {
+      "symbol": "FWCT.JK",
+      "company_name": "PT Wijaya Cahaya Timber Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 9590610634.0,
+        "operating_cash_flow[2025]": 17020028727.0,
+        "total_assets[2025]": 762312390080.0,
+        "total_assets[2024]": 656927838744.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0104695708902729
+      }
+    },
+    {
+      "symbol": "BTON.JK",
+      "company_name": "Betonjaya Manunggal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 24426151210.0,
+        "operating_cash_flow[2025]": 28916457344.0,
+        "total_assets[2025]": 444737257332.0,
+        "total_assets[2024]": 396703729801.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0106728961452177
+      }
+    },
+    {
+      "symbol": "BAJA.JK",
+      "company_name": "Saranacentral Bajatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -36416684882.0,
+        "operating_cash_flow[2025]": -28530354690.0,
+        "total_assets[2025]": 684668570014.0,
+        "total_assets[2024]": 704587096783.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0113533172913843
+      }
+    },
+    {
+      "symbol": "BRMS.JK",
+      "company_name": "Bumi Resources Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 836986632369.0,
+        "operating_cash_flow[2025]": 1085577992431.0,
+        "total_assets[2025]": 21933935937408.0,
+        "total_assets[2024]": 18659215363170.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0122479458774348
+      }
+    },
+    {
+      "symbol": "ALMI.JK",
+      "company_name": "Alumindo Light Metal Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -41538856059.0,
+        "operating_cash_flow[2025]": -36010351437.0,
+        "total_assets[2025]": 444913349681.0,
+        "total_assets[2024]": 449758078924.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0123587373984217
+      }
+    },
+    {
+      "symbol": "EMAS.JK",
+      "company_name": "PT Merdeka Gold Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -460123946623.0,
+        "operating_cash_flow[2025]": -319178869657.0,
+        "total_assets[2025]": 12395661742664.0,
+        "total_assets[2024]": 8576742352645.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0134410033609381
+      }
+    },
+    {
+      "symbol": "PDPP.JK",
+      "company_name": "PT Primadaya Plastisindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 34562284733.0,
+        "operating_cash_flow[2025]": 44445165461.0,
+        "total_assets[2025]": 602767984550.0,
+        "total_assets[2024]": 597455837299.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0164683962242559
+      }
+    },
+    {
+      "symbol": "SAMF.JK",
+      "company_name": "PT Saraswanti Anugerah Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 255420935727.0,
+        "operating_cash_flow[2025]": 312968429299.0,
+        "total_assets[2025]": 3175190969502.0,
+        "total_assets[2024]": 2788361965167.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0192997343035051
+      }
+    },
+    {
+      "symbol": "NIKL.JK",
+      "company_name": "Pelat Timah Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 16291035854.0,
+        "operating_cash_flow[2025]": 68760591094.0,
+        "total_assets[2025]": 2012727432741.0,
+        "total_assets[2024]": 2185399972349.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0249966473987347
+      }
+    },
+    {
+      "symbol": "SMCB.JK",
+      "company_name": "PT Solusi Bangun Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 658742000000.0,
+        "operating_cash_flow[2025]": 1205012000000.0,
+        "total_assets[2025]": 20379501000000.0,
+        "total_assets[2024]": 21046352000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0263733857212307
+      }
+    },
+    {
+      "symbol": "SMKL.JK",
+      "company_name": "PT Satyamitra Kemas Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 41514094713.0,
+        "operating_cash_flow[2025]": 103592726736.0,
+        "total_assets[2025]": 2602675568487.0,
+        "total_assets[2024]": 2056611243816.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0266472679291085
+      }
+    },
+    {
+      "symbol": "DAAZ.JK",
+      "company_name": "PT Daaz Bara Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 263732385425.0,
+        "operating_cash_flow[2025]": 423014970335.0,
+        "total_assets[2025]": 6318716272021.0,
+        "total_assets[2024]": 5134424189618.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0278146566775286
+      }
+    },
+    {
+      "symbol": "ESIP.JK",
+      "company_name": "PT Sinergi Inti Plastindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1438562543.0,
+        "operating_cash_flow[2025]": 4372262414.0,
+        "total_assets[2025]": 101078906904.0,
+        "total_assets[2024]": 101581124328.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0289519334736663
+      }
+    },
+    {
+      "symbol": "TRST.JK",
+      "company_name": "Trias Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -36829000000.0,
+        "operating_cash_flow[2025]": 121174000000.0,
+        "total_assets[2025]": 5448479000000.0,
+        "total_assets[2024]": 5344871000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0292778423751662
+      }
+    },
+    {
+      "symbol": "SULI.JK",
+      "company_name": "PT SLJ Global Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -60679759585.0,
+        "operating_cash_flow[2025]": -37182489413.0,
+        "total_assets[2025]": 768187614363.0,
+        "total_assets[2024]": 741096918261.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0311369654483218
+      }
+    },
+    {
+      "symbol": "SMBR.JK",
+      "company_name": "PT Semen Baturaja Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 171924896000.0,
+        "operating_cash_flow[2025]": 325413312000.0,
+        "total_assets[2025]": 4772580731000.0,
+        "total_assets[2024]": 4907686845000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0317116060676957
+      }
+    },
+    {
+      "symbol": "INKP.JK",
+      "company_name": "Indah Kiat Pulp & Paper Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 7587440668080.0,
+        "operating_cash_flow[2025]": 13897973120460.0,
+        "total_assets[2025]": 206651866622760.0,
+        "total_assets[2024]": 190281829164000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0317964058953067
+      }
+    },
+    {
+      "symbol": "SBMA.JK",
+      "company_name": "PT Surya Biru Murni Acetylene Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 11792189993.0,
+        "operating_cash_flow[2025]": 21337227936.0,
+        "total_assets[2025]": 290273064683.0,
+        "total_assets[2024]": 289976056809.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0328997928284898
+      }
+    },
+    {
+      "symbol": "TALF.JK",
+      "company_name": "PT Tunas Alfin Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 51840143728.0,
+        "operating_cash_flow[2025]": 115756808297.0,
+        "total_assets[2025]": 1862745930544.0,
+        "total_assets[2024]": 1835883981058.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0345623466508524
+      }
+    },
+    {
+      "symbol": "EKAD.JK",
+      "company_name": "Ekadharma International Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 53024734418.0,
+        "operating_cash_flow[2025]": 100232631465.0,
+        "total_assets[2025]": 1373500511717.0,
+        "total_assets[2024]": 1294783334986.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0353844641418725
+      }
+    },
+    {
+      "symbol": "ADMG.JK",
+      "company_name": "Polychem Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -44743352583.0,
+        "operating_cash_flow[2025]": 53102411003.0,
+        "total_assets[2025]": 2553392513605.0,
+        "total_assets[2024]": 2511568456586.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0386363346773471
+      }
+    },
+    {
+      "symbol": "SMLE.JK",
+      "company_name": "PT Sinergi Multi Lestarindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 255856800.0,
+        "operating_cash_flow[2025]": 8501927599.0,
+        "total_assets[2025]": 205701544805.0,
+        "total_assets[2024]": 215821427270.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0391251312278791
+      }
+    },
+    {
+      "symbol": "SMGR.JK",
+      "company_name": "Semen Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 190848000000.0,
+        "operating_cash_flow[2025]": 3724748000000.0,
+        "total_assets[2025]": 76568724000000.0,
+        "total_assets[2024]": 76993082000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.046025767631308
+      }
+    },
+    {
+      "symbol": "AGII.JK",
+      "company_name": "PT Samator Indo Gas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 58379000000.0,
+        "operating_cash_flow[2025]": 451376000000.0,
+        "total_assets[2025]": 8459645000000.0,
+        "total_assets[2024]": 8005185000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0477377537454076
+      }
+    },
+    {
+      "symbol": "INCO.JK",
+      "company_name": "Vale Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 1273025356980.0,
+        "operating_cash_flow[2025]": 3928465573500.0,
+        "total_assets[2025]": 55997634481620.0,
+        "total_assets[2024]": 51323162896000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0494860321839865
+      }
+    },
+    {
+      "symbol": "INTP.JK",
+      "company_name": "Indocement Tunggal Prakarsa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 2248781000000.0,
+        "operating_cash_flow[2025]": 3808146000000.0,
+        "total_assets[2025]": 31725343000000.0,
+        "total_assets[2024]": 30420006000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0501844474314562
+      }
+    },
+    {
+      "symbol": "MINE.JK",
+      "company_name": "PT Sinar Terang Mandiri Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 202029000000.0,
+        "operating_cash_flow[2025]": 295130000000.0,
+        "total_assets[2025]": 2077292000000.0,
+        "total_assets[2024]": 1614309000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0504393622170977
+      }
+    },
+    {
+      "symbol": "GGRP.JK",
+      "company_name": "PT Gunung Raja Paksi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -616506115044.0,
+        "operating_cash_flow[2025]": 97701662665.0,
+        "total_assets[2025]": 12127681444739.0,
+        "total_assets[2024]": 12808125248161.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0572837114519625
+      }
+    },
+    {
+      "symbol": "IGAR.JK",
+      "company_name": "Champion Pacific Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 59462535097.0,
+        "operating_cash_flow[2025]": 118059391668.0,
+        "total_assets[2025]": 1006967419168.0,
+        "total_assets[2024]": 971684549297.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0592290685829487
+      }
+    },
+    {
+      "symbol": "AKPI.JK",
+      "company_name": "Argha Karya Prima Ind. Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 12662908000.0,
+        "operating_cash_flow[2025]": 221235505000.0,
+        "total_assets[2025]": 3637136641000.0,
+        "total_assets[2024]": 3354191904000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.059666083679951
+      }
+    },
+    {
+      "symbol": "BRNA.JK",
+      "company_name": "Berlina Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 12566859000.0,
+        "operating_cash_flow[2025]": 145647178000.0,
+        "total_assets[2025]": 2248802550000.0,
+        "total_assets[2024]": 2186369531000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0600113441235382
+      }
+    },
+    {
+      "symbol": "IPOL.JK",
+      "company_name": "Indopoly Swakarsa Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 17612262215.0,
+        "operating_cash_flow[2025]": 392918892330.0,
+        "total_assets[2025]": 6424992851273.0,
+        "total_assets[2024]": 6007311275531.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0603760375047197
+      }
+    },
+    {
+      "symbol": "MDKA.JK",
+      "company_name": "PT Merdeka Copper Gold Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -1038691184680.0,
+        "operating_cash_flow[2025]": 4415987289244.0,
+        "total_assets[2025]": 95522016792650.0,
+        "total_assets[2024]": 84615241173788.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0605613578834455
+      }
+    },
+    {
+      "symbol": "FASW.JK",
+      "company_name": "Fajar Surya Wisesa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -1135954000000.0,
+        "operating_cash_flow[2025]": -370703000000.0,
+        "total_assets[2025]": 12229637000000.0,
+        "total_assets[2024]": 12661571000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0614876545967556
+      }
+    },
+    {
+      "symbol": "APLI.JK",
+      "company_name": "Asiaplast Industries Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 5635165158.0,
+        "operating_cash_flow[2025]": 39111700555.0,
+        "total_assets[2025]": 470635044033.0,
+        "total_assets[2024]": 464607373995.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0715890014218704
+      }
+    },
+    {
+      "symbol": "CMNT.JK",
+      "company_name": "PT Cemindo Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -150260000000.0,
+        "operating_cash_flow[2025]": 1116968000000.0,
+        "total_assets[2025]": 16520365000000.0,
+        "total_assets[2024]": 17104348000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0753747994815599
+      }
+    },
+    {
+      "symbol": "ISSP.JK",
+      "company_name": "PT Steel Pipe Industry of Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 534247000000.0,
+        "operating_cash_flow[2025]": 1205431000000.0,
+        "total_assets[2025]": 8796370000000.0,
+        "total_assets[2024]": 8295427000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0785387282566017
+      }
+    },
+    {
+      "symbol": "BLES.JK",
+      "company_name": "PT Superior Prima Sukses Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 83944824537.0,
+        "operating_cash_flow[2025]": 236343020361.0,
+        "total_assets[2025]": 2038211205893.0,
+        "total_assets[2024]": 1838051990503.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0786315005470702
+      }
+    },
+    {
+      "symbol": "BATR.JK",
+      "company_name": "PT Benteng Api Technic Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 13143612121.0,
+        "operating_cash_flow[2025]": 30203958159.0,
+        "total_assets[2025]": 220399671652.0,
+        "total_assets[2024]": 210998978222.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0790931823406627
+      }
+    },
+    {
+      "symbol": "TIRT.JK",
+      "company_name": "Tirta Mahakam Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -41344315329.0,
+        "operating_cash_flow[2025]": -19432178672.0,
+        "total_assets[2025]": 369335914768.0,
+        "total_assets[2024]": 179887349304.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0797931846314778
+      }
+    },
+    {
+      "symbol": "ZINC.JK",
+      "company_name": "PT Kapuas Prima Coal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -243304588426.0,
+        "operating_cash_flow[2025]": -42168298711.0,
+        "total_assets[2025]": 2368716035742.0,
+        "total_assets[2024]": 2419623796784.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0840108667094726
+      }
+    },
+    {
+      "symbol": "PSAB.JK",
+      "company_name": "J Resources Asia Pasifik Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 606692835725.0,
+        "operating_cash_flow[2025]": 1931762534904.0,
+        "total_assets[2025]": 13733028454732.0,
+        "total_assets[2024]": 14003450677205.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0955470730712361
+      }
+    },
+    {
+      "symbol": "ESSA.JK",
+      "company_name": "ESSA Industries Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 674329262163.0,
+        "operating_cash_flow[2025]": 1740900376640.0,
+        "total_assets[2025]": 10821095786701.0,
+        "total_assets[2024]": 11207717638620.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0968341865614088
+      }
+    },
+    {
+      "symbol": "OKAS.JK",
+      "company_name": "Ancora Indonesia Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -31050685617.0,
+        "operating_cash_flow[2025]": 254886930119.0,
+        "total_assets[2025]": 2592208063102.0,
+        "total_assets[2024]": 2845476822417.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.10516888041728
+      }
+    },
+    {
+      "symbol": "KDSI.JK",
+      "company_name": "Kedawung Setia Industrial Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 32339637287.0,
+        "operating_cash_flow[2025]": 158243489030.0,
+        "total_assets[2025]": 1210806927973.0,
+        "total_assets[2024]": 1132009903123.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.107480747168869
+      }
+    },
+    {
+      "symbol": "OPMS.JK",
+      "company_name": "PT Optima Prima Metal Sinergi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -6581056435.0,
+        "operating_cash_flow[2025]": 2125929683.0,
+        "total_assets[2025]": 74170070000.0,
+        "total_assets[2024]": 80023077233.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.112936097021782
+      }
+    },
+    {
+      "symbol": "WSBP.JK",
+      "company_name": "PT Waskita Beton Precast Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -537369571470.0,
+        "operating_cash_flow[2025]": -144337923933.0,
+        "total_assets[2025]": 3055541012048.0,
+        "total_assets[2024]": 3618630656515.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.117776906874684
+      }
+    },
+    {
+      "symbol": "IFII.JK",
+      "company_name": "PT Indonesia Fibreboard Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 183450503516.0,
+        "operating_cash_flow[2025]": 394686408170.0,
+        "total_assets[2025]": 1705951146396.0,
+        "total_assets[2024]": 1753404635182.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.122124417372095
+      }
+    },
+    {
+      "symbol": "UNIC.JK",
+      "company_name": "Unggul Indah Cahaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 618939696746.0,
+        "operating_cash_flow[2025]": 1345587233288.0,
+        "total_assets[2025]": 6141367092966.0,
+        "total_assets[2024]": 5516764704694.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.124659344936871
+      }
+    },
+    {
+      "symbol": "YPAS.JK",
+      "company_name": "Yanaprima Hastapersada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 5501207273.0,
+        "operating_cash_flow[2025]": 41477811196.0,
+        "total_assets[2025]": 263022631306.0,
+        "total_assets[2024]": 296772506421.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.128534892493279
+      }
+    },
+    {
+      "symbol": "PNGO.JK",
+      "company_name": "PT Pinago Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 321630087077.0,
+        "operating_cash_flow[2025]": 553860773724.0,
+        "total_assets[2025]": 1745523186581.0,
+        "total_assets[2024]": 1763677465138.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.132355319456151
+      }
+    },
+    {
+      "symbol": "SPMA.JK",
+      "company_name": "Suparma Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 106230536169.0,
+        "operating_cash_flow[2025]": 583287054421.0,
+        "total_assets[2025]": 3661123775579.0,
+        "total_assets[2024]": 3392686914315.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.135262070170236
+      }
+    },
+    {
+      "symbol": "EPAC.JK",
+      "company_name": "PT Megalestari Epack Sentosaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -3280702149.0,
+        "operating_cash_flow[2025]": 32375202363.0,
+        "total_assets[2025]": 259561964491.0,
+        "total_assets[2024]": 266614100488.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.13552841676074
+      }
+    },
+    {
+      "symbol": "NICL.JK",
+      "company_name": "PT PAM Mineral Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 344454664133.0,
+        "operating_cash_flow[2025]": 481158126684.0,
+        "total_assets[2025]": 873053950742.0,
+        "total_assets[2024]": 1050106851230.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.142165400221162
+      }
+    },
+    {
+      "symbol": "INAI.JK",
+      "company_name": "Indal Aluminium Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -108355048625.0,
+        "operating_cash_flow[2025]": 90165657648.0,
+        "total_assets[2025]": 1198228261692.0,
+        "total_assets[2024]": 1241083094623.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.162767828517717
+      }
+    },
+    {
+      "symbol": "SRSN.JK",
+      "company_name": "Indo Acidatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 77352138000.0,
+        "operating_cash_flow[2025]": 255837993000.0,
+        "total_assets[2025]": 1052410486000.0,
+        "total_assets[2024]": 1135428989000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.163161746590206
+      }
+    },
+    {
+      "symbol": "FPNI.JK",
+      "company_name": "PT Lotte Chemical Titan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 71163427920.0,
+        "operating_cash_flow[2025]": 565876449060.0,
+        "total_assets[2025]": 2875892867640.0,
+        "total_assets[2024]": 2616044498000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.180159746261909
+      }
+    },
+    {
+      "symbol": "AYLS.JK",
+      "company_name": "PT Agro Yasa Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -7192930591.0,
+        "operating_cash_flow[2025]": 694465913.0,
+        "total_assets[2025]": 34489614866.0,
+        "total_assets[2024]": 42486532427.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.204930924224555
+      }
+    },
+    {
+      "symbol": "MOLI.JK",
+      "company_name": "PT Madusari Murni Indah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 75455816000.0,
+        "operating_cash_flow[2025]": 446870557000.0,
+        "total_assets[2025]": 1614059668000.0,
+        "total_assets[2024]": 1932495722000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.209450974343869
+      }
+    },
+    {
+      "symbol": "KMTR.JK",
+      "company_name": "PT Kirana Megatara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 185107494108.0,
+        "operating_cash_flow[2025]": 1315565392477.0,
+        "total_assets[2025]": 4527351995671.0,
+        "total_assets[2024]": 5603673083158.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.223167525412871
+      }
+    },
+    {
+      "symbol": "CTBN.JK",
+      "company_name": "Citra Tubindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 364505973228.0,
+        "operating_cash_flow[2025]": 1122106755717.0,
+        "total_assets[2025]": 2907718099889.0,
+        "total_assets[2024]": 3209152699635.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.247708610274376
+      }
+    },
+    {
+      "symbol": "PTMR.JK",
+      "company_name": "PT Master Print Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -25951998743.0,
+        "operating_cash_flow[2025]": 9266496573.0,
+        "total_assets[2025]": 120853370450.0,
+        "total_assets[2024]": 159592481737.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.251160750222232
+      }
+    },
+    {
+      "symbol": "NICE.JK",
+      "company_name": "PT Adhi Kartiko Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": -26742585607.0,
+        "operating_cash_flow[2025]": 125504987602.0,
+        "total_assets[2025]": 678884414952.0,
+        "total_assets[2024]": 409010604493.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.279893869330647
+      }
+    },
+    {
+      "symbol": "ETWA.JK",
+      "company_name": "Eterindo Wahanatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "SWAT.JK",
+      "company_name": "PT Sriwahana Adityakarta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "SIMA.JK",
+      "company_name": "Siwani Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "TDPM.JK",
+      "company_name": "PT Tianrong Chemicals Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "PURE.JK",
+      "company_name": "PT Trinitan Metals and Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "NPGF.JK",
+      "company_name": "PT Nusa Palapa Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 315037103803.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "MDKI.JK",
+      "company_name": "PT Emdeki Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 34412000000.0,
+        "operating_cash_flow[2025]": 97419000000.0,
+        "total_assets[2025]": 1058179000000.0,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "KBRI.JK",
+      "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "KAYU.JK",
+      "company_name": "PT Darmi Bersaudara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "ASPR.JK",
+      "company_name": "PT Asia Pramulia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 8745029074.0,
+        "operating_cash_flow[2025]": 12909699592.0,
+        "total_assets[2025]": 328940581674.0,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "INRU.JK",
+      "company_name": "Toba Pulp Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 7500693366000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "BEBS.JK",
+      "company_name": "PT Berkah Beton Sadaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "INCI.JK",
+      "company_name": "Intanwijaya Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": 25928980680.0,
+        "operating_cash_flow[2025]": 44613754247.0,
+        "total_assets[2025]": 559125838568.0,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "INCF.JK",
+      "company_name": "PT Indo Komoditi Korpora Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 437702018879.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "HKMU.JK",
+      "company_name": "PT HK Metals Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "DPNS.JK",
+      "company_name": "Duta Pertiwi Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 358002002817.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 114,
+    "showing": 114,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

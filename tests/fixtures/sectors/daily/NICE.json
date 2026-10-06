@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-06-24",
+    "close": 258,
+    "open": 258,
+    "high": 262,
+    "low": 254,
+    "volume": 73700,
+    "market_cap": 1569161160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-06-25",
+    "close": 254,
+    "open": 260,
+    "high": 268,
+    "low": 252,
+    "volume": 394300,
+    "market_cap": 1544833080000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-06-26",
+    "close": 246,
+    "open": 260,
+    "high": 260,
+    "low": 246,
+    "volume": 202500,
+    "market_cap": 1496176920000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-06-29",
+    "close": 238,
+    "open": 260,
+    "high": 266,
+    "low": 234,
+    "volume": 270200,
+    "market_cap": 1447520760000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-06-30",
+    "close": 250,
+    "open": 238,
+    "high": 266,
+    "low": 232,
+    "volume": 203900,
+    "market_cap": 1520505000000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-01",
+    "close": 248,
+    "open": 250,
+    "high": 254,
+    "low": 240,
+    "volume": 212000,
+    "market_cap": 1508340960000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-02",
+    "close": 250,
+    "open": 246,
+    "high": 260,
+    "low": 230,
+    "volume": 208500,
+    "market_cap": 1520505000000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-03",
+    "close": 258,
+    "open": 250,
+    "high": 260,
+    "low": 250,
+    "volume": 397800,
+    "market_cap": 1569161160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-06",
+    "close": 256,
+    "open": 258,
+    "high": 258,
+    "low": 254,
+    "volume": 131600,
+    "market_cap": 1556997120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-07",
+    "close": 258,
+    "open": 256,
+    "high": 258,
+    "low": 250,
+    "volume": 92500,
+    "market_cap": 1569161160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-08",
+    "close": 252,
+    "open": 254,
+    "high": 270,
+    "low": 242,
+    "volume": 567200,
+    "market_cap": 1532669040000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-09",
+    "close": 256,
+    "open": 258,
+    "high": 258,
+    "low": 246,
+    "volume": 218700,
+    "market_cap": 1556997120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-10",
+    "close": 256,
+    "open": 256,
+    "high": 260,
+    "low": 254,
+    "volume": 368400,
+    "market_cap": 1556997120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-13",
+    "close": 256,
+    "open": 260,
+    "high": 264,
+    "low": 256,
+    "volume": 32100,
+    "market_cap": 1556997120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-14",
+    "close": 270,
+    "open": 264,
+    "high": 282,
+    "low": 262,
+    "volume": 679100,
+    "market_cap": 1642145400000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-15",
+    "close": 272,
+    "open": 270,
+    "high": 278,
+    "low": 260,
+    "volume": 112000,
+    "market_cap": 1654309440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-16",
+    "close": 272,
+    "open": 272,
+    "high": 280,
+    "low": 256,
+    "volume": 953400,
+    "market_cap": 1654309440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-17",
+    "close": 248,
+    "open": 264,
+    "high": 272,
+    "low": 248,
+    "volume": 2993400,
+    "market_cap": 1508340960000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-20",
+    "close": 250,
+    "open": 254,
+    "high": 260,
+    "low": 246,
+    "volume": 1611200,
+    "market_cap": 1520505000000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-21",
+    "close": 254,
+    "open": 260,
+    "high": 260,
+    "low": 250,
+    "volume": 2295100,
+    "market_cap": 1544833080000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-22",
+    "close": 252,
+    "open": 254,
+    "high": 258,
+    "low": 250,
+    "volume": 3230300,
+    "market_cap": 1532669040000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-23",
+    "close": 248,
+    "open": 252,
+    "high": 254,
+    "low": 246,
+    "volume": 4797600,
+    "market_cap": 1508340960000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-24",
+    "close": 250,
+    "open": 248,
+    "high": 250,
+    "low": 240,
+    "volume": 2651600,
+    "market_cap": 1520505000000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-27",
+    "close": 246,
+    "open": 252,
+    "high": 252,
+    "low": 240,
+    "volume": 874300,
+    "market_cap": 1496176920000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-28",
+    "close": 248,
+    "open": 246,
+    "high": 250,
+    "low": 242,
+    "volume": 356100,
+    "market_cap": 1508340960000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-29",
+    "close": 244,
+    "open": 250,
+    "high": 252,
+    "low": 240,
+    "volume": 1723100,
+    "market_cap": 1484012880000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-30",
+    "close": 250,
+    "open": 246,
+    "high": 252,
+    "low": 244,
+    "volume": 755300,
+    "market_cap": 1520505000000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-07-31",
+    "close": 252,
+    "open": 252,
+    "high": 256,
+    "low": 244,
+    "volume": 977600,
+    "market_cap": 1532669040000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-03",
+    "close": 252,
+    "open": 252,
+    "high": 252,
+    "low": 248,
+    "volume": 329400,
+    "market_cap": 1532669040000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-04",
+    "close": 260,
+    "open": 252,
+    "high": 260,
+    "low": 250,
+    "volume": 1511800,
+    "market_cap": 1581325200000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-05",
+    "close": 272,
+    "open": 262,
+    "high": 280,
+    "low": 258,
+    "volume": 4156800,
+    "market_cap": 1654309440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-06",
+    "close": 264,
+    "open": 274,
+    "high": 274,
+    "low": 260,
+    "volume": 1623200,
+    "market_cap": 1605653280000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-07",
+    "close": 264,
+    "open": 264,
+    "high": 266,
+    "low": 260,
+    "volume": 505800,
+    "market_cap": 1605653280000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-10",
+    "close": 260,
+    "open": 264,
+    "high": 272,
+    "low": 258,
+    "volume": 821000,
+    "market_cap": 1581325200000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-11",
+    "close": 248,
+    "open": 262,
+    "high": 262,
+    "low": 246,
+    "volume": 1612400,
+    "market_cap": 1508340960000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-12",
+    "close": 256,
+    "open": 250,
+    "high": 256,
+    "low": 246,
+    "volume": 474800,
+    "market_cap": 1556997120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-13",
+    "close": 252,
+    "open": 256,
+    "high": 258,
+    "low": 250,
+    "volume": 332700,
+    "market_cap": 1532669040000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-14",
+    "close": 258,
+    "open": 256,
+    "high": 258,
+    "low": 250,
+    "volume": 246600,
+    "market_cap": 1569161160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-18",
+    "close": 262,
+    "open": 256,
+    "high": 262,
+    "low": 246,
+    "volume": 1756800,
+    "market_cap": 1593489240000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-19",
+    "close": 260,
+    "open": 262,
+    "high": 262,
+    "low": 254,
+    "volume": 518300,
+    "market_cap": 1581325200000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-20",
+    "close": 270,
+    "open": 266,
+    "high": 276,
+    "low": 264,
+    "volume": 1913400,
+    "market_cap": 1642145400000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-21",
+    "close": 270,
+    "open": 276,
+    "high": 280,
+    "low": 270,
+    "volume": 1737900,
+    "market_cap": 1642145400000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-24",
+    "close": 272,
+    "open": 278,
+    "high": 278,
+    "low": 268,
+    "volume": 1252500,
+    "market_cap": 1654309440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-26",
+    "close": 340,
+    "open": 296,
+    "high": 340,
+    "low": 296,
+    "volume": 16680600,
+    "market_cap": 2067886800000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-27",
+    "close": 388,
+    "open": 390,
+    "high": 420,
+    "low": 376,
+    "volume": 59766400,
+    "market_cap": 2359823760000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-28",
+    "close": 384,
+    "open": 394,
+    "high": 406,
+    "low": 380,
+    "volume": 11139600,
+    "market_cap": 2335495680000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-08-31",
+    "close": 356,
+    "open": 384,
+    "high": 388,
+    "low": 348,
+    "volume": 7382500,
+    "market_cap": 2165199120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-01",
+    "close": 346,
+    "open": 356,
+    "high": 366,
+    "low": 340,
+    "volume": 6309800,
+    "market_cap": 2104378920000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-02",
+    "close": 336,
+    "open": 344,
+    "high": 346,
+    "low": 318,
+    "volume": 3142500,
+    "market_cap": 2043558720000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-03",
+    "close": 372,
+    "open": 338,
+    "high": 394,
+    "low": 324,
+    "volume": 21318500,
+    "market_cap": 2262511440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-04",
+    "close": 378,
+    "open": 378,
+    "high": 388,
+    "low": 362,
+    "volume": 7635600,
+    "market_cap": 2299003560000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-07",
+    "close": 372,
+    "open": 378,
+    "high": 386,
+    "low": 370,
+    "volume": 1641700,
+    "market_cap": 2262511440000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-08",
+    "close": 356,
+    "open": 372,
+    "high": 378,
+    "low": 352,
+    "volume": 3161100,
+    "market_cap": 2165199120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-09",
+    "close": 382,
+    "open": 360,
+    "high": 406,
+    "low": 344,
+    "volume": 22008200,
+    "market_cap": 2323331640000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-10",
+    "close": 368,
+    "open": 386,
+    "high": 390,
+    "low": 368,
+    "volume": 6152600,
+    "market_cap": 2238183360000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-11",
+    "close": 364,
+    "open": 346,
+    "high": 368,
+    "low": 346,
+    "volume": 2410100,
+    "market_cap": 2213855280000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-14",
+    "close": 356,
+    "open": 364,
+    "high": 364,
+    "low": 350,
+    "volume": 1160200,
+    "market_cap": 2165199120000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-15",
+    "close": 364,
+    "open": 356,
+    "high": 380,
+    "low": 352,
+    "volume": 1938700,
+    "market_cap": 2213855280000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-16",
+    "close": 358,
+    "open": 364,
+    "high": 364,
+    "low": 354,
+    "volume": 912000,
+    "market_cap": 2177363160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-17",
+    "close": 358,
+    "open": 358,
+    "high": 366,
+    "low": 348,
+    "volume": 1524600,
+    "market_cap": 2177363160000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-18",
+    "close": 362,
+    "open": 364,
+    "high": 370,
+    "low": 358,
+    "volume": 1728500,
+    "market_cap": 2201691240000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-21",
+    "close": 368,
+    "open": 360,
+    "high": 374,
+    "low": 358,
+    "volume": 1492700,
+    "market_cap": 2238183360000
+  },
+  {
+    "symbol": "NICE.JK",
+    "date": "2026-09-22",
+    "close": 360,
+    "open": 374,
+    "high": 374,
+    "low": 360,
+    "volume": 1189100,
+    "market_cap": 2189527200000
+  }
+]

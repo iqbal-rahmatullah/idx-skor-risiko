@@ -1,0 +1,94 @@
+{
+  "symbol": "CASH.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-02-21",
+        "agm_time": "10:00:00",
+        "agm_place": "Victory 3 Ballroom Hotel Ciputra Jakartajl. Letjen S. Parman Jakarta 11470, DKI Jakarta, kota Adm. Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-05-31",
+        "agm_time": "10:00:00",
+        "agm_place": "Victory 3 Ballroom Hotel Ciputra Jakartajl. Letjen S. Parman Jakarta 11470, DKI Jakarta, kota Adm. Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-09-19",
+        "agm_time": "10:00:00",
+        "agm_place": "Pt Cashlez Worldwide Indonesia Tbkgarden Shopping Arcade Blok Beadufort No. 8Batanjung Duren Selatan, Grogol Petamburanjakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-03-08",
+        "agm_time": "10:00:00",
+        "agm_place": "Ruang Sriwijaya, Lt.2, Hotel Grand Tjokro Jl. Daan Mogot No.63 Tanjung Duren Utara, Grogol Petamburan, Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-04-12",
+        "agm_time": "10:00:00",
+        "agm_place": "Dibatalkanruang Sriwijaya, Lt.2, Hotel Grand Tjokro Jl. Daan Mogot No.63 Tanjung Duren Utara, Grogol Petamburan, Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-06-26",
+        "agm_time": "10:00:00",
+        "agm_place": "Hotel Grand Tjokro Lantai 2, Ruang Sriwijaya Jl. Daan Mogot No.63, Tanjung Duren Utaragrogol Petamburan, Jakarta Barat Kota Adm. Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-04-18",
+        "agm_time": "16:00:00",
+        "agm_place": "Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-05-31",
+        "agm_time": "09:00:00",
+        "agm_place": "Hotel Santika Premiere Slipijl. K. S. Tubun No.7 Slipi Kec. Palmerah Jakarta Barat",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-01-09",
+        "agm_time": "10:00:00",
+        "agm_place": "Ruang Mt. Bromo, Gedung Atria @Sudirman, Lt. 5, Jl. Jenderal Sudirman Kav. 33A Kel. Karettengsin, Kec. Tanah Abang, Jakarta Pusat 10220 (Pada Saat Bersamaan Juga Dilakukan Viadaring)",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-05-28",
+        "agm_time": "10:00:00",
+        "agm_place": "Gedung Atria @Sudirman Lantai 5, Jalan Jenderal Sudirman Kav. 33A Kelurahan Karettengsin, Kecamatan Tanah Abang Jakarta Pusat 10220 Kota Adm. Jakarta Pusat Dki. Jakarta",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-03-12",
+        "agm_time": "11:05:00",
+        "agm_place": "Ruang Mt. Bromo, Gedung Atria @Sudirman, Lt. 5, Jl. Jenderal Sudirman Kav. 33A, Karettengsin, Tanah Abang, Jakarta Pusat 10220",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-10-08",
+        "agm_time": "10:00:00",
+        "agm_place": "Ruang Brass Ballroom, Thamrin Nine Complex, LT. GF, JL. M. H. Thamrin, No.10, Jakarta Pusat10230",
+        "agm_result": null
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": null,
+    "right_issue": [
+      {
+        "price": 238,
+        "ex_date": "2026-07-09",
+        "new_ratio": 117,
+        "old_ratio": 168,
+        "trading_period_end": "2026-07-20",
+        "trading_period_start": "2026-07-14"
+      }
+    ],
+    "stock_split": null,
+    "upcoming_dividend": null
+  }
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-06-24",
+    "close": 1070,
+    "open": 1070,
+    "high": 1100,
+    "low": 1070,
+    "volume": 3400,
+    "market_cap": 438700000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-06-25",
+    "close": 1070,
+    "open": 1070,
+    "high": 1070,
+    "low": 1070,
+    "volume": 200,
+    "market_cap": 438700000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-06-26",
+    "close": 1105,
+    "open": 1070,
+    "high": 1115,
+    "low": 1070,
+    "volume": 13600,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-06-29",
+    "close": 1075,
+    "open": 1105,
+    "high": 1105,
+    "low": 1075,
+    "volume": 10900,
+    "market_cap": 440750000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-06-30",
+    "close": 1075,
+    "open": 1075,
+    "high": 1075,
+    "low": 1075,
+    "volume": 3400,
+    "market_cap": 440750000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-01",
+    "close": 1070,
+    "open": 1075,
+    "high": 1075,
+    "low": 1070,
+    "volume": 1300,
+    "market_cap": 438700000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-02",
+    "close": 1080,
+    "open": 1075,
+    "high": 1080,
+    "low": 1075,
+    "volume": 1100,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-03",
+    "close": 1100,
+    "open": 1060,
+    "high": 1105,
+    "low": 1060,
+    "volume": 1900,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-06",
+    "close": 1095,
+    "open": 1060,
+    "high": 1095,
+    "low": 1050,
+    "volume": 17700,
+    "market_cap": 448950000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-07",
+    "close": 1080,
+    "open": 1090,
+    "high": 1100,
+    "low": 1060,
+    "volume": 36700,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-08",
+    "close": 1090,
+    "open": 1080,
+    "high": 1095,
+    "low": 1060,
+    "volume": 15400,
+    "market_cap": 446900000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-09",
+    "close": 1100,
+    "open": 1090,
+    "high": 1130,
+    "low": 1070,
+    "volume": 159900,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-10",
+    "close": 1105,
+    "open": 1100,
+    "high": 1105,
+    "low": 1075,
+    "volume": 4300,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-13",
+    "close": 1070,
+    "open": 1125,
+    "high": 1125,
+    "low": 1070,
+    "volume": 200,
+    "market_cap": 438700000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-14",
+    "close": 1105,
+    "open": 1110,
+    "high": 1110,
+    "low": 1075,
+    "volume": 2900,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-15",
+    "close": 1080,
+    "open": 1105,
+    "high": 1130,
+    "low": 1075,
+    "volume": 2700,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-16",
+    "close": 1080,
+    "open": 1080,
+    "high": 1080,
+    "low": 1080,
+    "volume": 100,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-17",
+    "close": 1090,
+    "open": 1090,
+    "high": 1090,
+    "low": 1090,
+    "volume": 300,
+    "market_cap": 446900000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-20",
+    "close": 1100,
+    "open": 1080,
+    "high": 1100,
+    "low": 1080,
+    "volume": 2000,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-21",
+    "close": 1105,
+    "open": 1100,
+    "high": 1105,
+    "low": 1100,
+    "volume": 300,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-22",
+    "close": 1100,
+    "open": 1115,
+    "high": 1115,
+    "low": 1080,
+    "volume": 3500,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-23",
+    "close": 1090,
+    "open": 1110,
+    "high": 1165,
+    "low": 1090,
+    "volume": 23500,
+    "market_cap": 446900000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-24",
+    "close": 1090,
+    "open": 1100,
+    "high": 1115,
+    "low": 1090,
+    "volume": 12100,
+    "market_cap": 446900000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-27",
+    "close": 1100,
+    "open": 1085,
+    "high": 1110,
+    "low": 1080,
+    "volume": 12700,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-28",
+    "close": 1080,
+    "open": 1090,
+    "high": 1095,
+    "low": 1080,
+    "volume": 32800,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-29",
+    "close": 1105,
+    "open": 1085,
+    "high": 1105,
+    "low": 1085,
+    "volume": 14100,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-30",
+    "close": 1095,
+    "open": 1105,
+    "high": 1110,
+    "low": 1090,
+    "volume": 21700,
+    "market_cap": 448950000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-07-31",
+    "close": 1095,
+    "open": 1095,
+    "high": 1095,
+    "low": 1095,
+    "volume": 0,
+    "market_cap": 448950000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-03",
+    "close": 1105,
+    "open": 1070,
+    "high": 1105,
+    "low": 1060,
+    "volume": 33300,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-04",
+    "close": 1105,
+    "open": 1105,
+    "high": 1105,
+    "low": 1080,
+    "volume": 2400,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-05",
+    "close": 1100,
+    "open": 1100,
+    "high": 1100,
+    "low": 1100,
+    "volume": 1400,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-06",
+    "close": 1095,
+    "open": 1060,
+    "high": 1105,
+    "low": 1060,
+    "volume": 2000,
+    "market_cap": 448950000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-07",
+    "close": 1100,
+    "open": 1100,
+    "high": 1105,
+    "low": 1090,
+    "volume": 1100,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-10",
+    "close": 1105,
+    "open": 1080,
+    "high": 1105,
+    "low": 1080,
+    "volume": 1400,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-11",
+    "close": 1080,
+    "open": 1105,
+    "high": 1105,
+    "low": 1080,
+    "volume": 1200,
+    "market_cap": 442800000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-12",
+    "close": 1105,
+    "open": 1080,
+    "high": 1105,
+    "low": 1080,
+    "volume": 1500,
+    "market_cap": 453050000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-13",
+    "close": 1100,
+    "open": 1085,
+    "high": 1100,
+    "low": 1080,
+    "volume": 95700,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-14",
+    "close": 1110,
+    "open": 1100,
+    "high": 1110,
+    "low": 1085,
+    "volume": 107000,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-18",
+    "close": 1090,
+    "open": 1105,
+    "high": 1110,
+    "low": 1090,
+    "volume": 112400,
+    "market_cap": 446900000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-19",
+    "close": 1095,
+    "open": 1105,
+    "high": 1105,
+    "low": 1095,
+    "volume": 11200,
+    "market_cap": 448950000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-20",
+    "close": 1110,
+    "open": 1090,
+    "high": 1110,
+    "low": 1090,
+    "volume": 10500,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-21",
+    "close": 1110,
+    "open": 1110,
+    "high": 1115,
+    "low": 1110,
+    "volume": 11000,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-24",
+    "close": 1110,
+    "open": 1110,
+    "high": 1125,
+    "low": 1110,
+    "volume": 7600,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-26",
+    "close": 1110,
+    "open": 1110,
+    "high": 1120,
+    "low": 1100,
+    "volume": 15200,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-27",
+    "close": 1120,
+    "open": 1110,
+    "high": 1125,
+    "low": 1110,
+    "volume": 2200,
+    "market_cap": 459200000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-28",
+    "close": 1120,
+    "open": 1110,
+    "high": 1120,
+    "low": 1110,
+    "volume": 1600,
+    "market_cap": 459200000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-08-31",
+    "close": 1120,
+    "open": 1120,
+    "high": 1120,
+    "low": 1100,
+    "volume": 11800,
+    "market_cap": 459200000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-01",
+    "close": 1125,
+    "open": 1120,
+    "high": 1130,
+    "low": 1100,
+    "volume": 3600,
+    "market_cap": 461250000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-02",
+    "close": 1100,
+    "open": 1095,
+    "high": 1120,
+    "low": 1095,
+    "volume": 3700,
+    "market_cap": 451000000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-03",
+    "close": 1120,
+    "open": 1120,
+    "high": 1120,
+    "low": 1110,
+    "volume": 5700,
+    "market_cap": 459200000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-04",
+    "close": 1110,
+    "open": 1125,
+    "high": 1135,
+    "low": 1110,
+    "volume": 2000,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-07",
+    "close": 1130,
+    "open": 1115,
+    "high": 1130,
+    "low": 1110,
+    "volume": 39800,
+    "market_cap": 463300000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-08",
+    "close": 1130,
+    "open": 1130,
+    "high": 1135,
+    "low": 1120,
+    "volume": 4800,
+    "market_cap": 463300000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-09",
+    "close": 1135,
+    "open": 1130,
+    "high": 1140,
+    "low": 1125,
+    "volume": 11600,
+    "market_cap": 465350000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-10",
+    "close": 1115,
+    "open": 1135,
+    "high": 1135,
+    "low": 1115,
+    "volume": 3500,
+    "market_cap": 457150000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-11",
+    "close": 1130,
+    "open": 1130,
+    "high": 1130,
+    "low": 1120,
+    "volume": 2400,
+    "market_cap": 463300000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-14",
+    "close": 1125,
+    "open": 1135,
+    "high": 1140,
+    "low": 1120,
+    "volume": 5900,
+    "market_cap": 461250000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-15",
+    "close": 1140,
+    "open": 1125,
+    "high": 1150,
+    "low": 1125,
+    "volume": 8300,
+    "market_cap": 467400000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-16",
+    "close": 1125,
+    "open": 1130,
+    "high": 1130,
+    "low": 1125,
+    "volume": 2300,
+    "market_cap": 461250000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-17",
+    "close": 1125,
+    "open": 1125,
+    "high": 1125,
+    "low": 1125,
+    "volume": 3800,
+    "market_cap": 461250000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-18",
+    "close": 1110,
+    "open": 1125,
+    "high": 1130,
+    "low": 1080,
+    "volume": 8700,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-21",
+    "close": 1110,
+    "open": 1110,
+    "high": 1110,
+    "low": 1110,
+    "volume": 1500,
+    "market_cap": 455100000000
+  },
+  {
+    "symbol": "GDYR.JK",
+    "date": "2026-09-22",
+    "close": 1085,
+    "open": 1115,
+    "high": 1115,
+    "low": 1085,
+    "volume": 27200,
+    "market_cap": 444850000000
+  }
+]

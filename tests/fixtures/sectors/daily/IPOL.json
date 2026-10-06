@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-06-24",
+    "close": 106,
+    "open": 108,
+    "high": 109,
+    "low": 106,
+    "volume": 227400,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-06-25",
+    "close": 105,
+    "open": 106,
+    "high": 109,
+    "low": 104,
+    "volume": 350700,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-06-26",
+    "close": 106,
+    "open": 106,
+    "high": 107,
+    "low": 105,
+    "volume": 150800,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-06-29",
+    "close": 102,
+    "open": 106,
+    "high": 109,
+    "low": 101,
+    "volume": 633000,
+    "market_cap": 657224709918
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-06-30",
+    "close": 102,
+    "open": 102,
+    "high": 103,
+    "low": 101,
+    "volume": 94000,
+    "market_cap": 657224709918
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-01",
+    "close": 103,
+    "open": 103,
+    "high": 106,
+    "low": 102,
+    "volume": 214700,
+    "market_cap": 663668089427
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-02",
+    "close": 103,
+    "open": 103,
+    "high": 106,
+    "low": 102,
+    "volume": 212100,
+    "market_cap": 663668089427
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-03",
+    "close": 105,
+    "open": 105,
+    "high": 105,
+    "low": 101,
+    "volume": 440600,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-06",
+    "close": 109,
+    "open": 104,
+    "high": 110,
+    "low": 102,
+    "volume": 311600,
+    "market_cap": 702328366481
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-07",
+    "close": 108,
+    "open": 109,
+    "high": 109,
+    "low": 107,
+    "volume": 99300,
+    "market_cap": 695884986972
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-08",
+    "close": 105,
+    "open": 109,
+    "high": 109,
+    "low": 105,
+    "volume": 227700,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-09",
+    "close": 107,
+    "open": 105,
+    "high": 108,
+    "low": 104,
+    "volume": 72200,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-10",
+    "close": 107,
+    "open": 107,
+    "high": 108,
+    "low": 104,
+    "volume": 228400,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-13",
+    "close": 106,
+    "open": 107,
+    "high": 107,
+    "low": 105,
+    "volume": 75900,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-14",
+    "close": 107,
+    "open": 106,
+    "high": 107,
+    "low": 105,
+    "volume": 233700,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-15",
+    "close": 107,
+    "open": 106,
+    "high": 107,
+    "low": 105,
+    "volume": 50200,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-16",
+    "close": 106,
+    "open": 106,
+    "high": 107,
+    "low": 105,
+    "volume": 236100,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-17",
+    "close": 106,
+    "open": 106,
+    "high": 108,
+    "low": 105,
+    "volume": 421900,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-20",
+    "close": 107,
+    "open": 106,
+    "high": 108,
+    "low": 106,
+    "volume": 51000,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-21",
+    "close": 105,
+    "open": 107,
+    "high": 107,
+    "low": 105,
+    "volume": 269900,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-22",
+    "close": 106,
+    "open": 106,
+    "high": 114,
+    "low": 102,
+    "volume": 2602400,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-23",
+    "close": 105,
+    "open": 108,
+    "high": 108,
+    "low": 104,
+    "volume": 729800,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-24",
+    "close": 105,
+    "open": 105,
+    "high": 109,
+    "low": 104,
+    "volume": 919700,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-27",
+    "close": 106,
+    "open": 107,
+    "high": 107,
+    "low": 104,
+    "volume": 150500,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-28",
+    "close": 105,
+    "open": 107,
+    "high": 108,
+    "low": 105,
+    "volume": 377900,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-29",
+    "close": 105,
+    "open": 105,
+    "high": 107,
+    "low": 104,
+    "volume": 376500,
+    "market_cap": 676554848445
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-30",
+    "close": 107,
+    "open": 105,
+    "high": 107,
+    "low": 105,
+    "volume": 197000,
+    "market_cap": 689441607463
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-07-31",
+    "close": 106,
+    "open": 107,
+    "high": 108,
+    "low": 105,
+    "volume": 218900,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-03",
+    "close": 106,
+    "open": 106,
+    "high": 108,
+    "low": 106,
+    "volume": 305100,
+    "market_cap": 682998227954
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-04",
+    "close": 108,
+    "open": 108,
+    "high": 110,
+    "low": 107,
+    "volume": 732700,
+    "market_cap": 695884986972
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-05",
+    "close": 109,
+    "open": 108,
+    "high": 111,
+    "low": 108,
+    "volume": 671600,
+    "market_cap": 702328366481
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-06",
+    "close": 115,
+    "open": 118,
+    "high": 136,
+    "low": 110,
+    "volume": 69148900,
+    "market_cap": 740988643535
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-07",
+    "close": 113,
+    "open": 117,
+    "high": 119,
+    "low": 112,
+    "volume": 3931600,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-10",
+    "close": 114,
+    "open": 114,
+    "high": 117,
+    "low": 112,
+    "volume": 1709200,
+    "market_cap": 734545264026
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-11",
+    "close": 113,
+    "open": 112,
+    "high": 114,
+    "low": 111,
+    "volume": 1464200,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-12",
+    "close": 113,
+    "open": 114,
+    "high": 116,
+    "low": 111,
+    "volume": 1404800,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-13",
+    "close": 113,
+    "open": 113,
+    "high": 120,
+    "low": 112,
+    "volume": 614400,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-14",
+    "close": 111,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 500300,
+    "market_cap": 715215125499
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-18",
+    "close": 111,
+    "open": 112,
+    "high": 114,
+    "low": 111,
+    "volume": 294000,
+    "market_cap": 715215125499
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-19",
+    "close": 111,
+    "open": 111,
+    "high": 114,
+    "low": 111,
+    "volume": 551300,
+    "market_cap": 715215125499
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-20",
+    "close": 114,
+    "open": 112,
+    "high": 116,
+    "low": 111,
+    "volume": 1713000,
+    "market_cap": 734545264026
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-21",
+    "close": 114,
+    "open": 113,
+    "high": 116,
+    "low": 113,
+    "volume": 1082100,
+    "market_cap": 734545264026
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-24",
+    "close": 113,
+    "open": 114,
+    "high": 115,
+    "low": 113,
+    "volume": 1233000,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-26",
+    "close": 112,
+    "open": 113,
+    "high": 115,
+    "low": 112,
+    "volume": 2289800,
+    "market_cap": 721658505008
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-27",
+    "close": 112,
+    "open": 112,
+    "high": 114,
+    "low": 110,
+    "volume": 875200,
+    "market_cap": 721658505008
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-28",
+    "close": 113,
+    "open": 112,
+    "high": 114,
+    "low": 112,
+    "volume": 364700,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-08-31",
+    "close": 113,
+    "open": 114,
+    "high": 115,
+    "low": 112,
+    "volume": 481400,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-01",
+    "close": 113,
+    "open": 115,
+    "high": 115,
+    "low": 112,
+    "volume": 829900,
+    "market_cap": 728101884517
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-02",
+    "close": 116,
+    "open": 113,
+    "high": 120,
+    "low": 113,
+    "volume": 2720200,
+    "market_cap": 747432023044
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-03",
+    "close": 119,
+    "open": 116,
+    "high": 124,
+    "low": 116,
+    "volume": 6710100,
+    "market_cap": 766762161571
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-04",
+    "close": 119,
+    "open": 120,
+    "high": 120,
+    "low": 116,
+    "volume": 872200,
+    "market_cap": 766762161571
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-07",
+    "close": 117,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 666000,
+    "market_cap": 753875402553
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-08",
+    "close": 117,
+    "open": 119,
+    "high": 119,
+    "low": 116,
+    "volume": 397800,
+    "market_cap": 753875402553
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-09",
+    "close": 117,
+    "open": 119,
+    "high": 119,
+    "low": 116,
+    "volume": 974500,
+    "market_cap": 753875402553
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-10",
+    "close": 116,
+    "open": 117,
+    "high": 118,
+    "low": 116,
+    "volume": 638600,
+    "market_cap": 747432023044
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-11",
+    "close": 115,
+    "open": 117,
+    "high": 117,
+    "low": 115,
+    "volume": 851100,
+    "market_cap": 740988643535
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-14",
+    "close": 117,
+    "open": 116,
+    "high": 118,
+    "low": 115,
+    "volume": 574800,
+    "market_cap": 753875402553
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-15",
+    "close": 115,
+    "open": 117,
+    "high": 118,
+    "low": 115,
+    "volume": 1127800,
+    "market_cap": 740988643535
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-16",
+    "close": 115,
+    "open": 115,
+    "high": 118,
+    "low": 115,
+    "volume": 137800,
+    "market_cap": 740988643535
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-17",
+    "close": 117,
+    "open": 115,
+    "high": 117,
+    "low": 115,
+    "volume": 278600,
+    "market_cap": 753875402553
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-18",
+    "close": 116,
+    "open": 117,
+    "high": 118,
+    "low": 115,
+    "volume": 204000,
+    "market_cap": 747432023044
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-21",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 551200,
+    "market_cap": 747432023044
+  },
+  {
+    "symbol": "IPOL.JK",
+    "date": "2026-09-22",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 279900,
+    "market_cap": 747432023044
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-06-24",
+    "close": 103,
+    "open": 112,
+    "high": 114,
+    "low": 103,
+    "volume": 605400,
+    "market_cap": 1722354792055
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-06-25",
+    "close": 113,
+    "open": 103,
+    "high": 115,
+    "low": 102,
+    "volume": 919500,
+    "market_cap": 1889573703905
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-06-26",
+    "close": 111,
+    "open": 114,
+    "high": 116,
+    "low": 103,
+    "volume": 802300,
+    "market_cap": 1856129921535
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-06-29",
+    "close": 110,
+    "open": 111,
+    "high": 115,
+    "low": 106,
+    "volume": 587700,
+    "market_cap": 1839408030350
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-06-30",
+    "close": 106,
+    "open": 114,
+    "high": 114,
+    "low": 106,
+    "volume": 706100,
+    "market_cap": 1772520465610
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-01",
+    "close": 111,
+    "open": 106,
+    "high": 114,
+    "low": 103,
+    "volume": 776000,
+    "market_cap": 1856129921535
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-02",
+    "close": 110,
+    "open": 112,
+    "high": 114,
+    "low": 109,
+    "volume": 367900,
+    "market_cap": 1839408030350
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-03",
+    "close": 110,
+    "open": 109,
+    "high": 114,
+    "low": 109,
+    "volume": 910300,
+    "market_cap": 1839408030350
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-06",
+    "close": 113,
+    "open": 111,
+    "high": 114,
+    "low": 110,
+    "volume": 481400,
+    "market_cap": 1889573703905
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-07",
+    "close": 114,
+    "open": 113,
+    "high": 114,
+    "low": 112,
+    "volume": 464900,
+    "market_cap": 1906295595090
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-08",
+    "close": 111,
+    "open": 116,
+    "high": 116,
+    "low": 109,
+    "volume": 659300,
+    "market_cap": 1856129921535
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-09",
+    "close": 112,
+    "open": 113,
+    "high": 114,
+    "low": 110,
+    "volume": 387500,
+    "market_cap": 1872851812720
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-10",
+    "close": 112,
+    "open": 113,
+    "high": 114,
+    "low": 111,
+    "volume": 196600,
+    "market_cap": 1872851812720
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-13",
+    "close": 112,
+    "open": 112,
+    "high": 113,
+    "low": 110,
+    "volume": 247000,
+    "market_cap": 1872851812720
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-14",
+    "close": 111,
+    "open": 111,
+    "high": 113,
+    "low": 110,
+    "volume": 826500,
+    "market_cap": 1856129921535
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-15",
+    "close": 112,
+    "open": 112,
+    "high": 118,
+    "low": 109,
+    "volume": 1735100,
+    "market_cap": 1872851812720
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-16",
+    "close": 112,
+    "open": 112,
+    "high": 113,
+    "low": 110,
+    "volume": 834300,
+    "market_cap": 1872851812720
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-17",
+    "close": 116,
+    "open": 112,
+    "high": 128,
+    "low": 111,
+    "volume": 28006400,
+    "market_cap": 1939739377460
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-20",
+    "close": 122,
+    "open": 116,
+    "high": 122,
+    "low": 116,
+    "volume": 5005700,
+    "market_cap": 2040070724570
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-21",
+    "close": 121,
+    "open": 123,
+    "high": 124,
+    "low": 117,
+    "volume": 1681100,
+    "market_cap": 2023348833385
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-22",
+    "close": 119,
+    "open": 122,
+    "high": 122,
+    "low": 118,
+    "volume": 846700,
+    "market_cap": 1989905051015
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-23",
+    "close": 119,
+    "open": 119,
+    "high": 122,
+    "low": 119,
+    "volume": 1806600,
+    "market_cap": 1989905051015
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-24",
+    "close": 121,
+    "open": 119,
+    "high": 124,
+    "low": 116,
+    "volume": 2960900,
+    "market_cap": 2023348833385
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-27",
+    "close": 122,
+    "open": 119,
+    "high": 123,
+    "low": 119,
+    "volume": 718400,
+    "market_cap": 2040070724570
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-28",
+    "close": 122,
+    "open": 121,
+    "high": 133,
+    "low": 120,
+    "volume": 8649600,
+    "market_cap": 2040070724570
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-29",
+    "close": 124,
+    "open": 122,
+    "high": 125,
+    "low": 121,
+    "volume": 994200,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-30",
+    "close": 124,
+    "open": 122,
+    "high": 129,
+    "low": 122,
+    "volume": 1272200,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-07-31",
+    "close": 124,
+    "open": 124,
+    "high": 129,
+    "low": 122,
+    "volume": 1764600,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-03",
+    "close": 122,
+    "open": 125,
+    "high": 127,
+    "low": 121,
+    "volume": 1056400,
+    "market_cap": 2040070724570
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-04",
+    "close": 124,
+    "open": 122,
+    "high": 126,
+    "low": 121,
+    "volume": 1203400,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-05",
+    "close": 125,
+    "open": 124,
+    "high": 125,
+    "low": 121,
+    "volume": 895200,
+    "market_cap": 2090236398125
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-06",
+    "close": 124,
+    "open": 125,
+    "high": 125,
+    "low": 123,
+    "volume": 566800,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-07",
+    "close": 124,
+    "open": 124,
+    "high": 125,
+    "low": 123,
+    "volume": 806000,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-10",
+    "close": 124,
+    "open": 125,
+    "high": 126,
+    "low": 122,
+    "volume": 1194800,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-11",
+    "close": 124,
+    "open": 125,
+    "high": 125,
+    "low": 121,
+    "volume": 1002300,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-12",
+    "close": 124,
+    "open": 124,
+    "high": 124,
+    "low": 120,
+    "volume": 906100,
+    "market_cap": 2073514506940
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-13",
+    "close": 121,
+    "open": 124,
+    "high": 124,
+    "low": 121,
+    "volume": 533200,
+    "market_cap": 2023348833385
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-14",
+    "close": 127,
+    "open": 121,
+    "high": 133,
+    "low": 121,
+    "volume": 7936900,
+    "market_cap": 2123680180495
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-18",
+    "close": 129,
+    "open": 128,
+    "high": 130,
+    "low": 126,
+    "volume": 1022100,
+    "market_cap": 2157123962865
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-19",
+    "close": 128,
+    "open": 130,
+    "high": 130,
+    "low": 128,
+    "volume": 607100,
+    "market_cap": 2140402071680
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-20",
+    "close": 126,
+    "open": 128,
+    "high": 129,
+    "low": 125,
+    "volume": 1129800,
+    "market_cap": 2106958289310
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-21",
+    "close": 127,
+    "open": 127,
+    "high": 128,
+    "low": 126,
+    "volume": 340100,
+    "market_cap": 2123680180495
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-24",
+    "close": 126,
+    "open": 127,
+    "high": 129,
+    "low": 125,
+    "volume": 484100,
+    "market_cap": 2106958289310
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-26",
+    "close": 123,
+    "open": 127,
+    "high": 127,
+    "low": 123,
+    "volume": 903400,
+    "market_cap": 2056792615755
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-27",
+    "close": 127,
+    "open": 122,
+    "high": 128,
+    "low": 122,
+    "volume": 864600,
+    "market_cap": 2123680180495
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-28",
+    "close": 129,
+    "open": 127,
+    "high": 138,
+    "low": 126,
+    "volume": 5833300,
+    "market_cap": 2157123962865
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-08-31",
+    "close": 130,
+    "open": 130,
+    "high": 131,
+    "low": 128,
+    "volume": 1059200,
+    "market_cap": 2173845854050
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-01",
+    "close": 133,
+    "open": 130,
+    "high": 133,
+    "low": 128,
+    "volume": 3119500,
+    "market_cap": 2224011527605
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-02",
+    "close": 134,
+    "open": 133,
+    "high": 140,
+    "low": 131,
+    "volume": 7305800,
+    "market_cap": 2240733418790
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-03",
+    "close": 135,
+    "open": 135,
+    "high": 137,
+    "low": 135,
+    "volume": 1106800,
+    "market_cap": 2257455309975
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-04",
+    "close": 137,
+    "open": 138,
+    "high": 140,
+    "low": 135,
+    "volume": 3285100,
+    "market_cap": 2290899092345
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-07",
+    "close": 138,
+    "open": 137,
+    "high": 140,
+    "low": 137,
+    "volume": 1554400,
+    "market_cap": 2307620983530
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-08",
+    "close": 138,
+    "open": 139,
+    "high": 139,
+    "low": 137,
+    "volume": 1169600,
+    "market_cap": 2307620983530
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-09",
+    "close": 137,
+    "open": 138,
+    "high": 138,
+    "low": 134,
+    "volume": 531500,
+    "market_cap": 2290899092345
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-10",
+    "close": 132,
+    "open": 137,
+    "high": 141,
+    "low": 128,
+    "volume": 3130800,
+    "market_cap": 2207289636420
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-11",
+    "close": 131,
+    "open": 133,
+    "high": 135,
+    "low": 129,
+    "volume": 363700,
+    "market_cap": 2190567745235
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-14",
+    "close": 129,
+    "open": 130,
+    "high": 131,
+    "low": 127,
+    "volume": 2990500,
+    "market_cap": 2157123962865
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-15",
+    "close": 131,
+    "open": 129,
+    "high": 135,
+    "low": 129,
+    "volume": 558700,
+    "market_cap": 2190567745235
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-16",
+    "close": 131,
+    "open": 133,
+    "high": 133,
+    "low": 129,
+    "volume": 419700,
+    "market_cap": 2190567745235
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-17",
+    "close": 131,
+    "open": 131,
+    "high": 131,
+    "low": 129,
+    "volume": 1033000,
+    "market_cap": 2190567745235
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-18",
+    "close": 131,
+    "open": 131,
+    "high": 131,
+    "low": 129,
+    "volume": 320400,
+    "market_cap": 2190567745235
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-21",
+    "close": 129,
+    "open": 130,
+    "high": 130,
+    "low": 127,
+    "volume": 545700,
+    "market_cap": 2157123962865
+  },
+  {
+    "symbol": "DNAR.JK",
+    "date": "2026-09-22",
+    "close": 127,
+    "open": 129,
+    "high": 130,
+    "low": 126,
+    "volume": 614600,
+    "market_cap": 2123680180495
+  }
+]

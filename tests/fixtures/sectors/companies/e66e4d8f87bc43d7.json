@@ -1,0 +1,926 @@
+{
+  "results": [
+    {
+      "symbol": "INTD.JK",
+      "company_name": "Inter-Delta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.130718954248366
+      }
+    },
+    {
+      "symbol": "PACK.JK",
+      "company_name": "PT Abadi Nusantara Hijau Investama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0980392156862745
+      }
+    },
+    {
+      "symbol": "AYLS.JK",
+      "company_name": "PT Agro Yasa Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0632183908045977
+      }
+    },
+    {
+      "symbol": "SRSN.JK",
+      "company_name": "Indo Acidatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0403225806451613
+      }
+    },
+    {
+      "symbol": "IFII.JK",
+      "company_name": "PT Indonesia Fibreboard Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0377358490566038
+      }
+    },
+    {
+      "symbol": "SMLE.JK",
+      "company_name": "PT Sinergi Multi Lestarindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.036036036036036
+      }
+    },
+    {
+      "symbol": "BATR.JK",
+      "company_name": "PT Benteng Api Technic Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0333333333333333
+      }
+    },
+    {
+      "symbol": "OBMD.JK",
+      "company_name": "PT OBM Drilchem Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0209424083769634
+      }
+    },
+    {
+      "symbol": "KDSI.JK",
+      "company_name": "Kedawung Setia Industrial Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0131004366812227
+      }
+    },
+    {
+      "symbol": "SMGR.JK",
+      "company_name": "Semen Indonesia (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0128205128205128
+      }
+    },
+    {
+      "symbol": "AMMN.JK",
+      "company_name": "PT Amman Mineral Internasional Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0107296137339056
+      }
+    },
+    {
+      "symbol": "TALF.JK",
+      "company_name": "PT Tunas Alfin Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0072992700729927
+      }
+    },
+    {
+      "symbol": "SAMF.JK",
+      "company_name": "PT Saraswanti Anugerah Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.00645161290322581
+      }
+    },
+    {
+      "symbol": "INAI.JK",
+      "company_name": "Indal Aluminium Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.00543478260869565
+      }
+    },
+    {
+      "symbol": "MOLI.JK",
+      "company_name": "PT Madusari Murni Indah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0053475935828877
+      }
+    },
+    {
+      "symbol": "CTBN.JK",
+      "company_name": "Citra Tubindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.00327868852459016
+      }
+    },
+    {
+      "symbol": "UNIC.JK",
+      "company_name": "Unggul Indah Cahaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.00166944908180301
+      }
+    },
+    {
+      "symbol": "SWAT.JK",
+      "company_name": "PT Sriwahana Adityakarta Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PNGO.JK",
+      "company_name": "PT Pinago Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PTMR.JK",
+      "company_name": "PT Master Print Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "TIRT.JK",
+      "company_name": "Tirta Mahakam Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "TDPM.JK",
+      "company_name": "PT Tianrong Chemicals Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "LMSH.JK",
+      "company_name": "Lionmesh Prima Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PURE.JK",
+      "company_name": "PT Trinitan Metals and Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "PDPP.JK",
+      "company_name": "PT Primadaya Plastisindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "IPOL.JK",
+      "company_name": "Indopoly Swakarsa Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ALKA.JK",
+      "company_name": "Alakasa Industrindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ETWA.JK",
+      "company_name": "Eterindo Wahanatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "DPNS.JK",
+      "company_name": "Duta Pertiwi Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "EPAC.JK",
+      "company_name": "PT Megalestari Epack Sentosaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BEBS.JK",
+      "company_name": "PT Berkah Beton Sadaya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ALMI.JK",
+      "company_name": "Alumindo Light Metal Industry Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "WSBP.JK",
+      "company_name": "PT Waskita Beton Precast Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "EMAS.JK",
+      "company_name": "PT Merdeka Gold Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "FASW.JK",
+      "company_name": "Fajar Surya Wisesa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "KAYU.JK",
+      "company_name": "PT Darmi Bersaudara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "KBRI.JK",
+      "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "INRU.JK",
+      "company_name": "Toba Pulp Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "NPGF.JK",
+      "company_name": "PT Nusa Palapa Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "SMGA.JK",
+      "company_name": "PT Sumber Mineral Global Abadi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "INCI.JK",
+      "company_name": "Intanwijaya Internasional Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "INCF.JK",
+      "company_name": "PT Indo Komoditi Korpora Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "SIMA.JK",
+      "company_name": "Siwani Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "SMCB.JK",
+      "company_name": "PT Solusi Bangun Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "ZINC.JK",
+      "company_name": "PT Kapuas Prima Coal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "HKMU.JK",
+      "company_name": "PT HK Metals Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BAJA.JK",
+      "company_name": "Saranacentral Bajatama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00458715596330275
+      }
+    },
+    {
+      "symbol": "MDKI.JK",
+      "company_name": "PT Emdeki Utama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00518134715025907
+      }
+    },
+    {
+      "symbol": "BLES.JK",
+      "company_name": "PT Superior Prima Sukses Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00518134715025907
+      }
+    },
+    {
+      "symbol": "CITA.JK",
+      "company_name": "Cita Mineral Investindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00573065902578797
+      }
+    },
+    {
+      "symbol": "AVIA.JK",
+      "company_name": "PT Avia Avian Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00591715976331361
+      }
+    },
+    {
+      "symbol": "GGRP.JK",
+      "company_name": "PT Gunung Raja Paksi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00595238095238095
+      }
+    },
+    {
+      "symbol": "CLPI.JK",
+      "company_name": "Colorpak Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00623052959501558
+      }
+    },
+    {
+      "symbol": "SMKL.JK",
+      "company_name": "PT Satyamitra Kemas Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00628930817610063
+      }
+    },
+    {
+      "symbol": "ESSA.JK",
+      "company_name": "ESSA Industries Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00833333333333333
+      }
+    },
+    {
+      "symbol": "IGAR.JK",
+      "company_name": "Champion Pacific Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00851063829787234
+      }
+    },
+    {
+      "symbol": "DAAZ.JK",
+      "company_name": "PT Daaz Bara Lestari Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00923076923076923
+      }
+    },
+    {
+      "symbol": "PBID.JK",
+      "company_name": "PT Panca Budi Idaman Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.00952380952380952
+      }
+    },
+    {
+      "symbol": "ISSP.JK",
+      "company_name": "PT Steel Pipe Industry of Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0099009900990099
+      }
+    },
+    {
+      "symbol": "EKAD.JK",
+      "company_name": "Ekadharma International Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.01
+      }
+    },
+    {
+      "symbol": "SULI.JK",
+      "company_name": "PT SLJ Global Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0116279069767442
+      }
+    },
+    {
+      "symbol": "DGWG.JK",
+      "company_name": "PT Delta Giri Wacana Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0123456790123457
+      }
+    },
+    {
+      "symbol": "PPRI.JK",
+      "company_name": "PT Paperocks Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0124223602484472
+      }
+    },
+    {
+      "symbol": "CMNT.JK",
+      "company_name": "PT Cemindo Gemilang Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0133333333333333
+      }
+    },
+    {
+      "symbol": "MDKA.JK",
+      "company_name": "PT Merdeka Copper Gold Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0139372822299652
+      }
+    },
+    {
+      "symbol": "APLI.JK",
+      "company_name": "Asiaplast Industries Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0140845070422535
+      }
+    },
+    {
+      "symbol": "LTLS.JK",
+      "company_name": "PT Lautan Luas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.015
+      }
+    },
+    {
+      "symbol": "KMTR.JK",
+      "company_name": "PT Kirana Megatara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0158730158730159
+      }
+    },
+    {
+      "symbol": "NCKL.JK",
+      "company_name": "PT Trimegah Bangun Persada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0161290322580645
+      }
+    },
+    {
+      "symbol": "INCO.JK",
+      "company_name": "Vale Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0168067226890756
+      }
+    },
+    {
+      "symbol": "OKAS.JK",
+      "company_name": "Ancora Indonesia Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0173913043478261
+      }
+    },
+    {
+      "symbol": "SMBR.JK",
+      "company_name": "PT Semen Baturaja Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0176470588235294
+      }
+    },
+    {
+      "symbol": "SPMA.JK",
+      "company_name": "Suparma Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0177514792899408
+      }
+    },
+    {
+      "symbol": "SQMI.JK",
+      "company_name": "Wilton Makmur Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.018348623853211
+      }
+    },
+    {
+      "symbol": "PSAB.JK",
+      "company_name": "J Resources Asia Pasifik Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0185185185185185
+      }
+    },
+    {
+      "symbol": "IFSH.JK",
+      "company_name": "PT Ifishdeco Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0188679245283019
+      }
+    },
+    {
+      "symbol": "INTP.JK",
+      "company_name": "Indocement Tunggal Prakarsa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.019047619047619
+      }
+    },
+    {
+      "symbol": "AKPI.JK",
+      "company_name": "Argha Karya Prima Ind. Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0194174757281553
+      }
+    },
+    {
+      "symbol": "TBMS.JK",
+      "company_name": "Tembaga Mulia Semanan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0201612903225806
+      }
+    },
+    {
+      "symbol": "ALDO.JK",
+      "company_name": "Alkindo Naratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0207253886010363
+      }
+    },
+    {
+      "symbol": "ANTM.JK",
+      "company_name": "Aneka Tambang Tbk.",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0216049382716049
+      }
+    },
+    {
+      "symbol": "NICE.JK",
+      "company_name": "PT Adhi Kartiko Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0217391304347826
+      }
+    },
+    {
+      "symbol": "FWCT.JK",
+      "company_name": "PT Wijaya Cahaya Timber Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0224719101123595
+      }
+    },
+    {
+      "symbol": "BRNA.JK",
+      "company_name": "Berlina Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0227272727272727
+      }
+    },
+    {
+      "symbol": "ADMG.JK",
+      "company_name": "Polychem Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0238095238095238
+      }
+    },
+    {
+      "symbol": "WTON.JK",
+      "company_name": "Wijaya Karya Beton",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0256410256410256
+      }
+    },
+    {
+      "symbol": "ESIP.JK",
+      "company_name": "PT Sinergi Inti Plastindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0258620689655172
+      }
+    },
+    {
+      "symbol": "INKP.JK",
+      "company_name": "Indah Kiat Pulp & Paper Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0262390670553936
+      }
+    },
+    {
+      "symbol": "SBMA.JK",
+      "company_name": "PT Surya Biru Murni Acetylene Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0263157894736842
+      }
+    },
+    {
+      "symbol": "MINE.JK",
+      "company_name": "PT Sinar Terang Mandiri Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0264900662251656
+      }
+    },
+    {
+      "symbol": "FPNI.JK",
+      "company_name": "PT Lotte Chemical Titan Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0277777777777778
+      }
+    },
+    {
+      "symbol": "BRPT.JK",
+      "company_name": "Barito Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0279503105590062
+      }
+    },
+    {
+      "symbol": "NIKL.JK",
+      "company_name": "Pelat Timah Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0280373831775701
+      }
+    },
+    {
+      "symbol": "DKFT.JK",
+      "company_name": "Central Omega Resources Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0294117647058824
+      }
+    },
+    {
+      "symbol": "ARCI.JK",
+      "company_name": "PT Archi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0297397769516729
+      }
+    },
+    {
+      "symbol": "AGII.JK",
+      "company_name": "PT Samator Indo Gas Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0331491712707182
+      }
+    },
+    {
+      "symbol": "TKIM.JK",
+      "company_name": "Pabrik Kertas Tjiwi Kimia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0333333333333333
+      }
+    },
+    {
+      "symbol": "BRMS.JK",
+      "company_name": "Bumi Resources Minerals Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.036231884057971
+      }
+    },
+    {
+      "symbol": "TPIA.JK",
+      "company_name": "PT Chandra Asri Pacific Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0372340425531915
+      }
+    },
+    {
+      "symbol": "MBMA.JK",
+      "company_name": "PT Merdeka Battery Materials Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0380952380952381
+      }
+    },
+    {
+      "symbol": "NICL.JK",
+      "company_name": "PT PAM Mineral Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0401785714285714
+      }
+    },
+    {
+      "symbol": "YPAS.JK",
+      "company_name": "Yanaprima Hastapersada Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.041044776119403
+      }
+    },
+    {
+      "symbol": "BTON.JK",
+      "company_name": "Betonjaya Manunggal Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0427807486631016
+      }
+    },
+    {
+      "symbol": "ASPR.JK",
+      "company_name": "PT Asia Pramulia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0428571428571429
+      }
+    },
+    {
+      "symbol": "KRAS.JK",
+      "company_name": "Krakatau Steel (Persero) Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0431034482758621
+      }
+    },
+    {
+      "symbol": "TRST.JK",
+      "company_name": "Trias Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0448979591836735
+      }
+    },
+    {
+      "symbol": "PICO.JK",
+      "company_name": "Pelangi Indah Canindo Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0511363636363636
+      }
+    },
+    {
+      "symbol": "KKES.JK",
+      "company_name": "PT Kusuma Kemindo Sentosa Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0543478260869565
+      }
+    },
+    {
+      "symbol": "SOLA.JK",
+      "company_name": "PT Xolare RCR Energy Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0561797752808989
+      }
+    },
+    {
+      "symbol": "TINS.JK",
+      "company_name": "PT Timah Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0591836734693878
+      }
+    },
+    {
+      "symbol": "CHEM.JK",
+      "company_name": "PT Chemstar Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0694444444444444
+      }
+    },
+    {
+      "symbol": "OPMS.JK",
+      "company_name": "PT Optima Prima Metal Sinergi Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.079646017699115
+      }
+    },
+    {
+      "symbol": "BMSR.JK",
+      "company_name": "Bintang Mitra Semestaraya Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.0949720670391061
+      }
+    },
+    {
+      "symbol": "GDST.JK",
+      "company_name": "Gunawan Dianjaya Steel Tbk",
+      "query_values": {
+        "sub_sector": "Basic Materials",
+        "daily_close_change": -0.122302158273381
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 114,
+    "showing": 114,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

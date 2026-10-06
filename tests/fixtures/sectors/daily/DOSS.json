@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-06-24",
+    "close": 133,
+    "open": 140,
+    "high": 140,
+    "low": 131,
+    "volume": 202400,
+    "market_cap": 229425000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-06-25",
+    "close": 139,
+    "open": 133,
+    "high": 139,
+    "low": 128,
+    "volume": 806800,
+    "market_cap": 239775000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-06-26",
+    "close": 134,
+    "open": 137,
+    "high": 137,
+    "low": 134,
+    "volume": 264900,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-06-29",
+    "close": 134,
+    "open": 134,
+    "high": 138,
+    "low": 127,
+    "volume": 115600,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-06-30",
+    "close": 130,
+    "open": 130,
+    "high": 131,
+    "low": 127,
+    "volume": 270300,
+    "market_cap": 224250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-01",
+    "close": 130,
+    "open": 130,
+    "high": 134,
+    "low": 127,
+    "volume": 136000,
+    "market_cap": 224250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-02",
+    "close": 129,
+    "open": 134,
+    "high": 134,
+    "low": 127,
+    "volume": 361000,
+    "market_cap": 222525000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-03",
+    "close": 130,
+    "open": 135,
+    "high": 135,
+    "low": 126,
+    "volume": 233100,
+    "market_cap": 224250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-06",
+    "close": 133,
+    "open": 131,
+    "high": 136,
+    "low": 131,
+    "volume": 202400,
+    "market_cap": 229425000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-07",
+    "close": 134,
+    "open": 133,
+    "high": 136,
+    "low": 130,
+    "volume": 95700,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-08",
+    "close": 133,
+    "open": 130,
+    "high": 134,
+    "low": 130,
+    "volume": 207000,
+    "market_cap": 229425000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-09",
+    "close": 133,
+    "open": 132,
+    "high": 136,
+    "low": 129,
+    "volume": 134000,
+    "market_cap": 229425000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-10",
+    "close": 130,
+    "open": 133,
+    "high": 135,
+    "low": 130,
+    "volume": 262400,
+    "market_cap": 224250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-13",
+    "close": 135,
+    "open": 132,
+    "high": 140,
+    "low": 129,
+    "volume": 1487900,
+    "market_cap": 232875000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-14",
+    "close": 135,
+    "open": 135,
+    "high": 136,
+    "low": 133,
+    "volume": 146400,
+    "market_cap": 232875000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-15",
+    "close": 134,
+    "open": 135,
+    "high": 135,
+    "low": 129,
+    "volume": 148700,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-16",
+    "close": 134,
+    "open": 134,
+    "high": 135,
+    "low": 130,
+    "volume": 152300,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-17",
+    "close": 133,
+    "open": 133,
+    "high": 135,
+    "low": 129,
+    "volume": 364000,
+    "market_cap": 229425000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-20",
+    "close": 134,
+    "open": 133,
+    "high": 137,
+    "low": 132,
+    "volume": 727400,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-21",
+    "close": 137,
+    "open": 133,
+    "high": 137,
+    "low": 133,
+    "volume": 136200,
+    "market_cap": 236325000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-22",
+    "close": 140,
+    "open": 137,
+    "high": 143,
+    "low": 136,
+    "volume": 951100,
+    "market_cap": 241500000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-23",
+    "close": 140,
+    "open": 140,
+    "high": 143,
+    "low": 140,
+    "volume": 450400,
+    "market_cap": 241500000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-24",
+    "close": 139,
+    "open": 141,
+    "high": 142,
+    "low": 134,
+    "volume": 306500,
+    "market_cap": 239775000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-27",
+    "close": 135,
+    "open": 139,
+    "high": 142,
+    "low": 135,
+    "volume": 1381700,
+    "market_cap": 232875000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-28",
+    "close": 134,
+    "open": 135,
+    "high": 138,
+    "low": 134,
+    "volume": 292100,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-29",
+    "close": 134,
+    "open": 136,
+    "high": 136,
+    "low": 133,
+    "volume": 284800,
+    "market_cap": 231150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-30",
+    "close": 160,
+    "open": 147,
+    "high": 180,
+    "low": 144,
+    "volume": 97982300,
+    "market_cap": 276000000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-07-31",
+    "close": 163,
+    "open": 169,
+    "high": 191,
+    "low": 154,
+    "volume": 83595000,
+    "market_cap": 281175000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-03",
+    "close": 159,
+    "open": 164,
+    "high": 167,
+    "low": 151,
+    "volume": 7980600,
+    "market_cap": 274275000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-04",
+    "close": 167,
+    "open": 160,
+    "high": 174,
+    "low": 157,
+    "volume": 9628600,
+    "market_cap": 288075000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-05",
+    "close": 177,
+    "open": 170,
+    "high": 185,
+    "low": 167,
+    "volume": 21098900,
+    "market_cap": 305325000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-06",
+    "close": 177,
+    "open": 180,
+    "high": 180,
+    "low": 173,
+    "volume": 3702700,
+    "market_cap": 305325000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-07",
+    "close": 179,
+    "open": 177,
+    "high": 184,
+    "low": 174,
+    "volume": 7270800,
+    "market_cap": 308775000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-10",
+    "close": 176,
+    "open": 178,
+    "high": 180,
+    "low": 175,
+    "volume": 1554400,
+    "market_cap": 303600000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-11",
+    "close": 167,
+    "open": 177,
+    "high": 177,
+    "low": 162,
+    "volume": 2823500,
+    "market_cap": 288075000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-12",
+    "close": 169,
+    "open": 163,
+    "high": 176,
+    "low": 162,
+    "volume": 6750800,
+    "market_cap": 291525000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-13",
+    "close": 166,
+    "open": 173,
+    "high": 185,
+    "low": 164,
+    "volume": 16465400,
+    "market_cap": 286350000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-14",
+    "close": 170,
+    "open": 175,
+    "high": 175,
+    "low": 162,
+    "volume": 5739800,
+    "market_cap": 293250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-18",
+    "close": 169,
+    "open": 174,
+    "high": 174,
+    "low": 166,
+    "volume": 3667100,
+    "market_cap": 291525000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-19",
+    "close": 167,
+    "open": 172,
+    "high": 173,
+    "low": 166,
+    "volume": 3017100,
+    "market_cap": 288075000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-20",
+    "close": 168,
+    "open": 168,
+    "high": 170,
+    "low": 165,
+    "volume": 2412900,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-21",
+    "close": 168,
+    "open": 169,
+    "high": 178,
+    "low": 167,
+    "volume": 7458000,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-24",
+    "close": 168,
+    "open": 168,
+    "high": 171,
+    "low": 167,
+    "volume": 1326800,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-26",
+    "close": 165,
+    "open": 165,
+    "high": 169,
+    "low": 165,
+    "volume": 1622500,
+    "market_cap": 284625000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-27",
+    "close": 171,
+    "open": 156,
+    "high": 185,
+    "low": 156,
+    "volume": 13451200,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-28",
+    "close": 172,
+    "open": 177,
+    "high": 178,
+    "low": 171,
+    "volume": 1482400,
+    "market_cap": 296700000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-08-31",
+    "close": 171,
+    "open": 173,
+    "high": 174,
+    "low": 169,
+    "volume": 2538100,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-01",
+    "close": 170,
+    "open": 171,
+    "high": 174,
+    "low": 170,
+    "volume": 1168100,
+    "market_cap": 293250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-02",
+    "close": 170,
+    "open": 170,
+    "high": 171,
+    "low": 169,
+    "volume": 822900,
+    "market_cap": 293250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-03",
+    "close": 171,
+    "open": 170,
+    "high": 173,
+    "low": 169,
+    "volume": 747800,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-04",
+    "close": 171,
+    "open": 171,
+    "high": 172,
+    "low": 171,
+    "volume": 871400,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-07",
+    "close": 171,
+    "open": 171,
+    "high": 177,
+    "low": 170,
+    "volume": 1758100,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-08",
+    "close": 169,
+    "open": 172,
+    "high": 172,
+    "low": 167,
+    "volume": 2446100,
+    "market_cap": 291525000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-09",
+    "close": 171,
+    "open": 170,
+    "high": 173,
+    "low": 167,
+    "volume": 2283900,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-10",
+    "close": 170,
+    "open": 167,
+    "high": 171,
+    "low": 165,
+    "volume": 1927000,
+    "market_cap": 293250000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-11",
+    "close": 164,
+    "open": 163,
+    "high": 169,
+    "low": 163,
+    "volume": 1559400,
+    "market_cap": 282900000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-14",
+    "close": 165,
+    "open": 165,
+    "high": 169,
+    "low": 164,
+    "volume": 863500,
+    "market_cap": 284625000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-15",
+    "close": 171,
+    "open": 169,
+    "high": 172,
+    "low": 165,
+    "volume": 2529000,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-16",
+    "close": 174,
+    "open": 173,
+    "high": 192,
+    "low": 173,
+    "volume": 19919500,
+    "market_cap": 300150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-17",
+    "close": 174,
+    "open": 175,
+    "high": 179,
+    "low": 172,
+    "volume": 2180400,
+    "market_cap": 300150000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-18",
+    "close": 171,
+    "open": 175,
+    "high": 175,
+    "low": 167,
+    "volume": 2176300,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-21",
+    "close": 171,
+    "open": 171,
+    "high": 174,
+    "low": 169,
+    "volume": 1191700,
+    "market_cap": 294975000000
+  },
+  {
+    "symbol": "DOSS.JK",
+    "date": "2026-09-22",
+    "close": 172,
+    "open": 173,
+    "high": 173,
+    "low": 165,
+    "volume": 1196100,
+    "market_cap": 296700000000
+  }
+]

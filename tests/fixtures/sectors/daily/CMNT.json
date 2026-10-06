@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-06-24",
+    "close": 770,
+    "open": 780,
+    "high": 790,
+    "low": 760,
+    "volume": 17218800,
+    "market_cap": 13186638080000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-06-25",
+    "close": 765,
+    "open": 770,
+    "high": 785,
+    "low": 755,
+    "volume": 21022600,
+    "market_cap": 13101010560000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-06-26",
+    "close": 765,
+    "open": 765,
+    "high": 770,
+    "low": 745,
+    "volume": 19325000,
+    "market_cap": 13101010560000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-06-29",
+    "close": 770,
+    "open": 765,
+    "high": 770,
+    "low": 740,
+    "volume": 25902400,
+    "market_cap": 13186638080000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-06-30",
+    "close": 780,
+    "open": 770,
+    "high": 780,
+    "low": 740,
+    "volume": 19912200,
+    "market_cap": 13357893120000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-01",
+    "close": 790,
+    "open": 780,
+    "high": 790,
+    "low": 760,
+    "volume": 22584500,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-02",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 780,
+    "volume": 24148300,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-03",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 780,
+    "volume": 24216600,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-06",
+    "close": 800,
+    "open": 795,
+    "high": 800,
+    "low": 775,
+    "volume": 26546400,
+    "market_cap": 13700403200000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-07",
+    "close": 800,
+    "open": 800,
+    "high": 800,
+    "low": 780,
+    "volume": 23044100,
+    "market_cap": 13700403200000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-08",
+    "close": 795,
+    "open": 795,
+    "high": 805,
+    "low": 780,
+    "volume": 26992000,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-09",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 780,
+    "volume": 22593500,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-10",
+    "close": 780,
+    "open": 795,
+    "high": 800,
+    "low": 775,
+    "volume": 30852900,
+    "market_cap": 13357893120000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-13",
+    "close": 790,
+    "open": 785,
+    "high": 805,
+    "low": 775,
+    "volume": 26069500,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-14",
+    "close": 785,
+    "open": 790,
+    "high": 805,
+    "low": 775,
+    "volume": 23678700,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-15",
+    "close": 790,
+    "open": 780,
+    "high": 800,
+    "low": 775,
+    "volume": 22459800,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-16",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 775,
+    "volume": 22216900,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-17",
+    "close": 790,
+    "open": 795,
+    "high": 805,
+    "low": 785,
+    "volume": 16393000,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-20",
+    "close": 795,
+    "open": 790,
+    "high": 800,
+    "low": 780,
+    "volume": 19839700,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-21",
+    "close": 785,
+    "open": 795,
+    "high": 795,
+    "low": 780,
+    "volume": 23395400,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-22",
+    "close": 785,
+    "open": 785,
+    "high": 800,
+    "low": 775,
+    "volume": 20544000,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-23",
+    "close": 780,
+    "open": 785,
+    "high": 785,
+    "low": 750,
+    "volume": 28305700,
+    "market_cap": 13357893120000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-24",
+    "close": 785,
+    "open": 775,
+    "high": 790,
+    "low": 765,
+    "volume": 22469000,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-27",
+    "close": 795,
+    "open": 785,
+    "high": 805,
+    "low": 775,
+    "volume": 23393400,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-28",
+    "close": 825,
+    "open": 800,
+    "high": 825,
+    "low": 785,
+    "volume": 24980900,
+    "market_cap": 14128540800000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-29",
+    "close": 820,
+    "open": 830,
+    "high": 830,
+    "low": 805,
+    "volume": 21712700,
+    "market_cap": 14042913280000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-30",
+    "close": 820,
+    "open": 820,
+    "high": 835,
+    "low": 815,
+    "volume": 24249600,
+    "market_cap": 14042913280000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-07-31",
+    "close": 800,
+    "open": 825,
+    "high": 825,
+    "low": 800,
+    "volume": 28092200,
+    "market_cap": 13700403200000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-03",
+    "close": 785,
+    "open": 800,
+    "high": 800,
+    "low": 780,
+    "volume": 22494400,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-04",
+    "close": 805,
+    "open": 790,
+    "high": 810,
+    "low": 780,
+    "volume": 18269100,
+    "market_cap": 13786030720000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-05",
+    "close": 790,
+    "open": 805,
+    "high": 815,
+    "low": 785,
+    "volume": 25063600,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-06",
+    "close": 800,
+    "open": 795,
+    "high": 805,
+    "low": 775,
+    "volume": 20041000,
+    "market_cap": 13700403200000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-07",
+    "close": 800,
+    "open": 805,
+    "high": 815,
+    "low": 790,
+    "volume": 20792500,
+    "market_cap": 13700403200000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-10",
+    "close": 805,
+    "open": 800,
+    "high": 810,
+    "low": 790,
+    "volume": 23086300,
+    "market_cap": 13786030720000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-11",
+    "close": 790,
+    "open": 810,
+    "high": 815,
+    "low": 790,
+    "volume": 24554600,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-12",
+    "close": 780,
+    "open": 790,
+    "high": 800,
+    "low": 775,
+    "volume": 25550000,
+    "market_cap": 13357893120000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-13",
+    "close": 795,
+    "open": 785,
+    "high": 810,
+    "low": 780,
+    "volume": 25124300,
+    "market_cap": 13614775680000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-14",
+    "close": 785,
+    "open": 795,
+    "high": 800,
+    "low": 775,
+    "volume": 27052400,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-18",
+    "close": 785,
+    "open": 780,
+    "high": 810,
+    "low": 775,
+    "volume": 19161100,
+    "market_cap": 13443520640000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-19",
+    "close": 790,
+    "open": 790,
+    "high": 810,
+    "low": 780,
+    "volume": 23719400,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-20",
+    "close": 790,
+    "open": 795,
+    "high": 795,
+    "low": 785,
+    "volume": 17449900,
+    "market_cap": 13529148160000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-21",
+    "close": 765,
+    "open": 790,
+    "high": 795,
+    "low": 765,
+    "volume": 33202100,
+    "market_cap": 13101010560000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-24",
+    "close": 760,
+    "open": 765,
+    "high": 775,
+    "low": 755,
+    "volume": 18537600,
+    "market_cap": 13015383040000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-26",
+    "close": 755,
+    "open": 765,
+    "high": 770,
+    "low": 740,
+    "volume": 26951900,
+    "market_cap": 12929755520000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-27",
+    "close": 740,
+    "open": 760,
+    "high": 765,
+    "low": 735,
+    "volume": 28022800,
+    "market_cap": 12672872960000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-28",
+    "close": 745,
+    "open": 745,
+    "high": 755,
+    "low": 735,
+    "volume": 28133000,
+    "market_cap": 12758500480000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-08-31",
+    "close": 760,
+    "open": 755,
+    "high": 765,
+    "low": 745,
+    "volume": 24265600,
+    "market_cap": 13015383040000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-01",
+    "close": 745,
+    "open": 765,
+    "high": 765,
+    "low": 740,
+    "volume": 27541200,
+    "market_cap": 12758500480000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-02",
+    "close": 745,
+    "open": 750,
+    "high": 760,
+    "low": 735,
+    "volume": 24701300,
+    "market_cap": 12758500480000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-03",
+    "close": 740,
+    "open": 750,
+    "high": 755,
+    "low": 735,
+    "volume": 31949100,
+    "market_cap": 12672872960000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-04",
+    "close": 730,
+    "open": 745,
+    "high": 750,
+    "low": 730,
+    "volume": 30916000,
+    "market_cap": 12501617920000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-07",
+    "close": 740,
+    "open": 735,
+    "high": 765,
+    "low": 730,
+    "volume": 34977400,
+    "market_cap": 12672872960000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-08",
+    "close": 735,
+    "open": 740,
+    "high": 745,
+    "low": 730,
+    "volume": 24265400,
+    "market_cap": 12587245440000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-09",
+    "close": 755,
+    "open": 740,
+    "high": 765,
+    "low": 735,
+    "volume": 22275800,
+    "market_cap": 12929755520000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-10",
+    "close": 755,
+    "open": 760,
+    "high": 765,
+    "low": 750,
+    "volume": 18591100,
+    "market_cap": 12929755520000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-11",
+    "close": 755,
+    "open": 755,
+    "high": 760,
+    "low": 745,
+    "volume": 21043300,
+    "market_cap": 12929755520000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-14",
+    "close": 750,
+    "open": 755,
+    "high": 760,
+    "low": 745,
+    "volume": 21004800,
+    "market_cap": 12844128000000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-15",
+    "close": 775,
+    "open": 750,
+    "high": 780,
+    "low": 750,
+    "volume": 22377000,
+    "market_cap": 13272265600000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-16",
+    "close": 765,
+    "open": 775,
+    "high": 780,
+    "low": 760,
+    "volume": 12710200,
+    "market_cap": 13101010560000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-17",
+    "close": 770,
+    "open": 770,
+    "high": 775,
+    "low": 755,
+    "volume": 18871400,
+    "market_cap": 13186638080000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-18",
+    "close": 765,
+    "open": 770,
+    "high": 770,
+    "low": 755,
+    "volume": 22975500,
+    "market_cap": 13101010560000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-21",
+    "close": 750,
+    "open": 765,
+    "high": 770,
+    "low": 745,
+    "volume": 27237500,
+    "market_cap": 12844128000000
+  },
+  {
+    "symbol": "CMNT.JK",
+    "date": "2026-09-22",
+    "close": 740,
+    "open": 750,
+    "high": 750,
+    "low": 735,
+    "volume": 20727200,
+    "market_cap": 12672872960000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-06-24",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2342100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-06-25",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2180400,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-06-26",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 343100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-06-29",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 276200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-06-30",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 38300,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-01",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 74200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-02",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 25900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-03",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 137000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-06",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 333100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-07",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1944000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-08",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 141600,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-09",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 134500,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-10",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 115500,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-13",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 195700,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-14",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 169100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-15",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 75900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-16",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1086000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-17",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 183300,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-20",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 10767800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-21",
+    "close": 51,
+    "open": 53,
+    "high": 53,
+    "low": 50,
+    "volume": 56301900,
+    "market_cap": 1959700750206
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-22",
+    "close": 51,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 6793800,
+    "market_cap": 1959700750206
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-23",
+    "close": 51,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 12971700,
+    "market_cap": 1959700750206
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-24",
+    "close": 51,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 5947600,
+    "market_cap": 1959700750206
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-27",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 8737000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-28",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1365900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-29",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 309900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-30",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1627400,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-07-31",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 342900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-03",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 334800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-04",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2336000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-05",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2268000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-06",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1227500,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-07",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 159900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-10",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 732300,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-11",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 25071900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-12",
+    "close": 51,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 15877100,
+    "market_cap": 1959700750206
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-13",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 6565500,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-14",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 6050600,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-18",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 7132200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-19",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 9349000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-20",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 6990100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-21",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 19691400,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-24",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 4004300,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-26",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 5369600,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-27",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 3146100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-28",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 718000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-08-31",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 114400,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-01",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 693800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-02",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 319900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-03",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 319800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-04",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 94300,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-07",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 248100,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-08",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 229000,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-09",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 160500,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-10",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 115400,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-11",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 35200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-14",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 74800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-15",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 220200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-16",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 125900,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-17",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 43200,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-18",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 153800,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-21",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 71700,
+    "market_cap": 1921275245300
+  },
+  {
+    "symbol": "PNBS.JK",
+    "date": "2026-09-22",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 62700,
+    "market_cap": 1921275245300
+  }
+]

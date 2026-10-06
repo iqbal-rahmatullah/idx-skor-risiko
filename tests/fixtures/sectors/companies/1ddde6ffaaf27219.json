@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "symbol": "BIKE.JK",
+      "company_name": "PT Sepeda Bersama Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "debt_to_equity_ratio[2025]": 2.60088303139413
+      }
+    },
+    {
+      "symbol": "UNTD.JK",
+      "company_name": "PT Terang Dunia Internusa Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "debt_to_equity_ratio[2025]": 1.17693842404934
+      }
+    },
+    {
+      "symbol": "DOSS.JK",
+      "company_name": "PT Global Sukses Digital Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "debt_to_equity_ratio[2025]": 0.348671962058316
+      }
+    },
+    {
+      "symbol": "IIKP.JK",
+      "company_name": "Inti Agri Resources Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "debt_to_equity_ratio[2025]": 0.141810682398474
+      }
+    },
+    {
+      "symbol": "TOYS.JK",
+      "company_name": "PT Sunindo Adipersada Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "debt_to_equity_ratio[2025]": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 5,
+    "showing": 5,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-06-24",
+    "close": 7075,
+    "open": 7400,
+    "high": 7400,
+    "low": 7075,
+    "volume": 4167800,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-06-25",
+    "close": 7200,
+    "open": 7075,
+    "high": 7600,
+    "low": 7075,
+    "volume": 8583400,
+    "market_cap": 39391077175200
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-06-26",
+    "close": 7175,
+    "open": 7225,
+    "high": 7350,
+    "low": 7100,
+    "volume": 3049400,
+    "market_cap": 39254302601675
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-06-29",
+    "close": 7075,
+    "open": 7200,
+    "high": 7225,
+    "low": 7000,
+    "volume": 1969500,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-06-30",
+    "close": 7075,
+    "open": 7075,
+    "high": 7200,
+    "low": 6875,
+    "volume": 15189500,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-01",
+    "close": 7000,
+    "open": 7175,
+    "high": 7175,
+    "low": 6950,
+    "volume": 2489900,
+    "market_cap": 38296880587000
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-02",
+    "close": 6950,
+    "open": 6975,
+    "high": 7125,
+    "low": 6875,
+    "volume": 2328200,
+    "market_cap": 38023331439950
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-03",
+    "close": 7075,
+    "open": 6950,
+    "high": 7125,
+    "low": 6925,
+    "volume": 2504000,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-06",
+    "close": 7075,
+    "open": 7075,
+    "high": 7175,
+    "low": 7000,
+    "volume": 1876900,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-07",
+    "close": 7425,
+    "open": 7125,
+    "high": 7450,
+    "low": 7075,
+    "volume": 4501500,
+    "market_cap": 40622048336925
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-08",
+    "close": 7075,
+    "open": 7400,
+    "high": 7400,
+    "low": 7050,
+    "volume": 2844900,
+    "market_cap": 38707204307575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-09",
+    "close": 7275,
+    "open": 7175,
+    "high": 7375,
+    "low": 7050,
+    "volume": 2479400,
+    "market_cap": 39801400895775
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-10",
+    "close": 7325,
+    "open": 7250,
+    "high": 7425,
+    "low": 7225,
+    "volume": 1647500,
+    "market_cap": 40074950042825
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-13",
+    "close": 7375,
+    "open": 7325,
+    "high": 7375,
+    "low": 7275,
+    "volume": 1967000,
+    "market_cap": 40348499189875
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-14",
+    "close": 7450,
+    "open": 7450,
+    "high": 7550,
+    "low": 7375,
+    "volume": 2044100,
+    "market_cap": 40758822910450
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-15",
+    "close": 7425,
+    "open": 7450,
+    "high": 7525,
+    "low": 7300,
+    "volume": 2651900,
+    "market_cap": 40622048336925
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-16",
+    "close": 7800,
+    "open": 7425,
+    "high": 7900,
+    "low": 7375,
+    "volume": 5480000,
+    "market_cap": 42673666939800
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-17",
+    "close": 7625,
+    "open": 7825,
+    "high": 7850,
+    "low": 7625,
+    "volume": 3942600,
+    "market_cap": 41716244925125
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-20",
+    "close": 7800,
+    "open": 7625,
+    "high": 7850,
+    "low": 7625,
+    "volume": 3873800,
+    "market_cap": 42673666939800
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-21",
+    "close": 7875,
+    "open": 7825,
+    "high": 7925,
+    "low": 7700,
+    "volume": 5169500,
+    "market_cap": 43083990660375
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-22",
+    "close": 7875,
+    "open": 7875,
+    "high": 7975,
+    "low": 7800,
+    "volume": 3954200,
+    "market_cap": 43083990660375
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-23",
+    "close": 7725,
+    "open": 7875,
+    "high": 8075,
+    "low": 7675,
+    "volume": 6233600,
+    "market_cap": 42263343219225
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-24",
+    "close": 7675,
+    "open": 7700,
+    "high": 7750,
+    "low": 7550,
+    "volume": 3926300,
+    "market_cap": 41989794072175
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-27",
+    "close": 7950,
+    "open": 7600,
+    "high": 8175,
+    "low": 7600,
+    "volume": 6275300,
+    "market_cap": 43494314380950
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-28",
+    "close": 8000,
+    "open": 8150,
+    "high": 8300,
+    "low": 7975,
+    "volume": 5275400,
+    "market_cap": 43767863528000
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-29",
+    "close": 7925,
+    "open": 8000,
+    "high": 8100,
+    "low": 7800,
+    "volume": 3569700,
+    "market_cap": 43357539807425
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-30",
+    "close": 8225,
+    "open": 7900,
+    "high": 8250,
+    "low": 7900,
+    "volume": 3570100,
+    "market_cap": 44998834689725
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-07-31",
+    "close": 8400,
+    "open": 8250,
+    "high": 8400,
+    "low": 8125,
+    "volume": 5261800,
+    "market_cap": 45956256704400
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-03",
+    "close": 8475,
+    "open": 8700,
+    "high": 8825,
+    "low": 8400,
+    "volume": 9811500,
+    "market_cap": 46366580424975
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-04",
+    "close": 8500,
+    "open": 8550,
+    "high": 8575,
+    "low": 8350,
+    "volume": 4731300,
+    "market_cap": 46503354998500
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-05",
+    "close": 8375,
+    "open": 8525,
+    "high": 8550,
+    "low": 8325,
+    "volume": 2785000,
+    "market_cap": 45819482130875
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-06",
+    "close": 8300,
+    "open": 8400,
+    "high": 8475,
+    "low": 8250,
+    "volume": 5760200,
+    "market_cap": 45409158410300
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-07",
+    "close": 8325,
+    "open": 8400,
+    "high": 8400,
+    "low": 8300,
+    "volume": 2500200,
+    "market_cap": 45545932983825
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-10",
+    "close": 8375,
+    "open": 8400,
+    "high": 8475,
+    "low": 8375,
+    "volume": 2975300,
+    "market_cap": 45819482130875
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-11",
+    "close": 8300,
+    "open": 8375,
+    "high": 8575,
+    "low": 8150,
+    "volume": 8141400,
+    "market_cap": 45409158410300
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-12",
+    "close": 8425,
+    "open": 8300,
+    "high": 8575,
+    "low": 8250,
+    "volume": 5538700,
+    "market_cap": 46093031277925
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-13",
+    "close": 8475,
+    "open": 8450,
+    "high": 8500,
+    "low": 8325,
+    "volume": 2034800,
+    "market_cap": 46366580424975
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-14",
+    "close": 8500,
+    "open": 8475,
+    "high": 8575,
+    "low": 8400,
+    "volume": 2491000,
+    "market_cap": 46503354998500
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-18",
+    "close": 8725,
+    "open": 8500,
+    "high": 8750,
+    "low": 8450,
+    "volume": 6461900,
+    "market_cap": 47734326160225
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-19",
+    "close": 8625,
+    "open": 8800,
+    "high": 8850,
+    "low": 8625,
+    "volume": 3749600,
+    "market_cap": 47187227866125
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-20",
+    "close": 8650,
+    "open": 8675,
+    "high": 8750,
+    "low": 8600,
+    "volume": 1860100,
+    "market_cap": 47324002439650
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-21",
+    "close": 8750,
+    "open": 8650,
+    "high": 8750,
+    "low": 8500,
+    "volume": 3903700,
+    "market_cap": 47871100733750
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-24",
+    "close": 8725,
+    "open": 8750,
+    "high": 8775,
+    "low": 8600,
+    "volume": 4898100,
+    "market_cap": 47734326160225
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-26",
+    "close": 8725,
+    "open": 8725,
+    "high": 8850,
+    "low": 8600,
+    "volume": 4627700,
+    "market_cap": 47734326160225
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-27",
+    "close": 8800,
+    "open": 8675,
+    "high": 8900,
+    "low": 8500,
+    "volume": 3397000,
+    "market_cap": 48144649880800
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-28",
+    "close": 8850,
+    "open": 8875,
+    "high": 8875,
+    "low": 8775,
+    "volume": 2234900,
+    "market_cap": 48418199027850
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-08-31",
+    "close": 8800,
+    "open": 8850,
+    "high": 8875,
+    "low": 8600,
+    "volume": 10221500,
+    "market_cap": 48144649880800
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-01",
+    "close": 9000,
+    "open": 8725,
+    "high": 9000,
+    "low": 8700,
+    "volume": 3175300,
+    "market_cap": 49238846469000
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-02",
+    "close": 8825,
+    "open": 8975,
+    "high": 8975,
+    "low": 8750,
+    "volume": 2415600,
+    "market_cap": 48281424454325
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-03",
+    "close": 8900,
+    "open": 8825,
+    "high": 8975,
+    "low": 8750,
+    "volume": 4411800,
+    "market_cap": 48691748174900
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-04",
+    "close": 8800,
+    "open": 8950,
+    "high": 9125,
+    "low": 8800,
+    "volume": 7038400,
+    "market_cap": 48144649880800
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-07",
+    "close": 9075,
+    "open": 8900,
+    "high": 9125,
+    "low": 8825,
+    "volume": 3620300,
+    "market_cap": 49649170189575
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-08",
+    "close": 9450,
+    "open": 9125,
+    "high": 9500,
+    "low": 9125,
+    "volume": 10913700,
+    "market_cap": 51700788792450
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-09",
+    "close": 9300,
+    "open": 9475,
+    "high": 9500,
+    "low": 9250,
+    "volume": 3401900,
+    "market_cap": 50880141351300
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-10",
+    "close": 9100,
+    "open": 9300,
+    "high": 9350,
+    "low": 9050,
+    "volume": 2558500,
+    "market_cap": 49785944763100
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-11",
+    "close": 8850,
+    "open": 9075,
+    "high": 9075,
+    "low": 8825,
+    "volume": 4853700,
+    "market_cap": 48418199027850
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-14",
+    "close": 8825,
+    "open": 8850,
+    "high": 8925,
+    "low": 8575,
+    "volume": 6253600,
+    "market_cap": 48281424454325
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-15",
+    "close": 8675,
+    "open": 8875,
+    "high": 8875,
+    "low": 8675,
+    "volume": 3803000,
+    "market_cap": 47460777013175
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-16",
+    "close": 8600,
+    "open": 8700,
+    "high": 8800,
+    "low": 8550,
+    "volume": 5040700,
+    "market_cap": 47050453292600
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-17",
+    "close": 8725,
+    "open": 8600,
+    "high": 8850,
+    "low": 8600,
+    "volume": 3820200,
+    "market_cap": 47734326160225
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-18",
+    "close": 8625,
+    "open": 8775,
+    "high": 8825,
+    "low": 8625,
+    "volume": 6317700,
+    "market_cap": 47187227866125
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-21",
+    "close": 8575,
+    "open": 8650,
+    "high": 8700,
+    "low": 8525,
+    "volume": 3212800,
+    "market_cap": 46913678719075
+  },
+  {
+    "symbol": "INKP.JK",
+    "date": "2026-09-22",
+    "close": 8350,
+    "open": 8625,
+    "high": 8650,
+    "low": 8225,
+    "volume": 5493600,
+    "market_cap": 45682707557350
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "symbol": "BIKE.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2022-07-20",
+        "agm_time": "10:00:00",
+        "agm_place": "United Grand Halljl. Alam Sutera Boulevard No. Kav.12A, Pakulonan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2022-11-09",
+        "agm_time": "14:00:00",
+        "agm_place": "United Grand Halljl. Alam Sutera Boulevard No. Kav.12A, Pakulonan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-06-28",
+        "agm_time": "10:00:00",
+        "agm_place": "United Building (Grand Hall/Lantai 6), Jl. Boulevard Alam Sutera No.12 A, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2023-11-24",
+        "agm_time": "10:00:00",
+        "agm_place": "United Building (Grand Hall/Lantai 6)Jl. Boulevard Alam Sutera No.12 A, Pakulonan, kec. Serpong Utara, Kota Tangerang Selatanbanten, 15325",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-05-16",
+        "agm_time": null,
+        "agm_place": "",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2024-10-29",
+        "agm_time": "10:00:00",
+        "agm_place": "United Bike Building, 2Nd Floor (Alam Sutera Boulevard Kav. 12A, Pakulonan, Serpong Utara",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-04-29",
+        "agm_time": "10:00:00",
+        "agm_place": "United Building, Jalan Boulevard Alam Sutera No. 12 A, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-10-02",
+        "agm_time": "10:00:00",
+        "agm_place": "United Bike Building, 2Nd Floor (Alam Sutera Boulevard Kav. 12A, Pakulonan, Serpong Utara",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-04-07",
+        "agm_time": "10:00:00",
+        "agm_place": "United Building, Jalan Boulevard Alam Sutera NO. 12 A, Pakulonan, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15325",
+        "agm_result": "Agenda #1: The meeting approved the 2025 Annual Report and audited Financial Statements while granting full discharge to the Board of Directors and Commissioners for their management and supervision.\nAgenda #2: Shareholders determined that no dividends or mandatory reserves will be distributed because the company recorded a net loss for the 2025 financial year.\nAgenda #3: Authority was granted to the Board of Commissioners and the Nomination and Remuneration Committee to set the 2026 remuneration for the Board of Directors and Board of Commissioners.\nAgenda #4: The Board of Commissioners was authorized to appoint a Public Accountant for the annual financial audit and determine professional fees based on Audit Committee recommendations."
+      },
+      {
+        "agm_date": "2026-07-06",
+        "agm_time": "14:00:00",
+        "agm_place": "JL. Prof. DR. Soepomo No.323, Rt.13/Rw.2, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan, Daerahkhusus Ibu",
+        "agm_result": "Agenda #1: Not stated."
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": [
+      {
+        "ex_date": "2023-07-11",
+        "payment_date": "2023-08-03",
+        "dividend_yield": 0.0278717,
+        "dividend_amount": 8.2
+      },
+      {
+        "ex_date": "2025-05-09",
+        "payment_date": "2025-05-28",
+        "dividend_yield": 0.0212355,
+        "dividend_amount": 15
+      },
+      {
+        "ex_date": "2024-05-29",
+        "payment_date": "2024-06-19",
+        "dividend_yield": 0.0183357,
+        "dividend_amount": 10
+      },
+      {
+        "ex_date": "2022-07-29",
+        "payment_date": "2022-08-19",
+        "dividend_yield": 0.0171076,
+        "dividend_amount": 3.8
+      }
+    ],
+    "right_issue": null,
+    "stock_split": null,
+    "upcoming_dividend": null
+  }
+}

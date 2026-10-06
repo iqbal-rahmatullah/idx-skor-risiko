@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-06-24",
+    "close": 55,
+    "open": 60,
+    "high": 61,
+    "low": 55,
+    "volume": 27000500,
+    "market_cap": 178212971200
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-06-25",
+    "close": 57,
+    "open": 56,
+    "high": 58,
+    "low": 55,
+    "volume": 8003100,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-06-26",
+    "close": 57,
+    "open": 57,
+    "high": 59,
+    "low": 55,
+    "volume": 12120900,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-06-29",
+    "close": 56,
+    "open": 57,
+    "high": 57,
+    "low": 56,
+    "volume": 3452600,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-06-30",
+    "close": 55,
+    "open": 57,
+    "high": 58,
+    "low": 51,
+    "volume": 34121700,
+    "market_cap": 178212971200
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-01",
+    "close": 58,
+    "open": 54,
+    "high": 58,
+    "low": 54,
+    "volume": 12529100,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-02",
+    "close": 56,
+    "open": 57,
+    "high": 58,
+    "low": 55,
+    "volume": 16744900,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-03",
+    "close": 56,
+    "open": 56,
+    "high": 57,
+    "low": 54,
+    "volume": 12490500,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-06",
+    "close": 57,
+    "open": 55,
+    "high": 58,
+    "low": 55,
+    "volume": 15043800,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-07",
+    "close": 57,
+    "open": 56,
+    "high": 60,
+    "low": 55,
+    "volume": 51712900,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-08",
+    "close": 55,
+    "open": 56,
+    "high": 57,
+    "low": 54,
+    "volume": 9947200,
+    "market_cap": 178212971200
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-09",
+    "close": 57,
+    "open": 55,
+    "high": 57,
+    "low": 54,
+    "volume": 20403700,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-10",
+    "close": 57,
+    "open": 57,
+    "high": 57,
+    "low": 55,
+    "volume": 6069800,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-13",
+    "close": 57,
+    "open": 57,
+    "high": 59,
+    "low": 56,
+    "volume": 20672700,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-14",
+    "close": 57,
+    "open": 55,
+    "high": 58,
+    "low": 55,
+    "volume": 7093500,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-15",
+    "close": 58,
+    "open": 57,
+    "high": 58,
+    "low": 56,
+    "volume": 6449800,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-16",
+    "close": 57,
+    "open": 56,
+    "high": 58,
+    "low": 56,
+    "volume": 25525200,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-17",
+    "close": 57,
+    "open": 57,
+    "high": 60,
+    "low": 56,
+    "volume": 21025500,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-20",
+    "close": 59,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 22192100,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-21",
+    "close": 59,
+    "open": 59,
+    "high": 62,
+    "low": 57,
+    "volume": 23383400,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-22",
+    "close": 58,
+    "open": 59,
+    "high": 60,
+    "low": 57,
+    "volume": 15439800,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-23",
+    "close": 58,
+    "open": 57,
+    "high": 59,
+    "low": 56,
+    "volume": 15495400,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-24",
+    "close": 58,
+    "open": 57,
+    "high": 60,
+    "low": 56,
+    "volume": 32360000,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-27",
+    "close": 59,
+    "open": 58,
+    "high": 59,
+    "low": 56,
+    "volume": 23913600,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-28",
+    "close": 61,
+    "open": 58,
+    "high": 62,
+    "low": 58,
+    "volume": 25419200,
+    "market_cap": 197654386240
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-29",
+    "close": 60,
+    "open": 59,
+    "high": 63,
+    "low": 59,
+    "volume": 39725400,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-30",
+    "close": 61,
+    "open": 59,
+    "high": 62,
+    "low": 58,
+    "volume": 28293500,
+    "market_cap": 197654386240
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-07-31",
+    "close": 60,
+    "open": 61,
+    "high": 62,
+    "low": 58,
+    "volume": 23609000,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-03",
+    "close": 58,
+    "open": 60,
+    "high": 61,
+    "low": 57,
+    "volume": 30398200,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-04",
+    "close": 59,
+    "open": 58,
+    "high": 61,
+    "low": 57,
+    "volume": 38800600,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-05",
+    "close": 60,
+    "open": 58,
+    "high": 61,
+    "low": 58,
+    "volume": 36804900,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-06",
+    "close": 59,
+    "open": 59,
+    "high": 62,
+    "low": 57,
+    "volume": 49572000,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-07",
+    "close": 58,
+    "open": 59,
+    "high": 59,
+    "low": 58,
+    "volume": 6551700,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-10",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 17676200,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-11",
+    "close": 57,
+    "open": 57,
+    "high": 58,
+    "low": 57,
+    "volume": 10620800,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-12",
+    "close": 58,
+    "open": 57,
+    "high": 58,
+    "low": 56,
+    "volume": 3288100,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-13",
+    "close": 62,
+    "open": 57,
+    "high": 70,
+    "low": 56,
+    "volume": 270382400,
+    "market_cap": 200894622080
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-14",
+    "close": 59,
+    "open": 62,
+    "high": 62,
+    "low": 59,
+    "volume": 49174700,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-18",
+    "close": 60,
+    "open": 59,
+    "high": 63,
+    "low": 59,
+    "volume": 23324000,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-19",
+    "close": 60,
+    "open": 60,
+    "high": 62,
+    "low": 59,
+    "volume": 14733400,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-20",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 58,
+    "volume": 15654100,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-21",
+    "close": 60,
+    "open": 60,
+    "high": 60,
+    "low": 59,
+    "volume": 9511000,
+    "market_cap": 194414150400
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-24",
+    "close": 59,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 11289200,
+    "market_cap": 191173914560
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-26",
+    "close": 57,
+    "open": 59,
+    "high": 59,
+    "low": 57,
+    "volume": 24638200,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-27",
+    "close": 58,
+    "open": 57,
+    "high": 59,
+    "low": 56,
+    "volume": 13479000,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-28",
+    "close": 57,
+    "open": 59,
+    "high": 59,
+    "low": 56,
+    "volume": 23935900,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-08-31",
+    "close": 56,
+    "open": 57,
+    "high": 57,
+    "low": 55,
+    "volume": 5290100,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-01",
+    "close": 58,
+    "open": 56,
+    "high": 58,
+    "low": 56,
+    "volume": 3763400,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-02",
+    "close": 58,
+    "open": 58,
+    "high": 61,
+    "low": 57,
+    "volume": 106256500,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-03",
+    "close": 58,
+    "open": 58,
+    "high": 60,
+    "low": 57,
+    "volume": 18339600,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-04",
+    "close": 58,
+    "open": 59,
+    "high": 60,
+    "low": 58,
+    "volume": 14930200,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-07",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 56,
+    "volume": 24953200,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-08",
+    "close": 58,
+    "open": 58,
+    "high": 61,
+    "low": 57,
+    "volume": 19313900,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-09",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 58,
+    "volume": 21933200,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-10",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 4734900,
+    "market_cap": 187933678720
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-11",
+    "close": 57,
+    "open": 57,
+    "high": 59,
+    "low": 56,
+    "volume": 16638300,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-14",
+    "close": 57,
+    "open": 57,
+    "high": 58,
+    "low": 56,
+    "volume": 3807200,
+    "market_cap": 184693442880
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-15",
+    "close": 56,
+    "open": 57,
+    "high": 58,
+    "low": 56,
+    "volume": 5477800,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-16",
+    "close": 56,
+    "open": 57,
+    "high": 58,
+    "low": 55,
+    "volume": 9831500,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-17",
+    "close": 56,
+    "open": 56,
+    "high": 57,
+    "low": 55,
+    "volume": 6068900,
+    "market_cap": 181453207040
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-18",
+    "close": 53,
+    "open": 56,
+    "high": 57,
+    "low": 53,
+    "volume": 11814500,
+    "market_cap": 171732499520
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-21",
+    "close": 55,
+    "open": 53,
+    "high": 56,
+    "low": 53,
+    "volume": 6852000,
+    "market_cap": 178212971200
+  },
+  {
+    "symbol": "NPGF.JK",
+    "date": "2026-09-22",
+    "close": 55,
+    "open": 55,
+    "high": 56,
+    "low": 54,
+    "volume": 3321800,
+    "market_cap": 178212971200
+  }
+]

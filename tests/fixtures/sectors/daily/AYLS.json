@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-06-24",
+    "close": 114,
+    "open": 124,
+    "high": 124,
+    "low": 113,
+    "volume": 591200,
+    "market_cap": 97290248904
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-06-25",
+    "close": 121,
+    "open": 114,
+    "high": 121,
+    "low": 111,
+    "volume": 1086100,
+    "market_cap": 103264211556
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-06-26",
+    "close": 118,
+    "open": 121,
+    "high": 121,
+    "low": 111,
+    "volume": 777900,
+    "market_cap": 100703941848
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-06-29",
+    "close": 138,
+    "open": 120,
+    "high": 153,
+    "low": 112,
+    "volume": 25990500,
+    "market_cap": 117772406568
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-06-30",
+    "close": 176,
+    "open": 143,
+    "high": 181,
+    "low": 143,
+    "volume": 53004500,
+    "market_cap": 150202489536
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-01",
+    "close": 155,
+    "open": 180,
+    "high": 208,
+    "low": 153,
+    "volume": 41628100,
+    "market_cap": 132280601580
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-02",
+    "close": 162,
+    "open": 158,
+    "high": 173,
+    "low": 155,
+    "volume": 9934200,
+    "market_cap": 138254564232
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-03",
+    "close": 159,
+    "open": 169,
+    "high": 170,
+    "low": 155,
+    "volume": 3786900,
+    "market_cap": 135694294524
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-06",
+    "close": 158,
+    "open": 160,
+    "high": 165,
+    "low": 156,
+    "volume": 1729300,
+    "market_cap": 134840871288
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-07",
+    "close": 156,
+    "open": 160,
+    "high": 160,
+    "low": 151,
+    "volume": 1421500,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-08",
+    "close": 154,
+    "open": 159,
+    "high": 160,
+    "low": 149,
+    "volume": 1270300,
+    "market_cap": 131427178344
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-09",
+    "close": 146,
+    "open": 152,
+    "high": 156,
+    "low": 141,
+    "volume": 2018000,
+    "market_cap": 124599792456
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-10",
+    "close": 153,
+    "open": 146,
+    "high": 170,
+    "low": 142,
+    "volume": 11073200,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-13",
+    "close": 147,
+    "open": 154,
+    "high": 154,
+    "low": 145,
+    "volume": 2545700,
+    "market_cap": 125453215692
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-14",
+    "close": 144,
+    "open": 148,
+    "high": 149,
+    "low": 142,
+    "volume": 1791000,
+    "market_cap": 122892945984
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-15",
+    "close": 152,
+    "open": 144,
+    "high": 166,
+    "low": 144,
+    "volume": 11315800,
+    "market_cap": 129720331872
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-16",
+    "close": 146,
+    "open": 154,
+    "high": 154,
+    "low": 146,
+    "volume": 2021100,
+    "market_cap": 124599792456
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-17",
+    "close": 153,
+    "open": 149,
+    "high": 160,
+    "low": 148,
+    "volume": 6405500,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-20",
+    "close": 156,
+    "open": 159,
+    "high": 164,
+    "low": 154,
+    "volume": 3879000,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-21",
+    "close": 157,
+    "open": 160,
+    "high": 160,
+    "low": 151,
+    "volume": 1449000,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-22",
+    "close": 155,
+    "open": 159,
+    "high": 159,
+    "low": 153,
+    "volume": 877100,
+    "market_cap": 132280601580
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-23",
+    "close": 153,
+    "open": 156,
+    "high": 159,
+    "low": 152,
+    "volume": 2014100,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-24",
+    "close": 150,
+    "open": 155,
+    "high": 156,
+    "low": 145,
+    "volume": 1140100,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-27",
+    "close": 150,
+    "open": 151,
+    "high": 151,
+    "low": 146,
+    "volume": 464800,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-28",
+    "close": 150,
+    "open": 150,
+    "high": 153,
+    "low": 147,
+    "volume": 758600,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-29",
+    "close": 147,
+    "open": 150,
+    "high": 152,
+    "low": 145,
+    "volume": 738200,
+    "market_cap": 125453215692
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-30",
+    "close": 148,
+    "open": 148,
+    "high": 150,
+    "low": 146,
+    "volume": 316900,
+    "market_cap": 126306638928
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-07-31",
+    "close": 153,
+    "open": 149,
+    "high": 155,
+    "low": 148,
+    "volume": 1385000,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-03",
+    "close": 168,
+    "open": 155,
+    "high": 190,
+    "low": 154,
+    "volume": 33904100,
+    "market_cap": 143375103648
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-04",
+    "close": 163,
+    "open": 168,
+    "high": 171,
+    "low": 161,
+    "volume": 4593300,
+    "market_cap": 139107987468
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-05",
+    "close": 160,
+    "open": 163,
+    "high": 167,
+    "low": 158,
+    "volume": 2305100,
+    "market_cap": 136547717760
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-06",
+    "close": 162,
+    "open": 160,
+    "high": 164,
+    "low": 159,
+    "volume": 2208700,
+    "market_cap": 138254564232
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-07",
+    "close": 163,
+    "open": 163,
+    "high": 165,
+    "low": 159,
+    "volume": 1419700,
+    "market_cap": 139107987468
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-10",
+    "close": 161,
+    "open": 167,
+    "high": 167,
+    "low": 160,
+    "volume": 1271400,
+    "market_cap": 137401140996
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-11",
+    "close": 154,
+    "open": 161,
+    "high": 161,
+    "low": 154,
+    "volume": 1436700,
+    "market_cap": 131427178344
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-12",
+    "close": 156,
+    "open": 154,
+    "high": 161,
+    "low": 148,
+    "volume": 1396400,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-13",
+    "close": 157,
+    "open": 158,
+    "high": 158,
+    "low": 154,
+    "volume": 719900,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-14",
+    "close": 157,
+    "open": 159,
+    "high": 160,
+    "low": 156,
+    "volume": 430100,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-18",
+    "close": 157,
+    "open": 156,
+    "high": 159,
+    "low": 155,
+    "volume": 932500,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-19",
+    "close": 157,
+    "open": 157,
+    "high": 158,
+    "low": 154,
+    "volume": 749900,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-20",
+    "close": 156,
+    "open": 155,
+    "high": 158,
+    "low": 153,
+    "volume": 1374000,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-21",
+    "close": 153,
+    "open": 158,
+    "high": 158,
+    "low": 151,
+    "volume": 1163600,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-24",
+    "close": 151,
+    "open": 154,
+    "high": 155,
+    "low": 149,
+    "volume": 1922600,
+    "market_cap": 128866908636
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-26",
+    "close": 149,
+    "open": 152,
+    "high": 154,
+    "low": 149,
+    "volume": 1135100,
+    "market_cap": 127160062164
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-27",
+    "close": 150,
+    "open": 147,
+    "high": 152,
+    "low": 145,
+    "volume": 2023200,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-28",
+    "close": 150,
+    "open": 151,
+    "high": 154,
+    "low": 148,
+    "volume": 2124300,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-08-31",
+    "close": 150,
+    "open": 154,
+    "high": 154,
+    "low": 149,
+    "volume": 2642600,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-01",
+    "close": 151,
+    "open": 150,
+    "high": 152,
+    "low": 148,
+    "volume": 1158300,
+    "market_cap": 128866908636
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-02",
+    "close": 158,
+    "open": 151,
+    "high": 167,
+    "low": 149,
+    "volume": 28305800,
+    "market_cap": 134840871288
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-03",
+    "close": 156,
+    "open": 158,
+    "high": 159,
+    "low": 153,
+    "volume": 4750900,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-04",
+    "close": 155,
+    "open": 156,
+    "high": 159,
+    "low": 154,
+    "volume": 2183400,
+    "market_cap": 132280601580
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-07",
+    "close": 157,
+    "open": 157,
+    "high": 158,
+    "low": 155,
+    "volume": 1609500,
+    "market_cap": 133987448052
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-08",
+    "close": 160,
+    "open": 160,
+    "high": 166,
+    "low": 157,
+    "volume": 8530900,
+    "market_cap": 136547717760
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-09",
+    "close": 161,
+    "open": 163,
+    "high": 165,
+    "low": 160,
+    "volume": 1710900,
+    "market_cap": 137401140996
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-10",
+    "close": 153,
+    "open": 161,
+    "high": 163,
+    "low": 152,
+    "volume": 2366300,
+    "market_cap": 130573755108
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-11",
+    "close": 150,
+    "open": 154,
+    "high": 154,
+    "low": 135,
+    "volume": 1738700,
+    "market_cap": 128013485400
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-14",
+    "close": 156,
+    "open": 145,
+    "high": 182,
+    "low": 145,
+    "volume": 36582800,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-15",
+    "close": 156,
+    "open": 163,
+    "high": 167,
+    "low": 153,
+    "volume": 6931700,
+    "market_cap": 133134024816
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-16",
+    "close": 147,
+    "open": 157,
+    "high": 159,
+    "low": 144,
+    "volume": 7394200,
+    "market_cap": 125453215692
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-17",
+    "close": 198,
+    "open": 173,
+    "high": 198,
+    "low": 166,
+    "volume": 103916500,
+    "market_cap": 168977800728
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-18",
+    "close": 174,
+    "open": 218,
+    "high": 220,
+    "low": 174,
+    "volume": 44346600,
+    "market_cap": 148495643064
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-21",
+    "close": 174,
+    "open": 174,
+    "high": 186,
+    "low": 174,
+    "volume": 9409900,
+    "market_cap": 148495643064
+  },
+  {
+    "symbol": "AYLS.JK",
+    "date": "2026-09-22",
+    "close": 185,
+    "open": 179,
+    "high": 224,
+    "low": 174,
+    "volume": 73557300,
+    "market_cap": 157883298660
+  }
+]

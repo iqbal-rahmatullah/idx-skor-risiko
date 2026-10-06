@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-06-24",
+    "close": 286,
+    "open": 284,
+    "high": 290,
+    "low": 282,
+    "volume": 201500,
+    "market_cap": 2931500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-06-25",
+    "close": 288,
+    "open": 286,
+    "high": 292,
+    "low": 286,
+    "volume": 13900,
+    "market_cap": 2952000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-06-26",
+    "close": 290,
+    "open": 288,
+    "high": 290,
+    "low": 282,
+    "volume": 152400,
+    "market_cap": 2972500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-06-29",
+    "close": 272,
+    "open": 282,
+    "high": 286,
+    "low": 272,
+    "volume": 129100,
+    "market_cap": 2788000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-06-30",
+    "close": 270,
+    "open": 288,
+    "high": 288,
+    "low": 270,
+    "volume": 54600,
+    "market_cap": 2767500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-01",
+    "close": 280,
+    "open": 274,
+    "high": 280,
+    "low": 270,
+    "volume": 24600,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-02",
+    "close": 280,
+    "open": 280,
+    "high": 280,
+    "low": 278,
+    "volume": 2000,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-03",
+    "close": 280,
+    "open": 280,
+    "high": 282,
+    "low": 278,
+    "volume": 11000,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-06",
+    "close": 280,
+    "open": 278,
+    "high": 282,
+    "low": 278,
+    "volume": 57400,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-07",
+    "close": 280,
+    "open": 280,
+    "high": 286,
+    "low": 270,
+    "volume": 152400,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-08",
+    "close": 274,
+    "open": 280,
+    "high": 280,
+    "low": 270,
+    "volume": 34600,
+    "market_cap": 2808500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-09",
+    "close": 274,
+    "open": 276,
+    "high": 278,
+    "low": 274,
+    "volume": 31200,
+    "market_cap": 2808500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-10",
+    "close": 276,
+    "open": 280,
+    "high": 280,
+    "low": 276,
+    "volume": 44900,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-13",
+    "close": 276,
+    "open": 276,
+    "high": 280,
+    "low": 274,
+    "volume": 6300,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-14",
+    "close": 282,
+    "open": 274,
+    "high": 282,
+    "low": 274,
+    "volume": 48200,
+    "market_cap": 2890500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-15",
+    "close": 278,
+    "open": 282,
+    "high": 282,
+    "low": 276,
+    "volume": 41900,
+    "market_cap": 2849500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-16",
+    "close": 276,
+    "open": 284,
+    "high": 284,
+    "low": 276,
+    "volume": 35000,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-17",
+    "close": 278,
+    "open": 280,
+    "high": 284,
+    "low": 276,
+    "volume": 37800,
+    "market_cap": 2849500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-20",
+    "close": 282,
+    "open": 278,
+    "high": 284,
+    "low": 276,
+    "volume": 35500,
+    "market_cap": 2890500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-21",
+    "close": 280,
+    "open": 276,
+    "high": 282,
+    "low": 276,
+    "volume": 75700,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-22",
+    "close": 280,
+    "open": 280,
+    "high": 282,
+    "low": 278,
+    "volume": 90400,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-23",
+    "close": 280,
+    "open": 280,
+    "high": 286,
+    "low": 280,
+    "volume": 91200,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-24",
+    "close": 280,
+    "open": 280,
+    "high": 282,
+    "low": 276,
+    "volume": 51700,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-27",
+    "close": 280,
+    "open": 280,
+    "high": 280,
+    "low": 268,
+    "volume": 27000,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-28",
+    "close": 280,
+    "open": 278,
+    "high": 280,
+    "low": 278,
+    "volume": 30800,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-29",
+    "close": 276,
+    "open": 280,
+    "high": 280,
+    "low": 276,
+    "volume": 86200,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-30",
+    "close": 274,
+    "open": 276,
+    "high": 280,
+    "low": 274,
+    "volume": 55200,
+    "market_cap": 2808500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-07-31",
+    "close": 280,
+    "open": 274,
+    "high": 284,
+    "low": 270,
+    "volume": 285600,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-03",
+    "close": 276,
+    "open": 280,
+    "high": 280,
+    "low": 276,
+    "volume": 134900,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-04",
+    "close": 276,
+    "open": 276,
+    "high": 284,
+    "low": 274,
+    "volume": 105900,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-05",
+    "close": 280,
+    "open": 278,
+    "high": 284,
+    "low": 276,
+    "volume": 118100,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-06",
+    "close": 278,
+    "open": 280,
+    "high": 282,
+    "low": 274,
+    "volume": 29100,
+    "market_cap": 2849500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-07",
+    "close": 280,
+    "open": 278,
+    "high": 282,
+    "low": 278,
+    "volume": 68700,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-10",
+    "close": 280,
+    "open": 282,
+    "high": 284,
+    "low": 280,
+    "volume": 49100,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-11",
+    "close": 276,
+    "open": 280,
+    "high": 280,
+    "low": 274,
+    "volume": 28800,
+    "market_cap": 2829000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-12",
+    "close": 282,
+    "open": 276,
+    "high": 284,
+    "low": 276,
+    "volume": 172000,
+    "market_cap": 2890500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-13",
+    "close": 284,
+    "open": 280,
+    "high": 286,
+    "low": 276,
+    "volume": 66700,
+    "market_cap": 2911000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-14",
+    "close": 280,
+    "open": 286,
+    "high": 286,
+    "low": 274,
+    "volume": 36300,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-18",
+    "close": 278,
+    "open": 278,
+    "high": 282,
+    "low": 278,
+    "volume": 101900,
+    "market_cap": 2849500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-19",
+    "close": 280,
+    "open": 280,
+    "high": 298,
+    "low": 278,
+    "volume": 351200,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-20",
+    "close": 280,
+    "open": 280,
+    "high": 286,
+    "low": 280,
+    "volume": 103900,
+    "market_cap": 2870000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-21",
+    "close": 296,
+    "open": 288,
+    "high": 340,
+    "low": 280,
+    "volume": 4220000,
+    "market_cap": 3034000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-24",
+    "close": 292,
+    "open": 300,
+    "high": 306,
+    "low": 288,
+    "volume": 444300,
+    "market_cap": 2993000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-26",
+    "close": 290,
+    "open": 292,
+    "high": 310,
+    "low": 290,
+    "volume": 432100,
+    "market_cap": 2972500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-27",
+    "close": 288,
+    "open": 292,
+    "high": 304,
+    "low": 282,
+    "volume": 195700,
+    "market_cap": 2952000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-28",
+    "close": 290,
+    "open": 290,
+    "high": 294,
+    "low": 288,
+    "volume": 59600,
+    "market_cap": 2972500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-08-31",
+    "close": 294,
+    "open": 290,
+    "high": 306,
+    "low": 284,
+    "volume": 318100,
+    "market_cap": 3013500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-01",
+    "close": 312,
+    "open": 294,
+    "high": 320,
+    "low": 290,
+    "volume": 1199400,
+    "market_cap": 3198000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-02",
+    "close": 312,
+    "open": 312,
+    "high": 320,
+    "low": 302,
+    "volume": 397200,
+    "market_cap": 3198000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-03",
+    "close": 314,
+    "open": 316,
+    "high": 318,
+    "low": 310,
+    "volume": 442500,
+    "market_cap": 3218500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-04",
+    "close": 316,
+    "open": 314,
+    "high": 332,
+    "low": 312,
+    "volume": 674100,
+    "market_cap": 3239000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-07",
+    "close": 318,
+    "open": 320,
+    "high": 320,
+    "low": 314,
+    "volume": 335300,
+    "market_cap": 3259500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-08",
+    "close": 320,
+    "open": 320,
+    "high": 324,
+    "low": 314,
+    "volume": 560600,
+    "market_cap": 3280000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-09",
+    "close": 326,
+    "open": 324,
+    "high": 330,
+    "low": 318,
+    "volume": 602800,
+    "market_cap": 3341500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-10",
+    "close": 332,
+    "open": 320,
+    "high": 334,
+    "low": 320,
+    "volume": 792400,
+    "market_cap": 3403000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-11",
+    "close": 332,
+    "open": 336,
+    "high": 340,
+    "low": 328,
+    "volume": 442300,
+    "market_cap": 3403000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-14",
+    "close": 318,
+    "open": 332,
+    "high": 332,
+    "low": 312,
+    "volume": 96600,
+    "market_cap": 3259500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-15",
+    "close": 310,
+    "open": 318,
+    "high": 322,
+    "low": 292,
+    "volume": 143600,
+    "market_cap": 3177500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-16",
+    "close": 308,
+    "open": 310,
+    "high": 310,
+    "low": 304,
+    "volume": 144800,
+    "market_cap": 3157000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-17",
+    "close": 316,
+    "open": 308,
+    "high": 318,
+    "low": 308,
+    "volume": 38000,
+    "market_cap": 3239000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-18",
+    "close": 312,
+    "open": 316,
+    "high": 318,
+    "low": 310,
+    "volume": 71200,
+    "market_cap": 3198000000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-21",
+    "close": 310,
+    "open": 312,
+    "high": 314,
+    "low": 302,
+    "volume": 106700,
+    "market_cap": 3177500000000
+  },
+  {
+    "symbol": "SAMF.JK",
+    "date": "2026-09-22",
+    "close": 312,
+    "open": 310,
+    "high": 314,
+    "low": 302,
+    "volume": 68700,
+    "market_cap": 3198000000000
+  }
+]

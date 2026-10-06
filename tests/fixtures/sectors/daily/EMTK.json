@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-06-24",
+    "close": 520,
+    "open": 555,
+    "high": 605,
+    "low": 510,
+    "volume": 165271000,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-06-25",
+    "close": 530,
+    "open": 520,
+    "high": 550,
+    "low": 515,
+    "volume": 76351200,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-06-26",
+    "close": 505,
+    "open": 530,
+    "high": 530,
+    "low": 496,
+    "volume": 59199200,
+    "market_cap": 31020357998915
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-06-29",
+    "close": 510,
+    "open": 505,
+    "high": 520,
+    "low": 500,
+    "volume": 22842000,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-06-30",
+    "close": 486,
+    "open": 520,
+    "high": 520,
+    "low": 484,
+    "volume": 41669500,
+    "market_cap": 29853255420738
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-01",
+    "close": 482,
+    "open": 484,
+    "high": 492,
+    "low": 476,
+    "volume": 36960100,
+    "market_cap": 29607549614806
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-02",
+    "close": 515,
+    "open": 484,
+    "high": 520,
+    "low": 484,
+    "volume": 36435200,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-03",
+    "close": 525,
+    "open": 520,
+    "high": 535,
+    "low": 515,
+    "volume": 21564800,
+    "market_cap": 32248887028575
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-06",
+    "close": 515,
+    "open": 525,
+    "high": 530,
+    "low": 505,
+    "volume": 14475700,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-07",
+    "close": 515,
+    "open": 520,
+    "high": 535,
+    "low": 515,
+    "volume": 24235600,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-08",
+    "close": 496,
+    "open": 515,
+    "high": 520,
+    "low": 496,
+    "volume": 21238800,
+    "market_cap": 30467519935568
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-09",
+    "close": 510,
+    "open": 496,
+    "high": 510,
+    "low": 492,
+    "volume": 14822200,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-10",
+    "close": 505,
+    "open": 510,
+    "high": 520,
+    "low": 500,
+    "volume": 12979800,
+    "market_cap": 31020357998915
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-13",
+    "close": 510,
+    "open": 505,
+    "high": 510,
+    "low": 500,
+    "volume": 21821000,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-14",
+    "close": 520,
+    "open": 515,
+    "high": 535,
+    "low": 510,
+    "volume": 31348400,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-15",
+    "close": 515,
+    "open": 520,
+    "high": 525,
+    "low": 510,
+    "volume": 23613300,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-16",
+    "close": 530,
+    "open": 515,
+    "high": 535,
+    "low": 510,
+    "volume": 35118000,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-17",
+    "close": 535,
+    "open": 525,
+    "high": 545,
+    "low": 520,
+    "volume": 43130100,
+    "market_cap": 32863151543405
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-20",
+    "close": 540,
+    "open": 540,
+    "high": 550,
+    "low": 530,
+    "volume": 31837100,
+    "market_cap": 33170283800820
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-21",
+    "close": 550,
+    "open": 540,
+    "high": 555,
+    "low": 535,
+    "volume": 50936000,
+    "market_cap": 33784548315650
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-22",
+    "close": 540,
+    "open": 560,
+    "high": 565,
+    "low": 530,
+    "volume": 83587500,
+    "market_cap": 33170283800820
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-23",
+    "close": 535,
+    "open": 540,
+    "high": 570,
+    "low": 530,
+    "volume": 89056900,
+    "market_cap": 32863151543405
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-24",
+    "close": 515,
+    "open": 535,
+    "high": 535,
+    "low": 510,
+    "volume": 45654900,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-27",
+    "close": 520,
+    "open": 515,
+    "high": 520,
+    "low": 500,
+    "volume": 37232000,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-28",
+    "close": 515,
+    "open": 520,
+    "high": 530,
+    "low": 515,
+    "volume": 17189300,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-29",
+    "close": 510,
+    "open": 520,
+    "high": 525,
+    "low": 494,
+    "volume": 36370600,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-30",
+    "close": 525,
+    "open": 510,
+    "high": 525,
+    "low": 505,
+    "volume": 23173800,
+    "market_cap": 32248887028575
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-07-31",
+    "close": 530,
+    "open": 530,
+    "high": 545,
+    "low": 525,
+    "volume": 23917700,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-03",
+    "close": 520,
+    "open": 520,
+    "high": 525,
+    "low": 505,
+    "volume": 47286000,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-04",
+    "close": 530,
+    "open": 520,
+    "high": 535,
+    "low": 520,
+    "volume": 60098100,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-05",
+    "close": 530,
+    "open": 540,
+    "high": 550,
+    "low": 525,
+    "volume": 40154800,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-06",
+    "close": 530,
+    "open": 535,
+    "high": 540,
+    "low": 515,
+    "volume": 62962600,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-07",
+    "close": 530,
+    "open": 535,
+    "high": 535,
+    "low": 520,
+    "volume": 44167700,
+    "market_cap": 32556019285990
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-10",
+    "close": 515,
+    "open": 530,
+    "high": 530,
+    "low": 515,
+    "volume": 75023600,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-11",
+    "close": 505,
+    "open": 510,
+    "high": 515,
+    "low": 505,
+    "volume": 43027300,
+    "market_cap": 31020357998915
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-12",
+    "close": 510,
+    "open": 505,
+    "high": 515,
+    "low": 505,
+    "volume": 24974500,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-13",
+    "close": 500,
+    "open": 510,
+    "high": 515,
+    "low": 498,
+    "volume": 35640900,
+    "market_cap": 30713225741500
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-14",
+    "close": 505,
+    "open": 500,
+    "high": 515,
+    "low": 494,
+    "volume": 40820200,
+    "market_cap": 31020357998915
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-18",
+    "close": 520,
+    "open": 505,
+    "high": 520,
+    "low": 500,
+    "volume": 21840400,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-19",
+    "close": 525,
+    "open": 520,
+    "high": 540,
+    "low": 515,
+    "volume": 68442100,
+    "market_cap": 32248887028575
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-20",
+    "close": 550,
+    "open": 530,
+    "high": 565,
+    "low": 525,
+    "volume": 82409400,
+    "market_cap": 33784548315650
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-21",
+    "close": 540,
+    "open": 560,
+    "high": 565,
+    "low": 535,
+    "volume": 47671000,
+    "market_cap": 33170283800820
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-24",
+    "close": 525,
+    "open": 540,
+    "high": 545,
+    "low": 520,
+    "volume": 31003900,
+    "market_cap": 32248887028575
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-26",
+    "close": 500,
+    "open": 530,
+    "high": 535,
+    "low": 498,
+    "volume": 61787200,
+    "market_cap": 30713225741500
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-27",
+    "close": 510,
+    "open": 496,
+    "high": 515,
+    "low": 492,
+    "volume": 39160700,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-28",
+    "close": 515,
+    "open": 510,
+    "high": 525,
+    "low": 510,
+    "volume": 33662700,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-08-31",
+    "close": 515,
+    "open": 520,
+    "high": 520,
+    "low": 505,
+    "volume": 49869400,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-01",
+    "close": 535,
+    "open": 515,
+    "high": 535,
+    "low": 510,
+    "volume": 52530400,
+    "market_cap": 32863151543405
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-02",
+    "close": 520,
+    "open": 530,
+    "high": 540,
+    "low": 510,
+    "volume": 50870200,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-03",
+    "close": 535,
+    "open": 520,
+    "high": 535,
+    "low": 515,
+    "volume": 47833500,
+    "market_cap": 32863151543405
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-04",
+    "close": 515,
+    "open": 540,
+    "high": 540,
+    "low": 515,
+    "volume": 34794900,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-07",
+    "close": 510,
+    "open": 500,
+    "high": 515,
+    "low": 500,
+    "volume": 43367600,
+    "market_cap": 31327490256330
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-08",
+    "close": 520,
+    "open": 510,
+    "high": 525,
+    "low": 505,
+    "volume": 26460300,
+    "market_cap": 31941754771160
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-09",
+    "close": 515,
+    "open": 520,
+    "high": 520,
+    "low": 505,
+    "volume": 31399400,
+    "market_cap": 31634622513745
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-10",
+    "close": 500,
+    "open": 515,
+    "high": 520,
+    "low": 500,
+    "volume": 27456800,
+    "market_cap": 30713225741500
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-11",
+    "close": 500,
+    "open": 500,
+    "high": 505,
+    "low": 494,
+    "volume": 52096800,
+    "market_cap": 30713225741500
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-14",
+    "close": 496,
+    "open": 500,
+    "high": 505,
+    "low": 488,
+    "volume": 45695500,
+    "market_cap": 30467519935568
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-15",
+    "close": 492,
+    "open": 496,
+    "high": 500,
+    "low": 492,
+    "volume": 21766400,
+    "market_cap": 30221814129636
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-16",
+    "close": 484,
+    "open": 492,
+    "high": 496,
+    "low": 484,
+    "volume": 24777600,
+    "market_cap": 29730402517772
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-17",
+    "close": 494,
+    "open": 484,
+    "high": 494,
+    "low": 482,
+    "volume": 26492000,
+    "market_cap": 30344667032602
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-18",
+    "close": 468,
+    "open": 496,
+    "high": 496,
+    "low": 468,
+    "volume": 86712000,
+    "market_cap": 28747579294044
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-21",
+    "close": 464,
+    "open": 474,
+    "high": 476,
+    "low": 464,
+    "volume": 29043500,
+    "market_cap": 28501873488112
+  },
+  {
+    "symbol": "EMTK.JK",
+    "date": "2026-09-22",
+    "close": 448,
+    "open": 464,
+    "high": 470,
+    "low": 444,
+    "volume": 50666700,
+    "market_cap": 27519050264384
+  }
+]

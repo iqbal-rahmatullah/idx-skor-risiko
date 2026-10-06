@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-06-24",
+    "close": 200,
+    "open": 204,
+    "high": 212,
+    "low": 198,
+    "volume": 11314100,
+    "market_cap": 3869279380000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-06-25",
+    "close": 198,
+    "open": 204,
+    "high": 210,
+    "low": 198,
+    "volume": 9341100,
+    "market_cap": 3830586586200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-06-26",
+    "close": 199,
+    "open": 200,
+    "high": 204,
+    "low": 198,
+    "volume": 5094800,
+    "market_cap": 3849932983100
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-06-29",
+    "close": 198,
+    "open": 202,
+    "high": 206,
+    "low": 198,
+    "volume": 4064500,
+    "market_cap": 3830586586200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-06-30",
+    "close": 188,
+    "open": 199,
+    "high": 202,
+    "low": 188,
+    "volume": 7646200,
+    "market_cap": 3637122617200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-01",
+    "close": 190,
+    "open": 189,
+    "high": 192,
+    "low": 188,
+    "volume": 3443100,
+    "market_cap": 3675815411000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-02",
+    "close": 196,
+    "open": 190,
+    "high": 196,
+    "low": 190,
+    "volume": 3755700,
+    "market_cap": 3791893792400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-03",
+    "close": 199,
+    "open": 196,
+    "high": 202,
+    "low": 196,
+    "volume": 4452700,
+    "market_cap": 3849932983100
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-06",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 200,
+    "volume": 3689400,
+    "market_cap": 3985357761400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-07",
+    "close": 216,
+    "open": 206,
+    "high": 222,
+    "low": 204,
+    "volume": 7661900,
+    "market_cap": 4178821730400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-08",
+    "close": 216,
+    "open": 218,
+    "high": 222,
+    "low": 210,
+    "volume": 16466600,
+    "market_cap": 4178821730400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-09",
+    "close": 214,
+    "open": 220,
+    "high": 220,
+    "low": 210,
+    "volume": 4344100,
+    "market_cap": 4140128936600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-10",
+    "close": 216,
+    "open": 214,
+    "high": 220,
+    "low": 212,
+    "volume": 1926900,
+    "market_cap": 4178821730400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-13",
+    "close": 216,
+    "open": 218,
+    "high": 222,
+    "low": 208,
+    "volume": 5774900,
+    "market_cap": 4178821730400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-14",
+    "close": 228,
+    "open": 218,
+    "high": 236,
+    "low": 212,
+    "volume": 12793000,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-15",
+    "close": 224,
+    "open": 230,
+    "high": 236,
+    "low": 218,
+    "volume": 10067100,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-16",
+    "close": 230,
+    "open": 224,
+    "high": 234,
+    "low": 220,
+    "volume": 5427000,
+    "market_cap": 4449671287000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-17",
+    "close": 240,
+    "open": 236,
+    "high": 244,
+    "low": 234,
+    "volume": 6369100,
+    "market_cap": 4643135256000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-20",
+    "close": 242,
+    "open": 242,
+    "high": 246,
+    "low": 236,
+    "volume": 5251000,
+    "market_cap": 4681828049800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-21",
+    "close": 244,
+    "open": 242,
+    "high": 248,
+    "low": 236,
+    "volume": 5242500,
+    "market_cap": 4720520843600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-22",
+    "close": 244,
+    "open": 246,
+    "high": 250,
+    "low": 238,
+    "volume": 4269100,
+    "market_cap": 4720520843600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-23",
+    "close": 242,
+    "open": 246,
+    "high": 248,
+    "low": 238,
+    "volume": 5610400,
+    "market_cap": 4681828049800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-24",
+    "close": 230,
+    "open": 240,
+    "high": 244,
+    "low": 224,
+    "volume": 4145000,
+    "market_cap": 4449671287000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-27",
+    "close": 224,
+    "open": 230,
+    "high": 234,
+    "low": 216,
+    "volume": 4554300,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-28",
+    "close": 224,
+    "open": 224,
+    "high": 230,
+    "low": 220,
+    "volume": 4312600,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-29",
+    "close": 210,
+    "open": 222,
+    "high": 224,
+    "low": 210,
+    "volume": 5021600,
+    "market_cap": 4062743349000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-30",
+    "close": 218,
+    "open": 208,
+    "high": 220,
+    "low": 208,
+    "volume": 1919300,
+    "market_cap": 4217514524200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-07-31",
+    "close": 224,
+    "open": 220,
+    "high": 230,
+    "low": 220,
+    "volume": 6234800,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-03",
+    "close": 226,
+    "open": 224,
+    "high": 228,
+    "low": 222,
+    "volume": 1798400,
+    "market_cap": 4372285699400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-04",
+    "close": 224,
+    "open": 228,
+    "high": 228,
+    "low": 222,
+    "volume": 2737300,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-05",
+    "close": 232,
+    "open": 228,
+    "high": 236,
+    "low": 226,
+    "volume": 6108900,
+    "market_cap": 4488364080800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-06",
+    "close": 228,
+    "open": 234,
+    "high": 236,
+    "low": 222,
+    "volume": 5675500,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-07",
+    "close": 228,
+    "open": 228,
+    "high": 232,
+    "low": 226,
+    "volume": 2183200,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-10",
+    "close": 228,
+    "open": 228,
+    "high": 236,
+    "low": 228,
+    "volume": 5229300,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-11",
+    "close": 220,
+    "open": 230,
+    "high": 232,
+    "low": 216,
+    "volume": 7120200,
+    "market_cap": 4256207318000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-12",
+    "close": 224,
+    "open": 220,
+    "high": 228,
+    "low": 218,
+    "volume": 4197000,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-13",
+    "close": 222,
+    "open": 226,
+    "high": 226,
+    "low": 218,
+    "volume": 2337100,
+    "market_cap": 4294900111800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-14",
+    "close": 222,
+    "open": 222,
+    "high": 226,
+    "low": 218,
+    "volume": 2737600,
+    "market_cap": 4294900111800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-18",
+    "close": 226,
+    "open": 222,
+    "high": 230,
+    "low": 222,
+    "volume": 4984400,
+    "market_cap": 4372285699400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-19",
+    "close": 222,
+    "open": 226,
+    "high": 228,
+    "low": 220,
+    "volume": 4830600,
+    "market_cap": 4294900111800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-20",
+    "close": 226,
+    "open": 224,
+    "high": 230,
+    "low": 224,
+    "volume": 2646100,
+    "market_cap": 4372285699400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-21",
+    "close": 230,
+    "open": 222,
+    "high": 230,
+    "low": 222,
+    "volume": 3107600,
+    "market_cap": 4449671287000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-24",
+    "close": 228,
+    "open": 230,
+    "high": 230,
+    "low": 224,
+    "volume": 2428700,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-26",
+    "close": 220,
+    "open": 228,
+    "high": 228,
+    "low": 220,
+    "volume": 5089300,
+    "market_cap": 4256207318000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-27",
+    "close": 224,
+    "open": 220,
+    "high": 226,
+    "low": 218,
+    "volume": 1732000,
+    "market_cap": 4333592905600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-28",
+    "close": 228,
+    "open": 224,
+    "high": 230,
+    "low": 224,
+    "volume": 3918600,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-08-31",
+    "close": 236,
+    "open": 228,
+    "high": 236,
+    "low": 228,
+    "volume": 5354700,
+    "market_cap": 4565749668400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-01",
+    "close": 244,
+    "open": 236,
+    "high": 248,
+    "low": 232,
+    "volume": 14091000,
+    "market_cap": 4720520843600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-02",
+    "close": 242,
+    "open": 246,
+    "high": 248,
+    "low": 236,
+    "volume": 5186000,
+    "market_cap": 4681828049800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-03",
+    "close": 258,
+    "open": 246,
+    "high": 264,
+    "low": 240,
+    "volume": 26220000,
+    "market_cap": 4991370400200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-04",
+    "close": 254,
+    "open": 258,
+    "high": 258,
+    "low": 250,
+    "volume": 9360100,
+    "market_cap": 4913984812600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-07",
+    "close": 250,
+    "open": 254,
+    "high": 258,
+    "low": 244,
+    "volume": 6589500,
+    "market_cap": 4836599225000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-08",
+    "close": 248,
+    "open": 250,
+    "high": 254,
+    "low": 246,
+    "volume": 4603100,
+    "market_cap": 4797906431200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-09",
+    "close": 254,
+    "open": 250,
+    "high": 256,
+    "low": 246,
+    "volume": 3370500,
+    "market_cap": 4913984812600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-10",
+    "close": 244,
+    "open": 252,
+    "high": 254,
+    "low": 244,
+    "volume": 3681700,
+    "market_cap": 4720520843600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-11",
+    "close": 238,
+    "open": 238,
+    "high": 242,
+    "low": 236,
+    "volume": 3721200,
+    "market_cap": 4604442462200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-14",
+    "close": 234,
+    "open": 238,
+    "high": 238,
+    "low": 230,
+    "volume": 3586100,
+    "market_cap": 4527056874600
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-15",
+    "close": 230,
+    "open": 234,
+    "high": 234,
+    "low": 228,
+    "volume": 1431800,
+    "market_cap": 4449671287000
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-16",
+    "close": 228,
+    "open": 230,
+    "high": 234,
+    "low": 228,
+    "volume": 2402600,
+    "market_cap": 4410978493200
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-17",
+    "close": 232,
+    "open": 228,
+    "high": 238,
+    "low": 228,
+    "volume": 2268500,
+    "market_cap": 4488364080800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-18",
+    "close": 226,
+    "open": 234,
+    "high": 234,
+    "low": 224,
+    "volume": 2504400,
+    "market_cap": 4372285699400
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-21",
+    "close": 232,
+    "open": 222,
+    "high": 234,
+    "low": 222,
+    "volume": 2927800,
+    "market_cap": 4488364080800
+  },
+  {
+    "symbol": "KRAS.JK",
+    "date": "2026-09-22",
+    "close": 222,
+    "open": 232,
+    "high": 236,
+    "low": 222,
+    "volume": 4426800,
+    "market_cap": 4294900111800
+  }
+]

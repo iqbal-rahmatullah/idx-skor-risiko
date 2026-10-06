@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-06-24",
+    "close": 64,
+    "open": 70,
+    "high": 76,
+    "low": 64,
+    "volume": 248574100,
+    "market_cap": 211417600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-06-25",
+    "close": 68,
+    "open": 69,
+    "high": 71,
+    "low": 63,
+    "volume": 87261200,
+    "market_cap": 224631200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-06-26",
+    "close": 73,
+    "open": 68,
+    "high": 76,
+    "low": 68,
+    "volume": 158031900,
+    "market_cap": 241148200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-06-29",
+    "close": 81,
+    "open": 74,
+    "high": 85,
+    "low": 70,
+    "volume": 969232800,
+    "market_cap": 267575400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-06-30",
+    "close": 69,
+    "open": 81,
+    "high": 85,
+    "low": 69,
+    "volume": 856849100,
+    "market_cap": 227934600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-01",
+    "close": 69,
+    "open": 70,
+    "high": 73,
+    "low": 67,
+    "volume": 148828700,
+    "market_cap": 227934600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-02",
+    "close": 71,
+    "open": 70,
+    "high": 71,
+    "low": 65,
+    "volume": 105019900,
+    "market_cap": 234541400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-03",
+    "close": 73,
+    "open": 72,
+    "high": 75,
+    "low": 68,
+    "volume": 190552200,
+    "market_cap": 241148200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-06",
+    "close": 78,
+    "open": 73,
+    "high": 81,
+    "low": 68,
+    "volume": 1614650900,
+    "market_cap": 257665200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-07",
+    "close": 74,
+    "open": 78,
+    "high": 80,
+    "low": 72,
+    "volume": 871273600,
+    "market_cap": 244451600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-08",
+    "close": 74,
+    "open": 74,
+    "high": 78,
+    "low": 72,
+    "volume": 414484700,
+    "market_cap": 244451600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-09",
+    "close": 71,
+    "open": 74,
+    "high": 78,
+    "low": 71,
+    "volume": 469767900,
+    "market_cap": 234541400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-10",
+    "close": 73,
+    "open": 71,
+    "high": 74,
+    "low": 70,
+    "volume": 141000300,
+    "market_cap": 241148200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-13",
+    "close": 72,
+    "open": 73,
+    "high": 75,
+    "low": 71,
+    "volume": 184945200,
+    "market_cap": 237844800000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-14",
+    "close": 71,
+    "open": 72,
+    "high": 77,
+    "low": 69,
+    "volume": 467515700,
+    "market_cap": 234541400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-15",
+    "close": 69,
+    "open": 71,
+    "high": 71,
+    "low": 68,
+    "volume": 69696400,
+    "market_cap": 227934600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-16",
+    "close": 70,
+    "open": 69,
+    "high": 70,
+    "low": 66,
+    "volume": 83083900,
+    "market_cap": 231238000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-17",
+    "close": 68,
+    "open": 69,
+    "high": 75,
+    "low": 68,
+    "volume": 2129403100,
+    "market_cap": 224631200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-20",
+    "close": 71,
+    "open": 69,
+    "high": 74,
+    "low": 68,
+    "volume": 1051303900,
+    "market_cap": 234541400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-21",
+    "close": 68,
+    "open": 71,
+    "high": 73,
+    "low": 67,
+    "volume": 868828600,
+    "market_cap": 224631200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-22",
+    "close": 66,
+    "open": 68,
+    "high": 69,
+    "low": 66,
+    "volume": 109285800,
+    "market_cap": 218024400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-23",
+    "close": 65,
+    "open": 66,
+    "high": 67,
+    "low": 63,
+    "volume": 177446800,
+    "market_cap": 214721000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-24",
+    "close": 61,
+    "open": 64,
+    "high": 64,
+    "low": 58,
+    "volume": 123783600,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-27",
+    "close": 61,
+    "open": 61,
+    "high": 61,
+    "low": 59,
+    "volume": 37625200,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-28",
+    "close": 60,
+    "open": 61,
+    "high": 63,
+    "low": 59,
+    "volume": 34915500,
+    "market_cap": 198204000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-29",
+    "close": 58,
+    "open": 60,
+    "high": 61,
+    "low": 58,
+    "volume": 32292800,
+    "market_cap": 191597200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-30",
+    "close": 61,
+    "open": 58,
+    "high": 63,
+    "low": 58,
+    "volume": 154334500,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-07-31",
+    "close": 62,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 43212400,
+    "market_cap": 204810800000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-03",
+    "close": 61,
+    "open": 63,
+    "high": 63,
+    "low": 60,
+    "volume": 29248200,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-04",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 32366000,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-05",
+    "close": 59,
+    "open": 61,
+    "high": 62,
+    "low": 59,
+    "volume": 68325400,
+    "market_cap": 194900600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-06",
+    "close": 60,
+    "open": 60,
+    "high": 62,
+    "low": 59,
+    "volume": 79245000,
+    "market_cap": 198204000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-07",
+    "close": 59,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 35743200,
+    "market_cap": 194900600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-10",
+    "close": 61,
+    "open": 59,
+    "high": 63,
+    "low": 58,
+    "volume": 218443600,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-11",
+    "close": 60,
+    "open": 61,
+    "high": 62,
+    "low": 59,
+    "volume": 76906300,
+    "market_cap": 198204000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-12",
+    "close": 60,
+    "open": 60,
+    "high": 61,
+    "low": 59,
+    "volume": 31640500,
+    "market_cap": 198204000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-13",
+    "close": 61,
+    "open": 60,
+    "high": 66,
+    "low": 59,
+    "volume": 480078900,
+    "market_cap": 201507400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-14",
+    "close": 59,
+    "open": 60,
+    "high": 64,
+    "low": 59,
+    "volume": 349249200,
+    "market_cap": 194900600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-18",
+    "close": 58,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 81176600,
+    "market_cap": 191597200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-19",
+    "close": 59,
+    "open": 59,
+    "high": 59,
+    "low": 58,
+    "volume": 26144000,
+    "market_cap": 194900600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-20",
+    "close": 58,
+    "open": 59,
+    "high": 59,
+    "low": 57,
+    "volume": 53798700,
+    "market_cap": 191597200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-21",
+    "close": 59,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 46504500,
+    "market_cap": 194900600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-24",
+    "close": 57,
+    "open": 59,
+    "high": 59,
+    "low": 57,
+    "volume": 38651700,
+    "market_cap": 188293800000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-26",
+    "close": 51,
+    "open": 57,
+    "high": 57,
+    "low": 51,
+    "volume": 100241000,
+    "market_cap": 168473400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-27",
+    "close": 54,
+    "open": 52,
+    "high": 56,
+    "low": 51,
+    "volume": 79395800,
+    "market_cap": 178383600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-28",
+    "close": 55,
+    "open": 55,
+    "high": 57,
+    "low": 53,
+    "volume": 170106900,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-08-31",
+    "close": 58,
+    "open": 55,
+    "high": 61,
+    "low": 53,
+    "volume": 309534300,
+    "market_cap": 191597200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-01",
+    "close": 57,
+    "open": 59,
+    "high": 60,
+    "low": 56,
+    "volume": 52948500,
+    "market_cap": 188293800000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-02",
+    "close": 56,
+    "open": 56,
+    "high": 57,
+    "low": 55,
+    "volume": 21891700,
+    "market_cap": 184990400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-03",
+    "close": 56,
+    "open": 56,
+    "high": 57,
+    "low": 55,
+    "volume": 31795400,
+    "market_cap": 184990400000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-04",
+    "close": 55,
+    "open": 55,
+    "high": 56,
+    "low": 54,
+    "volume": 20453700,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-07",
+    "close": 55,
+    "open": 55,
+    "high": 58,
+    "low": 54,
+    "volume": 48532400,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-08",
+    "close": 55,
+    "open": 56,
+    "high": 58,
+    "low": 55,
+    "volume": 42024600,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-09",
+    "close": 58,
+    "open": 56,
+    "high": 58,
+    "low": 55,
+    "volume": 67954300,
+    "market_cap": 191597200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-10",
+    "close": 55,
+    "open": 58,
+    "high": 58,
+    "low": 55,
+    "volume": 54142400,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-11",
+    "close": 55,
+    "open": 55,
+    "high": 55,
+    "low": 53,
+    "volume": 23968500,
+    "market_cap": 181687000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-14",
+    "close": 54,
+    "open": 54,
+    "high": 55,
+    "low": 52,
+    "volume": 36951500,
+    "market_cap": 178383600000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-15",
+    "close": 53,
+    "open": 54,
+    "high": 54,
+    "low": 50,
+    "volume": 69213900,
+    "market_cap": 175080200000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-16",
+    "close": 50,
+    "open": 52,
+    "high": 53,
+    "low": 50,
+    "volume": 80989000,
+    "market_cap": 165170000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-17",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 4122400,
+    "market_cap": 165170000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-18",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 22586300,
+    "market_cap": 165170000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-21",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2706000,
+    "market_cap": 165170000000
+  },
+  {
+    "symbol": "EPAC.JK",
+    "date": "2026-09-22",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1078000,
+    "market_cap": 165170000000
+  }
+]

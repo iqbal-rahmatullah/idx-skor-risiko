@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-06-24",
+    "close": 208,
+    "open": 208,
+    "high": 208,
+    "low": 204,
+    "volume": 587200,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-06-25",
+    "close": 206,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 780000,
+    "market_cap": 2996325205940
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-06-26",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 206,
+    "volume": 565700,
+    "market_cap": 2996325205940
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-06-29",
+    "close": 208,
+    "open": 204,
+    "high": 220,
+    "low": 202,
+    "volume": 665900,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-06-30",
+    "close": 210,
+    "open": 206,
+    "high": 212,
+    "low": 206,
+    "volume": 59900,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-01",
+    "close": 210,
+    "open": 210,
+    "high": 210,
+    "low": 202,
+    "volume": 664100,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-02",
+    "close": 208,
+    "open": 204,
+    "high": 210,
+    "low": 204,
+    "volume": 561200,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-03",
+    "close": 212,
+    "open": 208,
+    "high": 212,
+    "low": 204,
+    "volume": 514800,
+    "market_cap": 3083596813880
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-06",
+    "close": 214,
+    "open": 210,
+    "high": 218,
+    "low": 208,
+    "volume": 1032800,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-07",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 208,
+    "volume": 667000,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-08",
+    "close": 210,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 642300,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-09",
+    "close": 210,
+    "open": 210,
+    "high": 210,
+    "low": 204,
+    "volume": 547900,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-10",
+    "close": 206,
+    "open": 210,
+    "high": 210,
+    "low": 204,
+    "volume": 647900,
+    "market_cap": 2996325205940
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-13",
+    "close": 208,
+    "open": 206,
+    "high": 208,
+    "low": 200,
+    "volume": 502400,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-14",
+    "close": 204,
+    "open": 206,
+    "high": 208,
+    "low": 202,
+    "volume": 787600,
+    "market_cap": 2967234669960
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-15",
+    "close": 206,
+    "open": 206,
+    "high": 206,
+    "low": 202,
+    "volume": 612800,
+    "market_cap": 2996325205940
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-16",
+    "close": 212,
+    "open": 206,
+    "high": 212,
+    "low": 204,
+    "volume": 1150100,
+    "market_cap": 3083596813880
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-17",
+    "close": 214,
+    "open": 210,
+    "high": 220,
+    "low": 208,
+    "volume": 5078700,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-20",
+    "close": 210,
+    "open": 218,
+    "high": 218,
+    "low": 208,
+    "volume": 1344200,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-21",
+    "close": 208,
+    "open": 212,
+    "high": 212,
+    "low": 208,
+    "volume": 1234600,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-22",
+    "close": 210,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 631200,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-23",
+    "close": 208,
+    "open": 210,
+    "high": 212,
+    "low": 208,
+    "volume": 1960800,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-24",
+    "close": 208,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 727700,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-27",
+    "close": 208,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 140800,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-28",
+    "close": 210,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 182800,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-29",
+    "close": 210,
+    "open": 210,
+    "high": 212,
+    "low": 206,
+    "volume": 371400,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-30",
+    "close": 212,
+    "open": 212,
+    "high": 212,
+    "low": 208,
+    "volume": 212500,
+    "market_cap": 3083596813880
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-07-31",
+    "close": 230,
+    "open": 220,
+    "high": 240,
+    "low": 220,
+    "volume": 5593700,
+    "market_cap": 3345411637700
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-03",
+    "close": 224,
+    "open": 228,
+    "high": 228,
+    "low": 216,
+    "volume": 4017600,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-04",
+    "close": 224,
+    "open": 224,
+    "high": 224,
+    "low": 216,
+    "volume": 1519900,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-05",
+    "close": 224,
+    "open": 218,
+    "high": 226,
+    "low": 218,
+    "volume": 813600,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-06",
+    "close": 224,
+    "open": 224,
+    "high": 226,
+    "low": 218,
+    "volume": 921700,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-07",
+    "close": 224,
+    "open": 220,
+    "high": 224,
+    "low": 218,
+    "volume": 694000,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-10",
+    "close": 222,
+    "open": 222,
+    "high": 226,
+    "low": 220,
+    "volume": 734300,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-11",
+    "close": 222,
+    "open": 222,
+    "high": 222,
+    "low": 218,
+    "volume": 791800,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-12",
+    "close": 222,
+    "open": 220,
+    "high": 226,
+    "low": 218,
+    "volume": 1407300,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-13",
+    "close": 222,
+    "open": 222,
+    "high": 224,
+    "low": 218,
+    "volume": 725400,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-14",
+    "close": 222,
+    "open": 222,
+    "high": 222,
+    "low": 218,
+    "volume": 809400,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-18",
+    "close": 216,
+    "open": 222,
+    "high": 222,
+    "low": 216,
+    "volume": 1505100,
+    "market_cap": 3141777885840
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-19",
+    "close": 218,
+    "open": 218,
+    "high": 218,
+    "low": 212,
+    "volume": 1122300,
+    "market_cap": 3170868421820
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-20",
+    "close": 220,
+    "open": 216,
+    "high": 220,
+    "low": 216,
+    "volume": 979300,
+    "market_cap": 3199958957800
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-21",
+    "close": 218,
+    "open": 220,
+    "high": 220,
+    "low": 216,
+    "volume": 606300,
+    "market_cap": 3170868421820
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-24",
+    "close": 218,
+    "open": 218,
+    "high": 220,
+    "low": 216,
+    "volume": 914900,
+    "market_cap": 3170868421820
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-26",
+    "close": 218,
+    "open": 220,
+    "high": 222,
+    "low": 216,
+    "volume": 934200,
+    "market_cap": 3170868421820
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-27",
+    "close": 222,
+    "open": 218,
+    "high": 224,
+    "low": 216,
+    "volume": 1352100,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-28",
+    "close": 222,
+    "open": 222,
+    "high": 224,
+    "low": 218,
+    "volume": 84300,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-08-31",
+    "close": 224,
+    "open": 222,
+    "high": 224,
+    "low": 216,
+    "volume": 309500,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-01",
+    "close": 224,
+    "open": 224,
+    "high": 228,
+    "low": 220,
+    "volume": 979900,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-02",
+    "close": 222,
+    "open": 224,
+    "high": 224,
+    "low": 220,
+    "volume": 776600,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-03",
+    "close": 226,
+    "open": 222,
+    "high": 228,
+    "low": 220,
+    "volume": 1596700,
+    "market_cap": 3287230565740
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-04",
+    "close": 224,
+    "open": 224,
+    "high": 228,
+    "low": 222,
+    "volume": 841100,
+    "market_cap": 3258140029760
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-07",
+    "close": 222,
+    "open": 224,
+    "high": 224,
+    "low": 218,
+    "volume": 1602900,
+    "market_cap": 3229049493780
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-08",
+    "close": 218,
+    "open": 220,
+    "high": 220,
+    "low": 218,
+    "volume": 2117200,
+    "market_cap": 3170868421820
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-09",
+    "close": 216,
+    "open": 218,
+    "high": 220,
+    "low": 216,
+    "volume": 1481600,
+    "market_cap": 3141777885840
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-10",
+    "close": 214,
+    "open": 218,
+    "high": 218,
+    "low": 212,
+    "volume": 1719000,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-11",
+    "close": 214,
+    "open": 216,
+    "high": 216,
+    "low": 210,
+    "volume": 1917900,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-14",
+    "close": 216,
+    "open": 214,
+    "high": 216,
+    "low": 210,
+    "volume": 812400,
+    "market_cap": 3141777885840
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-15",
+    "close": 216,
+    "open": 214,
+    "high": 218,
+    "low": 210,
+    "volume": 615400,
+    "market_cap": 3141777885840
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-16",
+    "close": 214,
+    "open": 216,
+    "high": 216,
+    "low": 212,
+    "volume": 612200,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-17",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 210,
+    "volume": 590300,
+    "market_cap": 3112687349860
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-18",
+    "close": 208,
+    "open": 214,
+    "high": 214,
+    "low": 206,
+    "volume": 2302400,
+    "market_cap": 3025415741920
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-21",
+    "close": 210,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 1226700,
+    "market_cap": 3054506277900
+  },
+  {
+    "symbol": "SDRA.JK",
+    "date": "2026-09-22",
+    "close": 208,
+    "open": 210,
+    "high": 210,
+    "low": 204,
+    "volume": 728000,
+    "market_cap": 3025415741920
+  }
+]

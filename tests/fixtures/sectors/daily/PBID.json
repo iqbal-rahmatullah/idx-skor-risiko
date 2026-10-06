@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-06-24",
+    "close": 470,
+    "open": 468,
+    "high": 476,
+    "low": 468,
+    "volume": 276600,
+    "market_cap": 3525000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-06-25",
+    "close": 474,
+    "open": 470,
+    "high": 480,
+    "low": 468,
+    "volume": 728400,
+    "market_cap": 3555000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-06-26",
+    "close": 470,
+    "open": 476,
+    "high": 476,
+    "low": 466,
+    "volume": 620800,
+    "market_cap": 3525000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-06-29",
+    "close": 468,
+    "open": 470,
+    "high": 474,
+    "low": 466,
+    "volume": 306600,
+    "market_cap": 3510000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-06-30",
+    "close": 466,
+    "open": 470,
+    "high": 470,
+    "low": 464,
+    "volume": 755500,
+    "market_cap": 3495000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-01",
+    "close": 468,
+    "open": 468,
+    "high": 468,
+    "low": 466,
+    "volume": 264700,
+    "market_cap": 3510000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-02",
+    "close": 470,
+    "open": 470,
+    "high": 470,
+    "low": 464,
+    "volume": 329700,
+    "market_cap": 3525000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-03",
+    "close": 470,
+    "open": 472,
+    "high": 472,
+    "low": 468,
+    "volume": 145800,
+    "market_cap": 3525000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-06",
+    "close": 474,
+    "open": 474,
+    "high": 474,
+    "low": 470,
+    "volume": 220400,
+    "market_cap": 3555000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-07",
+    "close": 478,
+    "open": 480,
+    "high": 480,
+    "low": 474,
+    "volume": 214600,
+    "market_cap": 3585000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-08",
+    "close": 478,
+    "open": 478,
+    "high": 480,
+    "low": 474,
+    "volume": 176300,
+    "market_cap": 3585000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-09",
+    "close": 476,
+    "open": 478,
+    "high": 478,
+    "low": 474,
+    "volume": 263200,
+    "market_cap": 3570000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-10",
+    "close": 480,
+    "open": 478,
+    "high": 480,
+    "low": 476,
+    "volume": 187500,
+    "market_cap": 3600000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-13",
+    "close": 482,
+    "open": 480,
+    "high": 484,
+    "low": 476,
+    "volume": 1175500,
+    "market_cap": 3615000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-14",
+    "close": 480,
+    "open": 482,
+    "high": 484,
+    "low": 478,
+    "volume": 311200,
+    "market_cap": 3600000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-15",
+    "close": 480,
+    "open": 484,
+    "high": 484,
+    "low": 478,
+    "volume": 213300,
+    "market_cap": 3600000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-16",
+    "close": 482,
+    "open": 484,
+    "high": 484,
+    "low": 478,
+    "volume": 279200,
+    "market_cap": 3615000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-17",
+    "close": 486,
+    "open": 482,
+    "high": 486,
+    "low": 480,
+    "volume": 503100,
+    "market_cap": 3645000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-20",
+    "close": 488,
+    "open": 486,
+    "high": 490,
+    "low": 486,
+    "volume": 458600,
+    "market_cap": 3660000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-21",
+    "close": 490,
+    "open": 490,
+    "high": 490,
+    "low": 488,
+    "volume": 447900,
+    "market_cap": 3675000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-22",
+    "close": 490,
+    "open": 490,
+    "high": 492,
+    "low": 488,
+    "volume": 143600,
+    "market_cap": 3675000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-23",
+    "close": 490,
+    "open": 492,
+    "high": 492,
+    "low": 488,
+    "volume": 325200,
+    "market_cap": 3675000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-24",
+    "close": 494,
+    "open": 490,
+    "high": 494,
+    "low": 486,
+    "volume": 1740400,
+    "market_cap": 3705000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-27",
+    "close": 515,
+    "open": 494,
+    "high": 515,
+    "low": 490,
+    "volume": 3427500,
+    "market_cap": 3862500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-28",
+    "close": 530,
+    "open": 515,
+    "high": 570,
+    "low": 505,
+    "volume": 22404600,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-29",
+    "close": 530,
+    "open": 530,
+    "high": 545,
+    "low": 525,
+    "volume": 4859800,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-30",
+    "close": 535,
+    "open": 530,
+    "high": 550,
+    "low": 525,
+    "volume": 3996100,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-07-31",
+    "close": 530,
+    "open": 540,
+    "high": 540,
+    "low": 525,
+    "volume": 1910500,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-03",
+    "close": 535,
+    "open": 530,
+    "high": 535,
+    "low": 525,
+    "volume": 1384900,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-04",
+    "close": 535,
+    "open": 535,
+    "high": 540,
+    "low": 525,
+    "volume": 1071800,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-05",
+    "close": 535,
+    "open": 535,
+    "high": 535,
+    "low": 530,
+    "volume": 1391800,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-06",
+    "close": 530,
+    "open": 540,
+    "high": 545,
+    "low": 530,
+    "volume": 1440000,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-07",
+    "close": 535,
+    "open": 530,
+    "high": 540,
+    "low": 525,
+    "volume": 941600,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-10",
+    "close": 535,
+    "open": 540,
+    "high": 540,
+    "low": 530,
+    "volume": 635100,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-11",
+    "close": 530,
+    "open": 535,
+    "high": 535,
+    "low": 520,
+    "volume": 941500,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-12",
+    "close": 525,
+    "open": 525,
+    "high": 540,
+    "low": 525,
+    "volume": 1115000,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-13",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 520,
+    "volume": 475700,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-14",
+    "close": 530,
+    "open": 535,
+    "high": 535,
+    "low": 525,
+    "volume": 413700,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-18",
+    "close": 540,
+    "open": 530,
+    "high": 540,
+    "low": 525,
+    "volume": 1070700,
+    "market_cap": 4050000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-19",
+    "close": 535,
+    "open": 535,
+    "high": 540,
+    "low": 530,
+    "volume": 1173300,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-20",
+    "close": 535,
+    "open": 535,
+    "high": 540,
+    "low": 530,
+    "volume": 702300,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-21",
+    "close": 540,
+    "open": 540,
+    "high": 545,
+    "low": 535,
+    "volume": 1118300,
+    "market_cap": 4050000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-24",
+    "close": 535,
+    "open": 535,
+    "high": 540,
+    "low": 530,
+    "volume": 1674300,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-26",
+    "close": 525,
+    "open": 535,
+    "high": 535,
+    "low": 515,
+    "volume": 2495900,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-27",
+    "close": 535,
+    "open": 525,
+    "high": 535,
+    "low": 520,
+    "volume": 597100,
+    "market_cap": 4012500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-28",
+    "close": 525,
+    "open": 535,
+    "high": 535,
+    "low": 525,
+    "volume": 1089400,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-08-31",
+    "close": 530,
+    "open": 530,
+    "high": 530,
+    "low": 520,
+    "volume": 1057600,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-01",
+    "close": 525,
+    "open": 530,
+    "high": 530,
+    "low": 525,
+    "volume": 697800,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-02",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 520,
+    "volume": 494400,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-03",
+    "close": 530,
+    "open": 530,
+    "high": 535,
+    "low": 525,
+    "volume": 828100,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-04",
+    "close": 530,
+    "open": 535,
+    "high": 535,
+    "low": 525,
+    "volume": 1058500,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-07",
+    "close": 530,
+    "open": 530,
+    "high": 535,
+    "low": 525,
+    "volume": 1055600,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-08",
+    "close": 525,
+    "open": 530,
+    "high": 530,
+    "low": 525,
+    "volume": 832000,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-09",
+    "close": 530,
+    "open": 530,
+    "high": 530,
+    "low": 525,
+    "volume": 452000,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-10",
+    "close": 530,
+    "open": 530,
+    "high": 530,
+    "low": 525,
+    "volume": 971000,
+    "market_cap": 3975000000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-11",
+    "close": 525,
+    "open": 530,
+    "high": 530,
+    "low": 525,
+    "volume": 658200,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-14",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 525,
+    "volume": 910400,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-15",
+    "close": 525,
+    "open": 530,
+    "high": 535,
+    "low": 515,
+    "volume": 2089900,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-16",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 520,
+    "volume": 894500,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-17",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 520,
+    "volume": 526300,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-18",
+    "close": 525,
+    "open": 520,
+    "high": 530,
+    "low": 515,
+    "volume": 1093600,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-21",
+    "close": 525,
+    "open": 525,
+    "high": 525,
+    "low": 520,
+    "volume": 524500,
+    "market_cap": 3937500000000
+  },
+  {
+    "symbol": "PBID.JK",
+    "date": "2026-09-22",
+    "close": 520,
+    "open": 525,
+    "high": 525,
+    "low": 515,
+    "volume": 1121500,
+    "market_cap": 3900000000000
+  }
+]

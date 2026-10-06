@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-06-24",
+    "close": 3490,
+    "open": 3660,
+    "high": 3780,
+    "low": 3480,
+    "volume": 45028900,
+    "market_cap": 25992659554460
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-06-25",
+    "close": 3640,
+    "open": 3470,
+    "high": 3680,
+    "low": 3400,
+    "volume": 38811900,
+    "market_cap": 27109822572560
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-06-26",
+    "close": 3450,
+    "open": 3640,
+    "high": 3640,
+    "low": 3450,
+    "volume": 24181900,
+    "market_cap": 25694749416300
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-06-29",
+    "close": 3480,
+    "open": 3450,
+    "high": 3550,
+    "low": 3420,
+    "volume": 14481600,
+    "market_cap": 25918182019920
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-06-30",
+    "close": 3270,
+    "open": 3480,
+    "high": 3480,
+    "low": 3230,
+    "volume": 32574000,
+    "market_cap": 24354153794580
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-01",
+    "close": 3320,
+    "open": 3270,
+    "high": 3400,
+    "low": 3220,
+    "volume": 18692100,
+    "market_cap": 24726541467280
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-02",
+    "close": 3350,
+    "open": 3340,
+    "high": 3440,
+    "low": 3320,
+    "volume": 15267500,
+    "market_cap": 24949974070900
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-03",
+    "close": 3430,
+    "open": 3420,
+    "high": 3480,
+    "low": 3400,
+    "volume": 15598400,
+    "market_cap": 25545794347220
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-06",
+    "close": 3420,
+    "open": 3460,
+    "high": 3520,
+    "low": 3400,
+    "volume": 21126300,
+    "market_cap": 25471316812680
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-07",
+    "close": 3450,
+    "open": 3450,
+    "high": 3500,
+    "low": 3400,
+    "volume": 17838800,
+    "market_cap": 25694749416300
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-08",
+    "close": 3300,
+    "open": 3450,
+    "high": 3480,
+    "low": 3290,
+    "volume": 21580300,
+    "market_cap": 24577586398200
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-09",
+    "close": 3360,
+    "open": 3300,
+    "high": 3420,
+    "low": 3260,
+    "volume": 23093800,
+    "market_cap": 25024451605440
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-10",
+    "close": 3470,
+    "open": 3390,
+    "high": 3530,
+    "low": 3380,
+    "volume": 22230400,
+    "market_cap": 25843704485380
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-13",
+    "close": 3440,
+    "open": 3480,
+    "high": 3480,
+    "low": 3370,
+    "volume": 24121100,
+    "market_cap": 25620271881760
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-14",
+    "close": 3480,
+    "open": 3440,
+    "high": 3600,
+    "low": 3410,
+    "volume": 62190400,
+    "market_cap": 25918182019920
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-15",
+    "close": 3500,
+    "open": 3500,
+    "high": 3570,
+    "low": 3460,
+    "volume": 33635900,
+    "market_cap": 26067137089000
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-16",
+    "close": 3570,
+    "open": 3510,
+    "high": 3650,
+    "low": 3490,
+    "volume": 40766000,
+    "market_cap": 26588479830780
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-17",
+    "close": 3570,
+    "open": 3590,
+    "high": 3610,
+    "low": 3510,
+    "volume": 26546300,
+    "market_cap": 26588479830780
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-20",
+    "close": 3570,
+    "open": 3580,
+    "high": 3630,
+    "low": 3560,
+    "volume": 28770500,
+    "market_cap": 26588479830780
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-21",
+    "close": 3550,
+    "open": 3580,
+    "high": 3640,
+    "low": 3540,
+    "volume": 44423800,
+    "market_cap": 26439524761700
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-22",
+    "close": 3620,
+    "open": 3570,
+    "high": 3680,
+    "low": 3540,
+    "volume": 56029300,
+    "market_cap": 26960867503480
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-23",
+    "close": 3690,
+    "open": 3640,
+    "high": 3780,
+    "low": 3630,
+    "volume": 64666700,
+    "market_cap": 27482210245260
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-24",
+    "close": 3430,
+    "open": 3500,
+    "high": 3600,
+    "low": 3380,
+    "volume": 75535500,
+    "market_cap": 25545794347220
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-27",
+    "close": 3440,
+    "open": 3440,
+    "high": 3480,
+    "low": 3400,
+    "volume": 18863200,
+    "market_cap": 25620271881760
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-28",
+    "close": 3460,
+    "open": 3440,
+    "high": 3540,
+    "low": 3400,
+    "volume": 28571900,
+    "market_cap": 25769226950840
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-29",
+    "close": 3420,
+    "open": 3500,
+    "high": 3570,
+    "low": 3420,
+    "volume": 46220300,
+    "market_cap": 25471316812680
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-30",
+    "close": 3560,
+    "open": 3490,
+    "high": 3580,
+    "low": 3470,
+    "volume": 37198500,
+    "market_cap": 26514002296240
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-07-31",
+    "close": 3800,
+    "open": 3590,
+    "high": 3940,
+    "low": 3590,
+    "volume": 135494100,
+    "market_cap": 28301463125200
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-03",
+    "close": 3750,
+    "open": 3830,
+    "high": 3870,
+    "low": 3710,
+    "volume": 51389000,
+    "market_cap": 27929075452500
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-04",
+    "close": 3820,
+    "open": 3790,
+    "high": 3880,
+    "low": 3750,
+    "volume": 64537000,
+    "market_cap": 28450418194280
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-05",
+    "close": 3880,
+    "open": 3860,
+    "high": 4000,
+    "low": 3860,
+    "volume": 74756700,
+    "market_cap": 28897283401520
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-06",
+    "close": 3800,
+    "open": 3940,
+    "high": 3950,
+    "low": 3780,
+    "volume": 62218800,
+    "market_cap": 28301463125200
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-07",
+    "close": 3860,
+    "open": 3800,
+    "high": 3950,
+    "low": 3800,
+    "volume": 68559300,
+    "market_cap": 28748328332440
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-10",
+    "close": 3850,
+    "open": 3900,
+    "high": 3940,
+    "low": 3840,
+    "volume": 44764500,
+    "market_cap": 28673850797900
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-11",
+    "close": 3770,
+    "open": 3850,
+    "high": 3890,
+    "low": 3720,
+    "volume": 43391800,
+    "market_cap": 28078030521580
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-12",
+    "close": 3840,
+    "open": 3790,
+    "high": 3840,
+    "low": 3760,
+    "volume": 43406200,
+    "market_cap": 28599373263360
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-13",
+    "close": 3720,
+    "open": 3860,
+    "high": 3870,
+    "low": 3690,
+    "volume": 39778400,
+    "market_cap": 27705642848880
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-14",
+    "close": 3890,
+    "open": 3720,
+    "high": 4050,
+    "low": 3710,
+    "volume": 134195200,
+    "market_cap": 28971760936060
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-18",
+    "close": 3900,
+    "open": 3920,
+    "high": 3960,
+    "low": 3860,
+    "volume": 39461900,
+    "market_cap": 29046238470600
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-19",
+    "close": 4050,
+    "open": 3910,
+    "high": 4120,
+    "low": 3870,
+    "volume": 105563700,
+    "market_cap": 30163401488700
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-20",
+    "close": 3990,
+    "open": 4080,
+    "high": 4120,
+    "low": 3980,
+    "volume": 55152900,
+    "market_cap": 29716536281460
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-21",
+    "close": 4030,
+    "open": 4000,
+    "high": 4040,
+    "low": 3970,
+    "volume": 23066900,
+    "market_cap": 30014446419620
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-24",
+    "close": 4130,
+    "open": 4050,
+    "high": 4220,
+    "low": 4040,
+    "volume": 63092700,
+    "market_cap": 30759221765020
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-26",
+    "close": 4020,
+    "open": 4150,
+    "high": 4180,
+    "low": 4010,
+    "volume": 42607700,
+    "market_cap": 29939968885080
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-27",
+    "close": 4080,
+    "open": 4000,
+    "high": 4120,
+    "low": 3940,
+    "volume": 34089000,
+    "market_cap": 30386834092320
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-28",
+    "close": 4030,
+    "open": 4100,
+    "high": 4120,
+    "low": 3970,
+    "volume": 33513500,
+    "market_cap": 30014446419620
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-08-31",
+    "close": 4040,
+    "open": 4020,
+    "high": 4080,
+    "low": 3980,
+    "volume": 24337100,
+    "market_cap": 30088923954160
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-01",
+    "close": 4090,
+    "open": 4070,
+    "high": 4150,
+    "low": 4050,
+    "volume": 36482300,
+    "market_cap": 30461311626860
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-02",
+    "close": 4010,
+    "open": 4110,
+    "high": 4110,
+    "low": 3970,
+    "volume": 42118400,
+    "market_cap": 29865491350540
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-03",
+    "close": 4090,
+    "open": 4020,
+    "high": 4120,
+    "low": 4010,
+    "volume": 37002300,
+    "market_cap": 30461311626860
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-04",
+    "close": 4420,
+    "open": 4120,
+    "high": 4420,
+    "low": 4110,
+    "volume": 101765000,
+    "market_cap": 32919070266680
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-07",
+    "close": 4480,
+    "open": 4420,
+    "high": 4500,
+    "low": 4320,
+    "volume": 56797200,
+    "market_cap": 33365935473920
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-08",
+    "close": 4400,
+    "open": 4490,
+    "high": 4530,
+    "low": 4380,
+    "volume": 36920400,
+    "market_cap": 32770115197600
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-09",
+    "close": 4600,
+    "open": 4400,
+    "high": 4630,
+    "low": 4380,
+    "volume": 59499900,
+    "market_cap": 34259665888400
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-10",
+    "close": 4650,
+    "open": 4600,
+    "high": 4910,
+    "low": 4600,
+    "volume": 86214100,
+    "market_cap": 34632053561100
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-11",
+    "close": 4740,
+    "open": 4590,
+    "high": 4790,
+    "low": 4480,
+    "volume": 55059000,
+    "market_cap": 35302351371960
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-14",
+    "close": 4700,
+    "open": 4770,
+    "high": 4800,
+    "low": 4570,
+    "volume": 50243100,
+    "market_cap": 35004441233800
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-15",
+    "close": 4740,
+    "open": 4690,
+    "high": 4820,
+    "low": 4650,
+    "volume": 38730600,
+    "market_cap": 35302351371960
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-16",
+    "close": 4680,
+    "open": 4740,
+    "high": 4880,
+    "low": 4660,
+    "volume": 37902900,
+    "market_cap": 34855486164720
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-17",
+    "close": 4700,
+    "open": 4690,
+    "high": 4770,
+    "low": 4660,
+    "volume": 26038600,
+    "market_cap": 35004441233800
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-18",
+    "close": 4750,
+    "open": 4730,
+    "high": 4750,
+    "low": 4620,
+    "volume": 29685400,
+    "market_cap": 35376828906500
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-21",
+    "close": 4900,
+    "open": 4800,
+    "high": 5000,
+    "low": 4720,
+    "volume": 63138200,
+    "market_cap": 36493991924600
+  },
+  {
+    "symbol": "TINS.JK",
+    "date": "2026-09-22",
+    "close": 4610,
+    "open": 4950,
+    "high": 4950,
+    "low": 4560,
+    "volume": 76750100,
+    "market_cap": 34334143422940
+  }
+]

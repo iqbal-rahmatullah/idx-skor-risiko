@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-06-24",
+    "close": 178,
+    "open": 185,
+    "high": 185,
+    "low": 175,
+    "volume": 188400,
+    "market_cap": 450366700356
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-06-25",
+    "close": 183,
+    "open": 178,
+    "high": 183,
+    "low": 177,
+    "volume": 66100,
+    "market_cap": 463017450366
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-06-26",
+    "close": 181,
+    "open": 183,
+    "high": 183,
+    "low": 181,
+    "volume": 19300,
+    "market_cap": 457957150362
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-06-29",
+    "close": 180,
+    "open": 185,
+    "high": 185,
+    "low": 178,
+    "volume": 110600,
+    "market_cap": 455427000360
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-06-30",
+    "close": 182,
+    "open": 180,
+    "high": 184,
+    "low": 176,
+    "volume": 83200,
+    "market_cap": 460487300364
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-01",
+    "close": 177,
+    "open": 182,
+    "high": 182,
+    "low": 177,
+    "volume": 89000,
+    "market_cap": 447836550354
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-02",
+    "close": 174,
+    "open": 178,
+    "high": 178,
+    "low": 170,
+    "volume": 343100,
+    "market_cap": 440246100348
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-03",
+    "close": 177,
+    "open": 180,
+    "high": 180,
+    "low": 176,
+    "volume": 72400,
+    "market_cap": 447836550354
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-06",
+    "close": 178,
+    "open": 177,
+    "high": 180,
+    "low": 177,
+    "volume": 7000,
+    "market_cap": 450366700356
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-07",
+    "close": 179,
+    "open": 178,
+    "high": 180,
+    "low": 168,
+    "volume": 321800,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-08",
+    "close": 178,
+    "open": 179,
+    "high": 180,
+    "low": 175,
+    "volume": 44000,
+    "market_cap": 450366700356
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-09",
+    "close": 179,
+    "open": 179,
+    "high": 179,
+    "low": 176,
+    "volume": 170400,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-10",
+    "close": 179,
+    "open": 177,
+    "high": 180,
+    "low": 177,
+    "volume": 69400,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-13",
+    "close": 180,
+    "open": 180,
+    "high": 180,
+    "low": 177,
+    "volume": 178700,
+    "market_cap": 455427000360
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-14",
+    "close": 180,
+    "open": 180,
+    "high": 180,
+    "low": 176,
+    "volume": 383700,
+    "market_cap": 455427000360
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-15",
+    "close": 180,
+    "open": 180,
+    "high": 180,
+    "low": 178,
+    "volume": 53800,
+    "market_cap": 455427000360
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-16",
+    "close": 179,
+    "open": 180,
+    "high": 180,
+    "low": 177,
+    "volume": 888700,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-17",
+    "close": 180,
+    "open": 176,
+    "high": 189,
+    "low": 176,
+    "volume": 600200,
+    "market_cap": 455427000360
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-20",
+    "close": 181,
+    "open": 182,
+    "high": 182,
+    "low": 177,
+    "volume": 42500,
+    "market_cap": 457957150362
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-21",
+    "close": 181,
+    "open": 182,
+    "high": 182,
+    "low": 178,
+    "volume": 69100,
+    "market_cap": 457957150362
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-22",
+    "close": 179,
+    "open": 182,
+    "high": 182,
+    "low": 179,
+    "volume": 101100,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-23",
+    "close": 181,
+    "open": 183,
+    "high": 188,
+    "low": 181,
+    "volume": 71500,
+    "market_cap": 457957150362
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-24",
+    "close": 182,
+    "open": 183,
+    "high": 183,
+    "low": 179,
+    "volume": 32000,
+    "market_cap": 460487300364
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-27",
+    "close": 179,
+    "open": 182,
+    "high": 182,
+    "low": 179,
+    "volume": 136100,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-28",
+    "close": 179,
+    "open": 181,
+    "high": 210,
+    "low": 179,
+    "volume": 4505400,
+    "market_cap": 452896850358
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-29",
+    "close": 183,
+    "open": 182,
+    "high": 183,
+    "low": 178,
+    "volume": 310000,
+    "market_cap": 463017450366
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-30",
+    "close": 181,
+    "open": 184,
+    "high": 187,
+    "low": 177,
+    "volume": 634000,
+    "market_cap": 457957150362
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-07-31",
+    "close": 182,
+    "open": 182,
+    "high": 185,
+    "low": 179,
+    "volume": 139800,
+    "market_cap": 460487300364
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-03",
+    "close": 185,
+    "open": 182,
+    "high": 187,
+    "low": 179,
+    "volume": 202600,
+    "market_cap": 468077750370
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-04",
+    "close": 183,
+    "open": 181,
+    "high": 184,
+    "low": 179,
+    "volume": 135000,
+    "market_cap": 463017450366
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-05",
+    "close": 185,
+    "open": 183,
+    "high": 186,
+    "low": 183,
+    "volume": 95100,
+    "market_cap": 468077750370
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-06",
+    "close": 186,
+    "open": 185,
+    "high": 186,
+    "low": 183,
+    "volume": 139100,
+    "market_cap": 470607900372
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-07",
+    "close": 186,
+    "open": 186,
+    "high": 187,
+    "low": 185,
+    "volume": 239900,
+    "market_cap": 470607900372
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-10",
+    "close": 191,
+    "open": 186,
+    "high": 195,
+    "low": 185,
+    "volume": 480700,
+    "market_cap": 483258650382
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-11",
+    "close": 189,
+    "open": 190,
+    "high": 190,
+    "low": 187,
+    "volume": 145400,
+    "market_cap": 478198350378
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-12",
+    "close": 190,
+    "open": 189,
+    "high": 191,
+    "low": 187,
+    "volume": 90300,
+    "market_cap": 480728500380
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-13",
+    "close": 188,
+    "open": 195,
+    "high": 195,
+    "low": 188,
+    "volume": 158900,
+    "market_cap": 475668200376
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-14",
+    "close": 189,
+    "open": 192,
+    "high": 192,
+    "low": 187,
+    "volume": 37600,
+    "market_cap": 478198350378
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-18",
+    "close": 189,
+    "open": 188,
+    "high": 189,
+    "low": 187,
+    "volume": 40100,
+    "market_cap": 478198350378
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-19",
+    "close": 188,
+    "open": 189,
+    "high": 190,
+    "low": 188,
+    "volume": 94500,
+    "market_cap": 475668200376
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-20",
+    "close": 189,
+    "open": 189,
+    "high": 191,
+    "low": 186,
+    "volume": 140100,
+    "market_cap": 478198350378
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-21",
+    "close": 192,
+    "open": 189,
+    "high": 195,
+    "low": 187,
+    "volume": 148200,
+    "market_cap": 485788800384
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-24",
+    "close": 190,
+    "open": 192,
+    "high": 192,
+    "low": 190,
+    "volume": 94500,
+    "market_cap": 480728500380
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-26",
+    "close": 190,
+    "open": 191,
+    "high": 194,
+    "low": 190,
+    "volume": 61200,
+    "market_cap": 480728500380
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-27",
+    "close": 192,
+    "open": 192,
+    "high": 192,
+    "low": 188,
+    "volume": 190400,
+    "market_cap": 485788800384
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-28",
+    "close": 192,
+    "open": 189,
+    "high": 195,
+    "low": 189,
+    "volume": 187300,
+    "market_cap": 485788800384
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-08-31",
+    "close": 192,
+    "open": 195,
+    "high": 195,
+    "low": 191,
+    "volume": 101400,
+    "market_cap": 485788800384
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-01",
+    "close": 193,
+    "open": 195,
+    "high": 195,
+    "low": 190,
+    "volume": 224300,
+    "market_cap": 488318950386
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-02",
+    "close": 195,
+    "open": 193,
+    "high": 195,
+    "low": 193,
+    "volume": 99800,
+    "market_cap": 493379250390
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-03",
+    "close": 195,
+    "open": 192,
+    "high": 196,
+    "low": 192,
+    "volume": 238100,
+    "market_cap": 493379250390
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-04",
+    "close": 197,
+    "open": 192,
+    "high": 197,
+    "low": 192,
+    "volume": 262300,
+    "market_cap": 498439550394
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-07",
+    "close": 197,
+    "open": 198,
+    "high": 198,
+    "low": 195,
+    "volume": 206800,
+    "market_cap": 498439550394
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-08",
+    "close": 198,
+    "open": 198,
+    "high": 198,
+    "low": 195,
+    "volume": 455300,
+    "market_cap": 500969700396
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-09",
+    "close": 200,
+    "open": 198,
+    "high": 200,
+    "low": 195,
+    "volume": 465400,
+    "market_cap": 506030000400
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-10",
+    "close": 197,
+    "open": 195,
+    "high": 200,
+    "low": 195,
+    "volume": 201000,
+    "market_cap": 498439550394
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-11",
+    "close": 196,
+    "open": 200,
+    "high": 200,
+    "low": 195,
+    "volume": 274700,
+    "market_cap": 495909400392
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-14",
+    "close": 194,
+    "open": 196,
+    "high": 199,
+    "low": 194,
+    "volume": 413400,
+    "market_cap": 490849100388
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-15",
+    "close": 195,
+    "open": 196,
+    "high": 197,
+    "low": 192,
+    "volume": 221300,
+    "market_cap": 493379250390
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-16",
+    "close": 193,
+    "open": 195,
+    "high": 195,
+    "low": 192,
+    "volume": 282400,
+    "market_cap": 488318950386
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-17",
+    "close": 191,
+    "open": 193,
+    "high": 195,
+    "low": 191,
+    "volume": 148000,
+    "market_cap": 483258650382
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-18",
+    "close": 191,
+    "open": 195,
+    "high": 198,
+    "low": 191,
+    "volume": 320500,
+    "market_cap": 483258650382
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-21",
+    "close": 193,
+    "open": 195,
+    "high": 195,
+    "low": 191,
+    "volume": 589300,
+    "market_cap": 488318950386
+  },
+  {
+    "symbol": "MDKI.JK",
+    "date": "2026-09-22",
+    "close": 192,
+    "open": 194,
+    "high": 195,
+    "low": 192,
+    "volume": 504500,
+    "market_cap": 485788800384
+  }
+]

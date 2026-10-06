@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-06-24",
+    "close": 665,
+    "open": 680,
+    "high": 690,
+    "low": 660,
+    "volume": 5024100,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-06-25",
+    "close": 675,
+    "open": 650,
+    "high": 690,
+    "low": 650,
+    "volume": 2855100,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-06-26",
+    "close": 645,
+    "open": 675,
+    "high": 675,
+    "low": 645,
+    "volume": 3582400,
+    "market_cap": 3636669057000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-06-29",
+    "close": 650,
+    "open": 655,
+    "high": 660,
+    "low": 625,
+    "volume": 3009200,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-06-30",
+    "close": 620,
+    "open": 655,
+    "high": 655,
+    "low": 615,
+    "volume": 3373400,
+    "market_cap": 3495712892000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-01",
+    "close": 615,
+    "open": 615,
+    "high": 635,
+    "low": 590,
+    "volume": 3636500,
+    "market_cap": 3467521659000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-02",
+    "close": 625,
+    "open": 620,
+    "high": 630,
+    "low": 620,
+    "volume": 1669600,
+    "market_cap": 3523904125000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-03",
+    "close": 645,
+    "open": 625,
+    "high": 650,
+    "low": 625,
+    "volume": 3989600,
+    "market_cap": 3636669057000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-06",
+    "close": 635,
+    "open": 650,
+    "high": 650,
+    "low": 635,
+    "volume": 633300,
+    "market_cap": 3580286591000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-07",
+    "close": 625,
+    "open": 635,
+    "high": 640,
+    "low": 615,
+    "volume": 2687000,
+    "market_cap": 3523904125000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-08",
+    "close": 610,
+    "open": 630,
+    "high": 630,
+    "low": 610,
+    "volume": 3080100,
+    "market_cap": 3439330426000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-09",
+    "close": 620,
+    "open": 620,
+    "high": 625,
+    "low": 605,
+    "volume": 2317100,
+    "market_cap": 3495712892000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-10",
+    "close": 625,
+    "open": 620,
+    "high": 625,
+    "low": 615,
+    "volume": 600400,
+    "market_cap": 3523904125000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-13",
+    "close": 625,
+    "open": 625,
+    "high": 625,
+    "low": 610,
+    "volume": 3050700,
+    "market_cap": 3523904125000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-14",
+    "close": 635,
+    "open": 630,
+    "high": 650,
+    "low": 625,
+    "volume": 3097500,
+    "market_cap": 3580286591000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-15",
+    "close": 660,
+    "open": 635,
+    "high": 670,
+    "low": 635,
+    "volume": 4464700,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-16",
+    "close": 675,
+    "open": 660,
+    "high": 675,
+    "low": 655,
+    "volume": 1712400,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-17",
+    "close": 665,
+    "open": 675,
+    "high": 675,
+    "low": 660,
+    "volume": 1143300,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-20",
+    "close": 675,
+    "open": 665,
+    "high": 680,
+    "low": 660,
+    "volume": 4767100,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-21",
+    "close": 630,
+    "open": 675,
+    "high": 675,
+    "low": 620,
+    "volume": 28929500,
+    "market_cap": 3552095358000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-22",
+    "close": 650,
+    "open": 630,
+    "high": 655,
+    "low": 620,
+    "volume": 12272900,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-23",
+    "close": 650,
+    "open": 650,
+    "high": 675,
+    "low": 645,
+    "volume": 10587000,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-24",
+    "close": 640,
+    "open": 650,
+    "high": 655,
+    "low": 625,
+    "volume": 11587500,
+    "market_cap": 3608477824000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-27",
+    "close": 645,
+    "open": 635,
+    "high": 650,
+    "low": 630,
+    "volume": 3218000,
+    "market_cap": 3636669057000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-28",
+    "close": 655,
+    "open": 650,
+    "high": 655,
+    "low": 635,
+    "volume": 4828000,
+    "market_cap": 3693051523000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-29",
+    "close": 655,
+    "open": 660,
+    "high": 660,
+    "low": 630,
+    "volume": 15441600,
+    "market_cap": 3693051523000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-30",
+    "close": 660,
+    "open": 650,
+    "high": 670,
+    "low": 650,
+    "volume": 7752000,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-07-31",
+    "close": 660,
+    "open": 665,
+    "high": 675,
+    "low": 660,
+    "volume": 4206400,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-03",
+    "close": 660,
+    "open": 660,
+    "high": 670,
+    "low": 655,
+    "volume": 9900200,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-04",
+    "close": 710,
+    "open": 660,
+    "high": 710,
+    "low": 660,
+    "volume": 21859700,
+    "market_cap": 4003155086000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-05",
+    "close": 695,
+    "open": 710,
+    "high": 715,
+    "low": 690,
+    "volume": 11604500,
+    "market_cap": 3918581387000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-06",
+    "close": 685,
+    "open": 695,
+    "high": 695,
+    "low": 675,
+    "volume": 12112900,
+    "market_cap": 3862198921000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-07",
+    "close": 685,
+    "open": 690,
+    "high": 700,
+    "low": 675,
+    "volume": 8707100,
+    "market_cap": 3862198921000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-10",
+    "close": 665,
+    "open": 690,
+    "high": 695,
+    "low": 665,
+    "volume": 9101900,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-11",
+    "close": 650,
+    "open": 670,
+    "high": 675,
+    "low": 645,
+    "volume": 5649800,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-12",
+    "close": 670,
+    "open": 650,
+    "high": 670,
+    "low": 645,
+    "volume": 2484700,
+    "market_cap": 3777625222000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-13",
+    "close": 650,
+    "open": 675,
+    "high": 675,
+    "low": 650,
+    "volume": 4853300,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-14",
+    "close": 655,
+    "open": 650,
+    "high": 655,
+    "low": 635,
+    "volume": 4353100,
+    "market_cap": 3693051523000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-18",
+    "close": 655,
+    "open": 660,
+    "high": 665,
+    "low": 645,
+    "volume": 3520300,
+    "market_cap": 3693051523000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-19",
+    "close": 660,
+    "open": 660,
+    "high": 670,
+    "low": 645,
+    "volume": 2162700,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-20",
+    "close": 675,
+    "open": 670,
+    "high": 680,
+    "low": 655,
+    "volume": 6170600,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-21",
+    "close": 675,
+    "open": 680,
+    "high": 680,
+    "low": 665,
+    "volume": 3468100,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-24",
+    "close": 660,
+    "open": 675,
+    "high": 675,
+    "low": 660,
+    "volume": 3280500,
+    "market_cap": 3721242756000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-26",
+    "close": 650,
+    "open": 660,
+    "high": 665,
+    "low": 645,
+    "volume": 5666700,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-27",
+    "close": 665,
+    "open": 645,
+    "high": 665,
+    "low": 635,
+    "volume": 3268700,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-28",
+    "close": 670,
+    "open": 675,
+    "high": 675,
+    "low": 655,
+    "volume": 7729200,
+    "market_cap": 3777625222000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-08-31",
+    "close": 665,
+    "open": 670,
+    "high": 675,
+    "low": 660,
+    "volume": 3701000,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-01",
+    "close": 675,
+    "open": 665,
+    "high": 675,
+    "low": 665,
+    "volume": 2561300,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-02",
+    "close": 675,
+    "open": 675,
+    "high": 675,
+    "low": 660,
+    "volume": 2974200,
+    "market_cap": 3805816455000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-03",
+    "close": 710,
+    "open": 675,
+    "high": 720,
+    "low": 670,
+    "volume": 24259000,
+    "market_cap": 4003155086000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-04",
+    "close": 710,
+    "open": 720,
+    "high": 730,
+    "low": 710,
+    "volume": 12564700,
+    "market_cap": 4003155086000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-07",
+    "close": 715,
+    "open": 710,
+    "high": 720,
+    "low": 710,
+    "volume": 5253500,
+    "market_cap": 4031346319000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-08",
+    "close": 705,
+    "open": 715,
+    "high": 725,
+    "low": 700,
+    "volume": 8049400,
+    "market_cap": 3974963853000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-09",
+    "close": 710,
+    "open": 705,
+    "high": 715,
+    "low": 700,
+    "volume": 5734700,
+    "market_cap": 4003155086000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-10",
+    "close": 710,
+    "open": 710,
+    "high": 720,
+    "low": 700,
+    "volume": 8985800,
+    "market_cap": 4003155086000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-11",
+    "close": 700,
+    "open": 710,
+    "high": 710,
+    "low": 690,
+    "volume": 9134500,
+    "market_cap": 3946772620000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-14",
+    "close": 670,
+    "open": 675,
+    "high": 680,
+    "low": 660,
+    "volume": 7292500,
+    "market_cap": 3777625222000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-15",
+    "close": 650,
+    "open": 670,
+    "high": 670,
+    "low": 650,
+    "volume": 5077300,
+    "market_cap": 3664860290000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-16",
+    "close": 640,
+    "open": 650,
+    "high": 660,
+    "low": 640,
+    "volume": 5562500,
+    "market_cap": 3608477824000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-17",
+    "close": 665,
+    "open": 645,
+    "high": 670,
+    "low": 645,
+    "volume": 3988900,
+    "market_cap": 3749433989000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-18",
+    "close": 685,
+    "open": 665,
+    "high": 685,
+    "low": 665,
+    "volume": 6486400,
+    "market_cap": 3862198921000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-21",
+    "close": 680,
+    "open": 685,
+    "high": 690,
+    "low": 670,
+    "volume": 3047800,
+    "market_cap": 3834007688000
+  },
+  {
+    "symbol": "DKFT.JK",
+    "date": "2026-09-22",
+    "close": 660,
+    "open": 680,
+    "high": 680,
+    "low": 650,
+    "volume": 3454200,
+    "market_cap": 3721242756000
+  }
+]

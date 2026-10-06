@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-06-24",
+    "close": 141,
+    "open": 140,
+    "high": 146,
+    "low": 140,
+    "volume": 765900,
+    "market_cap": 151578847608
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-06-25",
+    "close": 137,
+    "open": 144,
+    "high": 144,
+    "low": 129,
+    "volume": 715900,
+    "market_cap": 147278738456
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-06-26",
+    "close": 134,
+    "open": 140,
+    "high": 150,
+    "low": 134,
+    "volume": 2031900,
+    "market_cap": 144053656592
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-06-29",
+    "close": 133,
+    "open": 134,
+    "high": 144,
+    "low": 133,
+    "volume": 1022800,
+    "market_cap": 142978629304
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-06-30",
+    "close": 134,
+    "open": 139,
+    "high": 140,
+    "low": 130,
+    "volume": 404500,
+    "market_cap": 144053656592
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-01",
+    "close": 133,
+    "open": 135,
+    "high": 135,
+    "low": 129,
+    "volume": 1326000,
+    "market_cap": 142978629304
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-02",
+    "close": 136,
+    "open": 133,
+    "high": 138,
+    "low": 130,
+    "volume": 276500,
+    "market_cap": 146203711168
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-03",
+    "close": 136,
+    "open": 133,
+    "high": 137,
+    "low": 133,
+    "volume": 236200,
+    "market_cap": 146203711168
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-06",
+    "close": 135,
+    "open": 136,
+    "high": 137,
+    "low": 133,
+    "volume": 321300,
+    "market_cap": 145128683880
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-07",
+    "close": 143,
+    "open": 136,
+    "high": 160,
+    "low": 135,
+    "volume": 2746200,
+    "market_cap": 153728902184
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-08",
+    "close": 139,
+    "open": 143,
+    "high": 143,
+    "low": 136,
+    "volume": 397400,
+    "market_cap": 149428793032
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-09",
+    "close": 137,
+    "open": 139,
+    "high": 141,
+    "low": 136,
+    "volume": 89400,
+    "market_cap": 147278738456
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-10",
+    "close": 144,
+    "open": 138,
+    "high": 156,
+    "low": 136,
+    "volume": 2837400,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-13",
+    "close": 145,
+    "open": 155,
+    "high": 176,
+    "low": 140,
+    "volume": 13705000,
+    "market_cap": 155878956760
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-14",
+    "close": 150,
+    "open": 149,
+    "high": 154,
+    "low": 139,
+    "volume": 4599000,
+    "market_cap": 161254093200
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-15",
+    "close": 150,
+    "open": 150,
+    "high": 156,
+    "low": 144,
+    "volume": 1237100,
+    "market_cap": 161254093200
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-16",
+    "close": 151,
+    "open": 150,
+    "high": 153,
+    "low": 148,
+    "volume": 1459400,
+    "market_cap": 162329120488
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-17",
+    "close": 152,
+    "open": 152,
+    "high": 157,
+    "low": 150,
+    "volume": 647900,
+    "market_cap": 163404147776
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-20",
+    "close": 155,
+    "open": 152,
+    "high": 163,
+    "low": 152,
+    "volume": 2228100,
+    "market_cap": 166629229640
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-21",
+    "close": 155,
+    "open": 155,
+    "high": 157,
+    "low": 150,
+    "volume": 2107900,
+    "market_cap": 166629229640
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-22",
+    "close": 153,
+    "open": 156,
+    "high": 157,
+    "low": 148,
+    "volume": 1027100,
+    "market_cap": 164479175064
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-23",
+    "close": 151,
+    "open": 152,
+    "high": 155,
+    "low": 148,
+    "volume": 1132100,
+    "market_cap": 162329120488
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-24",
+    "close": 148,
+    "open": 151,
+    "high": 153,
+    "low": 148,
+    "volume": 245500,
+    "market_cap": 159104038624
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-27",
+    "close": 150,
+    "open": 148,
+    "high": 152,
+    "low": 147,
+    "volume": 1572400,
+    "market_cap": 161254093200
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-28",
+    "close": 149,
+    "open": 150,
+    "high": 161,
+    "low": 149,
+    "volume": 1619400,
+    "market_cap": 160179065912
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-29",
+    "close": 146,
+    "open": 149,
+    "high": 156,
+    "low": 146,
+    "volume": 1465300,
+    "market_cap": 156953984048
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-30",
+    "close": 148,
+    "open": 146,
+    "high": 155,
+    "low": 146,
+    "volume": 958600,
+    "market_cap": 159104038624
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-07-31",
+    "close": 149,
+    "open": 151,
+    "high": 153,
+    "low": 140,
+    "volume": 3205100,
+    "market_cap": 160179065912
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-03",
+    "close": 145,
+    "open": 149,
+    "high": 149,
+    "low": 145,
+    "volume": 1031400,
+    "market_cap": 155878956760
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-04",
+    "close": 147,
+    "open": 149,
+    "high": 155,
+    "low": 140,
+    "volume": 4020600,
+    "market_cap": 158029011336
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-05",
+    "close": 145,
+    "open": 147,
+    "high": 149,
+    "low": 145,
+    "volume": 1009700,
+    "market_cap": 155878956760
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-06",
+    "close": 150,
+    "open": 148,
+    "high": 152,
+    "low": 145,
+    "volume": 3819700,
+    "market_cap": 161254093200
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-07",
+    "close": 147,
+    "open": 150,
+    "high": 152,
+    "low": 145,
+    "volume": 2761800,
+    "market_cap": 158029011336
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-10",
+    "close": 148,
+    "open": 147,
+    "high": 152,
+    "low": 145,
+    "volume": 345000,
+    "market_cap": 159104038624
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-11",
+    "close": 146,
+    "open": 148,
+    "high": 151,
+    "low": 144,
+    "volume": 810100,
+    "market_cap": 156953984048
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-12",
+    "close": 146,
+    "open": 146,
+    "high": 150,
+    "low": 142,
+    "volume": 2189600,
+    "market_cap": 156953984048
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-13",
+    "close": 144,
+    "open": 146,
+    "high": 146,
+    "low": 142,
+    "volume": 427400,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-14",
+    "close": 140,
+    "open": 144,
+    "high": 144,
+    "low": 140,
+    "volume": 1742800,
+    "market_cap": 150503820320
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-18",
+    "close": 142,
+    "open": 141,
+    "high": 143,
+    "low": 140,
+    "volume": 741900,
+    "market_cap": 152653874896
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-19",
+    "close": 144,
+    "open": 142,
+    "high": 144,
+    "low": 141,
+    "volume": 738900,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-20",
+    "close": 144,
+    "open": 143,
+    "high": 145,
+    "low": 141,
+    "volume": 947700,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-21",
+    "close": 149,
+    "open": 144,
+    "high": 152,
+    "low": 143,
+    "volume": 9701800,
+    "market_cap": 160179065912
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-24",
+    "close": 148,
+    "open": 150,
+    "high": 150,
+    "low": 141,
+    "volume": 4915400,
+    "market_cap": 159104038624
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-26",
+    "close": 144,
+    "open": 148,
+    "high": 148,
+    "low": 142,
+    "volume": 4935100,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-27",
+    "close": 144,
+    "open": 141,
+    "high": 145,
+    "low": 139,
+    "volume": 5622100,
+    "market_cap": 154803929472
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-28",
+    "close": 142,
+    "open": 144,
+    "high": 144,
+    "low": 137,
+    "volume": 4878300,
+    "market_cap": 152653874896
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-08-31",
+    "close": 134,
+    "open": 142,
+    "high": 142,
+    "low": 132,
+    "volume": 4044500,
+    "market_cap": 144053656592
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-01",
+    "close": 136,
+    "open": 134,
+    "high": 142,
+    "low": 134,
+    "volume": 3190400,
+    "market_cap": 146203711168
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-02",
+    "close": 137,
+    "open": 139,
+    "high": 139,
+    "low": 135,
+    "volume": 1107600,
+    "market_cap": 147278738456
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-03",
+    "close": 140,
+    "open": 137,
+    "high": 142,
+    "low": 135,
+    "volume": 3325100,
+    "market_cap": 150503820320
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-04",
+    "close": 163,
+    "open": 140,
+    "high": 189,
+    "low": 138,
+    "volume": 76250000,
+    "market_cap": 175229447944
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-07",
+    "close": 169,
+    "open": 160,
+    "high": 180,
+    "low": 151,
+    "volume": 57363800,
+    "market_cap": 181679611672
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-08",
+    "close": 204,
+    "open": 170,
+    "high": 212,
+    "low": 170,
+    "volume": 89107800,
+    "market_cap": 219305566752
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-09",
+    "close": 188,
+    "open": 204,
+    "high": 216,
+    "low": 185,
+    "volume": 51312900,
+    "market_cap": 202105130144
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-10",
+    "close": 185,
+    "open": 182,
+    "high": 206,
+    "low": 180,
+    "volume": 22592600,
+    "market_cap": 198880048280
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-11",
+    "close": 178,
+    "open": 185,
+    "high": 185,
+    "low": 173,
+    "volume": 8239000,
+    "market_cap": 191354857264
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-14",
+    "close": 170,
+    "open": 177,
+    "high": 183,
+    "low": 165,
+    "volume": 10370200,
+    "market_cap": 182754638960
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-15",
+    "close": 173,
+    "open": 173,
+    "high": 176,
+    "low": 165,
+    "volume": 2898900,
+    "market_cap": 185979720824
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-16",
+    "close": 173,
+    "open": 175,
+    "high": 191,
+    "low": 170,
+    "volume": 12649700,
+    "market_cap": 185979720824
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-17",
+    "close": 173,
+    "open": 173,
+    "high": 175,
+    "low": 166,
+    "volume": 2251000,
+    "market_cap": 185979720824
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-18",
+    "close": 165,
+    "open": 173,
+    "high": 174,
+    "low": 160,
+    "volume": 3907600,
+    "market_cap": 177379502520
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-21",
+    "close": 161,
+    "open": 167,
+    "high": 171,
+    "low": 161,
+    "volume": 3745200,
+    "market_cap": 173079393368
+  },
+  {
+    "symbol": "PPRI.JK",
+    "date": "2026-09-22",
+    "close": 159,
+    "open": 161,
+    "high": 168,
+    "low": 155,
+    "volume": 2622600,
+    "market_cap": 170929338792
+  }
+]

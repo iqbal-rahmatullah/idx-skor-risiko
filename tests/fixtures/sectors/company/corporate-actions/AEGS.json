@@ -1,0 +1,31 @@
+{
+  "symbol": "AEGS.JK",
+  "corporate_actions": {
+    "agm": [
+      {
+        "agm_date": "2024-05-31",
+        "agm_time": "10:00:00",
+        "agm_place": "Hotel Neo Tenden Jakarta Jl. Wolter Monginsidi No. 131 Jakarta Selatan",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2025-05-23",
+        "agm_time": null,
+        "agm_place": "",
+        "agm_result": null
+      },
+      {
+        "agm_date": "2026-05-29",
+        "agm_time": "10:00:00",
+        "agm_place": "Hotel NEO Tendean Jakarta JL. Wolter Monginsidi NO. 131 Jakarta Selatan Dki. Jakarta / Kotaadm. Jakarta Selatan",
+        "agm_result": "Agenda #1: The meeting approved the 2025 annual report, activities report, and audited financial statements, granting discharge to the Board of Directors and Commissioners.\nAgenda #2: The net profit of Rp 50,000,000 for the 2025 fiscal year is allocated to mandatory reserves and working capital, with no dividend distribution.\nAgenda #3: The Board of Commissioners is authorized to appoint a public accounting firm for the 2026 audit, while the Board of Directors will set the honorarium.\nAgenda #4: Authority is granted to the Board of Commissioners to determine the salaries, fees, and allowances for both the Board of Commissioners and the Board of Directors for the 2026 fiscal year.\nAgenda #5: The meeting approved the accountability report detailing the actual use of funds obtained from the company's public offering."
+      }
+    ],
+    "bonus": null,
+    "warrant": null,
+    "dividend": null,
+    "right_issue": null,
+    "stock_split": null,
+    "upcoming_dividend": null
+  }
+}

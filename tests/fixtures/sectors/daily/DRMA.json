@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-06-24",
+    "close": 915,
+    "open": 910,
+    "high": 915,
+    "low": 890,
+    "volume": 1021900,
+    "market_cap": 4305882304500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-06-25",
+    "close": 900,
+    "open": 910,
+    "high": 910,
+    "low": 895,
+    "volume": 429100,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-06-26",
+    "close": 890,
+    "open": 900,
+    "high": 900,
+    "low": 885,
+    "volume": 558200,
+    "market_cap": 4188235247000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-06-29",
+    "close": 835,
+    "open": 890,
+    "high": 890,
+    "low": 815,
+    "volume": 3769100,
+    "market_cap": 3929411720500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-06-30",
+    "close": 890,
+    "open": 850,
+    "high": 900,
+    "low": 825,
+    "volume": 1214200,
+    "market_cap": 4188235247000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-01",
+    "close": 885,
+    "open": 890,
+    "high": 890,
+    "low": 865,
+    "volume": 220000,
+    "market_cap": 4164705835500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-02",
+    "close": 895,
+    "open": 885,
+    "high": 900,
+    "low": 875,
+    "volume": 201000,
+    "market_cap": 4211764658500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-03",
+    "close": 890,
+    "open": 890,
+    "high": 900,
+    "low": 885,
+    "volume": 80600,
+    "market_cap": 4188235247000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-06",
+    "close": 885,
+    "open": 890,
+    "high": 900,
+    "low": 875,
+    "volume": 238100,
+    "market_cap": 4164705835500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-07",
+    "close": 900,
+    "open": 885,
+    "high": 900,
+    "low": 880,
+    "volume": 89700,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-08",
+    "close": 900,
+    "open": 905,
+    "high": 910,
+    "low": 870,
+    "volume": 1604100,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-09",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 890,
+    "volume": 648400,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-10",
+    "close": 900,
+    "open": 905,
+    "high": 915,
+    "low": 890,
+    "volume": 312900,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-13",
+    "close": 900,
+    "open": 900,
+    "high": 905,
+    "low": 895,
+    "volume": 134100,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-14",
+    "close": 925,
+    "open": 900,
+    "high": 925,
+    "low": 895,
+    "volume": 582800,
+    "market_cap": 4352941127500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-15",
+    "close": 930,
+    "open": 930,
+    "high": 935,
+    "low": 900,
+    "volume": 825700,
+    "market_cap": 4376470539000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-16",
+    "close": 930,
+    "open": 935,
+    "high": 935,
+    "low": 910,
+    "volume": 289200,
+    "market_cap": 4376470539000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-17",
+    "close": 920,
+    "open": 930,
+    "high": 930,
+    "low": 915,
+    "volume": 138800,
+    "market_cap": 4329411716000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-20",
+    "close": 900,
+    "open": 925,
+    "high": 925,
+    "low": 890,
+    "volume": 2355200,
+    "market_cap": 4235294070000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-21",
+    "close": 910,
+    "open": 905,
+    "high": 915,
+    "low": 900,
+    "volume": 251100,
+    "market_cap": 4282352893000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-22",
+    "close": 910,
+    "open": 910,
+    "high": 930,
+    "low": 900,
+    "volume": 395800,
+    "market_cap": 4282352893000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-23",
+    "close": 910,
+    "open": 920,
+    "high": 945,
+    "low": 910,
+    "volume": 319200,
+    "market_cap": 4282352893000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-24",
+    "close": 905,
+    "open": 910,
+    "high": 920,
+    "low": 900,
+    "volume": 302300,
+    "market_cap": 4258823481500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-27",
+    "close": 910,
+    "open": 905,
+    "high": 925,
+    "low": 905,
+    "volume": 428200,
+    "market_cap": 4282352893000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-28",
+    "close": 940,
+    "open": 930,
+    "high": 945,
+    "low": 915,
+    "volume": 541900,
+    "market_cap": 4423529362000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-29",
+    "close": 935,
+    "open": 940,
+    "high": 940,
+    "low": 920,
+    "volume": 475600,
+    "market_cap": 4399999950500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-30",
+    "close": 940,
+    "open": 935,
+    "high": 945,
+    "low": 930,
+    "volume": 372600,
+    "market_cap": 4423529362000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-07-31",
+    "close": 960,
+    "open": 940,
+    "high": 960,
+    "low": 940,
+    "volume": 464600,
+    "market_cap": 4517647008000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-03",
+    "close": 955,
+    "open": 960,
+    "high": 965,
+    "low": 935,
+    "volume": 776000,
+    "market_cap": 4494117596500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-04",
+    "close": 960,
+    "open": 960,
+    "high": 965,
+    "low": 950,
+    "volume": 171800,
+    "market_cap": 4517647008000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-05",
+    "close": 955,
+    "open": 960,
+    "high": 965,
+    "low": 950,
+    "volume": 275700,
+    "market_cap": 4494117596500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-06",
+    "close": 955,
+    "open": 955,
+    "high": 960,
+    "low": 945,
+    "volume": 939000,
+    "market_cap": 4494117596500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-07",
+    "close": 960,
+    "open": 955,
+    "high": 970,
+    "low": 950,
+    "volume": 426800,
+    "market_cap": 4517647008000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-10",
+    "close": 965,
+    "open": 960,
+    "high": 970,
+    "low": 955,
+    "volume": 578800,
+    "market_cap": 4541176419500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-11",
+    "close": 975,
+    "open": 965,
+    "high": 975,
+    "low": 965,
+    "volume": 884200,
+    "market_cap": 4588235242500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-12",
+    "close": 985,
+    "open": 980,
+    "high": 990,
+    "low": 975,
+    "volume": 1196100,
+    "market_cap": 4635294065500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-13",
+    "close": 985,
+    "open": 985,
+    "high": 990,
+    "low": 985,
+    "volume": 531100,
+    "market_cap": 4635294065500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-14",
+    "close": 990,
+    "open": 985,
+    "high": 995,
+    "low": 980,
+    "volume": 567800,
+    "market_cap": 4658823477000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-18",
+    "close": 995,
+    "open": 990,
+    "high": 995,
+    "low": 980,
+    "volume": 866500,
+    "market_cap": 4682352888500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-19",
+    "close": 1000,
+    "open": 990,
+    "high": 1005,
+    "low": 990,
+    "volume": 1103300,
+    "market_cap": 4705882300000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-20",
+    "close": 1015,
+    "open": 1005,
+    "high": 1015,
+    "low": 1000,
+    "volume": 533900,
+    "market_cap": 4776470534500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-21",
+    "close": 1015,
+    "open": 1010,
+    "high": 1015,
+    "low": 1010,
+    "volume": 293700,
+    "market_cap": 4776470534500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-24",
+    "close": 1015,
+    "open": 1015,
+    "high": 1025,
+    "low": 1005,
+    "volume": 1027700,
+    "market_cap": 4776470534500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-26",
+    "close": 1000,
+    "open": 1015,
+    "high": 1015,
+    "low": 975,
+    "volume": 1301300,
+    "market_cap": 4705882300000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-27",
+    "close": 1005,
+    "open": 1000,
+    "high": 1015,
+    "low": 1000,
+    "volume": 889100,
+    "market_cap": 4729411711500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-28",
+    "close": 1010,
+    "open": 1010,
+    "high": 1020,
+    "low": 1005,
+    "volume": 1460200,
+    "market_cap": 4752941123000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-08-31",
+    "close": 1025,
+    "open": 1015,
+    "high": 1030,
+    "low": 1015,
+    "volume": 1161900,
+    "market_cap": 4823529357500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-01",
+    "close": 1020,
+    "open": 1025,
+    "high": 1040,
+    "low": 1015,
+    "volume": 511200,
+    "market_cap": 4799999946000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-02",
+    "close": 1000,
+    "open": 1020,
+    "high": 1020,
+    "low": 985,
+    "volume": 1102200,
+    "market_cap": 4705882300000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-03",
+    "close": 1000,
+    "open": 1000,
+    "high": 1005,
+    "low": 985,
+    "volume": 1033400,
+    "market_cap": 4705882300000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-04",
+    "close": 1010,
+    "open": 1000,
+    "high": 1010,
+    "low": 1000,
+    "volume": 481300,
+    "market_cap": 4752941123000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-07",
+    "close": 1005,
+    "open": 1010,
+    "high": 1015,
+    "low": 1000,
+    "volume": 352400,
+    "market_cap": 4729411711500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-08",
+    "close": 1015,
+    "open": 1010,
+    "high": 1020,
+    "low": 1000,
+    "volume": 279900,
+    "market_cap": 4776470534500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-09",
+    "close": 1025,
+    "open": 1015,
+    "high": 1030,
+    "low": 1010,
+    "volume": 767100,
+    "market_cap": 4823529357500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-10",
+    "close": 1025,
+    "open": 1030,
+    "high": 1040,
+    "low": 1020,
+    "volume": 958300,
+    "market_cap": 4823529357500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-11",
+    "close": 1010,
+    "open": 1025,
+    "high": 1025,
+    "low": 1005,
+    "volume": 216800,
+    "market_cap": 4752941123000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-14",
+    "close": 1005,
+    "open": 1010,
+    "high": 1010,
+    "low": 985,
+    "volume": 392300,
+    "market_cap": 4729411711500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-15",
+    "close": 1000,
+    "open": 995,
+    "high": 1015,
+    "low": 985,
+    "volume": 931800,
+    "market_cap": 4705882300000
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-16",
+    "close": 985,
+    "open": 1000,
+    "high": 1000,
+    "low": 985,
+    "volume": 648100,
+    "market_cap": 4635294065500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-17",
+    "close": 985,
+    "open": 985,
+    "high": 995,
+    "low": 975,
+    "volume": 1614200,
+    "market_cap": 4635294065500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-18",
+    "close": 965,
+    "open": 985,
+    "high": 990,
+    "low": 960,
+    "volume": 1299400,
+    "market_cap": 4541176419500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-21",
+    "close": 945,
+    "open": 965,
+    "high": 965,
+    "low": 930,
+    "volume": 3239700,
+    "market_cap": 4447058773500
+  },
+  {
+    "symbol": "DRMA.JK",
+    "date": "2026-09-22",
+    "close": 960,
+    "open": 935,
+    "high": 965,
+    "low": 935,
+    "volume": 520600,
+    "market_cap": 4517647008000
+  }
+]

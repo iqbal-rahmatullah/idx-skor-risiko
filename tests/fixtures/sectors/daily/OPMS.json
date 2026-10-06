@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-06-24",
+    "close": 87,
+    "open": 93,
+    "high": 93,
+    "low": 87,
+    "volume": 1579800,
+    "market_cap": 87000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-06-25",
+    "close": 88,
+    "open": 87,
+    "high": 89,
+    "low": 86,
+    "volume": 1248300,
+    "market_cap": 88000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-06-26",
+    "close": 85,
+    "open": 90,
+    "high": 90,
+    "low": 84,
+    "volume": 682200,
+    "market_cap": 85000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-06-29",
+    "close": 88,
+    "open": 85,
+    "high": 102,
+    "low": 84,
+    "volume": 43536100,
+    "market_cap": 88000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-06-30",
+    "close": 89,
+    "open": 89,
+    "high": 97,
+    "low": 85,
+    "volume": 32016700,
+    "market_cap": 89000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-01",
+    "close": 90,
+    "open": 90,
+    "high": 93,
+    "low": 87,
+    "volume": 10796400,
+    "market_cap": 90000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-02",
+    "close": 99,
+    "open": 90,
+    "high": 110,
+    "low": 90,
+    "volume": 150901100,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-03",
+    "close": 97,
+    "open": 100,
+    "high": 101,
+    "low": 94,
+    "volume": 16708000,
+    "market_cap": 97000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-06",
+    "close": 99,
+    "open": 96,
+    "high": 106,
+    "low": 95,
+    "volume": 57757400,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-07",
+    "close": 99,
+    "open": 100,
+    "high": 102,
+    "low": 98,
+    "volume": 13094000,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-08",
+    "close": 99,
+    "open": 101,
+    "high": 105,
+    "low": 99,
+    "volume": 19759100,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-09",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 98,
+    "volume": 3605800,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-10",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 98,
+    "volume": 4069700,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-13",
+    "close": 99,
+    "open": 100,
+    "high": 103,
+    "low": 98,
+    "volume": 5095700,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-14",
+    "close": 106,
+    "open": 100,
+    "high": 108,
+    "low": 98,
+    "volume": 25170300,
+    "market_cap": 106000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-15",
+    "close": 103,
+    "open": 110,
+    "high": 111,
+    "low": 102,
+    "volume": 22857900,
+    "market_cap": 103000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-16",
+    "close": 103,
+    "open": 103,
+    "high": 104,
+    "low": 101,
+    "volume": 6036500,
+    "market_cap": 103000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-17",
+    "close": 102,
+    "open": 103,
+    "high": 108,
+    "low": 102,
+    "volume": 10079900,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-20",
+    "close": 103,
+    "open": 102,
+    "high": 107,
+    "low": 101,
+    "volume": 13815200,
+    "market_cap": 103000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-21",
+    "close": 102,
+    "open": 103,
+    "high": 104,
+    "low": 102,
+    "volume": 5542900,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-22",
+    "close": 101,
+    "open": 102,
+    "high": 103,
+    "low": 100,
+    "volume": 5341400,
+    "market_cap": 101000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-23",
+    "close": 101,
+    "open": 102,
+    "high": 103,
+    "low": 100,
+    "volume": 4006200,
+    "market_cap": 101000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-24",
+    "close": 99,
+    "open": 100,
+    "high": 118,
+    "low": 97,
+    "volume": 145867300,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-27",
+    "close": 100,
+    "open": 100,
+    "high": 111,
+    "low": 98,
+    "volume": 54273600,
+    "market_cap": 100000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-28",
+    "close": 104,
+    "open": 100,
+    "high": 110,
+    "low": 100,
+    "volume": 28790100,
+    "market_cap": 104000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-29",
+    "close": 107,
+    "open": 107,
+    "high": 119,
+    "low": 100,
+    "volume": 128777600,
+    "market_cap": 107000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-30",
+    "close": 105,
+    "open": 107,
+    "high": 108,
+    "low": 103,
+    "volume": 9271400,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-07-31",
+    "close": 130,
+    "open": 103,
+    "high": 138,
+    "low": 103,
+    "volume": 159172700,
+    "market_cap": 130000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-03",
+    "close": 116,
+    "open": 131,
+    "high": 131,
+    "low": 115,
+    "volume": 77123400,
+    "market_cap": 116000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-04",
+    "close": 117,
+    "open": 117,
+    "high": 119,
+    "low": 113,
+    "volume": 8520000,
+    "market_cap": 117000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-05",
+    "close": 122,
+    "open": 118,
+    "high": 140,
+    "low": 118,
+    "volume": 90283800,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-06",
+    "close": 129,
+    "open": 125,
+    "high": 134,
+    "low": 123,
+    "volume": 26092500,
+    "market_cap": 129000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-07",
+    "close": 125,
+    "open": 130,
+    "high": 131,
+    "low": 125,
+    "volume": 7343200,
+    "market_cap": 125000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-10",
+    "close": 132,
+    "open": 125,
+    "high": 144,
+    "low": 125,
+    "volume": 38941800,
+    "market_cap": 132000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-11",
+    "close": 131,
+    "open": 135,
+    "high": 136,
+    "low": 128,
+    "volume": 8924300,
+    "market_cap": 131000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-12",
+    "close": 132,
+    "open": 132,
+    "high": 134,
+    "low": 130,
+    "volume": 4246800,
+    "market_cap": 132000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-13",
+    "close": 127,
+    "open": 132,
+    "high": 133,
+    "low": 127,
+    "volume": 5054100,
+    "market_cap": 127000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-14",
+    "close": 128,
+    "open": 127,
+    "high": 130,
+    "low": 126,
+    "volume": 2343100,
+    "market_cap": 128000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-18",
+    "close": 126,
+    "open": 129,
+    "high": 129,
+    "low": 126,
+    "volume": 3741500,
+    "market_cap": 126000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-19",
+    "close": 126,
+    "open": 126,
+    "high": 129,
+    "low": 122,
+    "volume": 2461700,
+    "market_cap": 126000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-20",
+    "close": 125,
+    "open": 126,
+    "high": 127,
+    "low": 122,
+    "volume": 5909100,
+    "market_cap": 125000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-21",
+    "close": 123,
+    "open": 126,
+    "high": 127,
+    "low": 120,
+    "volume": 3917100,
+    "market_cap": 123000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-24",
+    "close": 124,
+    "open": 125,
+    "high": 129,
+    "low": 123,
+    "volume": 6854300,
+    "market_cap": 124000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-26",
+    "close": 118,
+    "open": 124,
+    "high": 125,
+    "low": 116,
+    "volume": 6697200,
+    "market_cap": 118000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-27",
+    "close": 122,
+    "open": 118,
+    "high": 125,
+    "low": 114,
+    "volume": 5621200,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-28",
+    "close": 122,
+    "open": 122,
+    "high": 124,
+    "low": 121,
+    "volume": 982600,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-08-31",
+    "close": 122,
+    "open": 123,
+    "high": 123,
+    "low": 119,
+    "volume": 2820900,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-01",
+    "close": 122,
+    "open": 129,
+    "high": 132,
+    "low": 120,
+    "volume": 24494000,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-02",
+    "close": 122,
+    "open": 122,
+    "high": 124,
+    "low": 122,
+    "volume": 2097500,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-03",
+    "close": 125,
+    "open": 122,
+    "high": 125,
+    "low": 121,
+    "volume": 1829700,
+    "market_cap": 125000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-04",
+    "close": 122,
+    "open": 125,
+    "high": 125,
+    "low": 122,
+    "volume": 2453000,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-07",
+    "close": 123,
+    "open": 122,
+    "high": 124,
+    "low": 122,
+    "volume": 1904000,
+    "market_cap": 123000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-08",
+    "close": 122,
+    "open": 123,
+    "high": 124,
+    "low": 121,
+    "volume": 3668600,
+    "market_cap": 122000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-09",
+    "close": 120,
+    "open": 123,
+    "high": 124,
+    "low": 119,
+    "volume": 3119400,
+    "market_cap": 120000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-10",
+    "close": 117,
+    "open": 120,
+    "high": 120,
+    "low": 115,
+    "volume": 3300300,
+    "market_cap": 117000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-11",
+    "close": 116,
+    "open": 115,
+    "high": 117,
+    "low": 110,
+    "volume": 1769600,
+    "market_cap": 116000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-14",
+    "close": 116,
+    "open": 118,
+    "high": 119,
+    "low": 112,
+    "volume": 2161300,
+    "market_cap": 116000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-15",
+    "close": 119,
+    "open": 115,
+    "high": 119,
+    "low": 114,
+    "volume": 1325100,
+    "market_cap": 119000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-16",
+    "close": 118,
+    "open": 119,
+    "high": 122,
+    "low": 117,
+    "volume": 2214000,
+    "market_cap": 118000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-17",
+    "close": 116,
+    "open": 118,
+    "high": 118,
+    "low": 114,
+    "volume": 2162900,
+    "market_cap": 116000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-18",
+    "close": 113,
+    "open": 114,
+    "high": 120,
+    "low": 111,
+    "volume": 8042000,
+    "market_cap": 113000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-21",
+    "close": 113,
+    "open": 113,
+    "high": 118,
+    "low": 108,
+    "volume": 11428100,
+    "market_cap": 113000000000
+  },
+  {
+    "symbol": "OPMS.JK",
+    "date": "2026-09-22",
+    "close": 104,
+    "open": 113,
+    "high": 114,
+    "low": 104,
+    "volume": 4411200,
+    "market_cap": 104000000000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-06-24",
+    "close": 109,
+    "open": 110,
+    "high": 113,
+    "low": 107,
+    "volume": 326800,
+    "market_cap": 2153130915324
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-06-25",
+    "close": 109,
+    "open": 109,
+    "high": 111,
+    "low": 108,
+    "volume": 373700,
+    "market_cap": 2153130915324
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-06-26",
+    "close": 105,
+    "open": 109,
+    "high": 111,
+    "low": 104,
+    "volume": 1007200,
+    "market_cap": 2074116936780
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-06-29",
+    "close": 100,
+    "open": 105,
+    "high": 106,
+    "low": 100,
+    "volume": 1636300,
+    "market_cap": 1975349463600
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-06-30",
+    "close": 99,
+    "open": 100,
+    "high": 102,
+    "low": 97,
+    "volume": 1264600,
+    "market_cap": 1955595968964
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-01",
+    "close": 99,
+    "open": 101,
+    "high": 103,
+    "low": 98,
+    "volume": 1569300,
+    "market_cap": 1955595968964
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-02",
+    "close": 101,
+    "open": 102,
+    "high": 104,
+    "low": 99,
+    "volume": 516900,
+    "market_cap": 1995102958236
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-03",
+    "close": 101,
+    "open": 101,
+    "high": 109,
+    "low": 100,
+    "volume": 1245500,
+    "market_cap": 1995102958236
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-06",
+    "close": 101,
+    "open": 101,
+    "high": 103,
+    "low": 99,
+    "volume": 231800,
+    "market_cap": 1995102958236
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-07",
+    "close": 104,
+    "open": 101,
+    "high": 104,
+    "low": 100,
+    "volume": 1422900,
+    "market_cap": 2054363442144
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-08",
+    "close": 103,
+    "open": 103,
+    "high": 103,
+    "low": 101,
+    "volume": 262700,
+    "market_cap": 2034609947508
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-09",
+    "close": 101,
+    "open": 103,
+    "high": 105,
+    "low": 101,
+    "volume": 656400,
+    "market_cap": 1995102958236
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-10",
+    "close": 103,
+    "open": 101,
+    "high": 103,
+    "low": 101,
+    "volume": 1012000,
+    "market_cap": 2034609947508
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-13",
+    "close": 101,
+    "open": 103,
+    "high": 104,
+    "low": 99,
+    "volume": 1660900,
+    "market_cap": 1995102958236
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-14",
+    "close": 102,
+    "open": 103,
+    "high": 104,
+    "low": 100,
+    "volume": 1132800,
+    "market_cap": 2014856452872
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-15",
+    "close": 103,
+    "open": 102,
+    "high": 104,
+    "low": 101,
+    "volume": 356200,
+    "market_cap": 2034609947508
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-16",
+    "close": 103,
+    "open": 105,
+    "high": 105,
+    "low": 103,
+    "volume": 2344200,
+    "market_cap": 2034609947508
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-17",
+    "close": 121,
+    "open": 103,
+    "high": 134,
+    "low": 103,
+    "volume": 94379700,
+    "market_cap": 2390172850956
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-20",
+    "close": 119,
+    "open": 125,
+    "high": 129,
+    "low": 118,
+    "volume": 12481900,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-21",
+    "close": 118,
+    "open": 118,
+    "high": 120,
+    "low": 117,
+    "volume": 3864300,
+    "market_cap": 2330912367048
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-22",
+    "close": 120,
+    "open": 120,
+    "high": 121,
+    "low": 118,
+    "volume": 2188300,
+    "market_cap": 2370419356320
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-23",
+    "close": 115,
+    "open": 120,
+    "high": 120,
+    "low": 114,
+    "volume": 4294000,
+    "market_cap": 2271651883140
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-24",
+    "close": 113,
+    "open": 115,
+    "high": 115,
+    "low": 111,
+    "volume": 1887000,
+    "market_cap": 2232144893868
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-27",
+    "close": 115,
+    "open": 113,
+    "high": 115,
+    "low": 112,
+    "volume": 1435200,
+    "market_cap": 2271651883140
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-28",
+    "close": 114,
+    "open": 115,
+    "high": 120,
+    "low": 112,
+    "volume": 1673300,
+    "market_cap": 2251898388504
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-29",
+    "close": 114,
+    "open": 114,
+    "high": 116,
+    "low": 111,
+    "volume": 712100,
+    "market_cap": 2251898388504
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-30",
+    "close": 114,
+    "open": 114,
+    "high": 115,
+    "low": 112,
+    "volume": 942500,
+    "market_cap": 2251898388504
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-07-31",
+    "close": 115,
+    "open": 115,
+    "high": 118,
+    "low": 114,
+    "volume": 3531300,
+    "market_cap": 2271651883140
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-03",
+    "close": 116,
+    "open": 116,
+    "high": 118,
+    "low": 115,
+    "volume": 763600,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-04",
+    "close": 118,
+    "open": 117,
+    "high": 120,
+    "low": 116,
+    "volume": 2591700,
+    "market_cap": 2330912367048
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-05",
+    "close": 116,
+    "open": 119,
+    "high": 119,
+    "low": 115,
+    "volume": 2347500,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-06",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 2037600,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-07",
+    "close": 120,
+    "open": 116,
+    "high": 120,
+    "low": 115,
+    "volume": 2450800,
+    "market_cap": 2370419356320
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-10",
+    "close": 117,
+    "open": 119,
+    "high": 121,
+    "low": 116,
+    "volume": 1546300,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-11",
+    "close": 116,
+    "open": 117,
+    "high": 120,
+    "low": 114,
+    "volume": 1886200,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-12",
+    "close": 117,
+    "open": 115,
+    "high": 119,
+    "low": 115,
+    "volume": 1216300,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-13",
+    "close": 116,
+    "open": 119,
+    "high": 119,
+    "low": 115,
+    "volume": 470200,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-14",
+    "close": 117,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 645100,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-18",
+    "close": 117,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 1169100,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-19",
+    "close": 117,
+    "open": 117,
+    "high": 117,
+    "low": 116,
+    "volume": 2159600,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-20",
+    "close": 116,
+    "open": 117,
+    "high": 118,
+    "low": 116,
+    "volume": 973100,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-21",
+    "close": 118,
+    "open": 117,
+    "high": 118,
+    "low": 116,
+    "volume": 969800,
+    "market_cap": 2330912367048
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-24",
+    "close": 117,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 1810300,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-26",
+    "close": 115,
+    "open": 117,
+    "high": 118,
+    "low": 114,
+    "volume": 1708000,
+    "market_cap": 2271651883140
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-27",
+    "close": 117,
+    "open": 116,
+    "high": 117,
+    "low": 114,
+    "volume": 746400,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-28",
+    "close": 119,
+    "open": 117,
+    "high": 126,
+    "low": 116,
+    "volume": 8284800,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-08-31",
+    "close": 119,
+    "open": 118,
+    "high": 120,
+    "low": 117,
+    "volume": 1439600,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-01",
+    "close": 119,
+    "open": 119,
+    "high": 122,
+    "low": 118,
+    "volume": 3043100,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-02",
+    "close": 123,
+    "open": 120,
+    "high": 127,
+    "low": 117,
+    "volume": 6027200,
+    "market_cap": 2429679840228
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-03",
+    "close": 122,
+    "open": 123,
+    "high": 124,
+    "low": 121,
+    "volume": 1823400,
+    "market_cap": 2409926345592
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-04",
+    "close": 120,
+    "open": 123,
+    "high": 124,
+    "low": 120,
+    "volume": 1602300,
+    "market_cap": 2370419356320
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-07",
+    "close": 119,
+    "open": 120,
+    "high": 122,
+    "low": 118,
+    "volume": 2454600,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-08",
+    "close": 120,
+    "open": 119,
+    "high": 121,
+    "low": 119,
+    "volume": 905700,
+    "market_cap": 2370419356320
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-09",
+    "close": 119,
+    "open": 119,
+    "high": 120,
+    "low": 118,
+    "volume": 1762000,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-10",
+    "close": 119,
+    "open": 119,
+    "high": 121,
+    "low": 118,
+    "volume": 1887500,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-11",
+    "close": 118,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 1168700,
+    "market_cap": 2330912367048
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-14",
+    "close": 118,
+    "open": 117,
+    "high": 119,
+    "low": 116,
+    "volume": 2234400,
+    "market_cap": 2330912367048
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-15",
+    "close": 117,
+    "open": 118,
+    "high": 120,
+    "low": 116,
+    "volume": 1489500,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-16",
+    "close": 116,
+    "open": 117,
+    "high": 118,
+    "low": 116,
+    "volume": 786500,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-17",
+    "close": 117,
+    "open": 116,
+    "high": 121,
+    "low": 116,
+    "volume": 4153600,
+    "market_cap": 2311158872412
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-18",
+    "close": 119,
+    "open": 118,
+    "high": 119,
+    "low": 116,
+    "volume": 693300,
+    "market_cap": 2350665861684
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-21",
+    "close": 116,
+    "open": 119,
+    "high": 119,
+    "low": 116,
+    "volume": 727100,
+    "market_cap": 2291405377776
+  },
+  {
+    "symbol": "BACA.JK",
+    "date": "2026-09-22",
+    "close": 116,
+    "open": 116,
+    "high": 117,
+    "low": 115,
+    "volume": 999600,
+    "market_cap": 2291405377776
+  }
+]

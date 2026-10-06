@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-06-24",
+    "close": 720,
+    "open": 795,
+    "high": 795,
+    "low": 720,
+    "volume": 62700,
+    "market_cap": 573018548400
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-06-25",
+    "close": 740,
+    "open": 745,
+    "high": 745,
+    "low": 740,
+    "volume": 112500,
+    "market_cap": 588935730300
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-06-26",
+    "close": 720,
+    "open": 720,
+    "high": 720,
+    "low": 700,
+    "volume": 29100,
+    "market_cap": 573018548400
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-06-29",
+    "close": 695,
+    "open": 685,
+    "high": 695,
+    "low": 685,
+    "volume": 35600,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-06-30",
+    "close": 760,
+    "open": 760,
+    "high": 760,
+    "low": 760,
+    "volume": 166400,
+    "market_cap": 604852912200
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-01",
+    "close": 720,
+    "open": 725,
+    "high": 755,
+    "low": 720,
+    "volume": 165000,
+    "market_cap": 573018548400
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-02",
+    "close": 700,
+    "open": 715,
+    "high": 715,
+    "low": 700,
+    "volume": 92900,
+    "market_cap": 557101366500
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-03",
+    "close": 730,
+    "open": 730,
+    "high": 730,
+    "low": 730,
+    "volume": 72500,
+    "market_cap": 580977139350
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-06",
+    "close": 700,
+    "open": 695,
+    "high": 700,
+    "low": 695,
+    "volume": 115600,
+    "market_cap": 557101366500
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-07",
+    "close": 725,
+    "open": 700,
+    "high": 725,
+    "low": 695,
+    "volume": 23100,
+    "market_cap": 576997843875
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-08",
+    "close": 695,
+    "open": 690,
+    "high": 695,
+    "low": 690,
+    "volume": 43100,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-09",
+    "close": 685,
+    "open": 695,
+    "high": 695,
+    "low": 685,
+    "volume": 47800,
+    "market_cap": 545163480075
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-10",
+    "close": 685,
+    "open": 685,
+    "high": 685,
+    "low": 685,
+    "volume": 72000,
+    "market_cap": 545163480075
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-13",
+    "close": 670,
+    "open": 640,
+    "high": 670,
+    "low": 640,
+    "volume": 207200,
+    "market_cap": 533225593650
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-14",
+    "close": 680,
+    "open": 700,
+    "high": 700,
+    "low": 675,
+    "volume": 113800,
+    "market_cap": 541184184600
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-15",
+    "close": 685,
+    "open": 685,
+    "high": 700,
+    "low": 685,
+    "volume": 25200,
+    "market_cap": 545163480075
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-16",
+    "close": 695,
+    "open": 695,
+    "high": 695,
+    "low": 685,
+    "volume": 19500,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-17",
+    "close": 695,
+    "open": 695,
+    "high": 695,
+    "low": 690,
+    "volume": 44300,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-20",
+    "close": 695,
+    "open": 695,
+    "high": 695,
+    "low": 690,
+    "volume": 60000,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-21",
+    "close": 690,
+    "open": 660,
+    "high": 690,
+    "low": 660,
+    "volume": 223800,
+    "market_cap": 549142775550
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-22",
+    "close": 670,
+    "open": 660,
+    "high": 670,
+    "low": 660,
+    "volume": 288500,
+    "market_cap": 533225593650
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-23",
+    "close": 700,
+    "open": 695,
+    "high": 700,
+    "low": 695,
+    "volume": 152100,
+    "market_cap": 557101366500
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-24",
+    "close": 680,
+    "open": 670,
+    "high": 690,
+    "low": 670,
+    "volume": 166900,
+    "market_cap": 541184184600
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-27",
+    "close": 660,
+    "open": 655,
+    "high": 660,
+    "low": 650,
+    "volume": 274800,
+    "market_cap": 525267002700
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-28",
+    "close": 665,
+    "open": 660,
+    "high": 675,
+    "low": 660,
+    "volume": 51700,
+    "market_cap": 529246298175
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-29",
+    "close": 660,
+    "open": 680,
+    "high": 680,
+    "low": 660,
+    "volume": 21000,
+    "market_cap": 525267002700
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-30",
+    "close": 695,
+    "open": 695,
+    "high": 695,
+    "low": 675,
+    "volume": 148600,
+    "market_cap": 553122071025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-07-31",
+    "close": 760,
+    "open": 760,
+    "high": 760,
+    "low": 760,
+    "volume": 435000,
+    "market_cap": 604852912200
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-03",
+    "close": 740,
+    "open": 740,
+    "high": 805,
+    "low": 740,
+    "volume": 223900,
+    "market_cap": 588935730300
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-04",
+    "close": 780,
+    "open": 780,
+    "high": 780,
+    "low": 775,
+    "volume": 111500,
+    "market_cap": 620770094100
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-05",
+    "close": 805,
+    "open": 780,
+    "high": 805,
+    "low": 780,
+    "volume": 80400,
+    "market_cap": 640666571475
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-06",
+    "close": 755,
+    "open": 805,
+    "high": 805,
+    "low": 750,
+    "volume": 266700,
+    "market_cap": 600873616725
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-07",
+    "close": 770,
+    "open": 795,
+    "high": 795,
+    "low": 765,
+    "volume": 29800,
+    "market_cap": 612811503150
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-10",
+    "close": 720,
+    "open": 775,
+    "high": 790,
+    "low": 720,
+    "volume": 115800,
+    "market_cap": 573018548400
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-11",
+    "close": 715,
+    "open": 790,
+    "high": 790,
+    "low": 715,
+    "volume": 125800,
+    "market_cap": 569039252925
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-12",
+    "close": 785,
+    "open": 725,
+    "high": 785,
+    "low": 725,
+    "volume": 291700,
+    "market_cap": 624749389575
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-13",
+    "close": 770,
+    "open": 780,
+    "high": 780,
+    "low": 735,
+    "volume": 102500,
+    "market_cap": 612811503150
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-14",
+    "close": 800,
+    "open": 735,
+    "high": 800,
+    "low": 735,
+    "volume": 160000,
+    "market_cap": 636687276000
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-18",
+    "close": 835,
+    "open": 850,
+    "high": 850,
+    "low": 835,
+    "volume": 141300,
+    "market_cap": 664542344325
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-19",
+    "close": 850,
+    "open": 840,
+    "high": 850,
+    "low": 840,
+    "volume": 148200,
+    "market_cap": 676480230750
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-20",
+    "close": 890,
+    "open": 915,
+    "high": 915,
+    "low": 890,
+    "volume": 247100,
+    "market_cap": 708314594550
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-21",
+    "close": 890,
+    "open": 890,
+    "high": 890,
+    "low": 875,
+    "volume": 159200,
+    "market_cap": 708314594550
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-24",
+    "close": 930,
+    "open": 890,
+    "high": 930,
+    "low": 890,
+    "volume": 461500,
+    "market_cap": 740148958350
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-26",
+    "close": 900,
+    "open": 930,
+    "high": 930,
+    "low": 900,
+    "volume": 753200,
+    "market_cap": 716273185500
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-27",
+    "close": 910,
+    "open": 930,
+    "high": 930,
+    "low": 900,
+    "volume": 213400,
+    "market_cap": 724231776450
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-28",
+    "close": 930,
+    "open": 920,
+    "high": 930,
+    "low": 920,
+    "volume": 893200,
+    "market_cap": 740148958350
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-08-31",
+    "close": 930,
+    "open": 885,
+    "high": 930,
+    "low": 885,
+    "volume": 369800,
+    "market_cap": 740148958350
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-01",
+    "close": 915,
+    "open": 930,
+    "high": 930,
+    "low": 915,
+    "volume": 380700,
+    "market_cap": 728211071925
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-02",
+    "close": 1005,
+    "open": 900,
+    "high": 1005,
+    "low": 900,
+    "volume": 4988100,
+    "market_cap": 799838390475
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-03",
+    "close": 980,
+    "open": 1050,
+    "high": 1095,
+    "low": 915,
+    "volume": 7122500,
+    "market_cap": 779941913100
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-04",
+    "close": 935,
+    "open": 930,
+    "high": 985,
+    "low": 890,
+    "volume": 1680000,
+    "market_cap": 744128253825
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-07",
+    "close": 920,
+    "open": 890,
+    "high": 935,
+    "low": 855,
+    "volume": 1592900,
+    "market_cap": 732190367400
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-08",
+    "close": 905,
+    "open": 920,
+    "high": 935,
+    "low": 880,
+    "volume": 811000,
+    "market_cap": 720252480975
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-09",
+    "close": 895,
+    "open": 905,
+    "high": 915,
+    "low": 870,
+    "volume": 499900,
+    "market_cap": 712293890025
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-10",
+    "close": 900,
+    "open": 895,
+    "high": 910,
+    "low": 860,
+    "volume": 1013400,
+    "market_cap": 716273185500
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-11",
+    "close": 870,
+    "open": 870,
+    "high": 900,
+    "low": 835,
+    "volume": 601700,
+    "market_cap": 692397412650
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-14",
+    "close": 875,
+    "open": 875,
+    "high": 915,
+    "low": 865,
+    "volume": 638500,
+    "market_cap": 696376708125
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-15",
+    "close": 905,
+    "open": 875,
+    "high": 920,
+    "low": 865,
+    "volume": 746700,
+    "market_cap": 720252480975
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-16",
+    "close": 865,
+    "open": 920,
+    "high": 920,
+    "low": 860,
+    "volume": 1108500,
+    "market_cap": 688418117175
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-17",
+    "close": 885,
+    "open": 890,
+    "high": 910,
+    "low": 860,
+    "volume": 941900,
+    "market_cap": 704335299075
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-18",
+    "close": 880,
+    "open": 880,
+    "high": 915,
+    "low": 860,
+    "volume": 907400,
+    "market_cap": 700356003600
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-21",
+    "close": 840,
+    "open": 880,
+    "high": 880,
+    "low": 825,
+    "volume": 1177900,
+    "market_cap": 668521639800
+  },
+  {
+    "symbol": "PGJO.JK",
+    "date": "2026-09-22",
+    "close": 870,
+    "open": 855,
+    "high": 880,
+    "low": 815,
+    "volume": 677900,
+    "market_cap": 692397412650
+  }
+]

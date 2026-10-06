@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "title": "PT Cashlez Worldwide Indonesia Tbk reports 44% revenue growth but posts larger loss and negative equity in H1 2026",
+      "body": "PT Cashlez Worldwide Indonesia Tbk (CASH) posted a net loss of Rp39.32 billion for the first half of 2026 despite a 44.68% year‑on‑year increase in revenue to Rp84.68 billion. Gross profit rose 21.5% to Rp19.12 billion, but higher general and administrative expenses, a Rp1.88 billion impairment on receivables, and rising financial costs drove operating loss up 67.2% to Rp16.95 billion. On the balance sheet, total assets fell 7.78% to Rp192.87 billion while liabilities grew 9.97% to Rp230.49 billion, resulting in negative equity of Rp37.61 billion. The company's shares closed slightly higher at 246, contributing to a year‑to‑date gain of 138.83%.",
+      "source": "https://emitennews.com/news/pendapatan-naik-44-persen-cash-justru-kemas-rugi-ekuitas-negatif",
+      "thumbnail": "https://ap-south-1.linodeobjects.com/emitennews-02/uploads/news/thumb_1787986494.webp?25119ab",
+      "timestamp": "2026-08-29T15:01:00",
+      "sector": "technology",
+      "sub_sector": [
+        "software-it-services"
+      ],
+      "tags": [
+        "Financial Metrics",
+        "Bearish"
+      ],
+      "symbols": [
+        "CASH.JK"
+      ],
+      "dimension": {
+        "future": 0,
+        "dividend": 0,
+        "ownership": 0,
+        "technical": 0,
+        "valuation": 0,
+        "financials": 2,
+        "management": 0,
+        "sustainability": 0
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 1,
+    "showing": 1,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

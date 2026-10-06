@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-06-24",
+    "close": 23,
+    "open": 25,
+    "high": 25,
+    "low": 22,
+    "volume": 33245900,
+    "market_cap": 92468122197
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-06-25",
+    "close": 23,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 7341400,
+    "market_cap": 92468124474
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-06-26",
+    "close": 23,
+    "open": 22,
+    "high": 24,
+    "low": 22,
+    "volume": 9482600,
+    "market_cap": 92468125624
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-06-29",
+    "close": 23,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 4271800,
+    "market_cap": 92468125624
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-06-30",
+    "close": 21,
+    "open": 22,
+    "high": 23,
+    "low": 21,
+    "volume": 26451000,
+    "market_cap": 84427421148
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-01",
+    "close": 21,
+    "open": 21,
+    "high": 21,
+    "low": 20,
+    "volume": 7098500,
+    "market_cap": 84427421148
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-02",
+    "close": 21,
+    "open": 20,
+    "high": 22,
+    "low": 20,
+    "volume": 16087000,
+    "market_cap": 84427422198
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-03",
+    "close": 22,
+    "open": 22,
+    "high": 23,
+    "low": 21,
+    "volume": 12650600,
+    "market_cap": 88447777836
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-06",
+    "close": 24,
+    "open": 22,
+    "high": 24,
+    "low": 21,
+    "volume": 23284000,
+    "market_cap": 96488487312
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-07",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 9954800,
+    "market_cap": 96488489712
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-08",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 22,
+    "volume": 11776200,
+    "market_cap": 92468136066
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-09",
+    "close": 22,
+    "open": 23,
+    "high": 23,
+    "low": 22,
+    "volume": 3290300,
+    "market_cap": 88447782654
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-10",
+    "close": 22,
+    "open": 22,
+    "high": 23,
+    "low": 22,
+    "volume": 2925400,
+    "market_cap": 88447783754
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-13",
+    "close": 24,
+    "open": 22,
+    "high": 24,
+    "low": 22,
+    "volume": 15252800,
+    "market_cap": 96488493768
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-14",
+    "close": 24,
+    "open": 24,
+    "high": 26,
+    "low": 23,
+    "volume": 48401600,
+    "market_cap": 96488494968
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-15",
+    "close": 24,
+    "open": 24,
+    "high": 25,
+    "low": 23,
+    "volume": 28273000,
+    "market_cap": 96488497608
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-16",
+    "close": 24,
+    "open": 24,
+    "high": 25,
+    "low": 23,
+    "volume": 8838900,
+    "market_cap": 96488500008
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-17",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 7367400,
+    "market_cap": 100508856675
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-20",
+    "close": 26,
+    "open": 25,
+    "high": 26,
+    "low": 24,
+    "volume": 14514800,
+    "market_cap": 104529216142
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-21",
+    "close": 26,
+    "open": 26,
+    "high": 28,
+    "low": 24,
+    "volume": 70913700,
+    "market_cap": 104529226282
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-22",
+    "close": 25,
+    "open": 26,
+    "high": 27,
+    "low": 25,
+    "volume": 17409200,
+    "market_cap": 100508882550
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-23",
+    "close": 26,
+    "open": 26,
+    "high": 26,
+    "low": 24,
+    "volume": 13110600,
+    "market_cap": 104529237852
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-24",
+    "close": 25,
+    "open": 26,
+    "high": 26,
+    "low": 24,
+    "volume": 15135800,
+    "market_cap": 100508884050
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-27",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 14896700,
+    "market_cap": 96488529888
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-28",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 13401900,
+    "market_cap": 96488529888
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-29",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 8762900,
+    "market_cap": 100508886550
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-30",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 8390600,
+    "market_cap": 96488531136
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-07-31",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 5980600,
+    "market_cap": 100508886600
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-03",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 11252200,
+    "market_cap": 96488532336
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-04",
+    "close": 25,
+    "open": 24,
+    "high": 25,
+    "low": 23,
+    "volume": 6841100,
+    "market_cap": 100508887850
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-05",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 9581800,
+    "market_cap": 100508888325
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-06",
+    "close": 23,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 22626100,
+    "market_cap": 92468177259
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-07",
+    "close": 25,
+    "open": 24,
+    "high": 25,
+    "low": 23,
+    "volume": 28671600,
+    "market_cap": 100508889575
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-10",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 12108200,
+    "market_cap": 100508893100
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-11",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 10506100,
+    "market_cap": 100508895075
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-12",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 17351000,
+    "market_cap": 100508896525
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-13",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 7292500,
+    "market_cap": 100508900175
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-14",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 24,
+    "volume": 6408900,
+    "market_cap": 96488545944
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-18",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 46693500,
+    "market_cap": 96488547144
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-19",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 7894800,
+    "market_cap": 92468192163
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-20",
+    "close": 23,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 18514500,
+    "market_cap": 92468193336
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-21",
+    "close": 23,
+    "open": 23,
+    "high": 24,
+    "low": 22,
+    "volume": 47825100,
+    "market_cap": 92468194486
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-24",
+    "close": 23,
+    "open": 23,
+    "high": 24,
+    "low": 22,
+    "volume": 27313700,
+    "market_cap": 92468194486
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-26",
+    "close": 22,
+    "open": 23,
+    "high": 24,
+    "low": 22,
+    "volume": 15634200,
+    "market_cap": 88447839304
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-27",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 22,
+    "volume": 23399200,
+    "market_cap": 96488551968
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-28",
+    "close": 24,
+    "open": 22,
+    "high": 24,
+    "low": 22,
+    "volume": 14123400,
+    "market_cap": 96488553024
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-08-31",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 15189100,
+    "market_cap": 96488553024
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-01",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 9189500,
+    "market_cap": 96488554224
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-02",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 10407900,
+    "market_cap": 96488554224
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-03",
+    "close": 24,
+    "open": 23,
+    "high": 24,
+    "low": 23,
+    "volume": 9026900,
+    "market_cap": 96488554224
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-04",
+    "close": 24,
+    "open": 24,
+    "high": 24,
+    "low": 22,
+    "volume": 37355300,
+    "market_cap": 96488554224
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-07",
+    "close": 23,
+    "open": 24,
+    "high": 24,
+    "low": 23,
+    "volume": 25149500,
+    "market_cap": 92468198948
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-08",
+    "close": 25,
+    "open": 24,
+    "high": 25,
+    "low": 23,
+    "volume": 112866100,
+    "market_cap": 100509161925
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-09",
+    "close": 27,
+    "open": 26,
+    "high": 27,
+    "low": 25,
+    "volume": 133946500,
+    "market_cap": 108549894879
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-10",
+    "close": 29,
+    "open": 28,
+    "high": 29,
+    "low": 27,
+    "volume": 155894300,
+    "market_cap": 116590643783
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-11",
+    "close": 27,
+    "open": 28,
+    "high": 29,
+    "low": 27,
+    "volume": 68522900,
+    "market_cap": 108549911079
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-14",
+    "close": 25,
+    "open": 27,
+    "high": 27,
+    "low": 25,
+    "volume": 40250300,
+    "market_cap": 100509176925
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-15",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 144150300,
+    "market_cap": 96488821848
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-16",
+    "close": 25,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 28650400,
+    "market_cap": 100509189425
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-17",
+    "close": 26,
+    "open": 25,
+    "high": 26,
+    "low": 24,
+    "volume": 39878700,
+    "market_cap": 104529820252
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-18",
+    "close": 26,
+    "open": 26,
+    "high": 26,
+    "low": 24,
+    "volume": 66438000,
+    "market_cap": 104529820252
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-21",
+    "close": 25,
+    "open": 25,
+    "high": 26,
+    "low": 24,
+    "volume": 41981900,
+    "market_cap": 100509443800
+  },
+  {
+    "symbol": "ISAP.JK",
+    "date": "2026-09-22",
+    "close": 24,
+    "open": 25,
+    "high": 25,
+    "low": 23,
+    "volume": 54348200,
+    "market_cap": 96489066192
+  }
+]

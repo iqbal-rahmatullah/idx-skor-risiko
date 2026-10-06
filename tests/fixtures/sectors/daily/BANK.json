@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-06-24",
+    "close": 260,
+    "open": 268,
+    "high": 274,
+    "low": 256,
+    "volume": 4350400,
+    "market_cap": 3846225476080
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-06-25",
+    "close": 286,
+    "open": 258,
+    "high": 316,
+    "low": 258,
+    "volume": 265225300,
+    "market_cap": 4230848023688
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-06-26",
+    "close": 270,
+    "open": 288,
+    "high": 292,
+    "low": 262,
+    "volume": 11597400,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-06-29",
+    "close": 262,
+    "open": 276,
+    "high": 276,
+    "low": 262,
+    "volume": 4319100,
+    "market_cap": 3875811825896
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-06-30",
+    "close": 250,
+    "open": 258,
+    "high": 258,
+    "low": 244,
+    "volume": 9019800,
+    "market_cap": 3698293727000
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-01",
+    "close": 256,
+    "open": 248,
+    "high": 268,
+    "low": 248,
+    "volume": 3244400,
+    "market_cap": 3787052776448
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-02",
+    "close": 258,
+    "open": 256,
+    "high": 268,
+    "low": 256,
+    "volume": 4753000,
+    "market_cap": 3816639126264
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-03",
+    "close": 276,
+    "open": 264,
+    "high": 278,
+    "low": 264,
+    "volume": 3206300,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-06",
+    "close": 278,
+    "open": 276,
+    "high": 280,
+    "low": 268,
+    "volume": 4039400,
+    "market_cap": 4112502624424
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-07",
+    "close": 284,
+    "open": 278,
+    "high": 292,
+    "low": 272,
+    "volume": 5961200,
+    "market_cap": 4201261673872
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-08",
+    "close": 272,
+    "open": 284,
+    "high": 284,
+    "low": 266,
+    "volume": 7411700,
+    "market_cap": 4023743574976
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-09",
+    "close": 278,
+    "open": 272,
+    "high": 282,
+    "low": 268,
+    "volume": 3668600,
+    "market_cap": 4112502624424
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-10",
+    "close": 276,
+    "open": 274,
+    "high": 284,
+    "low": 274,
+    "volume": 2491000,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-13",
+    "close": 278,
+    "open": 276,
+    "high": 284,
+    "low": 272,
+    "volume": 2263300,
+    "market_cap": 4112502624424
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-14",
+    "close": 278,
+    "open": 278,
+    "high": 282,
+    "low": 270,
+    "volume": 3020600,
+    "market_cap": 4112502624424
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-15",
+    "close": 286,
+    "open": 276,
+    "high": 288,
+    "low": 276,
+    "volume": 2418600,
+    "market_cap": 4230848023688
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-16",
+    "close": 282,
+    "open": 286,
+    "high": 304,
+    "low": 282,
+    "volume": 5476300,
+    "market_cap": 4171675324056
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-17",
+    "close": 300,
+    "open": 288,
+    "high": 308,
+    "low": 282,
+    "volume": 8462800,
+    "market_cap": 4437952472400
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-20",
+    "close": 298,
+    "open": 308,
+    "high": 314,
+    "low": 296,
+    "volume": 3480800,
+    "market_cap": 4408366122584
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-21",
+    "close": 300,
+    "open": 298,
+    "high": 302,
+    "low": 286,
+    "volume": 4360600,
+    "market_cap": 4437952472400
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-22",
+    "close": 298,
+    "open": 298,
+    "high": 300,
+    "low": 290,
+    "volume": 2658800,
+    "market_cap": 4408366122584
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-23",
+    "close": 304,
+    "open": 298,
+    "high": 304,
+    "low": 292,
+    "volume": 4088700,
+    "market_cap": 4497125172032
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-24",
+    "close": 288,
+    "open": 304,
+    "high": 304,
+    "low": 288,
+    "volume": 3907600,
+    "market_cap": 4260434373504
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-27",
+    "close": 284,
+    "open": 290,
+    "high": 290,
+    "low": 274,
+    "volume": 4471900,
+    "market_cap": 4201261673872
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-28",
+    "close": 284,
+    "open": 284,
+    "high": 284,
+    "low": 278,
+    "volume": 3509300,
+    "market_cap": 4201261673872
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-29",
+    "close": 280,
+    "open": 282,
+    "high": 284,
+    "low": 276,
+    "volume": 2679200,
+    "market_cap": 4142088974240
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-30",
+    "close": 276,
+    "open": 280,
+    "high": 286,
+    "low": 276,
+    "volume": 4197500,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-07-31",
+    "close": 280,
+    "open": 280,
+    "high": 284,
+    "low": 276,
+    "volume": 3843500,
+    "market_cap": 4142088974240
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-03",
+    "close": 276,
+    "open": 280,
+    "high": 282,
+    "low": 276,
+    "volume": 4653100,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-04",
+    "close": 280,
+    "open": 278,
+    "high": 282,
+    "low": 278,
+    "volume": 3158000,
+    "market_cap": 4142088974240
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-05",
+    "close": 278,
+    "open": 280,
+    "high": 282,
+    "low": 276,
+    "volume": 2913500,
+    "market_cap": 4112502624424
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-06",
+    "close": 274,
+    "open": 278,
+    "high": 280,
+    "low": 274,
+    "volume": 2280700,
+    "market_cap": 4053329924792
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-07",
+    "close": 270,
+    "open": 274,
+    "high": 278,
+    "low": 268,
+    "volume": 4956800,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-10",
+    "close": 270,
+    "open": 272,
+    "high": 274,
+    "low": 270,
+    "volume": 1990900,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-11",
+    "close": 270,
+    "open": 272,
+    "high": 274,
+    "low": 268,
+    "volume": 1521900,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-12",
+    "close": 272,
+    "open": 270,
+    "high": 278,
+    "low": 270,
+    "volume": 1042400,
+    "market_cap": 4023743574976
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-13",
+    "close": 272,
+    "open": 274,
+    "high": 274,
+    "low": 268,
+    "volume": 1762900,
+    "market_cap": 4023743574976
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-14",
+    "close": 268,
+    "open": 272,
+    "high": 272,
+    "low": 266,
+    "volume": 1925100,
+    "market_cap": 3964570875344
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-18",
+    "close": 270,
+    "open": 268,
+    "high": 274,
+    "low": 268,
+    "volume": 832500,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-19",
+    "close": 270,
+    "open": 272,
+    "high": 272,
+    "low": 266,
+    "volume": 917400,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-20",
+    "close": 276,
+    "open": 270,
+    "high": 276,
+    "low": 268,
+    "volume": 1431100,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-21",
+    "close": 270,
+    "open": 276,
+    "high": 276,
+    "low": 270,
+    "volume": 2685300,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-24",
+    "close": 270,
+    "open": 276,
+    "high": 276,
+    "low": 266,
+    "volume": 2196000,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-26",
+    "close": 270,
+    "open": 270,
+    "high": 272,
+    "low": 266,
+    "volume": 1335300,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-27",
+    "close": 270,
+    "open": 270,
+    "high": 272,
+    "low": 266,
+    "volume": 1793000,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-28",
+    "close": 276,
+    "open": 270,
+    "high": 276,
+    "low": 268,
+    "volume": 2073800,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-08-31",
+    "close": 280,
+    "open": 278,
+    "high": 284,
+    "low": 276,
+    "volume": 5317300,
+    "market_cap": 4142088974240
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-01",
+    "close": 272,
+    "open": 280,
+    "high": 284,
+    "low": 272,
+    "volume": 6404800,
+    "market_cap": 4023743574976
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-02",
+    "close": 280,
+    "open": 280,
+    "high": 338,
+    "low": 280,
+    "volume": 73176900,
+    "market_cap": 4142088974240
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-03",
+    "close": 276,
+    "open": 284,
+    "high": 286,
+    "low": 274,
+    "volume": 12859900,
+    "market_cap": 4082916274608
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-04",
+    "close": 274,
+    "open": 276,
+    "high": 276,
+    "low": 272,
+    "volume": 4097800,
+    "market_cap": 4053329924792
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-07",
+    "close": 270,
+    "open": 274,
+    "high": 274,
+    "low": 266,
+    "volume": 7311000,
+    "market_cap": 3994157225160
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-08",
+    "close": 268,
+    "open": 270,
+    "high": 272,
+    "low": 266,
+    "volume": 5300200,
+    "market_cap": 3964570875344
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-09",
+    "close": 268,
+    "open": 270,
+    "high": 270,
+    "low": 264,
+    "volume": 3726000,
+    "market_cap": 3964570875344
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-10",
+    "close": 264,
+    "open": 266,
+    "high": 268,
+    "low": 262,
+    "volume": 2466300,
+    "market_cap": 3905398175712
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-11",
+    "close": 260,
+    "open": 262,
+    "high": 262,
+    "low": 256,
+    "volume": 4836400,
+    "market_cap": 3846225476080
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-14",
+    "close": 264,
+    "open": 260,
+    "high": 266,
+    "low": 254,
+    "volume": 3280400,
+    "market_cap": 3905398175712
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-15",
+    "close": 264,
+    "open": 262,
+    "high": 264,
+    "low": 258,
+    "volume": 2025100,
+    "market_cap": 3905398175712
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-16",
+    "close": 260,
+    "open": 264,
+    "high": 264,
+    "low": 258,
+    "volume": 1373200,
+    "market_cap": 3846225476080
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-17",
+    "close": 260,
+    "open": 260,
+    "high": 260,
+    "low": 254,
+    "volume": 2636000,
+    "market_cap": 3846225476080
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-18",
+    "close": 254,
+    "open": 260,
+    "high": 260,
+    "low": 254,
+    "volume": 1608800,
+    "market_cap": 3757466426632
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-21",
+    "close": 252,
+    "open": 254,
+    "high": 254,
+    "low": 236,
+    "volume": 5911100,
+    "market_cap": 3727880076816
+  },
+  {
+    "symbol": "BANK.JK",
+    "date": "2026-09-22",
+    "close": 242,
+    "open": 250,
+    "high": 250,
+    "low": 238,
+    "volume": 2896400,
+    "market_cap": 3579948327736
+  }
+]

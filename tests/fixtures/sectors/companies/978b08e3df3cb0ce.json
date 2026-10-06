@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "symbol": "DOSS.JK",
+      "company_name": "PT Global Sukses Digital Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "earnings[2025]": 34954664240.0,
+        "operating_cash_flow[2025]": 26220548196.0,
+        "total_assets[2025]": 266790647520.0,
+        "total_assets[2024]": 257012255374.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.033348864604393
+      }
+    },
+    {
+      "symbol": "UNTD.JK",
+      "company_name": "PT Terang Dunia Internusa Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "earnings[2025]": -33244917832.0,
+        "operating_cash_flow[2025]": -4996085663.0,
+        "total_assets[2025]": 1222469919462.0,
+        "total_assets[2024]": 1227823329650.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0230575113237875
+      }
+    },
+    {
+      "symbol": "IIKP.JK",
+      "company_name": "Inti Agri Resources Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "earnings[2025]": -12847273708.0,
+        "operating_cash_flow[2025]": -566293614.0,
+        "total_assets[2025]": 182600773850.0,
+        "total_assets[2024]": 195420243134.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0649751180078953
+      }
+    },
+    {
+      "symbol": "BIKE.JK",
+      "company_name": "PT Sepeda Bersama Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "earnings[2025]": -24446612487.0,
+        "operating_cash_flow[2025]": 15399161924.0,
+        "total_assets[2025]": 304999437927.0,
+        "total_assets[2024]": 334321511053.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.124650301150218
+      }
+    },
+    {
+      "symbol": "TOYS.JK",
+      "company_name": "PT Sunindo Adipersada Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 5,
+    "showing": 5,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

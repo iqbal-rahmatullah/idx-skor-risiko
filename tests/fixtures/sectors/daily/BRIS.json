@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-06-24",
+    "close": 1700,
+    "open": 1775,
+    "high": 1800,
+    "low": 1700,
+    "volume": 13147200,
+    "market_cap": 77635391986300
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-06-25",
+    "close": 1785,
+    "open": 1700,
+    "high": 1810,
+    "low": 1700,
+    "volume": 13804800,
+    "market_cap": 81517161585615
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-06-26",
+    "close": 1730,
+    "open": 1785,
+    "high": 1800,
+    "low": 1710,
+    "volume": 9824100,
+    "market_cap": 79005428315470
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-06-29",
+    "close": 1705,
+    "open": 1720,
+    "high": 1735,
+    "low": 1700,
+    "volume": 5674600,
+    "market_cap": 77863731374495
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-06-30",
+    "close": 1705,
+    "open": 1705,
+    "high": 1705,
+    "low": 1660,
+    "volume": 11253100,
+    "market_cap": 77863731374495
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-01",
+    "close": 1665,
+    "open": 1705,
+    "high": 1705,
+    "low": 1665,
+    "volume": 8471800,
+    "market_cap": 76037016268935
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-02",
+    "close": 1690,
+    "open": 1665,
+    "high": 1715,
+    "low": 1665,
+    "volume": 9028100,
+    "market_cap": 77178713209910
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-03",
+    "close": 1750,
+    "open": 1700,
+    "high": 1765,
+    "low": 1700,
+    "volume": 7333200,
+    "market_cap": 79918785868250
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-06",
+    "close": 1835,
+    "open": 1760,
+    "high": 1835,
+    "low": 1720,
+    "volume": 10215400,
+    "market_cap": 83800555467565
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-07",
+    "close": 1800,
+    "open": 1820,
+    "high": 1820,
+    "low": 1765,
+    "volume": 13262900,
+    "market_cap": 82202179750200
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-08",
+    "close": 1740,
+    "open": 1795,
+    "high": 1800,
+    "low": 1725,
+    "volume": 10574900,
+    "market_cap": 79462107091860
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-09",
+    "close": 1735,
+    "open": 1725,
+    "high": 1755,
+    "low": 1715,
+    "volume": 5030400,
+    "market_cap": 79233767703665
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-10",
+    "close": 1730,
+    "open": 1740,
+    "high": 1755,
+    "low": 1725,
+    "volume": 5120500,
+    "market_cap": 79005428315470
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-13",
+    "close": 1750,
+    "open": 1735,
+    "high": 1750,
+    "low": 1720,
+    "volume": 12422500,
+    "market_cap": 79918785868250
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-14",
+    "close": 1735,
+    "open": 1780,
+    "high": 1785,
+    "low": 1730,
+    "volume": 15421400,
+    "market_cap": 79233767703665
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-15",
+    "close": 1730,
+    "open": 1760,
+    "high": 1760,
+    "low": 1730,
+    "volume": 9564400,
+    "market_cap": 79005428315470
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-16",
+    "close": 1740,
+    "open": 1740,
+    "high": 1755,
+    "low": 1730,
+    "volume": 11932300,
+    "market_cap": 79462107091860
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-17",
+    "close": 1910,
+    "open": 1740,
+    "high": 1910,
+    "low": 1740,
+    "volume": 64799300,
+    "market_cap": 87225646290490
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-20",
+    "close": 1865,
+    "open": 1910,
+    "high": 1945,
+    "low": 1860,
+    "volume": 26710600,
+    "market_cap": 85170591796735
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-21",
+    "close": 1900,
+    "open": 1875,
+    "high": 1900,
+    "low": 1865,
+    "volume": 14593200,
+    "market_cap": 86768967514100
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-22",
+    "close": 1900,
+    "open": 1895,
+    "high": 1910,
+    "low": 1875,
+    "volume": 13379500,
+    "market_cap": 86768967514100
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-23",
+    "close": 1900,
+    "open": 1910,
+    "high": 1915,
+    "low": 1885,
+    "volume": 13958400,
+    "market_cap": 86768967514100
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-24",
+    "close": 1845,
+    "open": 1885,
+    "high": 1890,
+    "low": 1840,
+    "volume": 13626600,
+    "market_cap": 84257234243955
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-27",
+    "close": 1845,
+    "open": 1845,
+    "high": 1870,
+    "low": 1820,
+    "volume": 10661700,
+    "market_cap": 84257234243955
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-28",
+    "close": 1790,
+    "open": 1840,
+    "high": 1845,
+    "low": 1785,
+    "volume": 14267600,
+    "market_cap": 81745500973810
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-29",
+    "close": 1760,
+    "open": 1795,
+    "high": 1815,
+    "low": 1750,
+    "volume": 12575600,
+    "market_cap": 80375464644640
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-30",
+    "close": 1785,
+    "open": 1770,
+    "high": 1820,
+    "low": 1770,
+    "volume": 10963000,
+    "market_cap": 81517161585615
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-07-31",
+    "close": 1820,
+    "open": 1800,
+    "high": 1820,
+    "low": 1800,
+    "volume": 7921400,
+    "market_cap": 83115537302980
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-03",
+    "close": 1795,
+    "open": 1820,
+    "high": 1825,
+    "low": 1790,
+    "volume": 6913200,
+    "market_cap": 81973840362005
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-04",
+    "close": 1795,
+    "open": 1795,
+    "high": 1810,
+    "low": 1790,
+    "volume": 11344400,
+    "market_cap": 81973840362005
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-05",
+    "close": 1800,
+    "open": 1815,
+    "high": 1835,
+    "low": 1795,
+    "volume": 20146100,
+    "market_cap": 82202179750200
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-06",
+    "close": 1795,
+    "open": 1800,
+    "high": 1820,
+    "low": 1790,
+    "volume": 15397300,
+    "market_cap": 81973840362005
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-07",
+    "close": 1820,
+    "open": 1800,
+    "high": 1835,
+    "low": 1795,
+    "volume": 16220600,
+    "market_cap": 83115537302980
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-10",
+    "close": 1795,
+    "open": 1825,
+    "high": 1850,
+    "low": 1790,
+    "volume": 24112300,
+    "market_cap": 81973840362005
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-11",
+    "close": 1770,
+    "open": 1795,
+    "high": 1805,
+    "low": 1760,
+    "volume": 12974900,
+    "market_cap": 80832143421030
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-12",
+    "close": 1795,
+    "open": 1775,
+    "high": 1800,
+    "low": 1775,
+    "volume": 8612800,
+    "market_cap": 81973840362005
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-13",
+    "close": 1775,
+    "open": 1795,
+    "high": 1800,
+    "low": 1770,
+    "volume": 5630800,
+    "market_cap": 81060482809225
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-14",
+    "close": 1790,
+    "open": 1780,
+    "high": 1795,
+    "low": 1770,
+    "volume": 13888700,
+    "market_cap": 81745500973810
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-18",
+    "close": 1790,
+    "open": 1790,
+    "high": 1810,
+    "low": 1770,
+    "volume": 13092400,
+    "market_cap": 81745500973810
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-19",
+    "close": 1760,
+    "open": 1790,
+    "high": 1790,
+    "low": 1755,
+    "volume": 16691800,
+    "market_cap": 80375464644640
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-20",
+    "close": 1770,
+    "open": 1770,
+    "high": 1790,
+    "low": 1770,
+    "volume": 7942100,
+    "market_cap": 80832143421030
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-21",
+    "close": 1805,
+    "open": 1780,
+    "high": 1820,
+    "low": 1775,
+    "volume": 22438800,
+    "market_cap": 82430519138395
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-24",
+    "close": 1805,
+    "open": 1805,
+    "high": 1815,
+    "low": 1775,
+    "volume": 17779600,
+    "market_cap": 82430519138395
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-26",
+    "close": 1780,
+    "open": 1805,
+    "high": 1810,
+    "low": 1780,
+    "volume": 10831900,
+    "market_cap": 81288822197420
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-27",
+    "close": 1785,
+    "open": 1770,
+    "high": 1790,
+    "low": 1770,
+    "volume": 9646600,
+    "market_cap": 81517161585615
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-28",
+    "close": 1785,
+    "open": 1785,
+    "high": 1800,
+    "low": 1780,
+    "volume": 10302000,
+    "market_cap": 81517161585615
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-08-31",
+    "close": 1775,
+    "open": 1775,
+    "high": 1795,
+    "low": 1775,
+    "volume": 17009500,
+    "market_cap": 81060482809225
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-01",
+    "close": 1790,
+    "open": 1775,
+    "high": 1810,
+    "low": 1775,
+    "volume": 21531900,
+    "market_cap": 81745500973810
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-02",
+    "close": 1800,
+    "open": 1805,
+    "high": 1825,
+    "low": 1800,
+    "volume": 21079400,
+    "market_cap": 82202179750200
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-03",
+    "close": 1800,
+    "open": 1810,
+    "high": 1835,
+    "low": 1790,
+    "volume": 35027700,
+    "market_cap": 82202179750200
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-04",
+    "close": 1790,
+    "open": 1810,
+    "high": 1815,
+    "low": 1785,
+    "volume": 17690900,
+    "market_cap": 81745500973810
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-07",
+    "close": 1770,
+    "open": 1790,
+    "high": 1795,
+    "low": 1770,
+    "volume": 16452700,
+    "market_cap": 80832143421030
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-08",
+    "close": 1775,
+    "open": 1770,
+    "high": 1785,
+    "low": 1770,
+    "volume": 10765800,
+    "market_cap": 81060482809225
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-09",
+    "close": 1775,
+    "open": 1780,
+    "high": 1790,
+    "low": 1765,
+    "volume": 12359000,
+    "market_cap": 81060482809225
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-10",
+    "close": 1755,
+    "open": 1780,
+    "high": 1785,
+    "low": 1755,
+    "volume": 14392700,
+    "market_cap": 80147125256445
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-11",
+    "close": 1720,
+    "open": 1750,
+    "high": 1750,
+    "low": 1710,
+    "volume": 19549500,
+    "market_cap": 78548749539080
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-14",
+    "close": 1730,
+    "open": 1720,
+    "high": 1730,
+    "low": 1675,
+    "volume": 28442400,
+    "market_cap": 79005428315470
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-15",
+    "close": 1710,
+    "open": 1730,
+    "high": 1735,
+    "low": 1700,
+    "volume": 12262600,
+    "market_cap": 78092070762690
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-16",
+    "close": 1665,
+    "open": 1700,
+    "high": 1705,
+    "low": 1660,
+    "volume": 28832500,
+    "market_cap": 76037016268935
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-17",
+    "close": 1645,
+    "open": 1660,
+    "high": 1690,
+    "low": 1640,
+    "volume": 31473900,
+    "market_cap": 75123658716155
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-18",
+    "close": 1610,
+    "open": 1650,
+    "high": 1655,
+    "low": 1605,
+    "volume": 32250600,
+    "market_cap": 73525282998790
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-21",
+    "close": 1580,
+    "open": 1610,
+    "high": 1620,
+    "low": 1580,
+    "volume": 26352700,
+    "market_cap": 72155246669620
+  },
+  {
+    "symbol": "BRIS.JK",
+    "date": "2026-09-22",
+    "close": 1590,
+    "open": 1580,
+    "high": 1605,
+    "low": 1575,
+    "volume": 17175400,
+    "market_cap": 72611925446010
+  }
+]

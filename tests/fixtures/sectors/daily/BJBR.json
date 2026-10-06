@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-06-24",
+    "close": 755,
+    "open": 765,
+    "high": 770,
+    "low": 750,
+    "volume": 1560400,
+    "market_cap": 7864253082995
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-06-25",
+    "close": 765,
+    "open": 755,
+    "high": 765,
+    "low": 750,
+    "volume": 1613800,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-06-26",
+    "close": 760,
+    "open": 765,
+    "high": 765,
+    "low": 750,
+    "volume": 2610400,
+    "market_cap": 7916334229240
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-06-29",
+    "close": 755,
+    "open": 770,
+    "high": 770,
+    "low": 755,
+    "volume": 918800,
+    "market_cap": 7864253082995
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-06-30",
+    "close": 820,
+    "open": 755,
+    "high": 820,
+    "low": 740,
+    "volume": 8262300,
+    "market_cap": 8541307984180
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-01",
+    "close": 750,
+    "open": 770,
+    "high": 770,
+    "low": 745,
+    "volume": 5129300,
+    "market_cap": 7812171936750
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-02",
+    "close": 755,
+    "open": 750,
+    "high": 765,
+    "low": 750,
+    "volume": 1189200,
+    "market_cap": 7864253082995
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-03",
+    "close": 765,
+    "open": 760,
+    "high": 765,
+    "low": 755,
+    "volume": 1349000,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-06",
+    "close": 765,
+    "open": 765,
+    "high": 770,
+    "low": 755,
+    "volume": 1505600,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-07",
+    "close": 765,
+    "open": 765,
+    "high": 775,
+    "low": 760,
+    "volume": 1232600,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-08",
+    "close": 760,
+    "open": 770,
+    "high": 770,
+    "low": 755,
+    "volume": 1135800,
+    "market_cap": 7916334229240
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-09",
+    "close": 760,
+    "open": 765,
+    "high": 765,
+    "low": 755,
+    "volume": 772800,
+    "market_cap": 7916334229240
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-10",
+    "close": 770,
+    "open": 765,
+    "high": 770,
+    "low": 760,
+    "volume": 1066800,
+    "market_cap": 8020496521730
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-13",
+    "close": 770,
+    "open": 770,
+    "high": 770,
+    "low": 760,
+    "volume": 1613900,
+    "market_cap": 8020496521730
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-14",
+    "close": 765,
+    "open": 770,
+    "high": 780,
+    "low": 765,
+    "volume": 2084900,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-15",
+    "close": 770,
+    "open": 765,
+    "high": 775,
+    "low": 760,
+    "volume": 1022900,
+    "market_cap": 8020496521730
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-16",
+    "close": 770,
+    "open": 770,
+    "high": 780,
+    "low": 770,
+    "volume": 1847100,
+    "market_cap": 8020496521730
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-17",
+    "close": 785,
+    "open": 770,
+    "high": 790,
+    "low": 770,
+    "volume": 2224900,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-20",
+    "close": 785,
+    "open": 785,
+    "high": 795,
+    "low": 785,
+    "volume": 1687400,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-21",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 1106500,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-22",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 495800,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-23",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 785,
+    "volume": 2137000,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-24",
+    "close": 785,
+    "open": 790,
+    "high": 790,
+    "low": 775,
+    "volume": 1631300,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-27",
+    "close": 775,
+    "open": 785,
+    "high": 785,
+    "low": 770,
+    "volume": 1799100,
+    "market_cap": 8072577667975
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-28",
+    "close": 785,
+    "open": 775,
+    "high": 785,
+    "low": 770,
+    "volume": 2201500,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-29",
+    "close": 780,
+    "open": 785,
+    "high": 785,
+    "low": 770,
+    "volume": 754900,
+    "market_cap": 8124658814220
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-30",
+    "close": 775,
+    "open": 780,
+    "high": 790,
+    "low": 775,
+    "volume": 2986800,
+    "market_cap": 8072577667975
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-07-31",
+    "close": 790,
+    "open": 785,
+    "high": 790,
+    "low": 780,
+    "volume": 2233200,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-03",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 1400500,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-04",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 2392000,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-05",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 780,
+    "volume": 3134800,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-06",
+    "close": 785,
+    "open": 790,
+    "high": 790,
+    "low": 785,
+    "volume": 1601900,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-07",
+    "close": 790,
+    "open": 785,
+    "high": 795,
+    "low": 785,
+    "volume": 2296900,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-10",
+    "close": 795,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 2007700,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-11",
+    "close": 785,
+    "open": 790,
+    "high": 795,
+    "low": 780,
+    "volume": 1709000,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-12",
+    "close": 785,
+    "open": 785,
+    "high": 790,
+    "low": 780,
+    "volume": 1234200,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-13",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 780,
+    "volume": 1338800,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-14",
+    "close": 790,
+    "open": 790,
+    "high": 790,
+    "low": 785,
+    "volume": 445600,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-18",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 780,
+    "volume": 2815100,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-19",
+    "close": 785,
+    "open": 790,
+    "high": 790,
+    "low": 785,
+    "volume": 2006100,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-20",
+    "close": 790,
+    "open": 785,
+    "high": 790,
+    "low": 780,
+    "volume": 2138100,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-21",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 1641600,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-24",
+    "close": 795,
+    "open": 785,
+    "high": 795,
+    "low": 785,
+    "volume": 1712700,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-26",
+    "close": 785,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 1427900,
+    "market_cap": 8176739960465
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-27",
+    "close": 790,
+    "open": 785,
+    "high": 795,
+    "low": 785,
+    "volume": 1255400,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-28",
+    "close": 790,
+    "open": 790,
+    "high": 795,
+    "low": 785,
+    "volume": 1347000,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-08-31",
+    "close": 790,
+    "open": 790,
+    "high": 800,
+    "low": 790,
+    "volume": 1405100,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-01",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 790,
+    "volume": 3027100,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-02",
+    "close": 795,
+    "open": 795,
+    "high": 805,
+    "low": 795,
+    "volume": 3346300,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-03",
+    "close": 800,
+    "open": 795,
+    "high": 810,
+    "low": 795,
+    "volume": 3873100,
+    "market_cap": 8332983399200
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-04",
+    "close": 805,
+    "open": 800,
+    "high": 810,
+    "low": 800,
+    "volume": 2270900,
+    "market_cap": 8385064545445
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-07",
+    "close": 805,
+    "open": 805,
+    "high": 810,
+    "low": 800,
+    "volume": 3818600,
+    "market_cap": 8385064545445
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-08",
+    "close": 800,
+    "open": 810,
+    "high": 810,
+    "low": 800,
+    "volume": 4352500,
+    "market_cap": 8332983399200
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-09",
+    "close": 800,
+    "open": 800,
+    "high": 810,
+    "low": 790,
+    "volume": 5875500,
+    "market_cap": 8332983399200
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-10",
+    "close": 795,
+    "open": 800,
+    "high": 800,
+    "low": 785,
+    "volume": 5094400,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-11",
+    "close": 795,
+    "open": 795,
+    "high": 795,
+    "low": 785,
+    "volume": 1653900,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-14",
+    "close": 795,
+    "open": 795,
+    "high": 795,
+    "low": 785,
+    "volume": 1956800,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-15",
+    "close": 795,
+    "open": 795,
+    "high": 795,
+    "low": 790,
+    "volume": 993700,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-16",
+    "close": 790,
+    "open": 795,
+    "high": 795,
+    "low": 785,
+    "volume": 1462000,
+    "market_cap": 8228821106710
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-17",
+    "close": 795,
+    "open": 790,
+    "high": 795,
+    "low": 790,
+    "volume": 1022100,
+    "market_cap": 8280902252955
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-18",
+    "close": 755,
+    "open": 790,
+    "high": 795,
+    "low": 755,
+    "volume": 80359700,
+    "market_cap": 7864253082995
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-21",
+    "close": 765,
+    "open": 765,
+    "high": 770,
+    "low": 750,
+    "volume": 18320200,
+    "market_cap": 7968415375485
+  },
+  {
+    "symbol": "BJBR.JK",
+    "date": "2026-09-22",
+    "close": 760,
+    "open": 765,
+    "high": 770,
+    "low": 755,
+    "volume": 4975100,
+    "market_cap": 7916334229240
+  }
+]

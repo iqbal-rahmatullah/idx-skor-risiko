@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "title": "BEI removes the Rp 50 minimum price limit for listed stocks, allowing trading from Rp 1 and publishes the affected issuers",
+      "body": "BEI announced that the Rp 50 minimum price limit for listed equities will be removed, lowering the floor to Rp 1 per share effective Monday 28 September 2026. The change also revises Auto Rejection thresholds, keeping ARB asymmetrical at 15 % for equities above Rp 10, setting both ARA and ARB at Rp 1 for stocks priced between Rp 1 and Rp 10, with symmetric ARB to resume on 1 January 2027 and the existing AR limits remaining until 31 December 2026. The policy directly affects the listed issuers PT Mitra Komunikasi Nusantara Tbk (MKNT), PT Sejahtera Bintang Abadi Textile Tbk (SBAT), PT Totalindo Eka Persada Tbk (TOPS), PT Ratu Prabu Energi Tbk (ARTI), PT Berkah Beton Sedaya Tbk (BEBS), PT Dewata Freightinternational Tbk (DEAL), PT Sunindo Adipersada Tbk (TOYS), PT Omni Inovasi Indonesia Tbk (TELE), PT Bumi Teknokultura Unggul Tbk (BTEK), PT Capitalinc Investment Tbk (MTFN), PT Indo Pureco Pratama Tbk (IPPE), PT Waskita Beton Precast Tbk (WSBP), PT Express Transindo Utama Tbk (TAXI), PT Quantum Clovera Investama Tbk (KREN), PT PP Properti Tbk (PPRO), PT Sriwahana Adityakarta Tbk (SWAT), PT Bakrieland Development Tbk (ELTY), PT Widodo Makmur Perkasa Tbk (WMPP), PT Isra Presisi Indonesia Tbk (ISAP), PT Black Diamond Resources Tbk (COAL), PT Nanotech Indonesia Global Tbk (NANO), PT Mitra Angkasa Sejahtera Tbk (BAUT), PT Widiant Jaya Krenindo Tbk (WIDI), PT Himalaya Energi Perkasa Tbk (HADE), PT Pelayaran Tamarin Samudra Tbk (TAMU), PT Putra Rajawali Kencana Tbk (PURA), PT Asia Pacific Fibers Tbk (POLY), PT Visi Media Asia Tbk (VIVA), PT Anugerah Spareparts Sejahtera Tbk (AEGS), and PT Manggung Polahraya Tbk (MANG). BEI Director General Jeffrey Hendrik said the adjustment aims to improve liquidity and price discovery for market participants.",
+      "source": "https://www.cnbcindonesia.com/market/20260923092753-17-770103/bei-hapus-batasan-minimum-ini-daftar-harga-saham-di-bawah-rp-50",
+      "thumbnail": "https://awsimages.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_43.jpeg?w=200&q=90",
+      "timestamp": "2026-09-23T10:50:13",
+      "sector": "consumer-cyclicals",
+      "sub_sector": [
+        "retailing",
+        "apparel-luxury-goods",
+        "heavy-constructions-civil-engineering",
+        "oil-gas-coal",
+        "basic-materials",
+        "logistics-deliveries",
+        "leisure-goods",
+        "food-beverage",
+        "transportation",
+        "software-it-services",
+        "properties-real-estate",
+        "automobiles-components",
+        "nondurable-household-products",
+        "industrial-goods",
+        "utilities",
+        "media-entertainment"
+      ],
+      "tags": [
+        "Politics & Regulation"
+      ],
+      "symbols": [
+        "MKNT.JK",
+        "SBAT.JK",
+        "TOPS.JK",
+        "ARTI.JK",
+        "BEBS.JK",
+        "DEAL.JK",
+        "TOYS.JK",
+        "TELE.JK",
+        "BTEK.JK",
+        "MTFN.JK",
+        "IPPE.JK",
+        "WSBP.JK",
+        "TAXI.JK",
+        "KREN.JK",
+        "PPRO.JK",
+        "SWAT.JK",
+        "ELTY.JK",
+        "WMPP.JK",
+        "ISAP.JK",
+        "COAL.JK",
+        "NANO.JK",
+        "BAUT.JK",
+        "WIDI.JK",
+        "HADE.JK",
+        "TAMU.JK",
+        "PURA.JK",
+        "POLY.JK",
+        "VIVA.JK",
+        "AEGS.JK",
+        "MANG.JK"
+      ],
+      "dimension": {
+        "future": 0,
+        "dividend": 0,
+        "ownership": 0,
+        "technical": 0,
+        "valuation": 0,
+        "financials": 0,
+        "management": 0,
+        "sustainability": 0
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 1,
+    "showing": 1,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

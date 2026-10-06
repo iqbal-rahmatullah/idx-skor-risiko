@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-06-24",
+    "close": 108,
+    "open": 104,
+    "high": 108,
+    "low": 104,
+    "volume": 33800,
+    "market_cap": 375902826516
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-06-25",
+    "close": 109,
+    "open": 103,
+    "high": 112,
+    "low": 100,
+    "volume": 237500,
+    "market_cap": 379383408243
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-06-26",
+    "close": 109,
+    "open": 105,
+    "high": 109,
+    "low": 105,
+    "volume": 29600,
+    "market_cap": 379383408243
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-06-29",
+    "close": 107,
+    "open": 109,
+    "high": 112,
+    "low": 100,
+    "volume": 68900,
+    "market_cap": 372422244789
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-06-30",
+    "close": 104,
+    "open": 105,
+    "high": 106,
+    "low": 100,
+    "volume": 380000,
+    "market_cap": 361980499608
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-01",
+    "close": 104,
+    "open": 106,
+    "high": 106,
+    "low": 102,
+    "volume": 31400,
+    "market_cap": 361980499608
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-02",
+    "close": 103,
+    "open": 104,
+    "high": 104,
+    "low": 100,
+    "volume": 450800,
+    "market_cap": 358499917881
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-03",
+    "close": 102,
+    "open": 101,
+    "high": 103,
+    "low": 98,
+    "volume": 718900,
+    "market_cap": 355019336154
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-06",
+    "close": 111,
+    "open": 102,
+    "high": 127,
+    "low": 99,
+    "volume": 8016000,
+    "market_cap": 386344571697
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-07",
+    "close": 115,
+    "open": 111,
+    "high": 120,
+    "low": 105,
+    "volume": 2070800,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-08",
+    "close": 120,
+    "open": 118,
+    "high": 124,
+    "low": 117,
+    "volume": 1664400,
+    "market_cap": 417669807240
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-09",
+    "close": 115,
+    "open": 119,
+    "high": 122,
+    "low": 110,
+    "volume": 817300,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-10",
+    "close": 117,
+    "open": 116,
+    "high": 122,
+    "low": 116,
+    "volume": 283500,
+    "market_cap": 407228062059
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-13",
+    "close": 117,
+    "open": 117,
+    "high": 122,
+    "low": 115,
+    "volume": 398600,
+    "market_cap": 407228062059
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-14",
+    "close": 112,
+    "open": 118,
+    "high": 122,
+    "low": 110,
+    "volume": 2243500,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-15",
+    "close": 112,
+    "open": 112,
+    "high": 114,
+    "low": 108,
+    "volume": 433900,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-16",
+    "close": 116,
+    "open": 112,
+    "high": 120,
+    "low": 109,
+    "volume": 1404500,
+    "market_cap": 403747480332
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-17",
+    "close": 116,
+    "open": 116,
+    "high": 118,
+    "low": 115,
+    "volume": 124900,
+    "market_cap": 403747480332
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-20",
+    "close": 115,
+    "open": 115,
+    "high": 117,
+    "low": 114,
+    "volume": 157800,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-21",
+    "close": 115,
+    "open": 114,
+    "high": 120,
+    "low": 113,
+    "volume": 194900,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-22",
+    "close": 111,
+    "open": 118,
+    "high": 118,
+    "low": 111,
+    "volume": 411200,
+    "market_cap": 386344571697
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-23",
+    "close": 115,
+    "open": 111,
+    "high": 117,
+    "low": 111,
+    "volume": 298300,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-24",
+    "close": 114,
+    "open": 114,
+    "high": 116,
+    "low": 110,
+    "volume": 118000,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-27",
+    "close": 111,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 342100,
+    "market_cap": 386344571697
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-28",
+    "close": 114,
+    "open": 112,
+    "high": 114,
+    "low": 111,
+    "volume": 82200,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-29",
+    "close": 110,
+    "open": 115,
+    "high": 132,
+    "low": 106,
+    "volume": 16364800,
+    "market_cap": 382863989970
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-30",
+    "close": 113,
+    "open": 111,
+    "high": 117,
+    "low": 109,
+    "volume": 2065600,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-07-31",
+    "close": 113,
+    "open": 113,
+    "high": 116,
+    "low": 112,
+    "volume": 180600,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-03",
+    "close": 114,
+    "open": 114,
+    "high": 115,
+    "low": 112,
+    "volume": 547600,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-04",
+    "close": 115,
+    "open": 114,
+    "high": 115,
+    "low": 113,
+    "volume": 729800,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-05",
+    "close": 116,
+    "open": 115,
+    "high": 116,
+    "low": 114,
+    "volume": 1020500,
+    "market_cap": 403747480332
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-06",
+    "close": 116,
+    "open": 116,
+    "high": 116,
+    "low": 113,
+    "volume": 346000,
+    "market_cap": 403747480332
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-07",
+    "close": 115,
+    "open": 116,
+    "high": 119,
+    "low": 111,
+    "volume": 561000,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-10",
+    "close": 113,
+    "open": 117,
+    "high": 117,
+    "low": 111,
+    "volume": 756000,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-11",
+    "close": 114,
+    "open": 113,
+    "high": 121,
+    "low": 111,
+    "volume": 2239900,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-12",
+    "close": 114,
+    "open": 115,
+    "high": 115,
+    "low": 110,
+    "volume": 599400,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-13",
+    "close": 114,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 230700,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-14",
+    "close": 112,
+    "open": 114,
+    "high": 116,
+    "low": 112,
+    "volume": 12600,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-18",
+    "close": 113,
+    "open": 111,
+    "high": 114,
+    "low": 111,
+    "volume": 240200,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-19",
+    "close": 113,
+    "open": 111,
+    "high": 115,
+    "low": 110,
+    "volume": 93300,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-20",
+    "close": 114,
+    "open": 112,
+    "high": 115,
+    "low": 111,
+    "volume": 283900,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-21",
+    "close": 112,
+    "open": 113,
+    "high": 118,
+    "low": 111,
+    "volume": 2347200,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-24",
+    "close": 112,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 1038100,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-26",
+    "close": 112,
+    "open": 112,
+    "high": 115,
+    "low": 109,
+    "volume": 2625200,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-27",
+    "close": 112,
+    "open": 112,
+    "high": 114,
+    "low": 111,
+    "volume": 215900,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-28",
+    "close": 113,
+    "open": 112,
+    "high": 113,
+    "low": 111,
+    "volume": 107100,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-08-31",
+    "close": 113,
+    "open": 113,
+    "high": 114,
+    "low": 111,
+    "volume": 155700,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-01",
+    "close": 113,
+    "open": 113,
+    "high": 114,
+    "low": 109,
+    "volume": 1404000,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-02",
+    "close": 112,
+    "open": 113,
+    "high": 113,
+    "low": 109,
+    "volume": 1832700,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-03",
+    "close": 114,
+    "open": 113,
+    "high": 116,
+    "low": 112,
+    "volume": 1470900,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-04",
+    "close": 114,
+    "open": 114,
+    "high": 114,
+    "low": 111,
+    "volume": 407700,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-07",
+    "close": 113,
+    "open": 116,
+    "high": 116,
+    "low": 112,
+    "volume": 111000,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-08",
+    "close": 113,
+    "open": 113,
+    "high": 114,
+    "low": 111,
+    "volume": 535800,
+    "market_cap": 393305735151
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-09",
+    "close": 115,
+    "open": 115,
+    "high": 116,
+    "low": 114,
+    "volume": 1392300,
+    "market_cap": 400266898605
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-10",
+    "close": 114,
+    "open": 115,
+    "high": 117,
+    "low": 114,
+    "volume": 1650400,
+    "market_cap": 396786316878
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-11",
+    "close": 110,
+    "open": 124,
+    "high": 136,
+    "low": 110,
+    "volume": 13116100,
+    "market_cap": 382863989970
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-14",
+    "close": 111,
+    "open": 110,
+    "high": 113,
+    "low": 108,
+    "volume": 526500,
+    "market_cap": 386344571697
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-15",
+    "close": 116,
+    "open": 112,
+    "high": 126,
+    "low": 109,
+    "volume": 4294400,
+    "market_cap": 403747480332
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-16",
+    "close": 111,
+    "open": 118,
+    "high": 118,
+    "low": 110,
+    "volume": 2153000,
+    "market_cap": 386344571697
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-17",
+    "close": 112,
+    "open": 114,
+    "high": 114,
+    "low": 110,
+    "volume": 1231900,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-18",
+    "close": 112,
+    "open": 113,
+    "high": 113,
+    "low": 111,
+    "volume": 871000,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-21",
+    "close": 112,
+    "open": 112,
+    "high": 113,
+    "low": 110,
+    "volume": 498200,
+    "market_cap": 389825153424
+  },
+  {
+    "symbol": "TYRE.JK",
+    "date": "2026-09-22",
+    "close": 110,
+    "open": 112,
+    "high": 112,
+    "low": 107,
+    "volume": 1241500,
+    "market_cap": 382863989970
+  }
+]

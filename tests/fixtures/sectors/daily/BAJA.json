@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-06-24",
+    "close": 153,
+    "open": 164,
+    "high": 166,
+    "low": 153,
+    "volume": 1348700,
+    "market_cap": 275400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-06-25",
+    "close": 159,
+    "open": 155,
+    "high": 160,
+    "low": 155,
+    "volume": 546500,
+    "market_cap": 286200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-06-26",
+    "close": 152,
+    "open": 158,
+    "high": 158,
+    "low": 151,
+    "volume": 535300,
+    "market_cap": 273600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-06-29",
+    "close": 160,
+    "open": 152,
+    "high": 183,
+    "low": 151,
+    "volume": 11663400,
+    "market_cap": 288000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-06-30",
+    "close": 156,
+    "open": 160,
+    "high": 168,
+    "low": 152,
+    "volume": 2704500,
+    "market_cap": 280800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-01",
+    "close": 160,
+    "open": 156,
+    "high": 167,
+    "low": 156,
+    "volume": 1554200,
+    "market_cap": 288000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-02",
+    "close": 157,
+    "open": 165,
+    "high": 166,
+    "low": 140,
+    "volume": 2714800,
+    "market_cap": 282600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-03",
+    "close": 155,
+    "open": 157,
+    "high": 160,
+    "low": 150,
+    "volume": 1051900,
+    "market_cap": 279000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-06",
+    "close": 161,
+    "open": 157,
+    "high": 166,
+    "low": 157,
+    "volume": 1023600,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-07",
+    "close": 161,
+    "open": 161,
+    "high": 164,
+    "low": 160,
+    "volume": 637200,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-08",
+    "close": 161,
+    "open": 162,
+    "high": 164,
+    "low": 158,
+    "volume": 1066100,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-09",
+    "close": 162,
+    "open": 161,
+    "high": 164,
+    "low": 161,
+    "volume": 350800,
+    "market_cap": 291600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-10",
+    "close": 160,
+    "open": 160,
+    "high": 163,
+    "low": 157,
+    "volume": 1163600,
+    "market_cap": 288000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-13",
+    "close": 161,
+    "open": 162,
+    "high": 162,
+    "low": 159,
+    "volume": 1208800,
+    "market_cap": 289800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-14",
+    "close": 163,
+    "open": 162,
+    "high": 166,
+    "low": 161,
+    "volume": 1068400,
+    "market_cap": 293400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-15",
+    "close": 169,
+    "open": 180,
+    "high": 189,
+    "low": 166,
+    "volume": 16732500,
+    "market_cap": 304200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-16",
+    "close": 166,
+    "open": 168,
+    "high": 172,
+    "low": 161,
+    "volume": 3521500,
+    "market_cap": 298800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-17",
+    "close": 167,
+    "open": 167,
+    "high": 171,
+    "low": 164,
+    "volume": 1139600,
+    "market_cap": 300600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-20",
+    "close": 166,
+    "open": 167,
+    "high": 168,
+    "low": 164,
+    "volume": 1766300,
+    "market_cap": 298800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-21",
+    "close": 166,
+    "open": 165,
+    "high": 167,
+    "low": 162,
+    "volume": 1900300,
+    "market_cap": 298800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-22",
+    "close": 165,
+    "open": 166,
+    "high": 167,
+    "low": 164,
+    "volume": 1605300,
+    "market_cap": 297000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-23",
+    "close": 165,
+    "open": 165,
+    "high": 169,
+    "low": 165,
+    "volume": 1464200,
+    "market_cap": 297000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-24",
+    "close": 165,
+    "open": 164,
+    "high": 172,
+    "low": 163,
+    "volume": 1476700,
+    "market_cap": 297000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-27",
+    "close": 222,
+    "open": 172,
+    "high": 222,
+    "low": 167,
+    "volume": 57291000,
+    "market_cap": 399600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-28",
+    "close": 224,
+    "open": 240,
+    "high": 276,
+    "low": 224,
+    "volume": 106494700,
+    "market_cap": 403200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-29",
+    "close": 191,
+    "open": 224,
+    "high": 238,
+    "low": 191,
+    "volume": 34357800,
+    "market_cap": 343800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-30",
+    "close": 230,
+    "open": 190,
+    "high": 250,
+    "low": 184,
+    "volume": 56262500,
+    "market_cap": 414000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-07-31",
+    "close": 244,
+    "open": 232,
+    "high": 264,
+    "low": 222,
+    "volume": 40216900,
+    "market_cap": 439200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-03",
+    "close": 304,
+    "open": 262,
+    "high": 304,
+    "low": 248,
+    "volume": 81825000,
+    "market_cap": 547200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-04",
+    "close": 304,
+    "open": 304,
+    "high": 304,
+    "low": 304,
+    "volume": 0,
+    "market_cap": 547200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-05",
+    "close": 338,
+    "open": 304,
+    "high": 376,
+    "low": 282,
+    "volume": 96139000,
+    "market_cap": 608400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-06",
+    "close": 362,
+    "open": 352,
+    "high": 376,
+    "low": 348,
+    "volume": 29769300,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-07",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-10",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-11",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-12",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-13",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-14",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-18",
+    "close": 362,
+    "open": 362,
+    "high": 362,
+    "low": 362,
+    "volume": 0,
+    "market_cap": 651600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-19",
+    "close": 326,
+    "open": 362,
+    "high": 362,
+    "low": 326,
+    "volume": 4610100,
+    "market_cap": 586800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-20",
+    "close": 294,
+    "open": 294,
+    "high": 294,
+    "low": 294,
+    "volume": 1735500,
+    "market_cap": 529200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-21",
+    "close": 266,
+    "open": 266,
+    "high": 266,
+    "low": 266,
+    "volume": 3135500,
+    "market_cap": 478800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-24",
+    "close": 258,
+    "open": 280,
+    "high": 280,
+    "low": 254,
+    "volume": 11073600,
+    "market_cap": 464400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-26",
+    "close": 244,
+    "open": 258,
+    "high": 258,
+    "low": 244,
+    "volume": 4558900,
+    "market_cap": 439200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-27",
+    "close": 268,
+    "open": 268,
+    "high": 268,
+    "low": 268,
+    "volume": 10481300,
+    "market_cap": 482400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-28",
+    "close": 274,
+    "open": 260,
+    "high": 274,
+    "low": 260,
+    "volume": 4721400,
+    "market_cap": 493200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-08-31",
+    "close": 308,
+    "open": 280,
+    "high": 318,
+    "low": 266,
+    "volume": 45181000,
+    "market_cap": 554400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-01",
+    "close": 294,
+    "open": 308,
+    "high": 316,
+    "low": 278,
+    "volume": 18272500,
+    "market_cap": 529200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-02",
+    "close": 286,
+    "open": 292,
+    "high": 296,
+    "low": 278,
+    "volume": 6985600,
+    "market_cap": 514800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-03",
+    "close": 270,
+    "open": 286,
+    "high": 288,
+    "low": 264,
+    "volume": 8487400,
+    "market_cap": 486000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-04",
+    "close": 282,
+    "open": 276,
+    "high": 298,
+    "low": 270,
+    "volume": 18487700,
+    "market_cap": 507600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-07",
+    "close": 270,
+    "open": 288,
+    "high": 288,
+    "low": 268,
+    "volume": 4546700,
+    "market_cap": 486000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-08",
+    "close": 296,
+    "open": 270,
+    "high": 298,
+    "low": 264,
+    "volume": 13213700,
+    "market_cap": 532800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-09",
+    "close": 314,
+    "open": 300,
+    "high": 354,
+    "low": 296,
+    "volume": 83688000,
+    "market_cap": 565200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-10",
+    "close": 294,
+    "open": 316,
+    "high": 318,
+    "low": 288,
+    "volume": 9969700,
+    "market_cap": 529200000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-11",
+    "close": 282,
+    "open": 290,
+    "high": 290,
+    "low": 270,
+    "volume": 6487200,
+    "market_cap": 507600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-14",
+    "close": 282,
+    "open": 282,
+    "high": 284,
+    "low": 270,
+    "volume": 3073500,
+    "market_cap": 507600000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-15",
+    "close": 278,
+    "open": 284,
+    "high": 296,
+    "low": 274,
+    "volume": 4826900,
+    "market_cap": 500400000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-16",
+    "close": 276,
+    "open": 276,
+    "high": 286,
+    "low": 274,
+    "volume": 1445500,
+    "market_cap": 496800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-17",
+    "close": 280,
+    "open": 276,
+    "high": 280,
+    "low": 274,
+    "volume": 2347400,
+    "market_cap": 504000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-18",
+    "close": 350,
+    "open": 282,
+    "high": 350,
+    "low": 276,
+    "volume": 119421000,
+    "market_cap": 630000000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-21",
+    "close": 436,
+    "open": 364,
+    "high": 436,
+    "low": 364,
+    "volume": 124779300,
+    "market_cap": 784800000000
+  },
+  {
+    "symbol": "BAJA.JK",
+    "date": "2026-09-22",
+    "close": 434,
+    "open": 472,
+    "high": 505,
+    "low": 414,
+    "volume": 107559800,
+    "market_cap": 781200000000
+  }
+]

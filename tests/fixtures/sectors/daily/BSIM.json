@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-06-24",
+    "close": 710,
+    "open": 725,
+    "high": 725,
+    "low": 705,
+    "volume": 24900,
+    "market_cap": 13857724507820
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-06-25",
+    "close": 705,
+    "open": 680,
+    "high": 725,
+    "low": 680,
+    "volume": 36600,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-06-26",
+    "close": 705,
+    "open": 705,
+    "high": 720,
+    "low": 700,
+    "volume": 8000,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-06-29",
+    "close": 705,
+    "open": 710,
+    "high": 715,
+    "low": 705,
+    "volume": 8100,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-06-30",
+    "close": 700,
+    "open": 705,
+    "high": 715,
+    "low": 690,
+    "volume": 23100,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-01",
+    "close": 690,
+    "open": 755,
+    "high": 755,
+    "low": 690,
+    "volume": 22800,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-02",
+    "close": 700,
+    "open": 705,
+    "high": 715,
+    "low": 700,
+    "volume": 11700,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-03",
+    "close": 700,
+    "open": 705,
+    "high": 755,
+    "low": 700,
+    "volume": 47500,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-06",
+    "close": 695,
+    "open": 695,
+    "high": 725,
+    "low": 635,
+    "volume": 100100,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-07",
+    "close": 695,
+    "open": 695,
+    "high": 715,
+    "low": 665,
+    "volume": 21600,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-08",
+    "close": 690,
+    "open": 695,
+    "high": 695,
+    "low": 675,
+    "volume": 13400,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-09",
+    "close": 690,
+    "open": 690,
+    "high": 690,
+    "low": 670,
+    "volume": 8000,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-10",
+    "close": 690,
+    "open": 690,
+    "high": 690,
+    "low": 650,
+    "volume": 23300,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-13",
+    "close": 690,
+    "open": 690,
+    "high": 695,
+    "low": 690,
+    "volume": 9800,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-14",
+    "close": 695,
+    "open": 650,
+    "high": 695,
+    "low": 650,
+    "volume": 12400,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-15",
+    "close": 695,
+    "open": 700,
+    "high": 720,
+    "low": 680,
+    "volume": 16100,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-16",
+    "close": 695,
+    "open": 690,
+    "high": 695,
+    "low": 680,
+    "volume": 7500,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-17",
+    "close": 680,
+    "open": 700,
+    "high": 710,
+    "low": 680,
+    "volume": 148000,
+    "market_cap": 13272186852560
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-20",
+    "close": 700,
+    "open": 680,
+    "high": 740,
+    "low": 680,
+    "volume": 54300,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-21",
+    "close": 700,
+    "open": 700,
+    "high": 720,
+    "low": 700,
+    "volume": 42000,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-22",
+    "close": 710,
+    "open": 705,
+    "high": 735,
+    "low": 700,
+    "volume": 72900,
+    "market_cap": 13857724507820
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-23",
+    "close": 715,
+    "open": 725,
+    "high": 725,
+    "low": 705,
+    "volume": 29700,
+    "market_cap": 13955314117030
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-24",
+    "close": 690,
+    "open": 715,
+    "high": 715,
+    "low": 690,
+    "volume": 43600,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-27",
+    "close": 695,
+    "open": 710,
+    "high": 725,
+    "low": 685,
+    "volume": 16600,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-28",
+    "close": 690,
+    "open": 710,
+    "high": 710,
+    "low": 690,
+    "volume": 20700,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-29",
+    "close": 690,
+    "open": 720,
+    "high": 720,
+    "low": 690,
+    "volume": 15500,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-30",
+    "close": 700,
+    "open": 705,
+    "high": 710,
+    "low": 685,
+    "volume": 6200,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-07-31",
+    "close": 710,
+    "open": 720,
+    "high": 720,
+    "low": 690,
+    "volume": 5800,
+    "market_cap": 13857724507820
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-03",
+    "close": 690,
+    "open": 690,
+    "high": 710,
+    "low": 685,
+    "volume": 9100,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-04",
+    "close": 690,
+    "open": 690,
+    "high": 690,
+    "low": 685,
+    "volume": 23700,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-05",
+    "close": 700,
+    "open": 690,
+    "high": 710,
+    "low": 690,
+    "volume": 12400,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-06",
+    "close": 705,
+    "open": 700,
+    "high": 710,
+    "low": 700,
+    "volume": 10600,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-07",
+    "close": 705,
+    "open": 705,
+    "high": 715,
+    "low": 700,
+    "volume": 10400,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-10",
+    "close": 700,
+    "open": 715,
+    "high": 715,
+    "low": 695,
+    "volume": 24700,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-11",
+    "close": 695,
+    "open": 700,
+    "high": 700,
+    "low": 695,
+    "volume": 7200,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-12",
+    "close": 695,
+    "open": 695,
+    "high": 710,
+    "low": 695,
+    "volume": 33600,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-13",
+    "close": 690,
+    "open": 695,
+    "high": 700,
+    "low": 690,
+    "volume": 13700,
+    "market_cap": 13467366070980
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-14",
+    "close": 700,
+    "open": 690,
+    "high": 700,
+    "low": 685,
+    "volume": 11100,
+    "market_cap": 13662545289400
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-18",
+    "close": 710,
+    "open": 700,
+    "high": 715,
+    "low": 700,
+    "volume": 35400,
+    "market_cap": 13857724507820
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-19",
+    "close": 695,
+    "open": 710,
+    "high": 710,
+    "low": 695,
+    "volume": 13400,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-20",
+    "close": 705,
+    "open": 715,
+    "high": 715,
+    "low": 705,
+    "volume": 28600,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-21",
+    "close": 705,
+    "open": 715,
+    "high": 720,
+    "low": 700,
+    "volume": 52900,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-24",
+    "close": 710,
+    "open": 720,
+    "high": 720,
+    "low": 700,
+    "volume": 13500,
+    "market_cap": 13857724507820
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-26",
+    "close": 695,
+    "open": 710,
+    "high": 710,
+    "low": 695,
+    "volume": 8400,
+    "market_cap": 13564955680190
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-27",
+    "close": 725,
+    "open": 705,
+    "high": 730,
+    "low": 700,
+    "volume": 109800,
+    "market_cap": 14150493335450
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-28",
+    "close": 705,
+    "open": 740,
+    "high": 740,
+    "low": 700,
+    "volume": 49600,
+    "market_cap": 13760134898610
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-08-31",
+    "close": 880,
+    "open": 725,
+    "high": 880,
+    "low": 700,
+    "volume": 958200,
+    "market_cap": 17175771220960
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-01",
+    "close": 1100,
+    "open": 1100,
+    "high": 1100,
+    "low": 1100,
+    "volume": 578000,
+    "market_cap": 21469714026200
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-02",
+    "close": 1230,
+    "open": 1375,
+    "high": 1375,
+    "low": 965,
+    "volume": 6214200,
+    "market_cap": 24007043865660
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-03",
+    "close": 1220,
+    "open": 1230,
+    "high": 1315,
+    "low": 1110,
+    "volume": 1020400,
+    "market_cap": 23811864647240
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-04",
+    "close": 1185,
+    "open": 1220,
+    "high": 1260,
+    "low": 1180,
+    "volume": 417800,
+    "market_cap": 23128737382770
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-07",
+    "close": 1120,
+    "open": 1170,
+    "high": 1170,
+    "low": 1100,
+    "volume": 372600,
+    "market_cap": 21860072463040
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-08",
+    "close": 1180,
+    "open": 1110,
+    "high": 1350,
+    "low": 1060,
+    "volume": 2629600,
+    "market_cap": 23031147773560
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-09",
+    "close": 1150,
+    "open": 1180,
+    "high": 1230,
+    "low": 1140,
+    "volume": 349500,
+    "market_cap": 22445610118300
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-10",
+    "close": 1165,
+    "open": 1150,
+    "high": 1190,
+    "low": 1100,
+    "volume": 652500,
+    "market_cap": 22738378945930
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-11",
+    "close": 1100,
+    "open": 1165,
+    "high": 1200,
+    "low": 1070,
+    "volume": 688500,
+    "market_cap": 21469714026200
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-14",
+    "close": 1030,
+    "open": 1100,
+    "high": 1100,
+    "low": 970,
+    "volume": 240300,
+    "market_cap": 20103459497260
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-15",
+    "close": 1090,
+    "open": 1065,
+    "high": 1240,
+    "low": 1065,
+    "volume": 965400,
+    "market_cap": 21274534807780
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-16",
+    "close": 1030,
+    "open": 1090,
+    "high": 1120,
+    "low": 1000,
+    "volume": 286500,
+    "market_cap": 20103459497260
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-17",
+    "close": 1040,
+    "open": 1030,
+    "high": 1085,
+    "low": 1000,
+    "volume": 133200,
+    "market_cap": 20298638715680
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-18",
+    "close": 1020,
+    "open": 1050,
+    "high": 1055,
+    "low": 970,
+    "volume": 59000,
+    "market_cap": 19908280278840
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-21",
+    "close": 1000,
+    "open": 1020,
+    "high": 1020,
+    "low": 1000,
+    "volume": 94200,
+    "market_cap": 19517921842000
+  },
+  {
+    "symbol": "BSIM.JK",
+    "date": "2026-09-22",
+    "close": 995,
+    "open": 1000,
+    "high": 1020,
+    "low": 900,
+    "volume": 70000,
+    "market_cap": 19420332232790
+  }
+]

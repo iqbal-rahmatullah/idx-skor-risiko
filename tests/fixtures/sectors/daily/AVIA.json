@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-06-24",
+    "close": 306,
+    "open": 312,
+    "high": 316,
+    "low": 304,
+    "volume": 12271300,
+    "market_cap": 18957788013600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-06-25",
+    "close": 318,
+    "open": 306,
+    "high": 340,
+    "low": 302,
+    "volume": 23566600,
+    "market_cap": 19701230680800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-06-26",
+    "close": 312,
+    "open": 318,
+    "high": 320,
+    "low": 306,
+    "volume": 10180100,
+    "market_cap": 19329509347200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-06-29",
+    "close": 306,
+    "open": 312,
+    "high": 312,
+    "low": 304,
+    "volume": 6712700,
+    "market_cap": 18957788013600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-06-30",
+    "close": 312,
+    "open": 306,
+    "high": 318,
+    "low": 302,
+    "volume": 11935300,
+    "market_cap": 19329509347200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-01",
+    "close": 302,
+    "open": 312,
+    "high": 314,
+    "low": 302,
+    "volume": 5442800,
+    "market_cap": 18709973791200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-02",
+    "close": 306,
+    "open": 304,
+    "high": 312,
+    "low": 304,
+    "volume": 7754600,
+    "market_cap": 18957788013600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-03",
+    "close": 320,
+    "open": 308,
+    "high": 322,
+    "low": 308,
+    "volume": 8179200,
+    "market_cap": 19825137792000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-06",
+    "close": 320,
+    "open": 320,
+    "high": 326,
+    "low": 318,
+    "volume": 9193400,
+    "market_cap": 19825137792000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-07",
+    "close": 316,
+    "open": 324,
+    "high": 324,
+    "low": 316,
+    "volume": 7871200,
+    "market_cap": 19577323569600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-08",
+    "close": 314,
+    "open": 320,
+    "high": 320,
+    "low": 312,
+    "volume": 5776300,
+    "market_cap": 19453416458400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-09",
+    "close": 316,
+    "open": 316,
+    "high": 322,
+    "low": 312,
+    "volume": 5608100,
+    "market_cap": 19577323569600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-10",
+    "close": 318,
+    "open": 318,
+    "high": 322,
+    "low": 314,
+    "volume": 8319800,
+    "market_cap": 19701230680800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-13",
+    "close": 320,
+    "open": 318,
+    "high": 320,
+    "low": 314,
+    "volume": 4360200,
+    "market_cap": 19825137792000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-14",
+    "close": 324,
+    "open": 320,
+    "high": 328,
+    "low": 318,
+    "volume": 9758700,
+    "market_cap": 20072952014400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-15",
+    "close": 328,
+    "open": 324,
+    "high": 334,
+    "low": 320,
+    "volume": 9850400,
+    "market_cap": 20320766236800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-16",
+    "close": 334,
+    "open": 330,
+    "high": 338,
+    "low": 328,
+    "volume": 13565200,
+    "market_cap": 20692487570400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-17",
+    "close": 330,
+    "open": 334,
+    "high": 340,
+    "low": 330,
+    "volume": 31382900,
+    "market_cap": 20444673348000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-20",
+    "close": 334,
+    "open": 332,
+    "high": 342,
+    "low": 330,
+    "volume": 29131600,
+    "market_cap": 20692487570400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-21",
+    "close": 342,
+    "open": 336,
+    "high": 342,
+    "low": 336,
+    "volume": 18140500,
+    "market_cap": 21188116015200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-22",
+    "close": 340,
+    "open": 340,
+    "high": 344,
+    "low": 332,
+    "volume": 17728900,
+    "market_cap": 21064208904000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-23",
+    "close": 330,
+    "open": 340,
+    "high": 342,
+    "low": 330,
+    "volume": 17837800,
+    "market_cap": 20444673348000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-24",
+    "close": 324,
+    "open": 330,
+    "high": 332,
+    "low": 318,
+    "volume": 23204800,
+    "market_cap": 20072952014400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-27",
+    "close": 322,
+    "open": 324,
+    "high": 324,
+    "low": 318,
+    "volume": 10738400,
+    "market_cap": 19949044903200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-28",
+    "close": 316,
+    "open": 322,
+    "high": 322,
+    "low": 314,
+    "volume": 5519400,
+    "market_cap": 19577323569600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-29",
+    "close": 320,
+    "open": 318,
+    "high": 320,
+    "low": 310,
+    "volume": 21450700,
+    "market_cap": 19825137792000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-30",
+    "close": 318,
+    "open": 320,
+    "high": 324,
+    "low": 318,
+    "volume": 11602900,
+    "market_cap": 19701230680800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-07-31",
+    "close": 324,
+    "open": 316,
+    "high": 330,
+    "low": 316,
+    "volume": 15562200,
+    "market_cap": 20072952014400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-03",
+    "close": 326,
+    "open": 324,
+    "high": 328,
+    "low": 322,
+    "volume": 6072200,
+    "market_cap": 20196859125600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-04",
+    "close": 328,
+    "open": 326,
+    "high": 330,
+    "low": 324,
+    "volume": 5373800,
+    "market_cap": 20320766236800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-05",
+    "close": 328,
+    "open": 328,
+    "high": 330,
+    "low": 324,
+    "volume": 4699200,
+    "market_cap": 20320766236800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-06",
+    "close": 326,
+    "open": 328,
+    "high": 330,
+    "low": 322,
+    "volume": 10382000,
+    "market_cap": 20196859125600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-07",
+    "close": 328,
+    "open": 326,
+    "high": 328,
+    "low": 322,
+    "volume": 5511200,
+    "market_cap": 20320766236800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-10",
+    "close": 326,
+    "open": 330,
+    "high": 330,
+    "low": 324,
+    "volume": 6336700,
+    "market_cap": 20196859125600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-11",
+    "close": 328,
+    "open": 326,
+    "high": 330,
+    "low": 324,
+    "volume": 8519600,
+    "market_cap": 20320766236800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-12",
+    "close": 330,
+    "open": 328,
+    "high": 330,
+    "low": 324,
+    "volume": 4833000,
+    "market_cap": 20444673348000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-13",
+    "close": 332,
+    "open": 332,
+    "high": 334,
+    "low": 326,
+    "volume": 8583000,
+    "market_cap": 20568580459200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-14",
+    "close": 342,
+    "open": 332,
+    "high": 342,
+    "low": 332,
+    "volume": 17807800,
+    "market_cap": 21188116015200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-18",
+    "close": 344,
+    "open": 344,
+    "high": 346,
+    "low": 340,
+    "volume": 14944700,
+    "market_cap": 21312023126400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-19",
+    "close": 356,
+    "open": 346,
+    "high": 364,
+    "low": 346,
+    "volume": 45808000,
+    "market_cap": 22055465793600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-20",
+    "close": 354,
+    "open": 366,
+    "high": 366,
+    "low": 352,
+    "volume": 24892700,
+    "market_cap": 21931558682400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-21",
+    "close": 350,
+    "open": 354,
+    "high": 356,
+    "low": 350,
+    "volume": 10009300,
+    "market_cap": 21683744460000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-24",
+    "close": 352,
+    "open": 352,
+    "high": 356,
+    "low": 350,
+    "volume": 9159700,
+    "market_cap": 21807651571200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-26",
+    "close": 344,
+    "open": 354,
+    "high": 356,
+    "low": 344,
+    "volume": 12191400,
+    "market_cap": 21312023126400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-27",
+    "close": 356,
+    "open": 346,
+    "high": 360,
+    "low": 346,
+    "volume": 15100700,
+    "market_cap": 22055465793600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-28",
+    "close": 360,
+    "open": 356,
+    "high": 360,
+    "low": 354,
+    "volume": 10250300,
+    "market_cap": 22303280016000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-08-31",
+    "close": 374,
+    "open": 360,
+    "high": 374,
+    "low": 352,
+    "volume": 30122200,
+    "market_cap": 23170629794400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-01",
+    "close": 364,
+    "open": 370,
+    "high": 370,
+    "low": 364,
+    "volume": 12260900,
+    "market_cap": 22551094238400
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-02",
+    "close": 366,
+    "open": 368,
+    "high": 370,
+    "low": 362,
+    "volume": 11313200,
+    "market_cap": 22675001349600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-03",
+    "close": 370,
+    "open": 368,
+    "high": 376,
+    "low": 364,
+    "volume": 10625800,
+    "market_cap": 22922815572000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-04",
+    "close": 372,
+    "open": 374,
+    "high": 374,
+    "low": 366,
+    "volume": 5628000,
+    "market_cap": 23046722683200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-07",
+    "close": 366,
+    "open": 374,
+    "high": 374,
+    "low": 366,
+    "volume": 6747000,
+    "market_cap": 22675001349600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-08",
+    "close": 372,
+    "open": 370,
+    "high": 378,
+    "low": 368,
+    "volume": 12814400,
+    "market_cap": 23046722683200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-09",
+    "close": 368,
+    "open": 372,
+    "high": 374,
+    "low": 368,
+    "volume": 5369000,
+    "market_cap": 22798908460800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-10",
+    "close": 356,
+    "open": 368,
+    "high": 370,
+    "low": 356,
+    "volume": 12342200,
+    "market_cap": 22055465793600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-11",
+    "close": 352,
+    "open": 360,
+    "high": 360,
+    "low": 352,
+    "volume": 11170400,
+    "market_cap": 21807651571200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-14",
+    "close": 350,
+    "open": 354,
+    "high": 358,
+    "low": 346,
+    "volume": 9782800,
+    "market_cap": 21683744460000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-15",
+    "close": 346,
+    "open": 350,
+    "high": 356,
+    "low": 344,
+    "volume": 8959100,
+    "market_cap": 21435930237600
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-16",
+    "close": 340,
+    "open": 344,
+    "high": 350,
+    "low": 336,
+    "volume": 13397900,
+    "market_cap": 21064208904000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-17",
+    "close": 342,
+    "open": 340,
+    "high": 344,
+    "low": 334,
+    "volume": 8866200,
+    "market_cap": 21188116015200
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-18",
+    "close": 330,
+    "open": 342,
+    "high": 344,
+    "low": 330,
+    "volume": 33919900,
+    "market_cap": 20444673348000
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-21",
+    "close": 338,
+    "open": 336,
+    "high": 342,
+    "low": 330,
+    "volume": 16058900,
+    "market_cap": 20940301792800
+  },
+  {
+    "symbol": "AVIA.JK",
+    "date": "2026-09-22",
+    "close": 336,
+    "open": 338,
+    "high": 346,
+    "low": 330,
+    "volume": 34315900,
+    "market_cap": 20816394681600
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-06-24",
+    "close": 40,
+    "open": 42,
+    "high": 42,
+    "low": 40,
+    "volume": 914700,
+    "market_cap": 621503657160
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-06-25",
+    "close": 36,
+    "open": 39,
+    "high": 39,
+    "low": 36,
+    "volume": 4097700,
+    "market_cap": 559353291444
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-06-26",
+    "close": 33,
+    "open": 33,
+    "high": 33,
+    "low": 33,
+    "volume": 2501100,
+    "market_cap": 512740517157
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-06-29",
+    "close": 36,
+    "open": 30,
+    "high": 36,
+    "low": 30,
+    "volume": 8385200,
+    "market_cap": 559353291444
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-06-30",
+    "close": 37,
+    "open": 36,
+    "high": 38,
+    "low": 36,
+    "volume": 8626000,
+    "market_cap": 574890882873
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-01",
+    "close": 40,
+    "open": 37,
+    "high": 40,
+    "low": 36,
+    "volume": 8163800,
+    "market_cap": 621503657160
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-02",
+    "close": 44,
+    "open": 44,
+    "high": 44,
+    "low": 44,
+    "volume": 3212900,
+    "market_cap": 683654022876
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-03",
+    "close": 48,
+    "open": 45,
+    "high": 48,
+    "low": 45,
+    "volume": 2780600,
+    "market_cap": 745804388592
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-06",
+    "close": 52,
+    "open": 50,
+    "high": 52,
+    "low": 50,
+    "volume": 2390600,
+    "market_cap": 807954754308
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-07",
+    "close": 57,
+    "open": 57,
+    "high": 57,
+    "low": 57,
+    "volume": 6190800,
+    "market_cap": 885642711453
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-08",
+    "close": 61,
+    "open": 64,
+    "high": 76,
+    "low": 59,
+    "volume": 189731800,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-09",
+    "close": 55,
+    "open": 63,
+    "high": 66,
+    "low": 52,
+    "volume": 93541000,
+    "market_cap": 854567528595
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-10",
+    "close": 53,
+    "open": 55,
+    "high": 59,
+    "low": 51,
+    "volume": 40101200,
+    "market_cap": 823492345737
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-13",
+    "close": 61,
+    "open": 54,
+    "high": 62,
+    "low": 51,
+    "volume": 69432100,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-14",
+    "close": 61,
+    "open": 62,
+    "high": 63,
+    "low": 58,
+    "volume": 21266700,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-15",
+    "close": 57,
+    "open": 61,
+    "high": 61,
+    "low": 57,
+    "volume": 13558800,
+    "market_cap": 885642711453
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-16",
+    "close": 59,
+    "open": 57,
+    "high": 61,
+    "low": 57,
+    "volume": 6254500,
+    "market_cap": 916717894311
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-17",
+    "close": 67,
+    "open": 58,
+    "high": 79,
+    "low": 58,
+    "volume": 153185800,
+    "market_cap": 1041018625743
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-20",
+    "close": 77,
+    "open": 71,
+    "high": 83,
+    "low": 70,
+    "volume": 278499400,
+    "market_cap": 1196394540033
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-21",
+    "close": 71,
+    "open": 75,
+    "high": 75,
+    "low": 69,
+    "volume": 73280700,
+    "market_cap": 1103168991459
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-22",
+    "close": 71,
+    "open": 72,
+    "high": 73,
+    "low": 69,
+    "volume": 30328000,
+    "market_cap": 1103168991459
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-23",
+    "close": 69,
+    "open": 73,
+    "high": 73,
+    "low": 68,
+    "volume": 37132800,
+    "market_cap": 1072093808601
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-24",
+    "close": 72,
+    "open": 66,
+    "high": 72,
+    "low": 66,
+    "volume": 19332600,
+    "market_cap": 1118706582888
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-27",
+    "close": 68,
+    "open": 72,
+    "high": 73,
+    "low": 68,
+    "volume": 14141100,
+    "market_cap": 1056556217172
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-28",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 7672100,
+    "market_cap": 1056556217172
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-29",
+    "close": 64,
+    "open": 68,
+    "high": 69,
+    "low": 63,
+    "volume": 16937100,
+    "market_cap": 994405851456
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-30",
+    "close": 66,
+    "open": 62,
+    "high": 68,
+    "low": 62,
+    "volume": 8035800,
+    "market_cap": 1025481034314
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-07-31",
+    "close": 67,
+    "open": 66,
+    "high": 68,
+    "low": 65,
+    "volume": 7738700,
+    "market_cap": 1041018625743
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-03",
+    "close": 65,
+    "open": 69,
+    "high": 69,
+    "low": 65,
+    "volume": 13409500,
+    "market_cap": 1009943442885
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-04",
+    "close": 67,
+    "open": 66,
+    "high": 74,
+    "low": 66,
+    "volume": 54948900,
+    "market_cap": 1041018625743
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-05",
+    "close": 65,
+    "open": 68,
+    "high": 68,
+    "low": 64,
+    "volume": 35184100,
+    "market_cap": 1009943442885
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-06",
+    "close": 67,
+    "open": 66,
+    "high": 68,
+    "low": 63,
+    "volume": 39516900,
+    "market_cap": 1041018625743
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-07",
+    "close": 63,
+    "open": 67,
+    "high": 67,
+    "low": 61,
+    "volume": 42773800,
+    "market_cap": 978868260027
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-10",
+    "close": 62,
+    "open": 62,
+    "high": 67,
+    "low": 61,
+    "volume": 27483100,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-11",
+    "close": 63,
+    "open": 62,
+    "high": 65,
+    "low": 61,
+    "volume": 15070300,
+    "market_cap": 978868260027
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-12",
+    "close": 63,
+    "open": 63,
+    "high": 64,
+    "low": 59,
+    "volume": 18848100,
+    "market_cap": 978868260027
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-13",
+    "close": 62,
+    "open": 62,
+    "high": 64,
+    "low": 60,
+    "volume": 21121600,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-14",
+    "close": 62,
+    "open": 62,
+    "high": 65,
+    "low": 61,
+    "volume": 13550500,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-18",
+    "close": 62,
+    "open": 63,
+    "high": 67,
+    "low": 61,
+    "volume": 42739100,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-19",
+    "close": 59,
+    "open": 63,
+    "high": 73,
+    "low": 59,
+    "volume": 185113500,
+    "market_cap": 916717894311
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-20",
+    "close": 61,
+    "open": 61,
+    "high": 64,
+    "low": 59,
+    "volume": 47881200,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-21",
+    "close": 62,
+    "open": 61,
+    "high": 64,
+    "low": 60,
+    "volume": 27952100,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-24",
+    "close": 61,
+    "open": 62,
+    "high": 63,
+    "low": 61,
+    "volume": 10076300,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-26",
+    "close": 61,
+    "open": 61,
+    "high": 65,
+    "low": 60,
+    "volume": 22876800,
+    "market_cap": 947793077169
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-27",
+    "close": 62,
+    "open": 62,
+    "high": 64,
+    "low": 61,
+    "volume": 16335900,
+    "market_cap": 963330668598
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-28",
+    "close": 67,
+    "open": 63,
+    "high": 70,
+    "low": 62,
+    "volume": 70996000,
+    "market_cap": 1041018625743
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-08-31",
+    "close": 63,
+    "open": 68,
+    "high": 69,
+    "low": 62,
+    "volume": 53056300,
+    "market_cap": 978868260027
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-01",
+    "close": 85,
+    "open": 65,
+    "high": 85,
+    "low": 63,
+    "volume": 786285000,
+    "market_cap": 1320695271465
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-02",
+    "close": 101,
+    "open": 96,
+    "high": 114,
+    "low": 82,
+    "volume": 2470452200,
+    "market_cap": 1569296734329
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-03",
+    "close": 94,
+    "open": 100,
+    "high": 100,
+    "low": 88,
+    "volume": 583032900,
+    "market_cap": 1460533594326
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-04",
+    "close": 103,
+    "open": 98,
+    "high": 111,
+    "low": 96,
+    "volume": 1617645300,
+    "market_cap": 1600371917187
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-07",
+    "close": 102,
+    "open": 104,
+    "high": 109,
+    "low": 96,
+    "volume": 489686600,
+    "market_cap": 1584834325758
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-08",
+    "close": 97,
+    "open": 102,
+    "high": 104,
+    "low": 94,
+    "volume": 343314800,
+    "market_cap": 1507146368613
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-09",
+    "close": 105,
+    "open": 97,
+    "high": 111,
+    "low": 95,
+    "volume": 1214307000,
+    "market_cap": 1631447100045
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-10",
+    "close": 100,
+    "open": 106,
+    "high": 107,
+    "low": 98,
+    "volume": 388853300,
+    "market_cap": 1553759142900
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-11",
+    "close": 99,
+    "open": 96,
+    "high": 103,
+    "low": 96,
+    "volume": 181171400,
+    "market_cap": 1538221551471
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-14",
+    "close": 91,
+    "open": 99,
+    "high": 100,
+    "low": 89,
+    "volume": 264442400,
+    "market_cap": 1413920820039
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-15",
+    "close": 95,
+    "open": 93,
+    "high": 97,
+    "low": 90,
+    "volume": 144838800,
+    "market_cap": 1476071185755
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-16",
+    "close": 87,
+    "open": 96,
+    "high": 97,
+    "low": 85,
+    "volume": 242062400,
+    "market_cap": 1351770454323
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-17",
+    "close": 98,
+    "open": 86,
+    "high": 104,
+    "low": 83,
+    "volume": 852822100,
+    "market_cap": 1522683960042
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-18",
+    "close": 99,
+    "open": 101,
+    "high": 107,
+    "low": 94,
+    "volume": 637472600,
+    "market_cap": 1538221551471
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-21",
+    "close": 109,
+    "open": 101,
+    "high": 123,
+    "low": 98,
+    "volume": 1800324500,
+    "market_cap": 1693597465761
+  },
+  {
+    "symbol": "SQMI.JK",
+    "date": "2026-09-22",
+    "close": 107,
+    "open": 109,
+    "high": 110,
+    "low": 101,
+    "volume": 497071200,
+    "market_cap": 1662522282903
+  }
+]

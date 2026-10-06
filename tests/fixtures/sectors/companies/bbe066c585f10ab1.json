@@ -1,0 +1,446 @@
+{
+  "results": [
+    {
+      "symbol": "CYBR.JK",
+      "company_name": "PT ITSEC Asia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 64230340281.0,
+        "operating_cash_flow[2025]": -33863838791.0,
+        "total_assets[2025]": 416497625574.0,
+        "total_assets[2024]": 266595014543.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.28720607809564
+      }
+    },
+    {
+      "symbol": "WIFI.JK",
+      "company_name": "PT Solusi Sinergi Digital Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 408551231766.0,
+        "operating_cash_flow[2025]": -814048360263.0,
+        "total_assets[2025]": 15169662226172.0,
+        "total_assets[2024]": 2907415732374.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.135265178900333
+      }
+    },
+    {
+      "symbol": "BUKA.JK",
+      "company_name": "PT Bukalapak.com Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 3142054776000.0,
+        "operating_cash_flow[2025]": 302411054000.0,
+        "total_assets[2025]": 26030762801000.0,
+        "total_assets[2024]": 24795038990000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.111740243023685
+      }
+    },
+    {
+      "symbol": "EMTK.JK",
+      "company_name": "Elang Mahkota Teknologi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 6789292000000.0,
+        "operating_cash_flow[2025]": 2143677000000.0,
+        "total_assets[2025]": 60770077000000.0,
+        "total_assets[2024]": 46019206000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0870052662494232
+      }
+    },
+    {
+      "symbol": "WGSH.JK",
+      "company_name": "PT Wira Global Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 3221134173.0,
+        "operating_cash_flow[2025]": -2759881142.0,
+        "total_assets[2025]": 75728403884.0,
+        "total_assets[2024]": 67553151545.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.083486186300703
+      }
+    },
+    {
+      "symbol": "BELI.JK",
+      "company_name": "PT Global Digital Niaga Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -2278884000000.0,
+        "operating_cash_flow[2025]": -3519742000000.0,
+        "total_assets[2025]": 17800778000000.0,
+        "total_assets[2024]": 16163344000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0730687517846038
+      }
+    },
+    {
+      "symbol": "DMMX.JK",
+      "company_name": "PT Digital Mediatama Maxima Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 69073067125.0,
+        "operating_cash_flow[2025]": 10239858671.0,
+        "total_assets[2025]": 865729297464.0,
+        "total_assets[2024]": 778230844007.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0715749816189054
+      }
+    },
+    {
+      "symbol": "WIRG.JK",
+      "company_name": "PT Wir Asia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 73248628670.0,
+        "operating_cash_flow[2025]": 3820606848.0,
+        "total_assets[2025]": 1634483916710.0,
+        "total_assets[2024]": 1439830743742.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0451665034260302
+      }
+    },
+    {
+      "symbol": "MPIX.JK",
+      "company_name": "PT Mitra Pedagang Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 7921881262.0,
+        "operating_cash_flow[2025]": 1900757882.0,
+        "total_assets[2025]": 165307031175.0,
+        "total_assets[2024]": 160866618591.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.036919741274745
+      }
+    },
+    {
+      "symbol": "ATIC.JK",
+      "company_name": "PT Anabatic Technologies Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 208235056602.0,
+        "operating_cash_flow[2025]": 124409039202.0,
+        "total_assets[2025]": 5228022432145.0,
+        "total_assets[2024]": 4737359869543.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0168234423652369
+      }
+    },
+    {
+      "symbol": "KIOS.JK",
+      "company_name": "PT Kioson Komersial Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 645538271.0,
+        "operating_cash_flow[2025]": -885877379.0,
+        "total_assets[2025]": 150468630104.0,
+        "total_assets[2024]": 152805015178.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0100992333084268
+      }
+    },
+    {
+      "symbol": "DIVA.JK",
+      "company_name": "PT Distribusi Voucher Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 46452537849.0,
+        "operating_cash_flow[2025]": 44280528711.0,
+        "total_assets[2025]": 737760386103.0,
+        "total_assets[2024]": 776135604420.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.0028694298044209
+      }
+    },
+    {
+      "symbol": "JATI.JK",
+      "company_name": "PT Informasi Teknologi Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 20809772692.0,
+        "operating_cash_flow[2025]": 20418473836.0,
+        "total_assets[2025]": 412834783826.0,
+        "total_assets[2024]": 315764031122.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": 0.00107411334735132
+      }
+    },
+    {
+      "symbol": "IRSX.JK",
+      "company_name": "PT Folago Global Nusantara Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 28781280008.0,
+        "operating_cash_flow[2025]": 31848140389.0,
+        "total_assets[2025]": 360228302440.0,
+        "total_assets[2024]": 167400063957.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0116250777112026
+      }
+    },
+    {
+      "symbol": "NFCX.JK",
+      "company_name": "PT NFC Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 5646379667.0,
+        "operating_cash_flow[2025]": 29467046639.0,
+        "total_assets[2025]": 1376206862017.0,
+        "total_assets[2024]": 1365905134099.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0173739562831425
+      }
+    },
+    {
+      "symbol": "ELIT.JK",
+      "company_name": "PT Data Sinergitama Jaya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 33715780041.0,
+        "operating_cash_flow[2025]": 39468897923.0,
+        "total_assets[2025]": 296706930230.0,
+        "total_assets[2024]": 279351602914.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0199740739907133
+      }
+    },
+    {
+      "symbol": "MCAS.JK",
+      "company_name": "PT M Cash Integrasi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -38405729622.0,
+        "operating_cash_flow[2025]": 21292961870.0,
+        "total_assets[2025]": 1837417052405.0,
+        "total_assets[2024]": 1891583175214.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.032018604370061
+      }
+    },
+    {
+      "symbol": "GOTO.JK",
+      "company_name": "PT GoTo Gojek Tokopedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -1185654000000.0,
+        "operating_cash_flow[2025]": 307025000000.0,
+        "total_assets[2025]": 45757642000000.0,
+        "total_assets[2024]": 43207884000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0335563463087938
+      }
+    },
+    {
+      "symbol": "AREA.JK",
+      "company_name": "PT Dunia Virtual Online Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 9962151958.0,
+        "operating_cash_flow[2025]": 20708760577.0,
+        "total_assets[2025]": 283572359789.0,
+        "total_assets[2024]": 290207974224.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0374589646314247
+      }
+    },
+    {
+      "symbol": "EDGE.JK",
+      "company_name": "PT Indointernet Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 120864000000.0,
+        "operating_cash_flow[2025]": 416921000000.0,
+        "total_assets[2025]": 5455007000000.0,
+        "total_assets[2024]": 3511833000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0660337420986657
+      }
+    },
+    {
+      "symbol": "TFAS.JK",
+      "company_name": "PT Telefast Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -24057427292.0,
+        "operating_cash_flow[2025]": -6220677414.0,
+        "total_assets[2025]": 211666223699.0,
+        "total_assets[2024]": 250220125196.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0772343669418765
+      }
+    },
+    {
+      "symbol": "DCII.JK",
+      "company_name": "PT DCI Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 1001333000000.0,
+        "operating_cash_flow[2025]": 1538803000000.0,
+        "total_assets[2025]": 6648415000000.0,
+        "total_assets[2024]": 4820065000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0937299450319484
+      }
+    },
+    {
+      "symbol": "MLPT.JK",
+      "company_name": "PT Multipolar Technology Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 336492000000.0,
+        "operating_cash_flow[2025]": 671680000000.0,
+        "total_assets[2025]": 3745672000000.0,
+        "total_assets[2024]": 3307160000000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.0950506122930477
+      }
+    },
+    {
+      "symbol": "TOSK.JK",
+      "company_name": "PT Topindo Solusi Komunika Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 5734507947.0,
+        "operating_cash_flow[2025]": 36674640240.0,
+        "total_assets[2025]": 194687090024.0,
+        "total_assets[2024]": 215485064716.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.150864128320034
+      }
+    },
+    {
+      "symbol": "TRON.JK",
+      "company_name": "PT Teknologi Karya Digital Nusa Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -36393180961.0,
+        "operating_cash_flow[2025]": 6050719483.0,
+        "total_assets[2025]": 250646234446.0,
+        "total_assets[2024]": 283220930166.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.159005472737201
+      }
+    },
+    {
+      "symbol": "PGJO.JK",
+      "company_name": "PT Bahtera Bumi Raya Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -6817676184.0,
+        "operating_cash_flow[2025]": -1958878285.0,
+        "total_assets[2025]": 30397356013.0,
+        "total_assets[2024]": 5033577127.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.274268695086364
+      }
+    },
+    {
+      "symbol": "AWAN.JK",
+      "company_name": "PT Era Digital Media Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -6525948000.0,
+        "operating_cash_flow[2025]": 21846265000.0,
+        "total_assets[2025]": 91966641000.0,
+        "total_assets[2024]": 98420171000.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.298048091692401
+      }
+    },
+    {
+      "symbol": "UVCR.JK",
+      "company_name": "PT Trimegah Karya Pratama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": 5473461032.0,
+        "operating_cash_flow[2025]": 73669448901.0,
+        "total_assets[2025]": 217032405452.0,
+        "total_assets[2024]": 194802004050.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.331181592871097
+      }
+    },
+    {
+      "symbol": "CASH.JK",
+      "company_name": "PT Cashlez Worldwide Indonesia Tbk.",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": -68119715915.0,
+        "operating_cash_flow[2025]": 22909120303.0,
+        "total_assets[2025]": 271633116614.0,
+        "total_assets[2024]": 233630634230.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": -0.360322053841955
+      }
+    },
+    {
+      "symbol": "ENVY.JK",
+      "company_name": "PT Envy Technologies Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 16270564117.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "LMAS.JK",
+      "company_name": "Limas Indonesia Makmur Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "RUNS.JK",
+      "company_name": "PT Global Sukses Solusi Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 89714147737.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "TECH.JK",
+      "company_name": "PT Indosterling Technomedia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "HDIT.JK",
+      "company_name": "PT Hensel Davest Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 325954074229.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "SKYB.JK",
+      "company_name": "PT Northcliff Citranusa Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": null,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    },
+    {
+      "symbol": "KREN.JK",
+      "company_name": "PT Quantum Clovera Investama Tbk",
+      "query_values": {
+        "sub_sector": "Software & IT Services",
+        "earnings[2025]": null,
+        "operating_cash_flow[2025]": null,
+        "total_assets[2025]": null,
+        "total_assets[2024]": 2779814691096.0,
+        "((earnings[2025]-operating_cash_flow[2025])/((total_assets[2025]+total_assets[2024])/2))": null
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 36,
+    "showing": 36,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

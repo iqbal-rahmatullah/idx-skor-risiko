@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-06-24",
+    "close": 58,
+    "open": 60,
+    "high": 60,
+    "low": 57,
+    "volume": 5533200,
+    "market_cap": 253766083400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-06-25",
+    "close": 58,
+    "open": 58,
+    "high": 60,
+    "low": 57,
+    "volume": 3535500,
+    "market_cap": 253766083400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-06-26",
+    "close": 59,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 3771800,
+    "market_cap": 258141360700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-06-29",
+    "close": 59,
+    "open": 60,
+    "high": 60,
+    "low": 58,
+    "volume": 5692700,
+    "market_cap": 258141360700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-06-30",
+    "close": 58,
+    "open": 59,
+    "high": 60,
+    "low": 57,
+    "volume": 6424100,
+    "market_cap": 253766083400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-01",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 57,
+    "volume": 7474600,
+    "market_cap": 253766083400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-02",
+    "close": 58,
+    "open": 58,
+    "high": 59,
+    "low": 58,
+    "volume": 3633600,
+    "market_cap": 253766083400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-03",
+    "close": 59,
+    "open": 58,
+    "high": 61,
+    "low": 58,
+    "volume": 7835500,
+    "market_cap": 258141360700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-06",
+    "close": 61,
+    "open": 59,
+    "high": 65,
+    "low": 58,
+    "volume": 25920400,
+    "market_cap": 266891915300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-07",
+    "close": 60,
+    "open": 61,
+    "high": 64,
+    "low": 60,
+    "volume": 13980300,
+    "market_cap": 262516638000
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-08",
+    "close": 60,
+    "open": 60,
+    "high": 62,
+    "low": 59,
+    "volume": 3298500,
+    "market_cap": 262516638000
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-09",
+    "close": 61,
+    "open": 60,
+    "high": 61,
+    "low": 60,
+    "volume": 1210400,
+    "market_cap": 266891915300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-10",
+    "close": 61,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 5234200,
+    "market_cap": 266891915300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-13",
+    "close": 62,
+    "open": 61,
+    "high": 62,
+    "low": 60,
+    "volume": 3880400,
+    "market_cap": 271267192600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-14",
+    "close": 63,
+    "open": 62,
+    "high": 64,
+    "low": 61,
+    "volume": 10129000,
+    "market_cap": 275642469900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-15",
+    "close": 65,
+    "open": 63,
+    "high": 67,
+    "low": 62,
+    "volume": 18922800,
+    "market_cap": 284393024500
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-16",
+    "close": 68,
+    "open": 65,
+    "high": 69,
+    "low": 64,
+    "volume": 34278800,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-17",
+    "close": 67,
+    "open": 69,
+    "high": 69,
+    "low": 66,
+    "volume": 13009400,
+    "market_cap": 293143579100
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-20",
+    "close": 67,
+    "open": 67,
+    "high": 68,
+    "low": 65,
+    "volume": 7516300,
+    "market_cap": 293143579100
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-21",
+    "close": 68,
+    "open": 67,
+    "high": 69,
+    "low": 67,
+    "volume": 10439100,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-22",
+    "close": 68,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 5416300,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-23",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 12765500,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-24",
+    "close": 66,
+    "open": 68,
+    "high": 68,
+    "low": 65,
+    "volume": 7688800,
+    "market_cap": 288768301800
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-27",
+    "close": 68,
+    "open": 66,
+    "high": 69,
+    "low": 65,
+    "volume": 8944500,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-28",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 7199200,
+    "market_cap": 293143579100
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-29",
+    "close": 66,
+    "open": 67,
+    "high": 68,
+    "low": 66,
+    "volume": 8556000,
+    "market_cap": 288768301800
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-30",
+    "close": 68,
+    "open": 66,
+    "high": 69,
+    "low": 66,
+    "volume": 6991100,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-07-31",
+    "close": 68,
+    "open": 68,
+    "high": 70,
+    "low": 67,
+    "volume": 7172100,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-03",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 19292700,
+    "market_cap": 297518856400
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-04",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 68,
+    "volume": 9307500,
+    "market_cap": 301894133700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-05",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 9963000,
+    "market_cap": 306269411000
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-06",
+    "close": 69,
+    "open": 70,
+    "high": 70,
+    "low": 68,
+    "volume": 11147300,
+    "market_cap": 301894133700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-07",
+    "close": 69,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 6790900,
+    "market_cap": 301894133700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-10",
+    "close": 69,
+    "open": 69,
+    "high": 74,
+    "low": 68,
+    "volume": 50764500,
+    "market_cap": 301894133700
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-11",
+    "close": 70,
+    "open": 70,
+    "high": 74,
+    "low": 69,
+    "volume": 31359000,
+    "market_cap": 306269411000
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-12",
+    "close": 72,
+    "open": 70,
+    "high": 73,
+    "low": 70,
+    "volume": 12754700,
+    "market_cap": 315019965600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-13",
+    "close": 71,
+    "open": 72,
+    "high": 73,
+    "low": 70,
+    "volume": 11396500,
+    "market_cap": 310644688300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-14",
+    "close": 71,
+    "open": 71,
+    "high": 73,
+    "low": 71,
+    "volume": 12649500,
+    "market_cap": 310644688300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-18",
+    "close": 73,
+    "open": 71,
+    "high": 73,
+    "low": 71,
+    "volume": 17348800,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-19",
+    "close": 73,
+    "open": 73,
+    "high": 76,
+    "low": 73,
+    "volume": 21933900,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-20",
+    "close": 73,
+    "open": 73,
+    "high": 74,
+    "low": 72,
+    "volume": 8313900,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-21",
+    "close": 73,
+    "open": 73,
+    "high": 74,
+    "low": 72,
+    "volume": 6041200,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-24",
+    "close": 73,
+    "open": 73,
+    "high": 74,
+    "low": 73,
+    "volume": 6618500,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-26",
+    "close": 72,
+    "open": 73,
+    "high": 74,
+    "low": 72,
+    "volume": 18271200,
+    "market_cap": 315019965600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-27",
+    "close": 73,
+    "open": 72,
+    "high": 74,
+    "low": 72,
+    "volume": 5138300,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-28",
+    "close": 74,
+    "open": 73,
+    "high": 74,
+    "low": 72,
+    "volume": 5770900,
+    "market_cap": 323770520200
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-08-31",
+    "close": 73,
+    "open": 74,
+    "high": 75,
+    "low": 72,
+    "volume": 8462800,
+    "market_cap": 319395242900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-01",
+    "close": 74,
+    "open": 74,
+    "high": 74,
+    "low": 72,
+    "volume": 11369200,
+    "market_cap": 323770520200
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-02",
+    "close": 76,
+    "open": 76,
+    "high": 85,
+    "low": 74,
+    "volume": 141020000,
+    "market_cap": 332521074800
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-03",
+    "close": 77,
+    "open": 76,
+    "high": 80,
+    "low": 73,
+    "volume": 40874900,
+    "market_cap": 336896352100
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-04",
+    "close": 80,
+    "open": 77,
+    "high": 82,
+    "low": 77,
+    "volume": 72228300,
+    "market_cap": 350022184000
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-07",
+    "close": 81,
+    "open": 80,
+    "high": 83,
+    "low": 78,
+    "volume": 37345700,
+    "market_cap": 354397461300
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-08",
+    "close": 87,
+    "open": 81,
+    "high": 89,
+    "low": 80,
+    "volume": 153576800,
+    "market_cap": 380649125100
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-09",
+    "close": 85,
+    "open": 88,
+    "high": 90,
+    "low": 84,
+    "volume": 63086700,
+    "market_cap": 371898570500
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-10",
+    "close": 83,
+    "open": 83,
+    "high": 87,
+    "low": 81,
+    "volume": 37360700,
+    "market_cap": 363148015900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-11",
+    "close": 83,
+    "open": 83,
+    "high": 83,
+    "low": 80,
+    "volume": 18519600,
+    "market_cap": 363148015900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-14",
+    "close": 82,
+    "open": 82,
+    "high": 84,
+    "low": 80,
+    "volume": 15817800,
+    "market_cap": 358772738600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-15",
+    "close": 84,
+    "open": 82,
+    "high": 85,
+    "low": 81,
+    "volume": 21449600,
+    "market_cap": 367523293200
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-16",
+    "close": 84,
+    "open": 84,
+    "high": 86,
+    "low": 83,
+    "volume": 16335500,
+    "market_cap": 367523293200
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-17",
+    "close": 82,
+    "open": 85,
+    "high": 85,
+    "low": 82,
+    "volume": 16740000,
+    "market_cap": 358772738600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-18",
+    "close": 82,
+    "open": 82,
+    "high": 83,
+    "low": 81,
+    "volume": 10876700,
+    "market_cap": 358772738600
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-21",
+    "close": 83,
+    "open": 83,
+    "high": 87,
+    "low": 82,
+    "volume": 54427100,
+    "market_cap": 363148015900
+  },
+  {
+    "symbol": "TOSK.JK",
+    "date": "2026-09-22",
+    "close": 83,
+    "open": 83,
+    "high": 85,
+    "low": 81,
+    "volume": 26463000,
+    "market_cap": 363148015900
+  }
+]

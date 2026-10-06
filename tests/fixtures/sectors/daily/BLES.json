@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-06-24",
+    "close": 138,
+    "open": 146,
+    "high": 146,
+    "low": 138,
+    "volume": 291100,
+    "market_cap": 1226848483200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-06-25",
+    "close": 143,
+    "open": 138,
+    "high": 147,
+    "low": 136,
+    "volume": 3335700,
+    "market_cap": 1271299515200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-06-26",
+    "close": 141,
+    "open": 143,
+    "high": 147,
+    "low": 136,
+    "volume": 440900,
+    "market_cap": 1253519102400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-06-29",
+    "close": 141,
+    "open": 140,
+    "high": 143,
+    "low": 138,
+    "volume": 636300,
+    "market_cap": 1253519102400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-06-30",
+    "close": 139,
+    "open": 140,
+    "high": 141,
+    "low": 134,
+    "volume": 744800,
+    "market_cap": 1235738689600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-01",
+    "close": 140,
+    "open": 139,
+    "high": 144,
+    "low": 136,
+    "volume": 703100,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-02",
+    "close": 139,
+    "open": 139,
+    "high": 139,
+    "low": 134,
+    "volume": 237700,
+    "market_cap": 1235738689600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-03",
+    "close": 139,
+    "open": 139,
+    "high": 140,
+    "low": 136,
+    "volume": 134700,
+    "market_cap": 1235738689600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-06",
+    "close": 140,
+    "open": 138,
+    "high": 144,
+    "low": 137,
+    "volume": 288600,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-07",
+    "close": 140,
+    "open": 141,
+    "high": 141,
+    "low": 139,
+    "volume": 288800,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-08",
+    "close": 140,
+    "open": 137,
+    "high": 148,
+    "low": 137,
+    "volume": 708300,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-09",
+    "close": 140,
+    "open": 140,
+    "high": 140,
+    "low": 137,
+    "volume": 321000,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-10",
+    "close": 141,
+    "open": 139,
+    "high": 143,
+    "low": 137,
+    "volume": 225800,
+    "market_cap": 1253519102400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-13",
+    "close": 140,
+    "open": 141,
+    "high": 143,
+    "low": 139,
+    "volume": 591300,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-14",
+    "close": 140,
+    "open": 140,
+    "high": 142,
+    "low": 140,
+    "volume": 594300,
+    "market_cap": 1244628896000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-15",
+    "close": 143,
+    "open": 140,
+    "high": 143,
+    "low": 140,
+    "volume": 818700,
+    "market_cap": 1271299515200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-16",
+    "close": 145,
+    "open": 143,
+    "high": 146,
+    "low": 143,
+    "volume": 846600,
+    "market_cap": 1289079928000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-17",
+    "close": 150,
+    "open": 145,
+    "high": 154,
+    "low": 144,
+    "volume": 1818500,
+    "market_cap": 1333530960000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-20",
+    "close": 145,
+    "open": 142,
+    "high": 153,
+    "low": 141,
+    "volume": 5568000,
+    "market_cap": 1289079928000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-21",
+    "close": 147,
+    "open": 146,
+    "high": 148,
+    "low": 145,
+    "volume": 1235700,
+    "market_cap": 1306860340800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-22",
+    "close": 161,
+    "open": 147,
+    "high": 161,
+    "low": 147,
+    "volume": 3916700,
+    "market_cap": 1431323230400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-23",
+    "close": 163,
+    "open": 162,
+    "high": 165,
+    "low": 160,
+    "volume": 3907300,
+    "market_cap": 1449103643200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-24",
+    "close": 165,
+    "open": 165,
+    "high": 166,
+    "low": 160,
+    "volume": 5056200,
+    "market_cap": 1466884056000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-27",
+    "close": 163,
+    "open": 165,
+    "high": 168,
+    "low": 161,
+    "volume": 2350600,
+    "market_cap": 1449103643200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-28",
+    "close": 178,
+    "open": 168,
+    "high": 194,
+    "low": 166,
+    "volume": 66334900,
+    "market_cap": 1582456739200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-29",
+    "close": 187,
+    "open": 185,
+    "high": 191,
+    "low": 179,
+    "volume": 24000400,
+    "market_cap": 1662468596800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-30",
+    "close": 200,
+    "open": 190,
+    "high": 214,
+    "low": 184,
+    "volume": 47329100,
+    "market_cap": 1778041280000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-07-31",
+    "close": 200,
+    "open": 199,
+    "high": 206,
+    "low": 193,
+    "volume": 15164300,
+    "market_cap": 1778041280000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-03",
+    "close": 188,
+    "open": 195,
+    "high": 204,
+    "low": 185,
+    "volume": 17260400,
+    "market_cap": 1671358803200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-04",
+    "close": 193,
+    "open": 188,
+    "high": 200,
+    "low": 187,
+    "volume": 14648700,
+    "market_cap": 1715809835200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-05",
+    "close": 196,
+    "open": 194,
+    "high": 200,
+    "low": 190,
+    "volume": 11715900,
+    "market_cap": 1742480454400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-06",
+    "close": 218,
+    "open": 197,
+    "high": 218,
+    "low": 196,
+    "volume": 29932400,
+    "market_cap": 1938064995200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-07",
+    "close": 218,
+    "open": 218,
+    "high": 230,
+    "low": 204,
+    "volume": 31474600,
+    "market_cap": 1938064995200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-10",
+    "close": 208,
+    "open": 216,
+    "high": 218,
+    "low": 208,
+    "volume": 9847100,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-11",
+    "close": 208,
+    "open": 216,
+    "high": 216,
+    "low": 206,
+    "volume": 10210900,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-12",
+    "close": 208,
+    "open": 206,
+    "high": 214,
+    "low": 206,
+    "volume": 8910700,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-13",
+    "close": 204,
+    "open": 210,
+    "high": 210,
+    "low": 200,
+    "volume": 10063400,
+    "market_cap": 1813602105600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-14",
+    "close": 206,
+    "open": 204,
+    "high": 208,
+    "low": 200,
+    "volume": 8750900,
+    "market_cap": 1831382518400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-18",
+    "close": 202,
+    "open": 204,
+    "high": 206,
+    "low": 200,
+    "volume": 9761600,
+    "market_cap": 1795821692800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-19",
+    "close": 216,
+    "open": 206,
+    "high": 222,
+    "low": 200,
+    "volume": 17439000,
+    "market_cap": 1920284582400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-20",
+    "close": 210,
+    "open": 218,
+    "high": 218,
+    "low": 206,
+    "volume": 14183300,
+    "market_cap": 1866943344000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-21",
+    "close": 214,
+    "open": 210,
+    "high": 214,
+    "low": 208,
+    "volume": 8197800,
+    "market_cap": 1902504169600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-24",
+    "close": 208,
+    "open": 214,
+    "high": 214,
+    "low": 208,
+    "volume": 7760000,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-26",
+    "close": 200,
+    "open": 206,
+    "high": 210,
+    "low": 200,
+    "volume": 14298000,
+    "market_cap": 1778041280000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-27",
+    "close": 208,
+    "open": 200,
+    "high": 208,
+    "low": 200,
+    "volume": 11118500,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-28",
+    "close": 206,
+    "open": 208,
+    "high": 210,
+    "low": 204,
+    "volume": 9523200,
+    "market_cap": 1831382518400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-08-31",
+    "close": 204,
+    "open": 208,
+    "high": 208,
+    "low": 204,
+    "volume": 7348500,
+    "market_cap": 1813602105600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-01",
+    "close": 204,
+    "open": 204,
+    "high": 210,
+    "low": 202,
+    "volume": 9027500,
+    "market_cap": 1813602105600
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-02",
+    "close": 197,
+    "open": 206,
+    "high": 206,
+    "low": 196,
+    "volume": 11272200,
+    "market_cap": 1751370660800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-03",
+    "close": 198,
+    "open": 197,
+    "high": 202,
+    "low": 196,
+    "volume": 12962700,
+    "market_cap": 1760260867200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-04",
+    "close": 191,
+    "open": 199,
+    "high": 200,
+    "low": 190,
+    "volume": 14309100,
+    "market_cap": 1698029422400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-07",
+    "close": 187,
+    "open": 191,
+    "high": 192,
+    "low": 187,
+    "volume": 17559000,
+    "market_cap": 1662468596800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-08",
+    "close": 196,
+    "open": 187,
+    "high": 197,
+    "low": 187,
+    "volume": 18074400,
+    "market_cap": 1742480454400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-09",
+    "close": 202,
+    "open": 195,
+    "high": 208,
+    "low": 195,
+    "volume": 23495700,
+    "market_cap": 1795821692800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-10",
+    "close": 208,
+    "open": 204,
+    "high": 210,
+    "low": 204,
+    "volume": 15313600,
+    "market_cap": 1849162931200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-11",
+    "close": 212,
+    "open": 208,
+    "high": 212,
+    "low": 204,
+    "volume": 14954200,
+    "market_cap": 1884723756800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-14",
+    "close": 212,
+    "open": 216,
+    "high": 220,
+    "low": 204,
+    "volume": 17219900,
+    "market_cap": 1884723756800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-15",
+    "close": 206,
+    "open": 212,
+    "high": 214,
+    "low": 206,
+    "volume": 8685000,
+    "market_cap": 1831382518400
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-16",
+    "close": 197,
+    "open": 204,
+    "high": 208,
+    "low": 197,
+    "volume": 13738700,
+    "market_cap": 1751370660800
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-17",
+    "close": 195,
+    "open": 197,
+    "high": 199,
+    "low": 192,
+    "volume": 12416500,
+    "market_cap": 1733590248000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-18",
+    "close": 195,
+    "open": 194,
+    "high": 202,
+    "low": 194,
+    "volume": 9350400,
+    "market_cap": 1733590248000
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-21",
+    "close": 193,
+    "open": 198,
+    "high": 206,
+    "low": 193,
+    "volume": 11240400,
+    "market_cap": 1715809835200
+  },
+  {
+    "symbol": "BLES.JK",
+    "date": "2026-09-22",
+    "close": 192,
+    "open": 193,
+    "high": 196,
+    "low": 191,
+    "volume": 9441200,
+    "market_cap": 1706919628800
+  }
+]

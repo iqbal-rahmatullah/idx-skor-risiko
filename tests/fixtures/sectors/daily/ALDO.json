@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-06-24",
+    "close": 700,
+    "open": 705,
+    "high": 725,
+    "low": 695,
+    "volume": 47100,
+    "market_cap": 1890499620800
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-06-25",
+    "close": 700,
+    "open": 700,
+    "high": 705,
+    "low": 685,
+    "volume": 112900,
+    "market_cap": 1890499620800
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-06-26",
+    "close": 695,
+    "open": 700,
+    "high": 700,
+    "low": 660,
+    "volume": 12000,
+    "market_cap": 1876996052080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-06-29",
+    "close": 680,
+    "open": 695,
+    "high": 695,
+    "low": 600,
+    "volume": 78700,
+    "market_cap": 1836485345920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-06-30",
+    "close": 695,
+    "open": 680,
+    "high": 710,
+    "low": 650,
+    "volume": 23500,
+    "market_cap": 1876996052080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-01",
+    "close": 705,
+    "open": 680,
+    "high": 710,
+    "low": 680,
+    "volume": 315300,
+    "market_cap": 1904003189520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-02",
+    "close": 690,
+    "open": 705,
+    "high": 705,
+    "low": 660,
+    "volume": 38900,
+    "market_cap": 1863492483360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-03",
+    "close": 675,
+    "open": 690,
+    "high": 700,
+    "low": 675,
+    "volume": 168000,
+    "market_cap": 1822981777200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-06",
+    "close": 680,
+    "open": 680,
+    "high": 710,
+    "low": 675,
+    "volume": 40500,
+    "market_cap": 1836485345920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-07",
+    "close": 700,
+    "open": 685,
+    "high": 715,
+    "low": 685,
+    "volume": 130900,
+    "market_cap": 1890499620800
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-08",
+    "close": 690,
+    "open": 700,
+    "high": 700,
+    "low": 685,
+    "volume": 1700,
+    "market_cap": 1863492483360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-09",
+    "close": 710,
+    "open": 690,
+    "high": 715,
+    "low": 680,
+    "volume": 191800,
+    "market_cap": 1917506758240
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-10",
+    "close": 685,
+    "open": 710,
+    "high": 710,
+    "low": 670,
+    "volume": 13400,
+    "market_cap": 1849988914640
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-13",
+    "close": 680,
+    "open": 690,
+    "high": 690,
+    "low": 680,
+    "volume": 7900,
+    "market_cap": 1836485345920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-14",
+    "close": 690,
+    "open": 690,
+    "high": 695,
+    "low": 670,
+    "volume": 33800,
+    "market_cap": 1863492483360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-15",
+    "close": 680,
+    "open": 680,
+    "high": 680,
+    "low": 675,
+    "volume": 16300,
+    "market_cap": 1836485345920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-16",
+    "close": 690,
+    "open": 685,
+    "high": 690,
+    "low": 675,
+    "volume": 10800,
+    "market_cap": 1863492483360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-17",
+    "close": 710,
+    "open": 680,
+    "high": 745,
+    "low": 680,
+    "volume": 25200,
+    "market_cap": 1917506758240
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-20",
+    "close": 690,
+    "open": 730,
+    "high": 730,
+    "low": 690,
+    "volume": 48200,
+    "market_cap": 1863492483360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-21",
+    "close": 720,
+    "open": 695,
+    "high": 745,
+    "low": 690,
+    "volume": 88600,
+    "market_cap": 1944513895680
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-22",
+    "close": 900,
+    "open": 740,
+    "high": 900,
+    "low": 740,
+    "volume": 1430400,
+    "market_cap": 2430642369600
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-23",
+    "close": 845,
+    "open": 935,
+    "high": 1070,
+    "low": 820,
+    "volume": 1738100,
+    "market_cap": 2282103113680
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-24",
+    "close": 800,
+    "open": 845,
+    "high": 845,
+    "low": 760,
+    "volume": 329600,
+    "market_cap": 2160570995200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-27",
+    "close": 785,
+    "open": 810,
+    "high": 820,
+    "low": 750,
+    "volume": 131200,
+    "market_cap": 2120060289040
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-28",
+    "close": 865,
+    "open": 765,
+    "high": 900,
+    "low": 755,
+    "volume": 527300,
+    "market_cap": 2336117388560
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-29",
+    "close": 865,
+    "open": 935,
+    "high": 1030,
+    "low": 775,
+    "volume": 997100,
+    "market_cap": 2336117388560
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-30",
+    "close": 830,
+    "open": 850,
+    "high": 900,
+    "low": 810,
+    "volume": 350600,
+    "market_cap": 2241592407520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-07-31",
+    "close": 815,
+    "open": 880,
+    "high": 920,
+    "low": 815,
+    "volume": 324800,
+    "market_cap": 2201081701360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-03",
+    "close": 805,
+    "open": 815,
+    "high": 845,
+    "low": 800,
+    "volume": 116600,
+    "market_cap": 2174074563920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-04",
+    "close": 810,
+    "open": 810,
+    "high": 820,
+    "low": 795,
+    "volume": 53100,
+    "market_cap": 2187578132640
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-05",
+    "close": 800,
+    "open": 800,
+    "high": 820,
+    "low": 800,
+    "volume": 60200,
+    "market_cap": 2160570995200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-06",
+    "close": 810,
+    "open": 805,
+    "high": 850,
+    "low": 805,
+    "volume": 175400,
+    "market_cap": 2187578132640
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-07",
+    "close": 820,
+    "open": 820,
+    "high": 830,
+    "low": 810,
+    "volume": 68400,
+    "market_cap": 2214585270080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-10",
+    "close": 830,
+    "open": 835,
+    "high": 840,
+    "low": 820,
+    "volume": 80900,
+    "market_cap": 2241592407520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-11",
+    "close": 925,
+    "open": 840,
+    "high": 1035,
+    "low": 840,
+    "volume": 853300,
+    "market_cap": 2498160213200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-12",
+    "close": 890,
+    "open": 935,
+    "high": 935,
+    "low": 820,
+    "volume": 442500,
+    "market_cap": 2403635232160
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-13",
+    "close": 870,
+    "open": 890,
+    "high": 920,
+    "low": 830,
+    "volume": 103800,
+    "market_cap": 2349620957280
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-14",
+    "close": 920,
+    "open": 835,
+    "high": 925,
+    "low": 835,
+    "volume": 143600,
+    "market_cap": 2484656644480
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-18",
+    "close": 915,
+    "open": 920,
+    "high": 935,
+    "low": 890,
+    "volume": 194300,
+    "market_cap": 2471153075760
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-19",
+    "close": 910,
+    "open": 915,
+    "high": 970,
+    "low": 840,
+    "volume": 525500,
+    "market_cap": 2457649507040
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-20",
+    "close": 925,
+    "open": 900,
+    "high": 930,
+    "low": 865,
+    "volume": 67900,
+    "market_cap": 2498160213200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-21",
+    "close": 930,
+    "open": 935,
+    "high": 940,
+    "low": 900,
+    "volume": 88000,
+    "market_cap": 2511663781920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-24",
+    "close": 925,
+    "open": 930,
+    "high": 930,
+    "low": 910,
+    "volume": 30300,
+    "market_cap": 2498160213200
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-26",
+    "close": 915,
+    "open": 925,
+    "high": 935,
+    "low": 905,
+    "volume": 69200,
+    "market_cap": 2471153075760
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-27",
+    "close": 930,
+    "open": 895,
+    "high": 960,
+    "low": 890,
+    "volume": 75600,
+    "market_cap": 2511663781920
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-28",
+    "close": 920,
+    "open": 940,
+    "high": 940,
+    "low": 900,
+    "volume": 33200,
+    "market_cap": 2484656644480
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-08-31",
+    "close": 940,
+    "open": 910,
+    "high": 940,
+    "low": 900,
+    "volume": 73000,
+    "market_cap": 2538670919360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-01",
+    "close": 945,
+    "open": 925,
+    "high": 945,
+    "low": 895,
+    "volume": 61400,
+    "market_cap": 2552174488080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-02",
+    "close": 940,
+    "open": 945,
+    "high": 950,
+    "low": 900,
+    "volume": 42800,
+    "market_cap": 2538670919360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-03",
+    "close": 965,
+    "open": 940,
+    "high": 975,
+    "low": 925,
+    "volume": 80400,
+    "market_cap": 2606188762960
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-04",
+    "close": 945,
+    "open": 960,
+    "high": 960,
+    "low": 930,
+    "volume": 63900,
+    "market_cap": 2552174488080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-07",
+    "close": 940,
+    "open": 945,
+    "high": 975,
+    "low": 930,
+    "volume": 24200,
+    "market_cap": 2538670919360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-08",
+    "close": 940,
+    "open": 925,
+    "high": 960,
+    "low": 925,
+    "volume": 46300,
+    "market_cap": 2538670919360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-09",
+    "close": 945,
+    "open": 950,
+    "high": 955,
+    "low": 935,
+    "volume": 102200,
+    "market_cap": 2552174488080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-10",
+    "close": 940,
+    "open": 910,
+    "high": 955,
+    "low": 910,
+    "volume": 48400,
+    "market_cap": 2538670919360
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-11",
+    "close": 950,
+    "open": 935,
+    "high": 955,
+    "low": 935,
+    "volume": 115900,
+    "market_cap": 2565678056800
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-14",
+    "close": 955,
+    "open": 960,
+    "high": 960,
+    "low": 935,
+    "volume": 44700,
+    "market_cap": 2579181625520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-15",
+    "close": 945,
+    "open": 955,
+    "high": 955,
+    "low": 940,
+    "volume": 142500,
+    "market_cap": 2552174488080
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-16",
+    "close": 960,
+    "open": 945,
+    "high": 990,
+    "low": 930,
+    "volume": 73100,
+    "market_cap": 2592685194240
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-17",
+    "close": 955,
+    "open": 960,
+    "high": 960,
+    "low": 920,
+    "volume": 20300,
+    "market_cap": 2579181625520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-18",
+    "close": 955,
+    "open": 940,
+    "high": 990,
+    "low": 940,
+    "volume": 87700,
+    "market_cap": 2579181625520
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-21",
+    "close": 965,
+    "open": 960,
+    "high": 965,
+    "low": 930,
+    "volume": 18300,
+    "market_cap": 2606188762960
+  },
+  {
+    "symbol": "ALDO.JK",
+    "date": "2026-09-22",
+    "close": 945,
+    "open": 965,
+    "high": 965,
+    "low": 945,
+    "volume": 9600,
+    "market_cap": 2552174488080
+  }
+]

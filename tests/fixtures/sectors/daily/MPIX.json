@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-06-24",
+    "close": 92,
+    "open": 95,
+    "high": 96,
+    "low": 91,
+    "volume": 3712000,
+    "market_cap": 143756836336
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-06-25",
+    "close": 92,
+    "open": 95,
+    "high": 95,
+    "low": 88,
+    "volume": 1022000,
+    "market_cap": 143756836336
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-06-26",
+    "close": 93,
+    "open": 92,
+    "high": 105,
+    "low": 92,
+    "volume": 20634900,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-06-29",
+    "close": 98,
+    "open": 95,
+    "high": 102,
+    "low": 95,
+    "volume": 13043300,
+    "market_cap": 153132282184
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-06-30",
+    "close": 94,
+    "open": 98,
+    "high": 100,
+    "low": 88,
+    "volume": 5362800,
+    "market_cap": 146881984952
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-01",
+    "close": 93,
+    "open": 95,
+    "high": 95,
+    "low": 92,
+    "volume": 3402700,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-02",
+    "close": 99,
+    "open": 93,
+    "high": 100,
+    "low": 91,
+    "volume": 9126400,
+    "market_cap": 154694856492
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-03",
+    "close": 98,
+    "open": 100,
+    "high": 101,
+    "low": 97,
+    "volume": 4113000,
+    "market_cap": 153132282184
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-06",
+    "close": 96,
+    "open": 99,
+    "high": 102,
+    "low": 96,
+    "volume": 2590400,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-07",
+    "close": 96,
+    "open": 96,
+    "high": 99,
+    "low": 94,
+    "volume": 4207200,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-08",
+    "close": 95,
+    "open": 97,
+    "high": 101,
+    "low": 94,
+    "volume": 6027400,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-09",
+    "close": 94,
+    "open": 95,
+    "high": 98,
+    "low": 93,
+    "volume": 3417400,
+    "market_cap": 146881984952
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-10",
+    "close": 94,
+    "open": 94,
+    "high": 96,
+    "low": 93,
+    "volume": 3480000,
+    "market_cap": 146881984952
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-13",
+    "close": 93,
+    "open": 95,
+    "high": 96,
+    "low": 90,
+    "volume": 9930200,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-14",
+    "close": 93,
+    "open": 94,
+    "high": 96,
+    "low": 92,
+    "volume": 2801500,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-15",
+    "close": 93,
+    "open": 93,
+    "high": 95,
+    "low": 92,
+    "volume": 2245300,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-16",
+    "close": 95,
+    "open": 93,
+    "high": 97,
+    "low": 92,
+    "volume": 5955300,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-17",
+    "close": 95,
+    "open": 96,
+    "high": 97,
+    "low": 95,
+    "volume": 3072200,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-20",
+    "close": 95,
+    "open": 96,
+    "high": 97,
+    "low": 93,
+    "volume": 2880000,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-21",
+    "close": 95,
+    "open": 95,
+    "high": 99,
+    "low": 94,
+    "volume": 6369700,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-22",
+    "close": 94,
+    "open": 95,
+    "high": 96,
+    "low": 93,
+    "volume": 2653100,
+    "market_cap": 146881984952
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-23",
+    "close": 93,
+    "open": 94,
+    "high": 95,
+    "low": 92,
+    "volume": 4172100,
+    "market_cap": 145319410644
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-24",
+    "close": 91,
+    "open": 92,
+    "high": 93,
+    "low": 91,
+    "volume": 2832300,
+    "market_cap": 142194262028
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-27",
+    "close": 92,
+    "open": 92,
+    "high": 93,
+    "low": 87,
+    "volume": 6457400,
+    "market_cap": 143756836336
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-28",
+    "close": 95,
+    "open": 92,
+    "high": 105,
+    "low": 90,
+    "volume": 20919400,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-29",
+    "close": 94,
+    "open": 96,
+    "high": 99,
+    "low": 93,
+    "volume": 3077800,
+    "market_cap": 146881984952
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-30",
+    "close": 96,
+    "open": 93,
+    "high": 98,
+    "low": 92,
+    "volume": 3983300,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-07-31",
+    "close": 96,
+    "open": 96,
+    "high": 99,
+    "low": 96,
+    "volume": 5577300,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-03",
+    "close": 97,
+    "open": 98,
+    "high": 98,
+    "low": 95,
+    "volume": 3914100,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-04",
+    "close": 97,
+    "open": 97,
+    "high": 98,
+    "low": 96,
+    "volume": 1986200,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-05",
+    "close": 101,
+    "open": 98,
+    "high": 104,
+    "low": 97,
+    "volume": 11067500,
+    "market_cap": 157820005108
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-06",
+    "close": 99,
+    "open": 101,
+    "high": 102,
+    "low": 98,
+    "volume": 7402700,
+    "market_cap": 154694856492
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-07",
+    "close": 97,
+    "open": 99,
+    "high": 100,
+    "low": 94,
+    "volume": 2400400,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-10",
+    "close": 96,
+    "open": 99,
+    "high": 100,
+    "low": 95,
+    "volume": 3081300,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-11",
+    "close": 95,
+    "open": 98,
+    "high": 98,
+    "low": 94,
+    "volume": 3854000,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-12",
+    "close": 96,
+    "open": 95,
+    "high": 98,
+    "low": 93,
+    "volume": 3431600,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-13",
+    "close": 96,
+    "open": 98,
+    "high": 98,
+    "low": 95,
+    "volume": 1462500,
+    "market_cap": 150007133568
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-14",
+    "close": 95,
+    "open": 96,
+    "high": 98,
+    "low": 94,
+    "volume": 2352600,
+    "market_cap": 148444559260
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-18",
+    "close": 97,
+    "open": 95,
+    "high": 97,
+    "low": 95,
+    "volume": 1214700,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-19",
+    "close": 97,
+    "open": 97,
+    "high": 103,
+    "low": 95,
+    "volume": 7294900,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-20",
+    "close": 97,
+    "open": 97,
+    "high": 98,
+    "low": 96,
+    "volume": 2554800,
+    "market_cap": 151569707876
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-21",
+    "close": 98,
+    "open": 97,
+    "high": 99,
+    "low": 96,
+    "volume": 3781700,
+    "market_cap": 153132282184
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-24",
+    "close": 99,
+    "open": 98,
+    "high": 103,
+    "low": 96,
+    "volume": 12747000,
+    "market_cap": 154694856492
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-26",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 98,
+    "volume": 4738400,
+    "market_cap": 154694856492
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-27",
+    "close": 103,
+    "open": 99,
+    "high": 105,
+    "low": 98,
+    "volume": 15235900,
+    "market_cap": 160945153724
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-28",
+    "close": 118,
+    "open": 103,
+    "high": 126,
+    "low": 103,
+    "volume": 170398400,
+    "market_cap": 184383768344
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-08-31",
+    "close": 112,
+    "open": 120,
+    "high": 124,
+    "low": 112,
+    "volume": 48618600,
+    "market_cap": 175008322496
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-01",
+    "close": 114,
+    "open": 114,
+    "high": 118,
+    "low": 111,
+    "volume": 19703800,
+    "market_cap": 178133471112
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-02",
+    "close": 109,
+    "open": 114,
+    "high": 114,
+    "low": 106,
+    "volume": 12696900,
+    "market_cap": 170320599572
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-03",
+    "close": 114,
+    "open": 110,
+    "high": 117,
+    "low": 110,
+    "volume": 17639700,
+    "market_cap": 178133471112
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-04",
+    "close": 117,
+    "open": 115,
+    "high": 120,
+    "low": 114,
+    "volume": 17911500,
+    "market_cap": 182821194036
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-07",
+    "close": 116,
+    "open": 119,
+    "high": 119,
+    "low": 116,
+    "volume": 10048100,
+    "market_cap": 181258619728
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-08",
+    "close": 120,
+    "open": 119,
+    "high": 130,
+    "low": 116,
+    "volume": 86879100,
+    "market_cap": 187508916960
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-09",
+    "close": 117,
+    "open": 120,
+    "high": 121,
+    "low": 117,
+    "volume": 11156600,
+    "market_cap": 182821194036
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-10",
+    "close": 118,
+    "open": 117,
+    "high": 124,
+    "low": 116,
+    "volume": 15316100,
+    "market_cap": 184383768344
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-11",
+    "close": 127,
+    "open": 118,
+    "high": 134,
+    "low": 114,
+    "volume": 62369200,
+    "market_cap": 198446937116
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-14",
+    "close": 160,
+    "open": 129,
+    "high": 169,
+    "low": 129,
+    "volume": 272797700,
+    "market_cap": 250011889280
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-15",
+    "close": 187,
+    "open": 164,
+    "high": 195,
+    "low": 156,
+    "volume": 199756300,
+    "market_cap": 292201395596
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-16",
+    "close": 182,
+    "open": 181,
+    "high": 185,
+    "low": 167,
+    "volume": 61221300,
+    "market_cap": 284388524056
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-17",
+    "close": 183,
+    "open": 183,
+    "high": 191,
+    "low": 171,
+    "volume": 40842900,
+    "market_cap": 285951098364
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-18",
+    "close": 200,
+    "open": 184,
+    "high": 228,
+    "low": 181,
+    "volume": 127114700,
+    "market_cap": 312514861600
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-21",
+    "close": 198,
+    "open": 202,
+    "high": 222,
+    "low": 194,
+    "volume": 43555700,
+    "market_cap": 309389712984
+  },
+  {
+    "symbol": "MPIX.JK",
+    "date": "2026-09-22",
+    "close": 186,
+    "open": 198,
+    "high": 208,
+    "low": 181,
+    "volume": 23766100,
+    "market_cap": 290638821288
+  }
+]

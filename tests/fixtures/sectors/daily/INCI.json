@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-06-24",
+    "close": 690,
+    "open": 670,
+    "high": 735,
+    "low": 630,
+    "volume": 204900,
+    "market_cap": 143283065730
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-06-25",
+    "close": 660,
+    "open": 690,
+    "high": 690,
+    "low": 660,
+    "volume": 30800,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-06-26",
+    "close": 660,
+    "open": 690,
+    "high": 690,
+    "low": 630,
+    "volume": 55600,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-06-29",
+    "close": 655,
+    "open": 655,
+    "high": 660,
+    "low": 635,
+    "volume": 1200,
+    "market_cap": 136015084135
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-06-30",
+    "close": 625,
+    "open": 635,
+    "high": 635,
+    "low": 605,
+    "volume": 44400,
+    "market_cap": 129785385625
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-01",
+    "close": 645,
+    "open": 620,
+    "high": 645,
+    "low": 620,
+    "volume": 43300,
+    "market_cap": 133938517965
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-02",
+    "close": 640,
+    "open": 640,
+    "high": 640,
+    "low": 635,
+    "volume": 26000,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-03",
+    "close": 645,
+    "open": 645,
+    "high": 645,
+    "low": 635,
+    "volume": 8500,
+    "market_cap": 133938517965
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-06",
+    "close": 640,
+    "open": 635,
+    "high": 645,
+    "low": 635,
+    "volume": 1200,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-07",
+    "close": 660,
+    "open": 640,
+    "high": 660,
+    "low": 640,
+    "volume": 1300,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-08",
+    "close": 640,
+    "open": 650,
+    "high": 650,
+    "low": 630,
+    "volume": 10100,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-09",
+    "close": 640,
+    "open": 640,
+    "high": 660,
+    "low": 630,
+    "volume": 13600,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-10",
+    "close": 640,
+    "open": 645,
+    "high": 645,
+    "low": 640,
+    "volume": 2200,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-13",
+    "close": 635,
+    "open": 630,
+    "high": 640,
+    "low": 630,
+    "volume": 22400,
+    "market_cap": 131861951795
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-14",
+    "close": 645,
+    "open": 640,
+    "high": 650,
+    "low": 635,
+    "volume": 5200,
+    "market_cap": 133938517965
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-15",
+    "close": 645,
+    "open": 645,
+    "high": 645,
+    "low": 645,
+    "volume": 13900,
+    "market_cap": 133938517965
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-16",
+    "close": 645,
+    "open": 650,
+    "high": 665,
+    "low": 645,
+    "volume": 18200,
+    "market_cap": 133938517965
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-17",
+    "close": 670,
+    "open": 640,
+    "high": 690,
+    "low": 640,
+    "volume": 35100,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-20",
+    "close": 660,
+    "open": 670,
+    "high": 670,
+    "low": 650,
+    "volume": 8400,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-21",
+    "close": 675,
+    "open": 645,
+    "high": 685,
+    "low": 645,
+    "volume": 13100,
+    "market_cap": 140168216475
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-22",
+    "close": 670,
+    "open": 670,
+    "high": 670,
+    "low": 660,
+    "volume": 4700,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-23",
+    "close": 655,
+    "open": 670,
+    "high": 670,
+    "low": 650,
+    "volume": 11000,
+    "market_cap": 136015084135
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-24",
+    "close": 655,
+    "open": 670,
+    "high": 670,
+    "low": 655,
+    "volume": 3400,
+    "market_cap": 136015084135
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-27",
+    "close": 640,
+    "open": 655,
+    "high": 670,
+    "low": 635,
+    "volume": 116500,
+    "market_cap": 132900234880
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-28",
+    "close": 660,
+    "open": 645,
+    "high": 680,
+    "low": 645,
+    "volume": 34700,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-29",
+    "close": 660,
+    "open": 660,
+    "high": 690,
+    "low": 645,
+    "volume": 2300,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-30",
+    "close": 665,
+    "open": 660,
+    "high": 675,
+    "low": 645,
+    "volume": 3400,
+    "market_cap": 138091650305
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-07-31",
+    "close": 665,
+    "open": 665,
+    "high": 675,
+    "low": 640,
+    "volume": 89100,
+    "market_cap": 138091650305
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-03",
+    "close": 655,
+    "open": 665,
+    "high": 665,
+    "low": 640,
+    "volume": 22000,
+    "market_cap": 136015084135
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-04",
+    "close": 665,
+    "open": 665,
+    "high": 680,
+    "low": 660,
+    "volume": 44900,
+    "market_cap": 138091650305
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-05",
+    "close": 670,
+    "open": 670,
+    "high": 680,
+    "low": 665,
+    "volume": 25500,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-06",
+    "close": 685,
+    "open": 660,
+    "high": 690,
+    "low": 650,
+    "volume": 22600,
+    "market_cap": 142244782645
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-07",
+    "close": 675,
+    "open": 675,
+    "high": 675,
+    "low": 645,
+    "volume": 31700,
+    "market_cap": 140168216475
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-10",
+    "close": 660,
+    "open": 675,
+    "high": 680,
+    "low": 660,
+    "volume": 62500,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-11",
+    "close": 670,
+    "open": 660,
+    "high": 670,
+    "low": 655,
+    "volume": 18800,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-12",
+    "close": 670,
+    "open": 660,
+    "high": 675,
+    "low": 660,
+    "volume": 1100,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-13",
+    "close": 675,
+    "open": 680,
+    "high": 680,
+    "low": 660,
+    "volume": 16400,
+    "market_cap": 140168216475
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-14",
+    "close": 670,
+    "open": 680,
+    "high": 680,
+    "low": 665,
+    "volume": 600,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-18",
+    "close": 670,
+    "open": 670,
+    "high": 670,
+    "low": 660,
+    "volume": 123100,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-19",
+    "close": 665,
+    "open": 670,
+    "high": 680,
+    "low": 660,
+    "volume": 37500,
+    "market_cap": 138091650305
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-20",
+    "close": 665,
+    "open": 680,
+    "high": 680,
+    "low": 665,
+    "volume": 3300,
+    "market_cap": 138091650305
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-21",
+    "close": 670,
+    "open": 670,
+    "high": 680,
+    "low": 665,
+    "volume": 4100,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-24",
+    "close": 675,
+    "open": 670,
+    "high": 675,
+    "low": 665,
+    "volume": 12400,
+    "market_cap": 140168216475
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-26",
+    "close": 660,
+    "open": 665,
+    "high": 675,
+    "low": 660,
+    "volume": 13200,
+    "market_cap": 137053367220
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-27",
+    "close": 675,
+    "open": 665,
+    "high": 675,
+    "low": 665,
+    "volume": 800,
+    "market_cap": 140168216475
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-28",
+    "close": 670,
+    "open": 675,
+    "high": 680,
+    "low": 660,
+    "volume": 58000,
+    "market_cap": 139129933390
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-08-31",
+    "close": 685,
+    "open": 660,
+    "high": 690,
+    "low": 660,
+    "volume": 66200,
+    "market_cap": 142244782645
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-01",
+    "close": 780,
+    "open": 750,
+    "high": 850,
+    "low": 710,
+    "volume": 4097900,
+    "market_cap": 161972161260
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-02",
+    "close": 775,
+    "open": 785,
+    "high": 795,
+    "low": 730,
+    "volume": 580200,
+    "market_cap": 160933878175
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-03",
+    "close": 810,
+    "open": 780,
+    "high": 825,
+    "low": 780,
+    "volume": 1288200,
+    "market_cap": 168201859770
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-04",
+    "close": 790,
+    "open": 820,
+    "high": 820,
+    "low": 790,
+    "volume": 339800,
+    "market_cap": 164048727430
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-07",
+    "close": 790,
+    "open": 780,
+    "high": 825,
+    "low": 780,
+    "volume": 748100,
+    "market_cap": 164048727430
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-08",
+    "close": 780,
+    "open": 790,
+    "high": 800,
+    "low": 765,
+    "volume": 403600,
+    "market_cap": 161972161260
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-09",
+    "close": 805,
+    "open": 780,
+    "high": 805,
+    "low": 770,
+    "volume": 91700,
+    "market_cap": 167163576685
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-10",
+    "close": 805,
+    "open": 805,
+    "high": 825,
+    "low": 795,
+    "volume": 563600,
+    "market_cap": 167163576685
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-11",
+    "close": 800,
+    "open": 805,
+    "high": 815,
+    "low": 785,
+    "volume": 43700,
+    "market_cap": 166125293600
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-14",
+    "close": 775,
+    "open": 795,
+    "high": 805,
+    "low": 760,
+    "volume": 49600,
+    "market_cap": 160933878175
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-15",
+    "close": 810,
+    "open": 775,
+    "high": 815,
+    "low": 765,
+    "volume": 198600,
+    "market_cap": 168201859770
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-16",
+    "close": 815,
+    "open": 815,
+    "high": 815,
+    "low": 800,
+    "volume": 81700,
+    "market_cap": 169240142855
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-17",
+    "close": 805,
+    "open": 810,
+    "high": 810,
+    "low": 805,
+    "volume": 92400,
+    "market_cap": 167163576685
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-18",
+    "close": 815,
+    "open": 800,
+    "high": 830,
+    "low": 800,
+    "volume": 280800,
+    "market_cap": 169240142855
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-21",
+    "close": 805,
+    "open": 820,
+    "high": 820,
+    "low": 800,
+    "volume": 63100,
+    "market_cap": 167163576685
+  },
+  {
+    "symbol": "INCI.JK",
+    "date": "2026-09-22",
+    "close": 805,
+    "open": 800,
+    "high": 805,
+    "low": 795,
+    "volume": 140900,
+    "market_cap": 167163576685
+  }
+]

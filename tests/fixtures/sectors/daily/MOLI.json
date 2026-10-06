@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-06-24",
+    "close": 248,
+    "open": 270,
+    "high": 270,
+    "low": 248,
+    "volume": 3931100,
+    "market_cap": 675561072088
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-06-25",
+    "close": 252,
+    "open": 248,
+    "high": 258,
+    "low": 238,
+    "volume": 2439800,
+    "market_cap": 686457218412
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-06-26",
+    "close": 252,
+    "open": 256,
+    "high": 262,
+    "low": 240,
+    "volume": 2899500,
+    "market_cap": 686457218412
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-06-29",
+    "close": 244,
+    "open": 252,
+    "high": 254,
+    "low": 244,
+    "volume": 1154700,
+    "market_cap": 664664925764
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-06-30",
+    "close": 238,
+    "open": 244,
+    "high": 244,
+    "low": 234,
+    "volume": 3346700,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-01",
+    "close": 238,
+    "open": 238,
+    "high": 244,
+    "low": 236,
+    "volume": 2299000,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-02",
+    "close": 228,
+    "open": 232,
+    "high": 238,
+    "low": 228,
+    "volume": 2156600,
+    "market_cap": 621080340468
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-03",
+    "close": 238,
+    "open": 230,
+    "high": 238,
+    "low": 224,
+    "volume": 2185100,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-06",
+    "close": 238,
+    "open": 240,
+    "high": 240,
+    "low": 230,
+    "volume": 2707700,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-07",
+    "close": 244,
+    "open": 238,
+    "high": 248,
+    "low": 234,
+    "volume": 3671200,
+    "market_cap": 664664925764
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-08",
+    "close": 232,
+    "open": 244,
+    "high": 244,
+    "low": 230,
+    "volume": 3048800,
+    "market_cap": 631976486792
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-09",
+    "close": 236,
+    "open": 234,
+    "high": 240,
+    "low": 232,
+    "volume": 769400,
+    "market_cap": 642872633116
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-10",
+    "close": 238,
+    "open": 240,
+    "high": 240,
+    "low": 236,
+    "volume": 2219200,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-13",
+    "close": 238,
+    "open": 242,
+    "high": 242,
+    "low": 234,
+    "volume": 1137400,
+    "market_cap": 648320706278
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-14",
+    "close": 248,
+    "open": 238,
+    "high": 254,
+    "low": 238,
+    "volume": 2192500,
+    "market_cap": 675561072088
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-15",
+    "close": 248,
+    "open": 248,
+    "high": 256,
+    "low": 244,
+    "volume": 2697300,
+    "market_cap": 675561072088
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-16",
+    "close": 246,
+    "open": 250,
+    "high": 252,
+    "low": 246,
+    "volume": 2516900,
+    "market_cap": 670112998926
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-17",
+    "close": 246,
+    "open": 246,
+    "high": 250,
+    "low": 238,
+    "volume": 1063000,
+    "market_cap": 670112998926
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-20",
+    "close": 262,
+    "open": 256,
+    "high": 266,
+    "low": 248,
+    "volume": 6503100,
+    "market_cap": 713697584222
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-21",
+    "close": 264,
+    "open": 266,
+    "high": 266,
+    "low": 260,
+    "volume": 3860400,
+    "market_cap": 719145657384
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-22",
+    "close": 260,
+    "open": 264,
+    "high": 266,
+    "low": 256,
+    "volume": 3236700,
+    "market_cap": 708249511060
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-23",
+    "close": 254,
+    "open": 260,
+    "high": 268,
+    "low": 250,
+    "volume": 6173700,
+    "market_cap": 691905291574
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-24",
+    "close": 252,
+    "open": 254,
+    "high": 260,
+    "low": 252,
+    "volume": 2534900,
+    "market_cap": 686457218412
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-27",
+    "close": 248,
+    "open": 254,
+    "high": 254,
+    "low": 242,
+    "volume": 1929800,
+    "market_cap": 675561072088
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-28",
+    "close": 248,
+    "open": 250,
+    "high": 254,
+    "low": 242,
+    "volume": 1065000,
+    "market_cap": 675561072088
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-29",
+    "close": 246,
+    "open": 248,
+    "high": 250,
+    "low": 242,
+    "volume": 897300,
+    "market_cap": 670112998926
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-30",
+    "close": 266,
+    "open": 248,
+    "high": 274,
+    "low": 248,
+    "volume": 9467300,
+    "market_cap": 724593730546
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-07-31",
+    "close": 264,
+    "open": 268,
+    "high": 274,
+    "low": 262,
+    "volume": 4810100,
+    "market_cap": 719145657384
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-03",
+    "close": 260,
+    "open": 270,
+    "high": 270,
+    "low": 250,
+    "volume": 3028100,
+    "market_cap": 708249511060
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-04",
+    "close": 262,
+    "open": 266,
+    "high": 276,
+    "low": 260,
+    "volume": 4371900,
+    "market_cap": 713697584222
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-05",
+    "close": 268,
+    "open": 272,
+    "high": 272,
+    "low": 264,
+    "volume": 2222200,
+    "market_cap": 730041803708
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-06",
+    "close": 278,
+    "open": 270,
+    "high": 288,
+    "low": 270,
+    "volume": 8034100,
+    "market_cap": 757282169518
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-07",
+    "close": 274,
+    "open": 282,
+    "high": 288,
+    "low": 272,
+    "volume": 5447000,
+    "market_cap": 746386023194
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-10",
+    "close": 270,
+    "open": 278,
+    "high": 278,
+    "low": 270,
+    "volume": 2450900,
+    "market_cap": 735489876870
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-11",
+    "close": 270,
+    "open": 270,
+    "high": 278,
+    "low": 268,
+    "volume": 2554100,
+    "market_cap": 735489876870
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-12",
+    "close": 272,
+    "open": 272,
+    "high": 276,
+    "low": 270,
+    "volume": 1360000,
+    "market_cap": 740937950032
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-13",
+    "close": 270,
+    "open": 270,
+    "high": 274,
+    "low": 264,
+    "volume": 977500,
+    "market_cap": 735489876870
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-14",
+    "close": 276,
+    "open": 268,
+    "high": 276,
+    "low": 266,
+    "volume": 1025600,
+    "market_cap": 751834096356
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-18",
+    "close": 282,
+    "open": 278,
+    "high": 288,
+    "low": 274,
+    "volume": 4734500,
+    "market_cap": 768178315842
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-19",
+    "close": 276,
+    "open": 286,
+    "high": 286,
+    "low": 274,
+    "volume": 3044100,
+    "market_cap": 751834096356
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-20",
+    "close": 288,
+    "open": 280,
+    "high": 292,
+    "low": 276,
+    "volume": 4716100,
+    "market_cap": 784522535328
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-21",
+    "close": 284,
+    "open": 288,
+    "high": 292,
+    "low": 284,
+    "volume": 1993000,
+    "market_cap": 773626389004
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-24",
+    "close": 284,
+    "open": 286,
+    "high": 300,
+    "low": 280,
+    "volume": 2635500,
+    "market_cap": 773626389004
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-26",
+    "close": 270,
+    "open": 284,
+    "high": 286,
+    "low": 270,
+    "volume": 2939600,
+    "market_cap": 735489876870
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-27",
+    "close": 280,
+    "open": 270,
+    "high": 282,
+    "low": 266,
+    "volume": 2282200,
+    "market_cap": 762730242680
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-28",
+    "close": 282,
+    "open": 284,
+    "high": 290,
+    "low": 276,
+    "volume": 2487500,
+    "market_cap": 768178315842
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-08-31",
+    "close": 312,
+    "open": 286,
+    "high": 328,
+    "low": 284,
+    "volume": 34565600,
+    "market_cap": 849899413272
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-01",
+    "close": 306,
+    "open": 310,
+    "high": 312,
+    "low": 298,
+    "volume": 8014900,
+    "market_cap": 833555193786
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-02",
+    "close": 308,
+    "open": 308,
+    "high": 312,
+    "low": 302,
+    "volume": 4723500,
+    "market_cap": 839003266948
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-03",
+    "close": 320,
+    "open": 310,
+    "high": 334,
+    "low": 310,
+    "volume": 23422800,
+    "market_cap": 871691705920
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-04",
+    "close": 314,
+    "open": 330,
+    "high": 330,
+    "low": 312,
+    "volume": 6231100,
+    "market_cap": 855347486434
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-07",
+    "close": 318,
+    "open": 314,
+    "high": 318,
+    "low": 312,
+    "volume": 2610500,
+    "market_cap": 866243632758
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-08",
+    "close": 316,
+    "open": 314,
+    "high": 322,
+    "low": 310,
+    "volume": 3357800,
+    "market_cap": 860795559596
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-09",
+    "close": 324,
+    "open": 318,
+    "high": 326,
+    "low": 318,
+    "volume": 3259700,
+    "market_cap": 882587852244
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-10",
+    "close": 316,
+    "open": 326,
+    "high": 330,
+    "low": 314,
+    "volume": 4732300,
+    "market_cap": 860795559596
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-11",
+    "close": 318,
+    "open": 312,
+    "high": 318,
+    "low": 306,
+    "volume": 4347100,
+    "market_cap": 866243632758
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-14",
+    "close": 314,
+    "open": 324,
+    "high": 324,
+    "low": 308,
+    "volume": 2357600,
+    "market_cap": 855347486434
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-15",
+    "close": 326,
+    "open": 318,
+    "high": 326,
+    "low": 312,
+    "volume": 5898400,
+    "market_cap": 888035925406
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-16",
+    "close": 316,
+    "open": 322,
+    "high": 346,
+    "low": 316,
+    "volume": 14201700,
+    "market_cap": 860795559596
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-17",
+    "close": 350,
+    "open": 312,
+    "high": 350,
+    "low": 310,
+    "volume": 15289100,
+    "market_cap": 953412803350
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-18",
+    "close": 380,
+    "open": 360,
+    "high": 396,
+    "low": 360,
+    "volume": 50089200,
+    "market_cap": 1035133900780
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-21",
+    "close": 374,
+    "open": 370,
+    "high": 378,
+    "low": 356,
+    "volume": 10894200,
+    "market_cap": 1018789681294
+  },
+  {
+    "symbol": "MOLI.JK",
+    "date": "2026-09-22",
+    "close": 376,
+    "open": 384,
+    "high": 404,
+    "low": 372,
+    "volume": 24246000,
+    "market_cap": 1024237754456
+  }
+]

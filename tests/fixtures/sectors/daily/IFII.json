@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-06-24",
+    "close": 210,
+    "open": 216,
+    "high": 222,
+    "low": 210,
+    "volume": 93700,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-06-25",
+    "close": 210,
+    "open": 212,
+    "high": 214,
+    "low": 200,
+    "volume": 58500,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-06-26",
+    "close": 214,
+    "open": 212,
+    "high": 216,
+    "low": 210,
+    "volume": 19400,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-06-29",
+    "close": 212,
+    "open": 216,
+    "high": 216,
+    "low": 210,
+    "volume": 8800,
+    "market_cap": 1995344000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-06-30",
+    "close": 206,
+    "open": 212,
+    "high": 212,
+    "low": 204,
+    "volume": 31100,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-01",
+    "close": 206,
+    "open": 206,
+    "high": 210,
+    "low": 204,
+    "volume": 127100,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-02",
+    "close": 206,
+    "open": 206,
+    "high": 212,
+    "low": 202,
+    "volume": 35600,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-03",
+    "close": 208,
+    "open": 212,
+    "high": 212,
+    "low": 206,
+    "volume": 25700,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-06",
+    "close": 218,
+    "open": 208,
+    "high": 220,
+    "low": 208,
+    "volume": 253600,
+    "market_cap": 2051816000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-07",
+    "close": 216,
+    "open": 218,
+    "high": 218,
+    "low": 208,
+    "volume": 28900,
+    "market_cap": 2032992000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-08",
+    "close": 212,
+    "open": 216,
+    "high": 216,
+    "low": 212,
+    "volume": 80100,
+    "market_cap": 1995344000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-09",
+    "close": 214,
+    "open": 212,
+    "high": 216,
+    "low": 212,
+    "volume": 7100,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-10",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 212,
+    "volume": 14300,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-13",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 210,
+    "volume": 169200,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-14",
+    "close": 212,
+    "open": 214,
+    "high": 214,
+    "low": 212,
+    "volume": 11000,
+    "market_cap": 1995344000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-15",
+    "close": 216,
+    "open": 212,
+    "high": 216,
+    "low": 210,
+    "volume": 70000,
+    "market_cap": 2032992000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-16",
+    "close": 216,
+    "open": 216,
+    "high": 218,
+    "low": 212,
+    "volume": 40300,
+    "market_cap": 2032992000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-17",
+    "close": 214,
+    "open": 216,
+    "high": 216,
+    "low": 206,
+    "volume": 44100,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-20",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 212,
+    "volume": 5700,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-21",
+    "close": 214,
+    "open": 214,
+    "high": 214,
+    "low": 210,
+    "volume": 30000,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-22",
+    "close": 214,
+    "open": 218,
+    "high": 218,
+    "low": 212,
+    "volume": 34000,
+    "market_cap": 2014168000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-23",
+    "close": 212,
+    "open": 214,
+    "high": 218,
+    "low": 212,
+    "volume": 50400,
+    "market_cap": 1995344000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-24",
+    "close": 216,
+    "open": 214,
+    "high": 218,
+    "low": 210,
+    "volume": 209700,
+    "market_cap": 2032992000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-27",
+    "close": 210,
+    "open": 216,
+    "high": 216,
+    "low": 210,
+    "volume": 29000,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-28",
+    "close": 208,
+    "open": 208,
+    "high": 210,
+    "low": 202,
+    "volume": 224500,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-29",
+    "close": 204,
+    "open": 208,
+    "high": 230,
+    "low": 198,
+    "volume": 1390000,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-30",
+    "close": 206,
+    "open": 206,
+    "high": 212,
+    "low": 202,
+    "volume": 185900,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-07-31",
+    "close": 206,
+    "open": 206,
+    "high": 210,
+    "low": 204,
+    "volume": 66700,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-03",
+    "close": 208,
+    "open": 208,
+    "high": 208,
+    "low": 202,
+    "volume": 89900,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-04",
+    "close": 206,
+    "open": 206,
+    "high": 216,
+    "low": 200,
+    "volume": 154800,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-05",
+    "close": 206,
+    "open": 210,
+    "high": 212,
+    "low": 204,
+    "volume": 381900,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-06",
+    "close": 206,
+    "open": 208,
+    "high": 208,
+    "low": 206,
+    "volume": 47400,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-07",
+    "close": 206,
+    "open": 208,
+    "high": 208,
+    "low": 206,
+    "volume": 144300,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-10",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 204,
+    "volume": 286800,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-11",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 202,
+    "volume": 974400,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-12",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 204,
+    "volume": 60500,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-13",
+    "close": 206,
+    "open": 206,
+    "high": 208,
+    "low": 204,
+    "volume": 19900,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-14",
+    "close": 206,
+    "open": 206,
+    "high": 206,
+    "low": 204,
+    "volume": 15300,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-18",
+    "close": 208,
+    "open": 206,
+    "high": 208,
+    "low": 204,
+    "volume": 49500,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-19",
+    "close": 208,
+    "open": 208,
+    "high": 208,
+    "low": 206,
+    "volume": 26700,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-20",
+    "close": 206,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 23400,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-21",
+    "close": 208,
+    "open": 208,
+    "high": 208,
+    "low": 206,
+    "volume": 18300,
+    "market_cap": 1957696000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-24",
+    "close": 210,
+    "open": 208,
+    "high": 210,
+    "low": 206,
+    "volume": 41500,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-26",
+    "close": 206,
+    "open": 210,
+    "high": 210,
+    "low": 206,
+    "volume": 88500,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-27",
+    "close": 206,
+    "open": 206,
+    "high": 206,
+    "low": 204,
+    "volume": 202900,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-28",
+    "close": 204,
+    "open": 206,
+    "high": 206,
+    "low": 202,
+    "volume": 415700,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-08-31",
+    "close": 202,
+    "open": 208,
+    "high": 208,
+    "low": 200,
+    "volume": 354900,
+    "market_cap": 1901224000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-01",
+    "close": 204,
+    "open": 206,
+    "high": 206,
+    "low": 202,
+    "volume": 246600,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-02",
+    "close": 202,
+    "open": 206,
+    "high": 206,
+    "low": 200,
+    "volume": 252900,
+    "market_cap": 1901224000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-03",
+    "close": 204,
+    "open": 204,
+    "high": 206,
+    "low": 202,
+    "volume": 29400,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-04",
+    "close": 204,
+    "open": 204,
+    "high": 204,
+    "low": 202,
+    "volume": 12600,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-07",
+    "close": 202,
+    "open": 204,
+    "high": 204,
+    "low": 200,
+    "volume": 66700,
+    "market_cap": 1901224000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-08",
+    "close": 202,
+    "open": 202,
+    "high": 204,
+    "low": 200,
+    "volume": 90700,
+    "market_cap": 1901224000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-09",
+    "close": 204,
+    "open": 204,
+    "high": 204,
+    "low": 200,
+    "volume": 60400,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-10",
+    "close": 200,
+    "open": 204,
+    "high": 204,
+    "low": 200,
+    "volume": 95100,
+    "market_cap": 1882400000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-11",
+    "close": 222,
+    "open": 202,
+    "high": 270,
+    "low": 200,
+    "volume": 24340200,
+    "market_cap": 2089464000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-14",
+    "close": 204,
+    "open": 220,
+    "high": 228,
+    "low": 204,
+    "volume": 3471700,
+    "market_cap": 1920048000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-15",
+    "close": 210,
+    "open": 212,
+    "high": 240,
+    "low": 208,
+    "volume": 4898500,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-16",
+    "close": 210,
+    "open": 216,
+    "high": 220,
+    "low": 206,
+    "volume": 655900,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-17",
+    "close": 206,
+    "open": 210,
+    "high": 210,
+    "low": 204,
+    "volume": 607500,
+    "market_cap": 1938872000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-18",
+    "close": 210,
+    "open": 208,
+    "high": 220,
+    "low": 208,
+    "volume": 993700,
+    "market_cap": 1976520000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-21",
+    "close": 212,
+    "open": 220,
+    "high": 220,
+    "low": 210,
+    "volume": 573800,
+    "market_cap": 1995344000000
+  },
+  {
+    "symbol": "IFII.JK",
+    "date": "2026-09-22",
+    "close": 220,
+    "open": 214,
+    "high": 252,
+    "low": 212,
+    "volume": 4385400,
+    "market_cap": 2070640000000
+  }
+]

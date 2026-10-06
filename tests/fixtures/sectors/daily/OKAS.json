@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-06-24",
+    "close": 100,
+    "open": 101,
+    "high": 102,
+    "low": 98,
+    "volume": 383700,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-06-25",
+    "close": 102,
+    "open": 100,
+    "high": 105,
+    "low": 99,
+    "volume": 291800,
+    "market_cap": 242091814830
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-06-26",
+    "close": 102,
+    "open": 102,
+    "high": 103,
+    "low": 99,
+    "volume": 1921800,
+    "market_cap": 242091814830
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-06-29",
+    "close": 100,
+    "open": 105,
+    "high": 107,
+    "low": 99,
+    "volume": 802100,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-06-30",
+    "close": 97,
+    "open": 100,
+    "high": 100,
+    "low": 95,
+    "volume": 783100,
+    "market_cap": 230224569005
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-01",
+    "close": 97,
+    "open": 98,
+    "high": 98,
+    "low": 97,
+    "volume": 1852700,
+    "market_cap": 230224569005
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-02",
+    "close": 97,
+    "open": 98,
+    "high": 101,
+    "low": 97,
+    "volume": 682100,
+    "market_cap": 230224569005
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-03",
+    "close": 100,
+    "open": 97,
+    "high": 101,
+    "low": 97,
+    "volume": 316200,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-06",
+    "close": 100,
+    "open": 98,
+    "high": 100,
+    "low": 98,
+    "volume": 486000,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-07",
+    "close": 100,
+    "open": 100,
+    "high": 101,
+    "low": 98,
+    "volume": 732200,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-08",
+    "close": 99,
+    "open": 100,
+    "high": 101,
+    "low": 99,
+    "volume": 751600,
+    "market_cap": 234971467335
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-09",
+    "close": 100,
+    "open": 99,
+    "high": 102,
+    "low": 98,
+    "volume": 731800,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-10",
+    "close": 100,
+    "open": 100,
+    "high": 101,
+    "low": 99,
+    "volume": 601200,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-13",
+    "close": 98,
+    "open": 100,
+    "high": 101,
+    "low": 95,
+    "volume": 937000,
+    "market_cap": 232598018170
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-14",
+    "close": 101,
+    "open": 98,
+    "high": 101,
+    "low": 98,
+    "volume": 772800,
+    "market_cap": 239718365665
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-15",
+    "close": 100,
+    "open": 100,
+    "high": 105,
+    "low": 99,
+    "volume": 1337400,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-16",
+    "close": 100,
+    "open": 101,
+    "high": 103,
+    "low": 100,
+    "volume": 493100,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-17",
+    "close": 100,
+    "open": 101,
+    "high": 105,
+    "low": 100,
+    "volume": 3222400,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-20",
+    "close": 102,
+    "open": 100,
+    "high": 103,
+    "low": 100,
+    "volume": 1375700,
+    "market_cap": 242091814830
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-21",
+    "close": 102,
+    "open": 102,
+    "high": 103,
+    "low": 100,
+    "volume": 2258400,
+    "market_cap": 242091814830
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-22",
+    "close": 106,
+    "open": 102,
+    "high": 109,
+    "low": 100,
+    "volume": 3601900,
+    "market_cap": 251585611490
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-23",
+    "close": 103,
+    "open": 107,
+    "high": 109,
+    "low": 102,
+    "volume": 4184000,
+    "market_cap": 244465263995
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-24",
+    "close": 101,
+    "open": 105,
+    "high": 105,
+    "low": 100,
+    "volume": 2108500,
+    "market_cap": 239718365665
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-27",
+    "close": 101,
+    "open": 102,
+    "high": 102,
+    "low": 99,
+    "volume": 1786100,
+    "market_cap": 239718365665
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-28",
+    "close": 103,
+    "open": 101,
+    "high": 105,
+    "low": 101,
+    "volume": 2100600,
+    "market_cap": 244465263995
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-29",
+    "close": 99,
+    "open": 103,
+    "high": 103,
+    "low": 97,
+    "volume": 2349400,
+    "market_cap": 234971467335
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-30",
+    "close": 100,
+    "open": 99,
+    "high": 102,
+    "low": 98,
+    "volume": 631800,
+    "market_cap": 237344916500
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-07-31",
+    "close": 102,
+    "open": 100,
+    "high": 102,
+    "low": 99,
+    "volume": 982600,
+    "market_cap": 242091814830
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-03",
+    "close": 101,
+    "open": 102,
+    "high": 102,
+    "low": 99,
+    "volume": 1487000,
+    "market_cap": 239718365665
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-04",
+    "close": 101,
+    "open": 100,
+    "high": 102,
+    "low": 99,
+    "volume": 454900,
+    "market_cap": 239718365665
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-05",
+    "close": 103,
+    "open": 101,
+    "high": 107,
+    "low": 101,
+    "volume": 4268400,
+    "market_cap": 244465263995
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-06",
+    "close": 119,
+    "open": 103,
+    "high": 130,
+    "low": 103,
+    "volume": 87861400,
+    "market_cap": 282440450635
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-07",
+    "close": 119,
+    "open": 123,
+    "high": 130,
+    "low": 119,
+    "volume": 33712200,
+    "market_cap": 282440450635
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-10",
+    "close": 119,
+    "open": 123,
+    "high": 129,
+    "low": 118,
+    "volume": 32583500,
+    "market_cap": 282440450635
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-11",
+    "close": 115,
+    "open": 123,
+    "high": 124,
+    "low": 115,
+    "volume": 8501800,
+    "market_cap": 272946653975
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-12",
+    "close": 122,
+    "open": 117,
+    "high": 127,
+    "low": 116,
+    "volume": 22266200,
+    "market_cap": 289560798130
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-13",
+    "close": 118,
+    "open": 122,
+    "high": 123,
+    "low": 118,
+    "volume": 6640900,
+    "market_cap": 280067001470
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-14",
+    "close": 117,
+    "open": 118,
+    "high": 122,
+    "low": 115,
+    "volume": 6286700,
+    "market_cap": 277693552305
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-18",
+    "close": 118,
+    "open": 121,
+    "high": 122,
+    "low": 115,
+    "volume": 4923800,
+    "market_cap": 280067001470
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-19",
+    "close": 128,
+    "open": 120,
+    "high": 143,
+    "low": 117,
+    "volume": 101077200,
+    "market_cap": 303801493120
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-20",
+    "close": 126,
+    "open": 130,
+    "high": 136,
+    "low": 126,
+    "volume": 24175800,
+    "market_cap": 299054594790
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-21",
+    "close": 125,
+    "open": 128,
+    "high": 132,
+    "low": 125,
+    "volume": 10507300,
+    "market_cap": 296681145625
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-24",
+    "close": 125,
+    "open": 125,
+    "high": 129,
+    "low": 121,
+    "volume": 9390200,
+    "market_cap": 296681145625
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-26",
+    "close": 116,
+    "open": 125,
+    "high": 128,
+    "low": 115,
+    "volume": 11945700,
+    "market_cap": 275320103140
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-27",
+    "close": 121,
+    "open": 116,
+    "high": 122,
+    "low": 114,
+    "volume": 3253600,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-28",
+    "close": 121,
+    "open": 121,
+    "high": 127,
+    "low": 116,
+    "volume": 13740900,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-08-31",
+    "close": 121,
+    "open": 122,
+    "high": 123,
+    "low": 119,
+    "volume": 3519800,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-01",
+    "close": 121,
+    "open": 122,
+    "high": 124,
+    "low": 119,
+    "volume": 8183700,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-02",
+    "close": 121,
+    "open": 121,
+    "high": 123,
+    "low": 120,
+    "volume": 3436100,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-03",
+    "close": 121,
+    "open": 121,
+    "high": 123,
+    "low": 120,
+    "volume": 3252800,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-04",
+    "close": 121,
+    "open": 122,
+    "high": 125,
+    "low": 121,
+    "volume": 5803300,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-07",
+    "close": 122,
+    "open": 121,
+    "high": 124,
+    "low": 121,
+    "volume": 3729100,
+    "market_cap": 289560798130
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-08",
+    "close": 122,
+    "open": 123,
+    "high": 126,
+    "low": 121,
+    "volume": 14206900,
+    "market_cap": 289560798130
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-09",
+    "close": 121,
+    "open": 123,
+    "high": 123,
+    "low": 121,
+    "volume": 3011500,
+    "market_cap": 287187348965
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-10",
+    "close": 118,
+    "open": 122,
+    "high": 122,
+    "low": 117,
+    "volume": 4697600,
+    "market_cap": 280067001470
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-11",
+    "close": 116,
+    "open": 119,
+    "high": 119,
+    "low": 115,
+    "volume": 3458700,
+    "market_cap": 275320103140
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-14",
+    "close": 119,
+    "open": 117,
+    "high": 121,
+    "low": 117,
+    "volume": 2352000,
+    "market_cap": 282440450635
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-15",
+    "close": 117,
+    "open": 120,
+    "high": 120,
+    "low": 116,
+    "volume": 2337500,
+    "market_cap": 277693552305
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-16",
+    "close": 116,
+    "open": 118,
+    "high": 119,
+    "low": 115,
+    "volume": 1511500,
+    "market_cap": 275320103140
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-17",
+    "close": 115,
+    "open": 115,
+    "high": 117,
+    "low": 114,
+    "volume": 3164100,
+    "market_cap": 272946653975
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-18",
+    "close": 116,
+    "open": 116,
+    "high": 118,
+    "low": 114,
+    "volume": 1720600,
+    "market_cap": 275320103140
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-21",
+    "close": 115,
+    "open": 115,
+    "high": 116,
+    "low": 113,
+    "volume": 2679700,
+    "market_cap": 272946653975
+  },
+  {
+    "symbol": "OKAS.JK",
+    "date": "2026-09-22",
+    "close": 113,
+    "open": 115,
+    "high": 116,
+    "low": 112,
+    "volume": 3118400,
+    "market_cap": 268199755645
+  }
+]

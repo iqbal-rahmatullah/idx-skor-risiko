@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-06-24",
+    "close": 406,
+    "open": 422,
+    "high": 428,
+    "low": 396,
+    "volume": 94167700,
+    "market_cap": 10742760000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-06-25",
+    "close": 422,
+    "open": 404,
+    "high": 426,
+    "low": 392,
+    "volume": 83927000,
+    "market_cap": 11166120000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-06-26",
+    "close": 408,
+    "open": 422,
+    "high": 424,
+    "low": 404,
+    "volume": 75214100,
+    "market_cap": 10795680000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-06-29",
+    "close": 410,
+    "open": 410,
+    "high": 420,
+    "low": 408,
+    "volume": 73583900,
+    "market_cap": 10848600000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-06-30",
+    "close": 386,
+    "open": 410,
+    "high": 412,
+    "low": 384,
+    "volume": 93277900,
+    "market_cap": 10213560000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-01",
+    "close": 386,
+    "open": 384,
+    "high": 394,
+    "low": 374,
+    "volume": 82439500,
+    "market_cap": 10213560000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-02",
+    "close": 392,
+    "open": 390,
+    "high": 406,
+    "low": 390,
+    "volume": 84848500,
+    "market_cap": 10372320000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-03",
+    "close": 408,
+    "open": 406,
+    "high": 418,
+    "low": 402,
+    "volume": 84406700,
+    "market_cap": 10795680000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-06",
+    "close": 408,
+    "open": 428,
+    "high": 430,
+    "low": 402,
+    "volume": 83695900,
+    "market_cap": 10795680000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-07",
+    "close": 404,
+    "open": 412,
+    "high": 412,
+    "low": 396,
+    "volume": 78293800,
+    "market_cap": 10689840000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-08",
+    "close": 404,
+    "open": 404,
+    "high": 410,
+    "low": 398,
+    "volume": 87902500,
+    "market_cap": 10689840000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-09",
+    "close": 408,
+    "open": 404,
+    "high": 412,
+    "low": 398,
+    "volume": 80152400,
+    "market_cap": 10795680000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-10",
+    "close": 406,
+    "open": 410,
+    "high": 420,
+    "low": 406,
+    "volume": 75318400,
+    "market_cap": 10742760000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-13",
+    "close": 410,
+    "open": 404,
+    "high": 412,
+    "low": 396,
+    "volume": 81386000,
+    "market_cap": 10848600000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-14",
+    "close": 414,
+    "open": 410,
+    "high": 426,
+    "low": 406,
+    "volume": 99756000,
+    "market_cap": 10954440000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-15",
+    "close": 412,
+    "open": 424,
+    "high": 424,
+    "low": 410,
+    "volume": 87619000,
+    "market_cap": 10901520000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-16",
+    "close": 426,
+    "open": 414,
+    "high": 432,
+    "low": 410,
+    "volume": 89603800,
+    "market_cap": 11271960000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-17",
+    "close": 426,
+    "open": 426,
+    "high": 428,
+    "low": 414,
+    "volume": 77902900,
+    "market_cap": 11271960000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-20",
+    "close": 432,
+    "open": 428,
+    "high": 434,
+    "low": 420,
+    "volume": 80309800,
+    "market_cap": 11430720000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-21",
+    "close": 434,
+    "open": 432,
+    "high": 442,
+    "low": 430,
+    "volume": 93988700,
+    "market_cap": 11483640000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-22",
+    "close": 434,
+    "open": 438,
+    "high": 442,
+    "low": 428,
+    "volume": 80760500,
+    "market_cap": 11483640000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-23",
+    "close": 432,
+    "open": 436,
+    "high": 444,
+    "low": 430,
+    "volume": 95208300,
+    "market_cap": 11430720000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-24",
+    "close": 424,
+    "open": 430,
+    "high": 432,
+    "low": 420,
+    "volume": 74740200,
+    "market_cap": 11219040000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-27",
+    "close": 430,
+    "open": 424,
+    "high": 438,
+    "low": 424,
+    "volume": 84571000,
+    "market_cap": 11377800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-28",
+    "close": 424,
+    "open": 430,
+    "high": 430,
+    "low": 422,
+    "volume": 73957000,
+    "market_cap": 11219040000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-29",
+    "close": 420,
+    "open": 426,
+    "high": 430,
+    "low": 412,
+    "volume": 75543600,
+    "market_cap": 11113200000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-30",
+    "close": 426,
+    "open": 424,
+    "high": 436,
+    "low": 422,
+    "volume": 71129700,
+    "market_cap": 11271960000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-07-31",
+    "close": 434,
+    "open": 432,
+    "high": 440,
+    "low": 428,
+    "volume": 80563000,
+    "market_cap": 11483640000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-03",
+    "close": 428,
+    "open": 436,
+    "high": 438,
+    "low": 426,
+    "volume": 72596300,
+    "market_cap": 11324880000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-04",
+    "close": 436,
+    "open": 430,
+    "high": 436,
+    "low": 428,
+    "volume": 72372700,
+    "market_cap": 11536560000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-05",
+    "close": 452,
+    "open": 438,
+    "high": 456,
+    "low": 436,
+    "volume": 116543800,
+    "market_cap": 11959920000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-06",
+    "close": 452,
+    "open": 462,
+    "high": 470,
+    "low": 450,
+    "volume": 97673900,
+    "market_cap": 11959920000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-07",
+    "close": 462,
+    "open": 452,
+    "high": 466,
+    "low": 444,
+    "volume": 82645600,
+    "market_cap": 12224520000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-10",
+    "close": 515,
+    "open": 464,
+    "high": 520,
+    "low": 464,
+    "volume": 274893400,
+    "market_cap": 13626900000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-11",
+    "close": 490,
+    "open": 520,
+    "high": 525,
+    "low": 480,
+    "volume": 150285500,
+    "market_cap": 12965400000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-12",
+    "close": 505,
+    "open": 494,
+    "high": 510,
+    "low": 488,
+    "volume": 72169700,
+    "market_cap": 13362300000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-13",
+    "close": 498,
+    "open": 515,
+    "high": 515,
+    "low": 496,
+    "volume": 90284100,
+    "market_cap": 13177080000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-14",
+    "close": 496,
+    "open": 498,
+    "high": 505,
+    "low": 482,
+    "volume": 63509500,
+    "market_cap": 13124160000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-18",
+    "close": 530,
+    "open": 496,
+    "high": 535,
+    "low": 496,
+    "volume": 105501800,
+    "market_cap": 14023800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-19",
+    "close": 530,
+    "open": 530,
+    "high": 540,
+    "low": 510,
+    "volume": 76365300,
+    "market_cap": 14023800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-20",
+    "close": 640,
+    "open": 555,
+    "high": 650,
+    "low": 555,
+    "volume": 450935000,
+    "market_cap": 16934400000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-21",
+    "close": 640,
+    "open": 645,
+    "high": 650,
+    "low": 610,
+    "volume": 133199100,
+    "market_cap": 16934400000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-24",
+    "close": 640,
+    "open": 635,
+    "high": 645,
+    "low": 620,
+    "volume": 108125300,
+    "market_cap": 16934400000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-26",
+    "close": 635,
+    "open": 640,
+    "high": 660,
+    "low": 625,
+    "volume": 148057600,
+    "market_cap": 16802100000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-27",
+    "close": 645,
+    "open": 635,
+    "high": 665,
+    "low": 625,
+    "volume": 109915800,
+    "market_cap": 17066700000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-28",
+    "close": 615,
+    "open": 650,
+    "high": 655,
+    "low": 615,
+    "volume": 78444300,
+    "market_cap": 16272900000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-08-31",
+    "close": 595,
+    "open": 600,
+    "high": 610,
+    "low": 580,
+    "volume": 80603600,
+    "market_cap": 15743700000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-01",
+    "close": 565,
+    "open": 580,
+    "high": 590,
+    "low": 560,
+    "volume": 105798800,
+    "market_cap": 14949900000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-02",
+    "close": 565,
+    "open": 560,
+    "high": 570,
+    "low": 550,
+    "volume": 55886900,
+    "market_cap": 14949900000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-03",
+    "close": 580,
+    "open": 585,
+    "high": 595,
+    "low": 565,
+    "volume": 62827900,
+    "market_cap": 15346800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-04",
+    "close": 570,
+    "open": 590,
+    "high": 590,
+    "low": 560,
+    "volume": 59605500,
+    "market_cap": 15082200000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-07",
+    "close": 560,
+    "open": 560,
+    "high": 560,
+    "low": 545,
+    "volume": 67211100,
+    "market_cap": 14817600000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-08",
+    "close": 570,
+    "open": 575,
+    "high": 580,
+    "low": 565,
+    "volume": 57876100,
+    "market_cap": 15082200000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-09",
+    "close": 585,
+    "open": 575,
+    "high": 590,
+    "low": 570,
+    "volume": 74823000,
+    "market_cap": 15479100000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-10",
+    "close": 585,
+    "open": 595,
+    "high": 600,
+    "low": 575,
+    "volume": 67365200,
+    "market_cap": 15479100000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-11",
+    "close": 580,
+    "open": 575,
+    "high": 585,
+    "low": 565,
+    "volume": 68057700,
+    "market_cap": 15346800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-14",
+    "close": 580,
+    "open": 585,
+    "high": 590,
+    "low": 565,
+    "volume": 67321100,
+    "market_cap": 15346800000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-15",
+    "close": 570,
+    "open": 580,
+    "high": 585,
+    "low": 565,
+    "volume": 76740200,
+    "market_cap": 15082200000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-16",
+    "close": 555,
+    "open": 550,
+    "high": 560,
+    "low": 545,
+    "volume": 59338800,
+    "market_cap": 14685300000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-17",
+    "close": 565,
+    "open": 555,
+    "high": 570,
+    "low": 550,
+    "volume": 61611000,
+    "market_cap": 14949900000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-18",
+    "close": 560,
+    "open": 570,
+    "high": 575,
+    "low": 555,
+    "volume": 58768600,
+    "market_cap": 14817600000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-21",
+    "close": 540,
+    "open": 560,
+    "high": 565,
+    "low": 540,
+    "volume": 57448800,
+    "market_cap": 14288400000000
+  },
+  {
+    "symbol": "PSAB.JK",
+    "date": "2026-09-22",
+    "close": 530,
+    "open": 540,
+    "high": 545,
+    "low": 515,
+    "volume": 67031900,
+    "market_cap": 14023800000000
+  }
+]

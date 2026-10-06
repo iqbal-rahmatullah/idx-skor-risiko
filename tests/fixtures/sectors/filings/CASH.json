@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "title": "Sandra Angela buys shares of Cashlez Worldwide Indonesia",
+      "body": "This is Sandra Angela's 10th insider purchase in the last 6 months, totaling an accumulation of 16,213,400 shares transacted at an average price of IDR 169. Sandra Angela's ownership in Cashlez Worldwide Indonesia has increased from 7.95% to 8.07% in this period.",
+      "source": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-6924-00.pdf-0.pdf",
+      "timestamp": "2026-08-21T09:59:36",
+      "sector": "technology",
+      "sub_sector": "software-it-services",
+      "tags": [
+        "investment"
+      ],
+      "symbol": "CASH.JK",
+      "transaction_type": "buy",
+      "holder_type": "insider",
+      "holder_name": "Sandra Angela",
+      "holding_before": 193050100,
+      "holding_after": 196037800,
+      "amount_transaction": 2987700,
+      "price": 119.432,
+      "transaction_value": 356825600.0,
+      "price_transaction": [
+        {
+          "date": "2026-08-14",
+          "type": "buy",
+          "price": 204,
+          "amount_transacted": 316400
+        },
+        {
+          "date": "2026-08-18",
+          "type": "buy",
+          "price": 200,
+          "amount_transacted": 1461400
+        },
+        {
+          "date": "2026-08-21",
+          "type": "buy",
+          "price": null,
+          "amount_transacted": 1209900
+        }
+      ],
+      "share_percentage_before": 7.95,
+      "share_percentage_after": 8.07,
+      "share_percentage_transaction": 0.12,
+      "idx_investor_slug": null,
+      "idx_conglomerates_group_slug": null
+    }
+  ],
+  "pagination": {
+    "total_count": 1,
+    "showing": 1,
+    "limit": 20,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

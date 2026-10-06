@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-06-24",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 16600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-06-25",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 151300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-06-26",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 219300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-06-29",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 23800,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-06-30",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 3900,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-01",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 36300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-02",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 16900,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-03",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 6600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-06",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 200200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-07",
+    "close": 53,
+    "open": 50,
+    "high": 55,
+    "low": 50,
+    "volume": 97127400,
+    "market_cap": 80808040000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-08",
+    "close": 50,
+    "open": 53,
+    "high": 55,
+    "low": 50,
+    "volume": 27280200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-09",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 9700600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-10",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 8443300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-13",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 5783300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-14",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 1782100,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-15",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 3539200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-16",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 647700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-17",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 980300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-20",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1079400,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-21",
+    "close": 51,
+    "open": 50,
+    "high": 52,
+    "low": 50,
+    "volume": 33933300,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-22",
+    "close": 53,
+    "open": 50,
+    "high": 57,
+    "low": 50,
+    "volume": 90555400,
+    "market_cap": 80808040000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-23",
+    "close": 52,
+    "open": 53,
+    "high": 55,
+    "low": 51,
+    "volume": 24748300,
+    "market_cap": 79283360000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-24",
+    "close": 51,
+    "open": 52,
+    "high": 52,
+    "low": 50,
+    "volume": 9212300,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-27",
+    "close": 50,
+    "open": 51,
+    "high": 52,
+    "low": 50,
+    "volume": 8341200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-28",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 4838700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-29",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 3290100,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-30",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 5086300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-07-31",
+    "close": 51,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 4053600,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-03",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1623700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-04",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 528800,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-05",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 307600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-06",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1609900,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-07",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 877300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-10",
+    "close": 50,
+    "open": 50,
+    "high": 53,
+    "low": 50,
+    "volume": 36857400,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-11",
+    "close": 53,
+    "open": 50,
+    "high": 61,
+    "low": 50,
+    "volume": 470075900,
+    "market_cap": 80808040000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-12",
+    "close": 52,
+    "open": 54,
+    "high": 57,
+    "low": 51,
+    "volume": 55419500,
+    "market_cap": 79283360000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-13",
+    "close": 51,
+    "open": 52,
+    "high": 53,
+    "low": 51,
+    "volume": 10175600,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-14",
+    "close": 51,
+    "open": 51,
+    "high": 52,
+    "low": 50,
+    "volume": 11052000,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-18",
+    "close": 51,
+    "open": 51,
+    "high": 52,
+    "low": 50,
+    "volume": 10866200,
+    "market_cap": 77758680000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-19",
+    "close": 50,
+    "open": 51,
+    "high": 51,
+    "low": 50,
+    "volume": 22128200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-20",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 15023100,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-21",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 448000,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-24",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 771100,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-26",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 366000,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-27",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 378000,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-28",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 81100,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-08-31",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 118700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-01",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 181900,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-02",
+    "close": 50,
+    "open": 50,
+    "high": 59,
+    "low": 50,
+    "volume": 303762600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-03",
+    "close": 50,
+    "open": 51,
+    "high": 52,
+    "low": 50,
+    "volume": 29461500,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-04",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 11645700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-07",
+    "close": 50,
+    "open": 50,
+    "high": 51,
+    "low": 50,
+    "volume": 11290700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-08",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 3902800,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-09",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 2573200,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-10",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1322300,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-11",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 172700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-14",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 109600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-15",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 123000,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-16",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 1058700,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-17",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 321600,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-18",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 14800,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-21",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 451900,
+    "market_cap": 76234000000
+  },
+  {
+    "symbol": "HDIT.JK",
+    "date": "2026-09-22",
+    "close": 50,
+    "open": 50,
+    "high": 50,
+    "low": 50,
+    "volume": 213400,
+    "market_cap": 76234000000
+  }
+]

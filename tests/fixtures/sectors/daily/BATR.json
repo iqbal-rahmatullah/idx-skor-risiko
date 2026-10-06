@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-06-24",
+    "close": 85,
+    "open": 90,
+    "high": 90,
+    "low": 84,
+    "volume": 589900,
+    "market_cap": 257128175005
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-06-25",
+    "close": 86,
+    "open": 89,
+    "high": 89,
+    "low": 84,
+    "volume": 257200,
+    "market_cap": 260153212358
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-06-26",
+    "close": 86,
+    "open": 86,
+    "high": 89,
+    "low": 80,
+    "volume": 2426200,
+    "market_cap": 260153212358
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-06-29",
+    "close": 83,
+    "open": 84,
+    "high": 86,
+    "low": 80,
+    "volume": 1611600,
+    "market_cap": 251078100299
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-06-30",
+    "close": 79,
+    "open": 83,
+    "high": 83,
+    "low": 78,
+    "volume": 335800,
+    "market_cap": 238977950887
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-01",
+    "close": 79,
+    "open": 79,
+    "high": 88,
+    "low": 78,
+    "volume": 3571400,
+    "market_cap": 238977950887
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-02",
+    "close": 82,
+    "open": 80,
+    "high": 89,
+    "low": 79,
+    "volume": 2150900,
+    "market_cap": 248053062946
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-03",
+    "close": 84,
+    "open": 82,
+    "high": 88,
+    "low": 82,
+    "volume": 204800,
+    "market_cap": 254103137652
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-06",
+    "close": 85,
+    "open": 84,
+    "high": 85,
+    "low": 83,
+    "volume": 369000,
+    "market_cap": 257128175005
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-07",
+    "close": 87,
+    "open": 85,
+    "high": 88,
+    "low": 83,
+    "volume": 1814400,
+    "market_cap": 263178249711
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-08",
+    "close": 85,
+    "open": 87,
+    "high": 87,
+    "low": 84,
+    "volume": 383500,
+    "market_cap": 257128175005
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-09",
+    "close": 85,
+    "open": 87,
+    "high": 87,
+    "low": 84,
+    "volume": 352900,
+    "market_cap": 257128175005
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-10",
+    "close": 86,
+    "open": 85,
+    "high": 87,
+    "low": 84,
+    "volume": 1870100,
+    "market_cap": 260153212358
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-13",
+    "close": 87,
+    "open": 86,
+    "high": 87,
+    "low": 85,
+    "volume": 460300,
+    "market_cap": 263178249711
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-14",
+    "close": 87,
+    "open": 87,
+    "high": 87,
+    "low": 85,
+    "volume": 529900,
+    "market_cap": 263178249711
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-15",
+    "close": 87,
+    "open": 87,
+    "high": 88,
+    "low": 86,
+    "volume": 200600,
+    "market_cap": 263178249711
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-16",
+    "close": 87,
+    "open": 88,
+    "high": 88,
+    "low": 82,
+    "volume": 1209300,
+    "market_cap": 263178249711
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-17",
+    "close": 88,
+    "open": 89,
+    "high": 90,
+    "low": 85,
+    "volume": 830000,
+    "market_cap": 266203287064
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-20",
+    "close": 94,
+    "open": 89,
+    "high": 105,
+    "low": 88,
+    "volume": 38460000,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-21",
+    "close": 93,
+    "open": 94,
+    "high": 94,
+    "low": 91,
+    "volume": 3902800,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-22",
+    "close": 93,
+    "open": 93,
+    "high": 96,
+    "low": 92,
+    "volume": 2312600,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-23",
+    "close": 94,
+    "open": 97,
+    "high": 99,
+    "low": 92,
+    "volume": 2790000,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-24",
+    "close": 93,
+    "open": 95,
+    "high": 95,
+    "low": 93,
+    "volume": 476900,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-27",
+    "close": 92,
+    "open": 95,
+    "high": 96,
+    "low": 92,
+    "volume": 2507900,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-28",
+    "close": 91,
+    "open": 94,
+    "high": 95,
+    "low": 91,
+    "volume": 478700,
+    "market_cap": 275278399123
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-29",
+    "close": 89,
+    "open": 91,
+    "high": 93,
+    "low": 88,
+    "volume": 435900,
+    "market_cap": 269228324417
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-30",
+    "close": 90,
+    "open": 89,
+    "high": 90,
+    "low": 86,
+    "volume": 363500,
+    "market_cap": 272253361770
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-07-31",
+    "close": 92,
+    "open": 91,
+    "high": 102,
+    "low": 90,
+    "volume": 8761900,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-03",
+    "close": 93,
+    "open": 92,
+    "high": 95,
+    "low": 91,
+    "volume": 1071700,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-04",
+    "close": 93,
+    "open": 93,
+    "high": 99,
+    "low": 91,
+    "volume": 1092900,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-05",
+    "close": 94,
+    "open": 94,
+    "high": 96,
+    "low": 90,
+    "volume": 2984400,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-06",
+    "close": 94,
+    "open": 94,
+    "high": 96,
+    "low": 93,
+    "volume": 2060900,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-07",
+    "close": 93,
+    "open": 94,
+    "high": 96,
+    "low": 93,
+    "volume": 825800,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-10",
+    "close": 94,
+    "open": 95,
+    "high": 98,
+    "low": 93,
+    "volume": 873000,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-11",
+    "close": 92,
+    "open": 94,
+    "high": 94,
+    "low": 91,
+    "volume": 898900,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-12",
+    "close": 94,
+    "open": 91,
+    "high": 95,
+    "low": 91,
+    "volume": 842300,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-13",
+    "close": 94,
+    "open": 93,
+    "high": 94,
+    "low": 93,
+    "volume": 339900,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-14",
+    "close": 94,
+    "open": 93,
+    "high": 94,
+    "low": 93,
+    "volume": 212600,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-18",
+    "close": 99,
+    "open": 95,
+    "high": 103,
+    "low": 95,
+    "volume": 16979100,
+    "market_cap": 299478697947
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-19",
+    "close": 96,
+    "open": 100,
+    "high": 100,
+    "low": 95,
+    "volume": 1833000,
+    "market_cap": 290403585888
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-20",
+    "close": 98,
+    "open": 97,
+    "high": 99,
+    "low": 94,
+    "volume": 1695500,
+    "market_cap": 296453660594
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-21",
+    "close": 98,
+    "open": 98,
+    "high": 99,
+    "low": 96,
+    "volume": 794700,
+    "market_cap": 296453660594
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-24",
+    "close": 96,
+    "open": 98,
+    "high": 98,
+    "low": 94,
+    "volume": 1410400,
+    "market_cap": 290403585888
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-26",
+    "close": 92,
+    "open": 96,
+    "high": 96,
+    "low": 92,
+    "volume": 4270200,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-27",
+    "close": 94,
+    "open": 92,
+    "high": 95,
+    "low": 90,
+    "volume": 1003500,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-28",
+    "close": 94,
+    "open": 94,
+    "high": 95,
+    "low": 92,
+    "volume": 359300,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-08-31",
+    "close": 94,
+    "open": 94,
+    "high": 94,
+    "low": 92,
+    "volume": 412600,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-01",
+    "close": 93,
+    "open": 95,
+    "high": 95,
+    "low": 93,
+    "volume": 618700,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-02",
+    "close": 94,
+    "open": 93,
+    "high": 94,
+    "low": 93,
+    "volume": 396500,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-03",
+    "close": 94,
+    "open": 95,
+    "high": 95,
+    "low": 93,
+    "volume": 344400,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-04",
+    "close": 94,
+    "open": 95,
+    "high": 95,
+    "low": 93,
+    "volume": 150300,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-07",
+    "close": 93,
+    "open": 94,
+    "high": 94,
+    "low": 92,
+    "volume": 313200,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-08",
+    "close": 93,
+    "open": 93,
+    "high": 94,
+    "low": 92,
+    "volume": 225800,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-09",
+    "close": 94,
+    "open": 94,
+    "high": 94,
+    "low": 93,
+    "volume": 125900,
+    "market_cap": 284353511182
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-10",
+    "close": 92,
+    "open": 94,
+    "high": 96,
+    "low": 90,
+    "volume": 1707200,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-11",
+    "close": 91,
+    "open": 93,
+    "high": 93,
+    "low": 85,
+    "volume": 1563800,
+    "market_cap": 275278399123
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-14",
+    "close": 91,
+    "open": 91,
+    "high": 92,
+    "low": 89,
+    "volume": 382800,
+    "market_cap": 275278399123
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-15",
+    "close": 92,
+    "open": 92,
+    "high": 93,
+    "low": 91,
+    "volume": 83300,
+    "market_cap": 278303436476
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-16",
+    "close": 90,
+    "open": 92,
+    "high": 93,
+    "low": 90,
+    "volume": 304200,
+    "market_cap": 272253361770
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-17",
+    "close": 93,
+    "open": 91,
+    "high": 94,
+    "low": 90,
+    "volume": 533900,
+    "market_cap": 281328473829
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-18",
+    "close": 91,
+    "open": 94,
+    "high": 94,
+    "low": 88,
+    "volume": 633900,
+    "market_cap": 275278399123
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-21",
+    "close": 90,
+    "open": 91,
+    "high": 91,
+    "low": 89,
+    "volume": 371400,
+    "market_cap": 272253361770
+  },
+  {
+    "symbol": "BATR.JK",
+    "date": "2026-09-22",
+    "close": 93,
+    "open": 91,
+    "high": 96,
+    "low": 90,
+    "volume": 3725500,
+    "market_cap": 281328473829
+  }
+]

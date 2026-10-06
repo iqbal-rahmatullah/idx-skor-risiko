@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-06-24",
+    "close": 56,
+    "open": 58,
+    "high": 66,
+    "low": 56,
+    "volume": 28347000,
+    "market_cap": 95200817264
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-06-25",
+    "close": 59,
+    "open": 56,
+    "high": 60,
+    "low": 56,
+    "volume": 9749400,
+    "market_cap": 100300861046
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-06-26",
+    "close": 58,
+    "open": 59,
+    "high": 60,
+    "low": 56,
+    "volume": 7421100,
+    "market_cap": 98600846452
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-06-29",
+    "close": 58,
+    "open": 58,
+    "high": 63,
+    "low": 57,
+    "volume": 13235500,
+    "market_cap": 98600846452
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-06-30",
+    "close": 56,
+    "open": 58,
+    "high": 60,
+    "low": 55,
+    "volume": 6825000,
+    "market_cap": 95200817264
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-01",
+    "close": 57,
+    "open": 56,
+    "high": 58,
+    "low": 56,
+    "volume": 2414000,
+    "market_cap": 96900831858
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-02",
+    "close": 57,
+    "open": 57,
+    "high": 59,
+    "low": 56,
+    "volume": 4115000,
+    "market_cap": 96900831858
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-03",
+    "close": 57,
+    "open": 57,
+    "high": 59,
+    "low": 57,
+    "volume": 4576600,
+    "market_cap": 96900831858
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-06",
+    "close": 64,
+    "open": 58,
+    "high": 69,
+    "low": 57,
+    "volume": 116628300,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-07",
+    "close": 63,
+    "open": 64,
+    "high": 65,
+    "low": 62,
+    "volume": 14672000,
+    "market_cap": 107100919422
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-08",
+    "close": 61,
+    "open": 64,
+    "high": 65,
+    "low": 60,
+    "volume": 21939200,
+    "market_cap": 103700890234
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-09",
+    "close": 63,
+    "open": 62,
+    "high": 65,
+    "low": 60,
+    "volume": 20171900,
+    "market_cap": 107100919422
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-10",
+    "close": 62,
+    "open": 63,
+    "high": 65,
+    "low": 62,
+    "volume": 8573400,
+    "market_cap": 105400904828
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-13",
+    "close": 63,
+    "open": 62,
+    "high": 64,
+    "low": 61,
+    "volume": 8898200,
+    "market_cap": 107100919422
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-14",
+    "close": 65,
+    "open": 63,
+    "high": 65,
+    "low": 63,
+    "volume": 7480600,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-15",
+    "close": 65,
+    "open": 64,
+    "high": 68,
+    "low": 64,
+    "volume": 17690800,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-16",
+    "close": 64,
+    "open": 65,
+    "high": 66,
+    "low": 64,
+    "volume": 8782800,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-17",
+    "close": 65,
+    "open": 64,
+    "high": 65,
+    "low": 64,
+    "volume": 4987000,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-20",
+    "close": 66,
+    "open": 65,
+    "high": 72,
+    "low": 64,
+    "volume": 53231600,
+    "market_cap": 112200963204
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-21",
+    "close": 68,
+    "open": 67,
+    "high": 70,
+    "low": 67,
+    "volume": 13722900,
+    "market_cap": 115600992392
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-22",
+    "close": 68,
+    "open": 68,
+    "high": 71,
+    "low": 67,
+    "volume": 33917400,
+    "market_cap": 115600992392
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-23",
+    "close": 69,
+    "open": 68,
+    "high": 70,
+    "low": 68,
+    "volume": 9504400,
+    "market_cap": 117301006986
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-24",
+    "close": 64,
+    "open": 69,
+    "high": 69,
+    "low": 64,
+    "volume": 15441900,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-27",
+    "close": 63,
+    "open": 64,
+    "high": 65,
+    "low": 63,
+    "volume": 3302500,
+    "market_cap": 107100919422
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-28",
+    "close": 65,
+    "open": 64,
+    "high": 70,
+    "low": 63,
+    "volume": 37487100,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-29",
+    "close": 64,
+    "open": 65,
+    "high": 66,
+    "low": 63,
+    "volume": 6565300,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-30",
+    "close": 64,
+    "open": 64,
+    "high": 65,
+    "low": 63,
+    "volume": 5137700,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-07-31",
+    "close": 64,
+    "open": 65,
+    "high": 66,
+    "low": 64,
+    "volume": 4085700,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-03",
+    "close": 65,
+    "open": 64,
+    "high": 65,
+    "low": 64,
+    "volume": 5612400,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-04",
+    "close": 65,
+    "open": 65,
+    "high": 65,
+    "low": 63,
+    "volume": 4283600,
+    "market_cap": 110500948610
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-05",
+    "close": 66,
+    "open": 65,
+    "high": 70,
+    "low": 64,
+    "volume": 25528400,
+    "market_cap": 112200963204
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-06",
+    "close": 66,
+    "open": 66,
+    "high": 67,
+    "low": 65,
+    "volume": 6384500,
+    "market_cap": 112200963204
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-07",
+    "close": 67,
+    "open": 68,
+    "high": 69,
+    "low": 67,
+    "volume": 8691900,
+    "market_cap": 113900977798
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-10",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 5371400,
+    "market_cap": 113900977798
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-11",
+    "close": 71,
+    "open": 68,
+    "high": 77,
+    "low": 66,
+    "volume": 110939600,
+    "market_cap": 120701036174
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-12",
+    "close": 70,
+    "open": 71,
+    "high": 73,
+    "low": 69,
+    "volume": 18328600,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-13",
+    "close": 68,
+    "open": 70,
+    "high": 71,
+    "low": 68,
+    "volume": 7109600,
+    "market_cap": 115600992392
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-14",
+    "close": 67,
+    "open": 69,
+    "high": 69,
+    "low": 67,
+    "volume": 7238500,
+    "market_cap": 113900977798
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-18",
+    "close": 70,
+    "open": 67,
+    "high": 70,
+    "low": 67,
+    "volume": 8923700,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-19",
+    "close": 69,
+    "open": 70,
+    "high": 71,
+    "low": 68,
+    "volume": 5333800,
+    "market_cap": 117301006986
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-20",
+    "close": 69,
+    "open": 70,
+    "high": 71,
+    "low": 69,
+    "volume": 3951400,
+    "market_cap": 117301006986
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-21",
+    "close": 71,
+    "open": 70,
+    "high": 74,
+    "low": 69,
+    "volume": 21623600,
+    "market_cap": 120701036174
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-24",
+    "close": 71,
+    "open": 72,
+    "high": 72,
+    "low": 70,
+    "volume": 9034800,
+    "market_cap": 120701036174
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-26",
+    "close": 67,
+    "open": 71,
+    "high": 72,
+    "low": 67,
+    "volume": 13131700,
+    "market_cap": 113900977798
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-27",
+    "close": 71,
+    "open": 67,
+    "high": 72,
+    "low": 67,
+    "volume": 14473700,
+    "market_cap": 120701036174
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-28",
+    "close": 71,
+    "open": 71,
+    "high": 72,
+    "low": 69,
+    "volume": 5516600,
+    "market_cap": 120701036174
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-08-31",
+    "close": 70,
+    "open": 72,
+    "high": 72,
+    "low": 70,
+    "volume": 6006700,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-01",
+    "close": 70,
+    "open": 70,
+    "high": 73,
+    "low": 69,
+    "volume": 14562200,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-02",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 69,
+    "volume": 3095300,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-03",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 70,
+    "volume": 2462400,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-04",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 69,
+    "volume": 4061200,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-07",
+    "close": 73,
+    "open": 71,
+    "high": 75,
+    "low": 70,
+    "volume": 43434900,
+    "market_cap": 124101065362
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-08",
+    "close": 73,
+    "open": 73,
+    "high": 75,
+    "low": 72,
+    "volume": 19417400,
+    "market_cap": 124101065362
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-09",
+    "close": 73,
+    "open": 74,
+    "high": 76,
+    "low": 72,
+    "volume": 17993000,
+    "market_cap": 124101065362
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-10",
+    "close": 72,
+    "open": 73,
+    "high": 74,
+    "low": 72,
+    "volume": 10348800,
+    "market_cap": 122401050768
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-11",
+    "close": 72,
+    "open": 72,
+    "high": 73,
+    "low": 70,
+    "volume": 9700500,
+    "market_cap": 122401050768
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-14",
+    "close": 69,
+    "open": 71,
+    "high": 72,
+    "low": 67,
+    "volume": 14867400,
+    "market_cap": 117301006986
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-15",
+    "close": 70,
+    "open": 70,
+    "high": 71,
+    "low": 68,
+    "volume": 6937500,
+    "market_cap": 119001021580
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-16",
+    "close": 69,
+    "open": 69,
+    "high": 71,
+    "low": 68,
+    "volume": 8383700,
+    "market_cap": 117301006986
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-17",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 67,
+    "volume": 8878900,
+    "market_cap": 115600992392
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-18",
+    "close": 64,
+    "open": 68,
+    "high": 68,
+    "low": 63,
+    "volume": 14177300,
+    "market_cap": 108800934016
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-21",
+    "close": 72,
+    "open": 64,
+    "high": 76,
+    "low": 63,
+    "volume": 141758800,
+    "market_cap": 122401050768
+  },
+  {
+    "symbol": "CHEM.JK",
+    "date": "2026-09-22",
+    "close": 67,
+    "open": 72,
+    "high": 73,
+    "low": 67,
+    "volume": 25383200,
+    "market_cap": 113900977798
+  }
+]

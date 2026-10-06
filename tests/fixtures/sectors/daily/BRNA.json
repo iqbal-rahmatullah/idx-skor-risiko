@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-06-24",
+    "close": 575,
+    "open": 585,
+    "high": 600,
+    "low": 555,
+    "volume": 24800,
+    "market_cap": 562988250000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-06-25",
+    "close": 560,
+    "open": 600,
+    "high": 600,
+    "low": 560,
+    "volume": 22300,
+    "market_cap": 548301600000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-06-26",
+    "close": 560,
+    "open": 600,
+    "high": 605,
+    "low": 560,
+    "volume": 21800,
+    "market_cap": 548301600000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-06-29",
+    "close": 560,
+    "open": 565,
+    "high": 565,
+    "low": 555,
+    "volume": 113100,
+    "market_cap": 548301600000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-06-30",
+    "close": 600,
+    "open": 595,
+    "high": 620,
+    "low": 565,
+    "volume": 166700,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-01",
+    "close": 585,
+    "open": 605,
+    "high": 620,
+    "low": 565,
+    "volume": 66200,
+    "market_cap": 572779350000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-02",
+    "close": 585,
+    "open": 585,
+    "high": 590,
+    "low": 560,
+    "volume": 27300,
+    "market_cap": 572779350000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-03",
+    "close": 580,
+    "open": 565,
+    "high": 585,
+    "low": 560,
+    "volume": 38900,
+    "market_cap": 567883800000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-06",
+    "close": 580,
+    "open": 600,
+    "high": 600,
+    "low": 560,
+    "volume": 27800,
+    "market_cap": 567883800000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-07",
+    "close": 575,
+    "open": 575,
+    "high": 575,
+    "low": 570,
+    "volume": 4600,
+    "market_cap": 562988250000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-08",
+    "close": 570,
+    "open": 570,
+    "high": 585,
+    "low": 570,
+    "volume": 45300,
+    "market_cap": 558092700000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-09",
+    "close": 575,
+    "open": 575,
+    "high": 650,
+    "low": 570,
+    "volume": 66600,
+    "market_cap": 562988250000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-10",
+    "close": 570,
+    "open": 580,
+    "high": 580,
+    "low": 570,
+    "volume": 5000,
+    "market_cap": 558092700000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-13",
+    "close": 565,
+    "open": 570,
+    "high": 575,
+    "low": 565,
+    "volume": 6000,
+    "market_cap": 553197150000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-14",
+    "close": 640,
+    "open": 705,
+    "high": 705,
+    "low": 595,
+    "volume": 2099200,
+    "market_cap": 626630400000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-15",
+    "close": 615,
+    "open": 630,
+    "high": 655,
+    "low": 595,
+    "volume": 566600,
+    "market_cap": 602152650000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-16",
+    "close": 595,
+    "open": 615,
+    "high": 645,
+    "low": 590,
+    "volume": 239000,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-17",
+    "close": 600,
+    "open": 595,
+    "high": 600,
+    "low": 595,
+    "volume": 117100,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-20",
+    "close": 600,
+    "open": 600,
+    "high": 625,
+    "low": 595,
+    "volume": 61600,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-21",
+    "close": 595,
+    "open": 610,
+    "high": 610,
+    "low": 585,
+    "volume": 112200,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-22",
+    "close": 595,
+    "open": 595,
+    "high": 595,
+    "low": 585,
+    "volume": 73200,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-23",
+    "close": 590,
+    "open": 590,
+    "high": 595,
+    "low": 585,
+    "volume": 67000,
+    "market_cap": 577674900000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-24",
+    "close": 600,
+    "open": 610,
+    "high": 610,
+    "low": 585,
+    "volume": 54900,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-27",
+    "close": 605,
+    "open": 595,
+    "high": 610,
+    "low": 590,
+    "volume": 67200,
+    "market_cap": 592361550000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-28",
+    "close": 595,
+    "open": 605,
+    "high": 605,
+    "low": 590,
+    "volume": 32900,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-29",
+    "close": 595,
+    "open": 600,
+    "high": 600,
+    "low": 590,
+    "volume": 34200,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-30",
+    "close": 595,
+    "open": 590,
+    "high": 610,
+    "low": 585,
+    "volume": 59100,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-07-31",
+    "close": 595,
+    "open": 595,
+    "high": 605,
+    "low": 585,
+    "volume": 41800,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-03",
+    "close": 610,
+    "open": 600,
+    "high": 625,
+    "low": 600,
+    "volume": 66900,
+    "market_cap": 597257100000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-04",
+    "close": 705,
+    "open": 635,
+    "high": 745,
+    "low": 635,
+    "volume": 1704000,
+    "market_cap": 690272550000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-05",
+    "close": 650,
+    "open": 705,
+    "high": 710,
+    "low": 650,
+    "volume": 432900,
+    "market_cap": 636421500000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-06",
+    "close": 650,
+    "open": 650,
+    "high": 700,
+    "low": 615,
+    "volume": 296000,
+    "market_cap": 636421500000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-07",
+    "close": 645,
+    "open": 660,
+    "high": 670,
+    "low": 635,
+    "volume": 85700,
+    "market_cap": 631525950000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-10",
+    "close": 625,
+    "open": 640,
+    "high": 640,
+    "low": 615,
+    "volume": 113700,
+    "market_cap": 611943750000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-11",
+    "close": 635,
+    "open": 650,
+    "high": 650,
+    "low": 610,
+    "volume": 33100,
+    "market_cap": 621734850000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-12",
+    "close": 620,
+    "open": 635,
+    "high": 660,
+    "low": 595,
+    "volume": 56900,
+    "market_cap": 607048200000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-13",
+    "close": 645,
+    "open": 725,
+    "high": 750,
+    "low": 630,
+    "volume": 791600,
+    "market_cap": 631525950000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-14",
+    "close": 690,
+    "open": 660,
+    "high": 745,
+    "low": 660,
+    "volume": 1024700,
+    "market_cap": 675585900000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-18",
+    "close": 670,
+    "open": 690,
+    "high": 710,
+    "low": 640,
+    "volume": 543100,
+    "market_cap": 656003700000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-19",
+    "close": 650,
+    "open": 670,
+    "high": 670,
+    "low": 645,
+    "volume": 121800,
+    "market_cap": 636421500000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-20",
+    "close": 640,
+    "open": 650,
+    "high": 650,
+    "low": 630,
+    "volume": 170100,
+    "market_cap": 626630400000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-21",
+    "close": 635,
+    "open": 640,
+    "high": 650,
+    "low": 605,
+    "volume": 192800,
+    "market_cap": 621734850000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-24",
+    "close": 605,
+    "open": 640,
+    "high": 645,
+    "low": 600,
+    "volume": 430500,
+    "market_cap": 592361550000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-26",
+    "close": 595,
+    "open": 595,
+    "high": 630,
+    "low": 595,
+    "volume": 342400,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-27",
+    "close": 600,
+    "open": 595,
+    "high": 620,
+    "low": 595,
+    "volume": 211200,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-28",
+    "close": 590,
+    "open": 610,
+    "high": 615,
+    "low": 590,
+    "volume": 527400,
+    "market_cap": 577674900000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-08-31",
+    "close": 595,
+    "open": 595,
+    "high": 620,
+    "low": 590,
+    "volume": 717400,
+    "market_cap": 582570450000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-01",
+    "close": 600,
+    "open": 615,
+    "high": 620,
+    "low": 600,
+    "volume": 426900,
+    "market_cap": 587466000000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-02",
+    "close": 610,
+    "open": 600,
+    "high": 625,
+    "low": 595,
+    "volume": 520300,
+    "market_cap": 597257100000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-03",
+    "close": 615,
+    "open": 620,
+    "high": 655,
+    "low": 605,
+    "volume": 605200,
+    "market_cap": 602152650000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-04",
+    "close": 620,
+    "open": 635,
+    "high": 645,
+    "low": 615,
+    "volume": 630400,
+    "market_cap": 607048200000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-07",
+    "close": 620,
+    "open": 625,
+    "high": 655,
+    "low": 620,
+    "volume": 671600,
+    "market_cap": 607048200000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-08",
+    "close": 625,
+    "open": 655,
+    "high": 655,
+    "low": 620,
+    "volume": 615100,
+    "market_cap": 611943750000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-09",
+    "close": 635,
+    "open": 650,
+    "high": 650,
+    "low": 625,
+    "volume": 293700,
+    "market_cap": 621734850000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-10",
+    "close": 640,
+    "open": 640,
+    "high": 645,
+    "low": 630,
+    "volume": 182700,
+    "market_cap": 626630400000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-11",
+    "close": 640,
+    "open": 640,
+    "high": 640,
+    "low": 610,
+    "volume": 722300,
+    "market_cap": 626630400000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-14",
+    "close": 635,
+    "open": 640,
+    "high": 645,
+    "low": 625,
+    "volume": 156500,
+    "market_cap": 621734850000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-15",
+    "close": 645,
+    "open": 645,
+    "high": 645,
+    "low": 630,
+    "volume": 128100,
+    "market_cap": 631525950000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-16",
+    "close": 660,
+    "open": 655,
+    "high": 805,
+    "low": 645,
+    "volume": 2187900,
+    "market_cap": 646212600000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-17",
+    "close": 670,
+    "open": 670,
+    "high": 690,
+    "low": 660,
+    "volume": 715400,
+    "market_cap": 656003700000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-18",
+    "close": 680,
+    "open": 690,
+    "high": 695,
+    "low": 670,
+    "volume": 538500,
+    "market_cap": 665794800000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-21",
+    "close": 660,
+    "open": 690,
+    "high": 690,
+    "low": 650,
+    "volume": 393700,
+    "market_cap": 646212600000
+  },
+  {
+    "symbol": "BRNA.JK",
+    "date": "2026-09-22",
+    "close": 645,
+    "open": 660,
+    "high": 685,
+    "low": 640,
+    "volume": 483200,
+    "market_cap": 631525950000
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-06-24",
+    "close": 492,
+    "open": 525,
+    "high": 545,
+    "low": 490,
+    "volume": 147390200,
+    "market_cap": 53133746590800
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-06-25",
+    "close": 505,
+    "open": 496,
+    "high": 520,
+    "low": 484,
+    "volume": 207329600,
+    "market_cap": 54537687049500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-06-26",
+    "close": 496,
+    "open": 510,
+    "high": 515,
+    "low": 484,
+    "volume": 99767000,
+    "market_cap": 53565728270400
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-06-29",
+    "close": 494,
+    "open": 496,
+    "high": 510,
+    "low": 490,
+    "volume": 109912900,
+    "market_cap": 53349737430600
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-06-30",
+    "close": 462,
+    "open": 494,
+    "high": 496,
+    "low": 462,
+    "volume": 112998300,
+    "market_cap": 49893883993800
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-01",
+    "close": 510,
+    "open": 462,
+    "high": 510,
+    "low": 452,
+    "volume": 144014200,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-02",
+    "close": 520,
+    "open": 510,
+    "high": 525,
+    "low": 505,
+    "volume": 83549300,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-03",
+    "close": 520,
+    "open": 525,
+    "high": 540,
+    "low": 505,
+    "volume": 74105000,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-06",
+    "close": 510,
+    "open": 520,
+    "high": 525,
+    "low": 500,
+    "volume": 44780500,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-07",
+    "close": 510,
+    "open": 515,
+    "high": 515,
+    "low": 498,
+    "volume": 32357200,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-08",
+    "close": 478,
+    "open": 505,
+    "high": 505,
+    "low": 478,
+    "volume": 86780200,
+    "market_cap": 51621810712200
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-09",
+    "close": 496,
+    "open": 478,
+    "high": 505,
+    "low": 478,
+    "volume": 89954400,
+    "market_cap": 53565728270400
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-10",
+    "close": 494,
+    "open": 505,
+    "high": 505,
+    "low": 490,
+    "volume": 42645700,
+    "market_cap": 53349737430600
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-13",
+    "close": 500,
+    "open": 494,
+    "high": 500,
+    "low": 484,
+    "volume": 46083200,
+    "market_cap": 53997709950000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-14",
+    "close": 510,
+    "open": 500,
+    "high": 520,
+    "low": 496,
+    "volume": 89404900,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-15",
+    "close": 520,
+    "open": 515,
+    "high": 530,
+    "low": 505,
+    "volume": 83260500,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-16",
+    "close": 525,
+    "open": 525,
+    "high": 530,
+    "low": 515,
+    "volume": 48812000,
+    "market_cap": 56697595447500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-17",
+    "close": 515,
+    "open": 525,
+    "high": 530,
+    "low": 510,
+    "volume": 44914400,
+    "market_cap": 55617641248500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-20",
+    "close": 525,
+    "open": 515,
+    "high": 525,
+    "low": 515,
+    "volume": 58486900,
+    "market_cap": 56697595447500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-21",
+    "close": 540,
+    "open": 525,
+    "high": 540,
+    "low": 520,
+    "volume": 125965900,
+    "market_cap": 58317526746000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-22",
+    "close": 535,
+    "open": 540,
+    "high": 555,
+    "low": 525,
+    "volume": 112368200,
+    "market_cap": 57777549646500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-23",
+    "close": 535,
+    "open": 540,
+    "high": 560,
+    "low": 535,
+    "volume": 124454000,
+    "market_cap": 57777549646500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-24",
+    "close": 505,
+    "open": 530,
+    "high": 530,
+    "low": 500,
+    "volume": 101970900,
+    "market_cap": 54537687049500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-27",
+    "close": 505,
+    "open": 500,
+    "high": 515,
+    "low": 498,
+    "volume": 62108400,
+    "market_cap": 54537687049500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-28",
+    "close": 496,
+    "open": 500,
+    "high": 505,
+    "low": 496,
+    "volume": 41461800,
+    "market_cap": 53565728270400
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-29",
+    "close": 482,
+    "open": 496,
+    "high": 500,
+    "low": 474,
+    "volume": 95781400,
+    "market_cap": 52053792391800
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-30",
+    "close": 488,
+    "open": 484,
+    "high": 496,
+    "low": 484,
+    "volume": 50653500,
+    "market_cap": 52701764911200
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-07-31",
+    "close": 505,
+    "open": 492,
+    "high": 515,
+    "low": 492,
+    "volume": 76990200,
+    "market_cap": 54537687049500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-03",
+    "close": 515,
+    "open": 520,
+    "high": 520,
+    "low": 505,
+    "volume": 72975500,
+    "market_cap": 55617641248500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-04",
+    "close": 545,
+    "open": 520,
+    "high": 545,
+    "low": 515,
+    "volume": 182344800,
+    "market_cap": 58857503845500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-05",
+    "close": 550,
+    "open": 550,
+    "high": 560,
+    "low": 540,
+    "volume": 142757200,
+    "market_cap": 59397480945000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-06",
+    "close": 530,
+    "open": 555,
+    "high": 560,
+    "low": 530,
+    "volume": 139332500,
+    "market_cap": 57237572547000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-07",
+    "close": 550,
+    "open": 535,
+    "high": 565,
+    "low": 530,
+    "volume": 182060800,
+    "market_cap": 59397480945000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-10",
+    "close": 545,
+    "open": 550,
+    "high": 565,
+    "low": 535,
+    "volume": 122294200,
+    "market_cap": 58857503845500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-11",
+    "close": 530,
+    "open": 545,
+    "high": 550,
+    "low": 520,
+    "volume": 89511800,
+    "market_cap": 57237572547000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-12",
+    "close": 550,
+    "open": 530,
+    "high": 555,
+    "low": 525,
+    "volume": 95660800,
+    "market_cap": 59397480945000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-13",
+    "close": 510,
+    "open": 560,
+    "high": 560,
+    "low": 505,
+    "volume": 121288700,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-14",
+    "close": 525,
+    "open": 510,
+    "high": 530,
+    "low": 500,
+    "volume": 81941200,
+    "market_cap": 56697595447500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-18",
+    "close": 515,
+    "open": 525,
+    "high": 535,
+    "low": 515,
+    "volume": 46810100,
+    "market_cap": 55617641248500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-19",
+    "close": 510,
+    "open": 520,
+    "high": 525,
+    "low": 505,
+    "volume": 50389900,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-20",
+    "close": 565,
+    "open": 525,
+    "high": 580,
+    "low": 520,
+    "volume": 368801700,
+    "market_cap": 61017412243500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-21",
+    "close": 565,
+    "open": 570,
+    "high": 585,
+    "low": 560,
+    "volume": 137586100,
+    "market_cap": 61017412243500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-24",
+    "close": 565,
+    "open": 575,
+    "high": 580,
+    "low": 560,
+    "volume": 94696300,
+    "market_cap": 61017412243500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-26",
+    "close": 545,
+    "open": 565,
+    "high": 595,
+    "low": 545,
+    "volume": 239088200,
+    "market_cap": 58857503845500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-27",
+    "close": 570,
+    "open": 540,
+    "high": 570,
+    "low": 535,
+    "volume": 96942100,
+    "market_cap": 61557389343000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-28",
+    "close": 555,
+    "open": 570,
+    "high": 575,
+    "low": 550,
+    "volume": 71481900,
+    "market_cap": 59937458044500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-08-31",
+    "close": 550,
+    "open": 550,
+    "high": 570,
+    "low": 545,
+    "volume": 93003400,
+    "market_cap": 59397480945000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-01",
+    "close": 535,
+    "open": 550,
+    "high": 570,
+    "low": 535,
+    "volume": 153194200,
+    "market_cap": 57777549646500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-02",
+    "close": 525,
+    "open": 535,
+    "high": 540,
+    "low": 515,
+    "volume": 170532200,
+    "market_cap": 56697595447500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-03",
+    "close": 530,
+    "open": 530,
+    "high": 540,
+    "low": 525,
+    "volume": 102863900,
+    "market_cap": 57237572547000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-04",
+    "close": 520,
+    "open": 530,
+    "high": 535,
+    "low": 515,
+    "volume": 103448000,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-07",
+    "close": 510,
+    "open": 525,
+    "high": 530,
+    "low": 510,
+    "volume": 104017500,
+    "market_cap": 55077664149000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-08",
+    "close": 560,
+    "open": 530,
+    "high": 560,
+    "low": 525,
+    "volume": 446559400,
+    "market_cap": 60477435144000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-09",
+    "close": 550,
+    "open": 560,
+    "high": 565,
+    "low": 545,
+    "volume": 175864700,
+    "market_cap": 59397480945000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-10",
+    "close": 530,
+    "open": 550,
+    "high": 555,
+    "low": 525,
+    "volume": 147177400,
+    "market_cap": 57237572547000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-11",
+    "close": 520,
+    "open": 520,
+    "high": 525,
+    "low": 510,
+    "volume": 89371800,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-14",
+    "close": 505,
+    "open": 520,
+    "high": 520,
+    "low": 486,
+    "volume": 249145100,
+    "market_cap": 54537687049500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-15",
+    "close": 496,
+    "open": 505,
+    "high": 510,
+    "low": 496,
+    "volume": 64350000,
+    "market_cap": 53565728270400
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-16",
+    "close": 500,
+    "open": 496,
+    "high": 515,
+    "low": 492,
+    "volume": 108854900,
+    "market_cap": 53997709950000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-17",
+    "close": 520,
+    "open": 515,
+    "high": 530,
+    "low": 505,
+    "volume": 123655900,
+    "market_cap": 56157618348000
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-18",
+    "close": 545,
+    "open": 525,
+    "high": 545,
+    "low": 520,
+    "volume": 236808400,
+    "market_cap": 58857503845500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-21",
+    "close": 525,
+    "open": 545,
+    "high": 545,
+    "low": 520,
+    "volume": 97951300,
+    "market_cap": 56697595447500
+  },
+  {
+    "symbol": "MBMA.JK",
+    "date": "2026-09-22",
+    "close": 505,
+    "open": 525,
+    "high": 530,
+    "low": 500,
+    "volume": 85320700,
+    "market_cap": 54537687049500
+  }
+]

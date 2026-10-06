@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-06-24",
+    "close": 965,
+    "open": 1025,
+    "high": 1055,
+    "low": 965,
+    "volume": 58292200,
+    "market_cap": 24351775000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-06-25",
+    "close": 945,
+    "open": 955,
+    "high": 975,
+    "low": 920,
+    "volume": 52037200,
+    "market_cap": 23847075000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-06-26",
+    "close": 905,
+    "open": 960,
+    "high": 970,
+    "low": 890,
+    "volume": 53246000,
+    "market_cap": 22837675000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-06-29",
+    "close": 910,
+    "open": 905,
+    "high": 935,
+    "low": 905,
+    "volume": 18435500,
+    "market_cap": 22963850000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-06-30",
+    "close": 880,
+    "open": 900,
+    "high": 910,
+    "low": 870,
+    "volume": 25274200,
+    "market_cap": 22206800000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-01",
+    "close": 905,
+    "open": 880,
+    "high": 910,
+    "low": 860,
+    "volume": 17206700,
+    "market_cap": 22837675000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-02",
+    "close": 925,
+    "open": 915,
+    "high": 965,
+    "low": 915,
+    "volume": 20596800,
+    "market_cap": 23342375000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-03",
+    "close": 1005,
+    "open": 985,
+    "high": 1035,
+    "low": 970,
+    "volume": 49556700,
+    "market_cap": 25361175000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-06",
+    "close": 995,
+    "open": 1050,
+    "high": 1055,
+    "low": 975,
+    "volume": 34359200,
+    "market_cap": 25108825000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-07",
+    "close": 985,
+    "open": 995,
+    "high": 1000,
+    "low": 980,
+    "volume": 14868300,
+    "market_cap": 24856475000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-08",
+    "close": 930,
+    "open": 980,
+    "high": 980,
+    "low": 925,
+    "volume": 21803800,
+    "market_cap": 23468550000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-09",
+    "close": 955,
+    "open": 930,
+    "high": 960,
+    "low": 920,
+    "volume": 14419800,
+    "market_cap": 24099425000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-10",
+    "close": 1000,
+    "open": 960,
+    "high": 1020,
+    "low": 950,
+    "volume": 48670500,
+    "market_cap": 25235000000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-13",
+    "close": 1010,
+    "open": 995,
+    "high": 1015,
+    "low": 975,
+    "volume": 26351100,
+    "market_cap": 25487350000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-14",
+    "close": 1035,
+    "open": 1000,
+    "high": 1070,
+    "low": 990,
+    "volume": 53642700,
+    "market_cap": 26118225000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-15",
+    "close": 1055,
+    "open": 1055,
+    "high": 1065,
+    "low": 1025,
+    "volume": 45748400,
+    "market_cap": 26622925000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-16",
+    "close": 1110,
+    "open": 1060,
+    "high": 1130,
+    "low": 1040,
+    "volume": 55844600,
+    "market_cap": 28010850000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-17",
+    "close": 1080,
+    "open": 1110,
+    "high": 1115,
+    "low": 1070,
+    "volume": 32220700,
+    "market_cap": 27253800000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-20",
+    "close": 1085,
+    "open": 1080,
+    "high": 1095,
+    "low": 1070,
+    "volume": 14502100,
+    "market_cap": 27379975000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-21",
+    "close": 1090,
+    "open": 1085,
+    "high": 1120,
+    "low": 1080,
+    "volume": 42382900,
+    "market_cap": 27506150000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-22",
+    "close": 1110,
+    "open": 1115,
+    "high": 1145,
+    "low": 1095,
+    "volume": 41922100,
+    "market_cap": 28010850000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-23",
+    "close": 1135,
+    "open": 1120,
+    "high": 1170,
+    "low": 1110,
+    "volume": 83884300,
+    "market_cap": 28641725000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-24",
+    "close": 1055,
+    "open": 1120,
+    "high": 1120,
+    "low": 1050,
+    "volume": 29922800,
+    "market_cap": 26622925000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-27",
+    "close": 1050,
+    "open": 1075,
+    "high": 1095,
+    "low": 1030,
+    "volume": 20340100,
+    "market_cap": 26496750000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-28",
+    "close": 1055,
+    "open": 1040,
+    "high": 1060,
+    "low": 1025,
+    "volume": 13381700,
+    "market_cap": 26622925000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-29",
+    "close": 1045,
+    "open": 1055,
+    "high": 1065,
+    "low": 1020,
+    "volume": 18034900,
+    "market_cap": 26370575000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-30",
+    "close": 1055,
+    "open": 1070,
+    "high": 1095,
+    "low": 1045,
+    "volume": 19486500,
+    "market_cap": 26622925000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-07-31",
+    "close": 1075,
+    "open": 1070,
+    "high": 1110,
+    "low": 1060,
+    "volume": 22954300,
+    "market_cap": 27127625000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-03",
+    "close": 1060,
+    "open": 1085,
+    "high": 1095,
+    "low": 1060,
+    "volume": 19429300,
+    "market_cap": 26749100000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-04",
+    "close": 1085,
+    "open": 1060,
+    "high": 1115,
+    "low": 1060,
+    "volume": 37846400,
+    "market_cap": 27379975000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-05",
+    "close": 1155,
+    "open": 1130,
+    "high": 1165,
+    "low": 1115,
+    "volume": 44884700,
+    "market_cap": 29146425000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-06",
+    "close": 1180,
+    "open": 1195,
+    "high": 1235,
+    "low": 1170,
+    "volume": 126249400,
+    "market_cap": 29777300000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-07",
+    "close": 1235,
+    "open": 1180,
+    "high": 1240,
+    "low": 1155,
+    "volume": 42987500,
+    "market_cap": 31165225000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-10",
+    "close": 1265,
+    "open": 1260,
+    "high": 1310,
+    "low": 1245,
+    "volume": 73897900,
+    "market_cap": 31922275000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-11",
+    "close": 1225,
+    "open": 1300,
+    "high": 1320,
+    "low": 1205,
+    "volume": 54884100,
+    "market_cap": 30912875000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-12",
+    "close": 1245,
+    "open": 1235,
+    "high": 1255,
+    "low": 1220,
+    "volume": 21986700,
+    "market_cap": 31417575000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-13",
+    "close": 1200,
+    "open": 1255,
+    "high": 1265,
+    "low": 1190,
+    "volume": 23618100,
+    "market_cap": 30282000000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-14",
+    "close": 1225,
+    "open": 1180,
+    "high": 1230,
+    "low": 1170,
+    "volume": 14882800,
+    "market_cap": 30912875000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-18",
+    "close": 1320,
+    "open": 1240,
+    "high": 1345,
+    "low": 1240,
+    "volume": 77729400,
+    "market_cap": 33310200000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-19",
+    "close": 1300,
+    "open": 1320,
+    "high": 1320,
+    "low": 1270,
+    "volume": 39480200,
+    "market_cap": 32805500000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-20",
+    "close": 1370,
+    "open": 1375,
+    "high": 1425,
+    "low": 1350,
+    "volume": 109790100,
+    "market_cap": 34571950000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-21",
+    "close": 1395,
+    "open": 1395,
+    "high": 1410,
+    "low": 1355,
+    "volume": 57521800,
+    "market_cap": 35202825000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-24",
+    "close": 1440,
+    "open": 1420,
+    "high": 1455,
+    "low": 1405,
+    "volume": 65488700,
+    "market_cap": 36338400000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-26",
+    "close": 1375,
+    "open": 1445,
+    "high": 1475,
+    "low": 1370,
+    "volume": 76163600,
+    "market_cap": 34698125000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-27",
+    "close": 1445,
+    "open": 1355,
+    "high": 1445,
+    "low": 1355,
+    "volume": 45116600,
+    "market_cap": 36464575000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-28",
+    "close": 1390,
+    "open": 1455,
+    "high": 1475,
+    "low": 1380,
+    "volume": 75626100,
+    "market_cap": 35076650000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-08-31",
+    "close": 1345,
+    "open": 1340,
+    "high": 1360,
+    "low": 1275,
+    "volume": 72256400,
+    "market_cap": 33941075000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-01",
+    "close": 1300,
+    "open": 1350,
+    "high": 1355,
+    "low": 1295,
+    "volume": 47844700,
+    "market_cap": 32805500000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-02",
+    "close": 1275,
+    "open": 1285,
+    "high": 1285,
+    "low": 1235,
+    "volume": 89967000,
+    "market_cap": 32174625000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-03",
+    "close": 1335,
+    "open": 1325,
+    "high": 1335,
+    "low": 1300,
+    "volume": 69170500,
+    "market_cap": 33688725000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-04",
+    "close": 1340,
+    "open": 1360,
+    "high": 1360,
+    "low": 1330,
+    "volume": 40943600,
+    "market_cap": 33814900000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-07",
+    "close": 1310,
+    "open": 1310,
+    "high": 1315,
+    "low": 1290,
+    "volume": 31053600,
+    "market_cap": 33057850000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-08",
+    "close": 1315,
+    "open": 1320,
+    "high": 1330,
+    "low": 1305,
+    "volume": 32393100,
+    "market_cap": 33184025000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-09",
+    "close": 1345,
+    "open": 1310,
+    "high": 1355,
+    "low": 1300,
+    "volume": 46983400,
+    "market_cap": 33941075000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-10",
+    "close": 1320,
+    "open": 1355,
+    "high": 1360,
+    "low": 1320,
+    "volume": 32942700,
+    "market_cap": 33310200000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-11",
+    "close": 1315,
+    "open": 1290,
+    "high": 1330,
+    "low": 1270,
+    "volume": 27087900,
+    "market_cap": 33184025000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-14",
+    "close": 1310,
+    "open": 1320,
+    "high": 1335,
+    "low": 1285,
+    "volume": 26729400,
+    "market_cap": 33057850000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-15",
+    "close": 1335,
+    "open": 1330,
+    "high": 1360,
+    "low": 1315,
+    "volume": 33744000,
+    "market_cap": 33688725000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-16",
+    "close": 1330,
+    "open": 1335,
+    "high": 1390,
+    "low": 1305,
+    "volume": 56727400,
+    "market_cap": 33562550000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-17",
+    "close": 1340,
+    "open": 1330,
+    "high": 1345,
+    "low": 1305,
+    "volume": 25703200,
+    "market_cap": 33814900000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-18",
+    "close": 1380,
+    "open": 1360,
+    "high": 1380,
+    "low": 1345,
+    "volume": 61198100,
+    "market_cap": 34824300000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-21",
+    "close": 1345,
+    "open": 1375,
+    "high": 1380,
+    "low": 1345,
+    "volume": 22152000,
+    "market_cap": 33941075000000
+  },
+  {
+    "symbol": "ARCI.JK",
+    "date": "2026-09-22",
+    "close": 1305,
+    "open": 1375,
+    "high": 1375,
+    "low": 1275,
+    "volume": 27848800,
+    "market_cap": 32931675000000
+  }
+]

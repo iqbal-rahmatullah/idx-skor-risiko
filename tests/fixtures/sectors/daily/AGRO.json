@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-06-24",
+    "close": 147,
+    "open": 151,
+    "high": 156,
+    "low": 147,
+    "volume": 4644000,
+    "market_cap": 3600484702752
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-06-25",
+    "close": 150,
+    "open": 147,
+    "high": 154,
+    "low": 140,
+    "volume": 2918200,
+    "market_cap": 3673963982400
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-06-26",
+    "close": 146,
+    "open": 150,
+    "high": 153,
+    "low": 144,
+    "volume": 3582400,
+    "market_cap": 3575991609536
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-06-29",
+    "close": 141,
+    "open": 148,
+    "high": 148,
+    "low": 140,
+    "volume": 4486000,
+    "market_cap": 3453526143456
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-06-30",
+    "close": 134,
+    "open": 142,
+    "high": 142,
+    "low": 134,
+    "volume": 6276700,
+    "market_cap": 3282074490944
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-01",
+    "close": 133,
+    "open": 134,
+    "high": 138,
+    "low": 130,
+    "volume": 5207900,
+    "market_cap": 3257581397728
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-02",
+    "close": 134,
+    "open": 133,
+    "high": 139,
+    "low": 133,
+    "volume": 4987400,
+    "market_cap": 3282074490944
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-03",
+    "close": 137,
+    "open": 135,
+    "high": 140,
+    "low": 135,
+    "volume": 5935400,
+    "market_cap": 3355553770592
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-06",
+    "close": 141,
+    "open": 137,
+    "high": 141,
+    "low": 137,
+    "volume": 1637400,
+    "market_cap": 3453526143456
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-07",
+    "close": 143,
+    "open": 141,
+    "high": 144,
+    "low": 140,
+    "volume": 2908100,
+    "market_cap": 3502512329888
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-08",
+    "close": 144,
+    "open": 143,
+    "high": 153,
+    "low": 139,
+    "volume": 6976000,
+    "market_cap": 3527005423104
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-09",
+    "close": 141,
+    "open": 141,
+    "high": 146,
+    "low": 140,
+    "volume": 3492600,
+    "market_cap": 3453526143456
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-10",
+    "close": 141,
+    "open": 143,
+    "high": 144,
+    "low": 141,
+    "volume": 1767800,
+    "market_cap": 3453526143456
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-13",
+    "close": 142,
+    "open": 142,
+    "high": 143,
+    "low": 140,
+    "volume": 2940800,
+    "market_cap": 3478019236672
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-14",
+    "close": 142,
+    "open": 143,
+    "high": 144,
+    "low": 141,
+    "volume": 2670200,
+    "market_cap": 3478019236672
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-15",
+    "close": 145,
+    "open": 142,
+    "high": 148,
+    "low": 142,
+    "volume": 4373000,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-16",
+    "close": 145,
+    "open": 146,
+    "high": 147,
+    "low": 144,
+    "volume": 5438000,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-17",
+    "close": 152,
+    "open": 146,
+    "high": 155,
+    "low": 145,
+    "volume": 18790700,
+    "market_cap": 3722950168832
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-20",
+    "close": 152,
+    "open": 154,
+    "high": 156,
+    "low": 152,
+    "volume": 9063200,
+    "market_cap": 3722950168832
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-21",
+    "close": 154,
+    "open": 153,
+    "high": 156,
+    "low": 152,
+    "volume": 5461800,
+    "market_cap": 3771936355264
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-22",
+    "close": 153,
+    "open": 155,
+    "high": 155,
+    "low": 151,
+    "volume": 3488500,
+    "market_cap": 3747443262048
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-23",
+    "close": 152,
+    "open": 153,
+    "high": 156,
+    "low": 152,
+    "volume": 7937800,
+    "market_cap": 3722950168832
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-24",
+    "close": 147,
+    "open": 152,
+    "high": 152,
+    "low": 145,
+    "volume": 3138100,
+    "market_cap": 3600484702752
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-27",
+    "close": 146,
+    "open": 148,
+    "high": 148,
+    "low": 144,
+    "volume": 2457100,
+    "market_cap": 3575991609536
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-28",
+    "close": 144,
+    "open": 145,
+    "high": 148,
+    "low": 143,
+    "volume": 3119900,
+    "market_cap": 3527005423104
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-29",
+    "close": 142,
+    "open": 144,
+    "high": 147,
+    "low": 141,
+    "volume": 2047700,
+    "market_cap": 3478019236672
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-30",
+    "close": 144,
+    "open": 143,
+    "high": 146,
+    "low": 142,
+    "volume": 5744800,
+    "market_cap": 3527005423104
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-07-31",
+    "close": 147,
+    "open": 145,
+    "high": 148,
+    "low": 145,
+    "volume": 4250600,
+    "market_cap": 3600484702752
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-03",
+    "close": 143,
+    "open": 149,
+    "high": 149,
+    "low": 142,
+    "volume": 4644500,
+    "market_cap": 3502512329888
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-04",
+    "close": 145,
+    "open": 144,
+    "high": 148,
+    "low": 142,
+    "volume": 6156300,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-05",
+    "close": 146,
+    "open": 147,
+    "high": 148,
+    "low": 146,
+    "volume": 3388000,
+    "market_cap": 3575991609536
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-06",
+    "close": 148,
+    "open": 146,
+    "high": 150,
+    "low": 146,
+    "volume": 3719300,
+    "market_cap": 3624977795968
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-07",
+    "close": 153,
+    "open": 149,
+    "high": 153,
+    "low": 148,
+    "volume": 6412100,
+    "market_cap": 3747443262048
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-10",
+    "close": 151,
+    "open": 153,
+    "high": 154,
+    "low": 151,
+    "volume": 5062100,
+    "market_cap": 3698457075616
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-11",
+    "close": 149,
+    "open": 152,
+    "high": 152,
+    "low": 148,
+    "volume": 2867100,
+    "market_cap": 3649470889184
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-12",
+    "close": 150,
+    "open": 149,
+    "high": 151,
+    "low": 149,
+    "volume": 1631700,
+    "market_cap": 3673963982400
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-13",
+    "close": 148,
+    "open": 150,
+    "high": 151,
+    "low": 147,
+    "volume": 3353000,
+    "market_cap": 3624977795968
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-14",
+    "close": 148,
+    "open": 148,
+    "high": 149,
+    "low": 146,
+    "volume": 2158000,
+    "market_cap": 3624977795968
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-18",
+    "close": 151,
+    "open": 149,
+    "high": 151,
+    "low": 148,
+    "volume": 2995000,
+    "market_cap": 3698457075616
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-19",
+    "close": 150,
+    "open": 151,
+    "high": 152,
+    "low": 149,
+    "volume": 2366400,
+    "market_cap": 3673963982400
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-20",
+    "close": 152,
+    "open": 150,
+    "high": 153,
+    "low": 149,
+    "volume": 3787300,
+    "market_cap": 3722950168832
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-21",
+    "close": 153,
+    "open": 154,
+    "high": 155,
+    "low": 153,
+    "volume": 6413400,
+    "market_cap": 3747443262048
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-24",
+    "close": 150,
+    "open": 153,
+    "high": 154,
+    "low": 149,
+    "volume": 5377300,
+    "market_cap": 3673963982400
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-26",
+    "close": 145,
+    "open": 151,
+    "high": 151,
+    "low": 145,
+    "volume": 6936000,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-27",
+    "close": 145,
+    "open": 145,
+    "high": 147,
+    "low": 143,
+    "volume": 8675300,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-28",
+    "close": 146,
+    "open": 145,
+    "high": 157,
+    "low": 144,
+    "volume": 39195800,
+    "market_cap": 3575991609536
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-08-31",
+    "close": 147,
+    "open": 148,
+    "high": 150,
+    "low": 147,
+    "volume": 5942600,
+    "market_cap": 3600484702752
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-01",
+    "close": 151,
+    "open": 148,
+    "high": 154,
+    "low": 146,
+    "volume": 12606200,
+    "market_cap": 3698457075616
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-02",
+    "close": 153,
+    "open": 151,
+    "high": 158,
+    "low": 150,
+    "volume": 21289500,
+    "market_cap": 3747443262048
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-03",
+    "close": 155,
+    "open": 154,
+    "high": 157,
+    "low": 153,
+    "volume": 10200300,
+    "market_cap": 3796429448480
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-04",
+    "close": 153,
+    "open": 155,
+    "high": 157,
+    "low": 153,
+    "volume": 8888000,
+    "market_cap": 3747443262048
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-07",
+    "close": 155,
+    "open": 156,
+    "high": 156,
+    "low": 153,
+    "volume": 3989400,
+    "market_cap": 3796429448480
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-08",
+    "close": 154,
+    "open": 154,
+    "high": 156,
+    "low": 153,
+    "volume": 4563100,
+    "market_cap": 3771936355264
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-09",
+    "close": 151,
+    "open": 154,
+    "high": 155,
+    "low": 150,
+    "volume": 6824200,
+    "market_cap": 3698457075616
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-10",
+    "close": 150,
+    "open": 153,
+    "high": 154,
+    "low": 150,
+    "volume": 4766800,
+    "market_cap": 3673963982400
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-11",
+    "close": 149,
+    "open": 150,
+    "high": 150,
+    "low": 147,
+    "volume": 6294600,
+    "market_cap": 3649470889184
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-14",
+    "close": 149,
+    "open": 149,
+    "high": 150,
+    "low": 145,
+    "volume": 5407900,
+    "market_cap": 3649470889184
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-15",
+    "close": 148,
+    "open": 149,
+    "high": 150,
+    "low": 146,
+    "volume": 2332000,
+    "market_cap": 3624977795968
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-16",
+    "close": 146,
+    "open": 148,
+    "high": 149,
+    "low": 145,
+    "volume": 3731600,
+    "market_cap": 3575991609536
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-17",
+    "close": 145,
+    "open": 147,
+    "high": 148,
+    "low": 145,
+    "volume": 3886500,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-18",
+    "close": 145,
+    "open": 146,
+    "high": 150,
+    "low": 145,
+    "volume": 5458300,
+    "market_cap": 3551498516320
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-21",
+    "close": 143,
+    "open": 145,
+    "high": 146,
+    "low": 143,
+    "volume": 5459200,
+    "market_cap": 3502512329888
+  },
+  {
+    "symbol": "AGRO.JK",
+    "date": "2026-09-22",
+    "close": 141,
+    "open": 143,
+    "high": 145,
+    "low": 140,
+    "volume": 6430500,
+    "market_cap": 3453526143456
+  }
+]

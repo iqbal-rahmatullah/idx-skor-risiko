@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "symbol": "UNTD.JK",
+      "company_name": "PT Terang Dunia Internusa Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "daily_close_change": 0.0128205128205128
+      }
+    },
+    {
+      "symbol": "DOSS.JK",
+      "company_name": "PT Global Sukses Digital Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "daily_close_change": 0.00584795321637427
+      }
+    },
+    {
+      "symbol": "TOYS.JK",
+      "company_name": "PT Sunindo Adipersada Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "IIKP.JK",
+      "company_name": "Inti Agri Resources Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "daily_close_change": 0.0
+      }
+    },
+    {
+      "symbol": "BIKE.JK",
+      "company_name": "PT Sepeda Bersama Indonesia Tbk",
+      "query_values": {
+        "sub_sector": "Leisure Goods",
+        "daily_close_change": -0.0309734513274336
+      }
+    }
+  ],
+  "pagination": {
+    "total_count": 5,
+    "showing": 5,
+    "limit": 200,
+    "offset": 0,
+    "has_next": false,
+    "has_previous": false,
+    "next_offset": null,
+    "previous_offset": null
+  }
+}

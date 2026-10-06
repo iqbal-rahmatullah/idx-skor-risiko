@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-06-24",
+    "close": 38,
+    "open": 44,
+    "high": 44,
+    "low": 38,
+    "volume": 2120700,
+    "market_cap": 57000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-06-25",
+    "close": 41,
+    "open": 40,
+    "high": 41,
+    "low": 40,
+    "volume": 2632100,
+    "market_cap": 61500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-06-26",
+    "close": 41,
+    "open": 43,
+    "high": 43,
+    "low": 41,
+    "volume": 1409200,
+    "market_cap": 61500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-06-29",
+    "close": 42,
+    "open": 42,
+    "high": 42,
+    "low": 42,
+    "volume": 2244400,
+    "market_cap": 63000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-06-30",
+    "close": 42,
+    "open": 43,
+    "high": 43,
+    "low": 42,
+    "volume": 1569600,
+    "market_cap": 63000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-01",
+    "close": 43,
+    "open": 42,
+    "high": 43,
+    "low": 42,
+    "volume": 1652100,
+    "market_cap": 64500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-02",
+    "close": 43,
+    "open": 43,
+    "high": 43,
+    "low": 41,
+    "volume": 2445500,
+    "market_cap": 64500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-03",
+    "close": 44,
+    "open": 43,
+    "high": 44,
+    "low": 43,
+    "volume": 1208900,
+    "market_cap": 66000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-06",
+    "close": 48,
+    "open": 48,
+    "high": 48,
+    "low": 44,
+    "volume": 4096300,
+    "market_cap": 72000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-07",
+    "close": 52,
+    "open": 50,
+    "high": 52,
+    "low": 50,
+    "volume": 5957500,
+    "market_cap": 78000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-08",
+    "close": 57,
+    "open": 57,
+    "high": 57,
+    "low": 57,
+    "volume": 9720600,
+    "market_cap": 85500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-09",
+    "close": 56,
+    "open": 57,
+    "high": 57,
+    "low": 55,
+    "volume": 5840900,
+    "market_cap": 84000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-10",
+    "close": 61,
+    "open": 57,
+    "high": 61,
+    "low": 57,
+    "volume": 10096300,
+    "market_cap": 91500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-13",
+    "close": 67,
+    "open": 67,
+    "high": 67,
+    "low": 67,
+    "volume": 8768400,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-14",
+    "close": 73,
+    "open": 68,
+    "high": 73,
+    "low": 68,
+    "volume": 9933200,
+    "market_cap": 109500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-15",
+    "close": 66,
+    "open": 78,
+    "high": 78,
+    "low": 66,
+    "volume": 6438900,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-16",
+    "close": 66,
+    "open": 62,
+    "high": 66,
+    "low": 60,
+    "volume": 12407300,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-17",
+    "close": 70,
+    "open": 72,
+    "high": 72,
+    "low": 67,
+    "volume": 7187800,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-20",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 70,
+    "volume": 4681100,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-21",
+    "close": 65,
+    "open": 70,
+    "high": 70,
+    "low": 65,
+    "volume": 8284600,
+    "market_cap": 97500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-22",
+    "close": 67,
+    "open": 65,
+    "high": 67,
+    "low": 63,
+    "volume": 3026700,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-23",
+    "close": 68,
+    "open": 70,
+    "high": 70,
+    "low": 67,
+    "volume": 2235400,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-24",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 67,
+    "volume": 2626900,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-27",
+    "close": 68,
+    "open": 70,
+    "high": 70,
+    "low": 68,
+    "volume": 5220600,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-28",
+    "close": 68,
+    "open": 66,
+    "high": 68,
+    "low": 66,
+    "volume": 3391500,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-29",
+    "close": 68,
+    "open": 66,
+    "high": 70,
+    "low": 66,
+    "volume": 4138500,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-30",
+    "close": 67,
+    "open": 67,
+    "high": 67,
+    "low": 67,
+    "volume": 4812700,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-07-31",
+    "close": 66,
+    "open": 67,
+    "high": 67,
+    "low": 66,
+    "volume": 3471400,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-03",
+    "close": 66,
+    "open": 64,
+    "high": 66,
+    "low": 64,
+    "volume": 4010900,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-04",
+    "close": 64,
+    "open": 66,
+    "high": 66,
+    "low": 64,
+    "volume": 9739500,
+    "market_cap": 96000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-05",
+    "close": 66,
+    "open": 63,
+    "high": 66,
+    "low": 63,
+    "volume": 1264500,
+    "market_cap": 99000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-06",
+    "close": 68,
+    "open": 66,
+    "high": 68,
+    "low": 66,
+    "volume": 3620800,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-07",
+    "close": 69,
+    "open": 68,
+    "high": 69,
+    "low": 68,
+    "volume": 3153300,
+    "market_cap": 103500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-10",
+    "close": 71,
+    "open": 74,
+    "high": 74,
+    "low": 71,
+    "volume": 3966700,
+    "market_cap": 106500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-11",
+    "close": 68,
+    "open": 69,
+    "high": 69,
+    "low": 68,
+    "volume": 3488000,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-12",
+    "close": 67,
+    "open": 68,
+    "high": 68,
+    "low": 66,
+    "volume": 2640600,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-13",
+    "close": 71,
+    "open": 67,
+    "high": 71,
+    "low": 67,
+    "volume": 3722800,
+    "market_cap": 106500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-14",
+    "close": 74,
+    "open": 73,
+    "high": 74,
+    "low": 73,
+    "volume": 5743000,
+    "market_cap": 111000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-18",
+    "close": 72,
+    "open": 77,
+    "high": 77,
+    "low": 72,
+    "volume": 9290600,
+    "market_cap": 108000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-19",
+    "close": 69,
+    "open": 72,
+    "high": 72,
+    "low": 67,
+    "volume": 8813400,
+    "market_cap": 103500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-20",
+    "close": 71,
+    "open": 69,
+    "high": 71,
+    "low": 69,
+    "volume": 3402200,
+    "market_cap": 106500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-21",
+    "close": 68,
+    "open": 69,
+    "high": 70,
+    "low": 68,
+    "volume": 8936500,
+    "market_cap": 102000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-24",
+    "close": 67,
+    "open": 66,
+    "high": 67,
+    "low": 65,
+    "volume": 10821300,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-26",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 67,
+    "volume": 12927900,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-27",
+    "close": 70,
+    "open": 71,
+    "high": 72,
+    "low": 69,
+    "volume": 7993400,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-28",
+    "close": 70,
+    "open": 70,
+    "high": 70,
+    "low": 69,
+    "volume": 7266500,
+    "market_cap": 105000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-08-31",
+    "close": 67,
+    "open": 69,
+    "high": 75,
+    "low": 60,
+    "volume": 207123100,
+    "market_cap": 100500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-01",
+    "close": 90,
+    "open": 67,
+    "high": 90,
+    "low": 67,
+    "volume": 546092900,
+    "market_cap": 135000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-02",
+    "close": 94,
+    "open": 87,
+    "high": 119,
+    "low": 81,
+    "volume": 1371656800,
+    "market_cap": 141000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-03",
+    "close": 89,
+    "open": 94,
+    "high": 96,
+    "low": 86,
+    "volume": 119242100,
+    "market_cap": 133500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-04",
+    "close": 96,
+    "open": 92,
+    "high": 105,
+    "low": 91,
+    "volume": 326316000,
+    "market_cap": 144000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-07",
+    "close": 96,
+    "open": 100,
+    "high": 101,
+    "low": 93,
+    "volume": 83366500,
+    "market_cap": 144000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-08",
+    "close": 92,
+    "open": 95,
+    "high": 98,
+    "low": 90,
+    "volume": 37987400,
+    "market_cap": 138000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-09",
+    "close": 96,
+    "open": 92,
+    "high": 98,
+    "low": 89,
+    "volume": 116675200,
+    "market_cap": 144000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-10",
+    "close": 91,
+    "open": 95,
+    "high": 96,
+    "low": 90,
+    "volume": 40635900,
+    "market_cap": 136500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-11",
+    "close": 89,
+    "open": 88,
+    "high": 90,
+    "low": 85,
+    "volume": 20670800,
+    "market_cap": 133500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-14",
+    "close": 87,
+    "open": 89,
+    "high": 90,
+    "low": 82,
+    "volume": 25003900,
+    "market_cap": 130500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-15",
+    "close": 91,
+    "open": 86,
+    "high": 93,
+    "low": 83,
+    "volume": 58857800,
+    "market_cap": 136500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-16",
+    "close": 86,
+    "open": 92,
+    "high": 95,
+    "low": 86,
+    "volume": 41691300,
+    "market_cap": 129000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-17",
+    "close": 92,
+    "open": 85,
+    "high": 94,
+    "low": 83,
+    "volume": 77820200,
+    "market_cap": 138000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-18",
+    "close": 87,
+    "open": 91,
+    "high": 94,
+    "low": 87,
+    "volume": 31810500,
+    "market_cap": 130500000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-21",
+    "close": 92,
+    "open": 87,
+    "high": 98,
+    "low": 86,
+    "volume": 135081600,
+    "market_cap": 138000000000
+  },
+  {
+    "symbol": "KKES.JK",
+    "date": "2026-09-22",
+    "close": 87,
+    "open": 92,
+    "high": 92,
+    "low": 85,
+    "volume": 35337000,
+    "market_cap": 130500000000
+  }
+]

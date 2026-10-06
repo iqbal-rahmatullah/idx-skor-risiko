@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-06-24",
+    "close": 1670,
+    "open": 1600,
+    "high": 1670,
+    "low": 1540,
+    "volume": 57200,
+    "market_cap": 1113334725000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-06-25",
+    "close": 1670,
+    "open": 1570,
+    "high": 1670,
+    "low": 1540,
+    "volume": 6600,
+    "market_cap": 1113334725000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-06-26",
+    "close": 1670,
+    "open": 1650,
+    "high": 1670,
+    "low": 1640,
+    "volume": 6600,
+    "market_cap": 1113334725000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-06-29",
+    "close": 1680,
+    "open": 1460,
+    "high": 1680,
+    "low": 1460,
+    "volume": 50700,
+    "market_cap": 1120001400000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-06-30",
+    "close": 1680,
+    "open": 1680,
+    "high": 1680,
+    "low": 1680,
+    "volume": 0,
+    "market_cap": 1120001400000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-01",
+    "close": 1610,
+    "open": 1515,
+    "high": 1610,
+    "low": 1515,
+    "volume": 800,
+    "market_cap": 1073334675000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-02",
+    "close": 1670,
+    "open": 1610,
+    "high": 1670,
+    "low": 1605,
+    "volume": 1700,
+    "market_cap": 1113334725000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-03",
+    "close": 1595,
+    "open": 1575,
+    "high": 1595,
+    "low": 1575,
+    "volume": 3000,
+    "market_cap": 1063334662500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-06",
+    "close": 1590,
+    "open": 1595,
+    "high": 1595,
+    "low": 1575,
+    "volume": 7300,
+    "market_cap": 1060001325000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-07",
+    "close": 1585,
+    "open": 1580,
+    "high": 1585,
+    "low": 1515,
+    "volume": 17500,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-08",
+    "close": 1590,
+    "open": 1585,
+    "high": 1590,
+    "low": 1575,
+    "volume": 224800,
+    "market_cap": 1060001325000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-09",
+    "close": 1575,
+    "open": 1430,
+    "high": 1590,
+    "low": 1430,
+    "volume": 54400,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-10",
+    "close": 1575,
+    "open": 1520,
+    "high": 1575,
+    "low": 1515,
+    "volume": 15500,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-13",
+    "close": 1575,
+    "open": 1520,
+    "high": 1575,
+    "low": 1520,
+    "volume": 9200,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-14",
+    "close": 1575,
+    "open": 1575,
+    "high": 1575,
+    "low": 1575,
+    "volume": 900,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-15",
+    "close": 1585,
+    "open": 1495,
+    "high": 1585,
+    "low": 1495,
+    "volume": 2900,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-16",
+    "close": 1585,
+    "open": 1585,
+    "high": 1585,
+    "low": 1585,
+    "volume": 0,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-17",
+    "close": 1585,
+    "open": 1500,
+    "high": 1585,
+    "low": 1495,
+    "volume": 9800,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-20",
+    "close": 1585,
+    "open": 1585,
+    "high": 1585,
+    "low": 1585,
+    "volume": 10100,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-21",
+    "close": 1575,
+    "open": 1535,
+    "high": 1585,
+    "low": 1495,
+    "volume": 11300,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-22",
+    "close": 1575,
+    "open": 1575,
+    "high": 1575,
+    "low": 1570,
+    "volume": 2200,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-23",
+    "close": 1575,
+    "open": 1580,
+    "high": 1580,
+    "low": 1530,
+    "volume": 2500,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-24",
+    "close": 1575,
+    "open": 1575,
+    "high": 1575,
+    "low": 1570,
+    "volume": 15700,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-27",
+    "close": 1605,
+    "open": 1575,
+    "high": 1880,
+    "low": 1550,
+    "volume": 252300,
+    "market_cap": 1070001337500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-28",
+    "close": 1575,
+    "open": 1610,
+    "high": 1610,
+    "low": 1475,
+    "volume": 194700,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-29",
+    "close": 1575,
+    "open": 1500,
+    "high": 1590,
+    "low": 1475,
+    "volume": 40000,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-30",
+    "close": 1575,
+    "open": 1480,
+    "high": 1575,
+    "low": 1480,
+    "volume": 34300,
+    "market_cap": 1050001312500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-07-31",
+    "close": 1495,
+    "open": 1555,
+    "high": 1555,
+    "low": 1495,
+    "volume": 75700,
+    "market_cap": 996667912500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-03",
+    "close": 1545,
+    "open": 1500,
+    "high": 1560,
+    "low": 1475,
+    "volume": 71600,
+    "market_cap": 1030001287500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-04",
+    "close": 1525,
+    "open": 1490,
+    "high": 1525,
+    "low": 1490,
+    "volume": 33800,
+    "market_cap": 1016667937500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-05",
+    "close": 1515,
+    "open": 1500,
+    "high": 1520,
+    "low": 1480,
+    "volume": 25200,
+    "market_cap": 1010001262500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-06",
+    "close": 1515,
+    "open": 1525,
+    "high": 1535,
+    "low": 1475,
+    "volume": 17100,
+    "market_cap": 1010001262500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-07",
+    "close": 1520,
+    "open": 1515,
+    "high": 1535,
+    "low": 1490,
+    "volume": 87300,
+    "market_cap": 1013334600000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-10",
+    "close": 1520,
+    "open": 1520,
+    "high": 1525,
+    "low": 1480,
+    "volume": 18000,
+    "market_cap": 1013334600000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-11",
+    "close": 1530,
+    "open": 1480,
+    "high": 1530,
+    "low": 1480,
+    "volume": 29600,
+    "market_cap": 1020001275000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-12",
+    "close": 1500,
+    "open": 1485,
+    "high": 1530,
+    "low": 1485,
+    "volume": 108900,
+    "market_cap": 1000001250000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-13",
+    "close": 1585,
+    "open": 1550,
+    "high": 1680,
+    "low": 1525,
+    "volume": 130900,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-14",
+    "close": 1615,
+    "open": 1510,
+    "high": 1615,
+    "low": 1505,
+    "volume": 22500,
+    "market_cap": 1076668012500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-18",
+    "close": 1550,
+    "open": 1615,
+    "high": 1615,
+    "low": 1515,
+    "volume": 11600,
+    "market_cap": 1033334625000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-19",
+    "close": 1580,
+    "open": 1555,
+    "high": 1600,
+    "low": 1515,
+    "volume": 18600,
+    "market_cap": 1053334650000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-20",
+    "close": 1585,
+    "open": 1680,
+    "high": 1680,
+    "low": 1580,
+    "volume": 8900,
+    "market_cap": 1056667987500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-21",
+    "close": 1725,
+    "open": 1585,
+    "high": 1880,
+    "low": 1585,
+    "volume": 83200,
+    "market_cap": 1150001437500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-24",
+    "close": 1730,
+    "open": 1725,
+    "high": 1735,
+    "low": 1715,
+    "volume": 20000,
+    "market_cap": 1153334775000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-26",
+    "close": 1725,
+    "open": 1725,
+    "high": 1730,
+    "low": 1700,
+    "volume": 16800,
+    "market_cap": 1150001437500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-27",
+    "close": 1710,
+    "open": 1725,
+    "high": 1795,
+    "low": 1700,
+    "volume": 482500,
+    "market_cap": 1140001425000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-28",
+    "close": 1665,
+    "open": 1710,
+    "high": 1720,
+    "low": 1650,
+    "volume": 9300,
+    "market_cap": 1110001387500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-08-31",
+    "close": 1700,
+    "open": 1720,
+    "high": 1720,
+    "low": 1665,
+    "volume": 2100,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-01",
+    "close": 1700,
+    "open": 1700,
+    "high": 1700,
+    "low": 1700,
+    "volume": 11600,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-02",
+    "close": 1710,
+    "open": 1710,
+    "high": 1800,
+    "low": 1710,
+    "volume": 8600,
+    "market_cap": 1140001425000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-03",
+    "close": 1700,
+    "open": 1690,
+    "high": 1720,
+    "low": 1690,
+    "volume": 3300,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-04",
+    "close": 1700,
+    "open": 1700,
+    "high": 1700,
+    "low": 1700,
+    "volume": 8600,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-07",
+    "close": 1720,
+    "open": 1700,
+    "high": 1720,
+    "low": 1665,
+    "volume": 12500,
+    "market_cap": 1146668100000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-08",
+    "close": 1750,
+    "open": 1720,
+    "high": 1760,
+    "low": 1720,
+    "volume": 4600,
+    "market_cap": 1166668125000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-09",
+    "close": 1745,
+    "open": 1730,
+    "high": 1745,
+    "low": 1665,
+    "volume": 52400,
+    "market_cap": 1163334787500
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-10",
+    "close": 1730,
+    "open": 1730,
+    "high": 1730,
+    "low": 1730,
+    "volume": 1200,
+    "market_cap": 1153334775000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-11",
+    "close": 1740,
+    "open": 1700,
+    "high": 1740,
+    "low": 1700,
+    "volume": 3200,
+    "market_cap": 1160001450000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-14",
+    "close": 1700,
+    "open": 1740,
+    "high": 1740,
+    "low": 1700,
+    "volume": 1000,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-15",
+    "close": 1700,
+    "open": 1700,
+    "high": 1750,
+    "low": 1700,
+    "volume": 3900,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-16",
+    "close": 1700,
+    "open": 1700,
+    "high": 1700,
+    "low": 1665,
+    "volume": 17200,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-17",
+    "close": 1700,
+    "open": 1700,
+    "high": 1700,
+    "low": 1665,
+    "volume": 3100,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-18",
+    "close": 1700,
+    "open": 1750,
+    "high": 1750,
+    "low": 1700,
+    "volume": 27700,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-21",
+    "close": 1700,
+    "open": 1665,
+    "high": 1700,
+    "low": 1665,
+    "volume": 900,
+    "market_cap": 1133334750000
+  },
+  {
+    "symbol": "NFCX.JK",
+    "date": "2026-09-22",
+    "close": 1745,
+    "open": 1685,
+    "high": 1745,
+    "low": 1670,
+    "volume": 4100,
+    "market_cap": 1163334787500
+  }
+]

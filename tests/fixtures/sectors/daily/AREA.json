@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-06-24",
+    "close": 232,
+    "open": 236,
+    "high": 238,
+    "low": 220,
+    "volume": 907100,
+    "market_cap": 589187432000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-06-25",
+    "close": 228,
+    "open": 232,
+    "high": 232,
+    "low": 222,
+    "volume": 57600,
+    "market_cap": 579029028000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-06-26",
+    "close": 230,
+    "open": 236,
+    "high": 236,
+    "low": 220,
+    "volume": 956600,
+    "market_cap": 584108230000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-06-29",
+    "close": 224,
+    "open": 226,
+    "high": 230,
+    "low": 200,
+    "volume": 836300,
+    "market_cap": 568870624000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-06-30",
+    "close": 224,
+    "open": 224,
+    "high": 226,
+    "low": 206,
+    "volume": 1263300,
+    "market_cap": 568870624000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-01",
+    "close": 214,
+    "open": 226,
+    "high": 254,
+    "low": 206,
+    "volume": 3638900,
+    "market_cap": 543474614000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-02",
+    "close": 220,
+    "open": 214,
+    "high": 220,
+    "low": 206,
+    "volume": 459700,
+    "market_cap": 558712220000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-03",
+    "close": 224,
+    "open": 216,
+    "high": 236,
+    "low": 212,
+    "volume": 592800,
+    "market_cap": 568870624000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-06",
+    "close": 234,
+    "open": 224,
+    "high": 240,
+    "low": 224,
+    "volume": 758100,
+    "market_cap": 594266634000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-07",
+    "close": 232,
+    "open": 240,
+    "high": 240,
+    "low": 226,
+    "volume": 677700,
+    "market_cap": 589187432000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-08",
+    "close": 230,
+    "open": 234,
+    "high": 236,
+    "low": 226,
+    "volume": 52300,
+    "market_cap": 584108230000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-09",
+    "close": 230,
+    "open": 230,
+    "high": 230,
+    "low": 222,
+    "volume": 336400,
+    "market_cap": 584108230000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-10",
+    "close": 232,
+    "open": 224,
+    "high": 232,
+    "low": 224,
+    "volume": 587100,
+    "market_cap": 589187432000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-13",
+    "close": 234,
+    "open": 230,
+    "high": 234,
+    "low": 222,
+    "volume": 689000,
+    "market_cap": 594266634000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-14",
+    "close": 244,
+    "open": 234,
+    "high": 246,
+    "low": 228,
+    "volume": 794300,
+    "market_cap": 619662644000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-15",
+    "close": 244,
+    "open": 240,
+    "high": 250,
+    "low": 236,
+    "volume": 879100,
+    "market_cap": 619662644000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-16",
+    "close": 246,
+    "open": 242,
+    "high": 250,
+    "low": 240,
+    "volume": 603300,
+    "market_cap": 624741846000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-17",
+    "close": 268,
+    "open": 250,
+    "high": 268,
+    "low": 242,
+    "volume": 1678800,
+    "market_cap": 680613068000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-20",
+    "close": 292,
+    "open": 276,
+    "high": 326,
+    "low": 272,
+    "volume": 8869200,
+    "market_cap": 741563492000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-21",
+    "close": 296,
+    "open": 306,
+    "high": 318,
+    "low": 278,
+    "volume": 2391700,
+    "market_cap": 751721896000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-22",
+    "close": 302,
+    "open": 296,
+    "high": 302,
+    "low": 286,
+    "volume": 1056400,
+    "market_cap": 766959502000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-23",
+    "close": 306,
+    "open": 308,
+    "high": 310,
+    "low": 296,
+    "volume": 1145500,
+    "market_cap": 777117906000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-24",
+    "close": 284,
+    "open": 306,
+    "high": 310,
+    "low": 284,
+    "volume": 940700,
+    "market_cap": 721246684000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-27",
+    "close": 296,
+    "open": 284,
+    "high": 304,
+    "low": 274,
+    "volume": 1366300,
+    "market_cap": 751721896000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-28",
+    "close": 274,
+    "open": 294,
+    "high": 294,
+    "low": 274,
+    "volume": 320700,
+    "market_cap": 695850674000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-29",
+    "close": 260,
+    "open": 286,
+    "high": 286,
+    "low": 246,
+    "volume": 1299400,
+    "market_cap": 660296260000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-30",
+    "close": 280,
+    "open": 256,
+    "high": 286,
+    "low": 252,
+    "volume": 929300,
+    "market_cap": 711088280000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-07-31",
+    "close": 282,
+    "open": 280,
+    "high": 292,
+    "low": 276,
+    "volume": 440800,
+    "market_cap": 716167482000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-03",
+    "close": 280,
+    "open": 282,
+    "high": 314,
+    "low": 272,
+    "volume": 536100,
+    "market_cap": 711088280000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-04",
+    "close": 284,
+    "open": 280,
+    "high": 288,
+    "low": 274,
+    "volume": 454500,
+    "market_cap": 721246684000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-05",
+    "close": 282,
+    "open": 284,
+    "high": 286,
+    "low": 272,
+    "volume": 719400,
+    "market_cap": 716167482000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-06",
+    "close": 280,
+    "open": 282,
+    "high": 284,
+    "low": 274,
+    "volume": 353200,
+    "market_cap": 711088280000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-07",
+    "close": 272,
+    "open": 280,
+    "high": 280,
+    "low": 268,
+    "volume": 225000,
+    "market_cap": 690771472000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-10",
+    "close": 274,
+    "open": 274,
+    "high": 278,
+    "low": 270,
+    "volume": 518800,
+    "market_cap": 695850674000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-11",
+    "close": 280,
+    "open": 280,
+    "high": 286,
+    "low": 272,
+    "volume": 1159500,
+    "market_cap": 711088280000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-12",
+    "close": 288,
+    "open": 282,
+    "high": 300,
+    "low": 276,
+    "volume": 2206100,
+    "market_cap": 731405088000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-13",
+    "close": 270,
+    "open": 288,
+    "high": 288,
+    "low": 256,
+    "volume": 1898300,
+    "market_cap": 685692270000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-14",
+    "close": 272,
+    "open": 270,
+    "high": 276,
+    "low": 264,
+    "volume": 510500,
+    "market_cap": 690771472000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-18",
+    "close": 268,
+    "open": 272,
+    "high": 274,
+    "low": 266,
+    "volume": 396300,
+    "market_cap": 680613068000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-19",
+    "close": 276,
+    "open": 274,
+    "high": 286,
+    "low": 268,
+    "volume": 946400,
+    "market_cap": 700929876000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-20",
+    "close": 272,
+    "open": 278,
+    "high": 278,
+    "low": 264,
+    "volume": 664100,
+    "market_cap": 690771472000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-21",
+    "close": 284,
+    "open": 272,
+    "high": 338,
+    "low": 268,
+    "volume": 5633100,
+    "market_cap": 721246684000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-24",
+    "close": 338,
+    "open": 286,
+    "high": 346,
+    "low": 284,
+    "volume": 15868300,
+    "market_cap": 858385138000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-26",
+    "close": 346,
+    "open": 340,
+    "high": 398,
+    "low": 316,
+    "volume": 17124900,
+    "market_cap": 878701946000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-27",
+    "close": 342,
+    "open": 346,
+    "high": 366,
+    "low": 330,
+    "volume": 5462800,
+    "market_cap": 868543542000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-28",
+    "close": 326,
+    "open": 348,
+    "high": 348,
+    "low": 322,
+    "volume": 3777000,
+    "market_cap": 827909926000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-08-31",
+    "close": 344,
+    "open": 336,
+    "high": 354,
+    "low": 322,
+    "volume": 6359100,
+    "market_cap": 873622744000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-01",
+    "close": 342,
+    "open": 342,
+    "high": 360,
+    "low": 330,
+    "volume": 4627500,
+    "market_cap": 868543542000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-02",
+    "close": 340,
+    "open": 344,
+    "high": 346,
+    "low": 326,
+    "volume": 1306200,
+    "market_cap": 863464340000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-03",
+    "close": 340,
+    "open": 340,
+    "high": 344,
+    "low": 334,
+    "volume": 1948300,
+    "market_cap": 863464340000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-04",
+    "close": 336,
+    "open": 340,
+    "high": 348,
+    "low": 332,
+    "volume": 1363900,
+    "market_cap": 853305936000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-07",
+    "close": 336,
+    "open": 336,
+    "high": 342,
+    "low": 334,
+    "volume": 665200,
+    "market_cap": 853305936000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-08",
+    "close": 344,
+    "open": 336,
+    "high": 352,
+    "low": 336,
+    "volume": 2488800,
+    "market_cap": 873622744000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-09",
+    "close": 340,
+    "open": 350,
+    "high": 350,
+    "low": 338,
+    "volume": 1269100,
+    "market_cap": 863464340000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-10",
+    "close": 332,
+    "open": 342,
+    "high": 350,
+    "low": 318,
+    "volume": 4357900,
+    "market_cap": 843147532000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-11",
+    "close": 330,
+    "open": 330,
+    "high": 348,
+    "low": 316,
+    "volume": 3723400,
+    "market_cap": 838068330000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-14",
+    "close": 310,
+    "open": 334,
+    "high": 334,
+    "low": 304,
+    "volume": 1320200,
+    "market_cap": 787276310000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-15",
+    "close": 314,
+    "open": 312,
+    "high": 340,
+    "low": 310,
+    "volume": 2013300,
+    "market_cap": 797434714000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-16",
+    "close": 314,
+    "open": 316,
+    "high": 330,
+    "low": 312,
+    "volume": 1804200,
+    "market_cap": 797434714000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-17",
+    "close": 328,
+    "open": 318,
+    "high": 360,
+    "low": 306,
+    "volume": 11270800,
+    "market_cap": 832989128000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-18",
+    "close": 328,
+    "open": 328,
+    "high": 340,
+    "low": 322,
+    "volume": 3370100,
+    "market_cap": 832989128000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-21",
+    "close": 322,
+    "open": 328,
+    "high": 336,
+    "low": 322,
+    "volume": 1310600,
+    "market_cap": 817751522000
+  },
+  {
+    "symbol": "AREA.JK",
+    "date": "2026-09-22",
+    "close": 320,
+    "open": 326,
+    "high": 326,
+    "low": 316,
+    "volume": 601800,
+    "market_cap": 812672320000
+  }
+]

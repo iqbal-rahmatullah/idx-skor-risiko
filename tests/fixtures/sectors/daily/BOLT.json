@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-06-24",
+    "close": 780,
+    "open": 785,
+    "high": 790,
+    "low": 780,
+    "volume": 9900,
+    "market_cap": 1828125000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-06-25",
+    "close": 785,
+    "open": 780,
+    "high": 790,
+    "low": 775,
+    "volume": 6700,
+    "market_cap": 1839843750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-06-26",
+    "close": 765,
+    "open": 785,
+    "high": 830,
+    "low": 765,
+    "volume": 59600,
+    "market_cap": 1792968750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-06-29",
+    "close": 755,
+    "open": 770,
+    "high": 775,
+    "low": 755,
+    "volume": 9600,
+    "market_cap": 1769531250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-06-30",
+    "close": 760,
+    "open": 755,
+    "high": 770,
+    "low": 755,
+    "volume": 10400,
+    "market_cap": 1781250000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-01",
+    "close": 755,
+    "open": 765,
+    "high": 775,
+    "low": 755,
+    "volume": 11100,
+    "market_cap": 1769531250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-02",
+    "close": 755,
+    "open": 765,
+    "high": 765,
+    "low": 750,
+    "volume": 14600,
+    "market_cap": 1769531250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-03",
+    "close": 770,
+    "open": 760,
+    "high": 770,
+    "low": 760,
+    "volume": 7400,
+    "market_cap": 1804687500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-06",
+    "close": 795,
+    "open": 770,
+    "high": 805,
+    "low": 760,
+    "volume": 22200,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-07",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 795,
+    "volume": 9300,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-08",
+    "close": 775,
+    "open": 795,
+    "high": 795,
+    "low": 775,
+    "volume": 14900,
+    "market_cap": 1816406250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-09",
+    "close": 780,
+    "open": 775,
+    "high": 780,
+    "low": 770,
+    "volume": 6700,
+    "market_cap": 1828125000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-10",
+    "close": 785,
+    "open": 780,
+    "high": 785,
+    "low": 780,
+    "volume": 6500,
+    "market_cap": 1839843750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-13",
+    "close": 785,
+    "open": 785,
+    "high": 795,
+    "low": 785,
+    "volume": 6500,
+    "market_cap": 1839843750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-14",
+    "close": 805,
+    "open": 790,
+    "high": 810,
+    "low": 790,
+    "volume": 22900,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-15",
+    "close": 790,
+    "open": 805,
+    "high": 805,
+    "low": 780,
+    "volume": 16500,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-16",
+    "close": 795,
+    "open": 795,
+    "high": 795,
+    "low": 790,
+    "volume": 10100,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-17",
+    "close": 790,
+    "open": 795,
+    "high": 795,
+    "low": 785,
+    "volume": 6900,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-20",
+    "close": 780,
+    "open": 790,
+    "high": 795,
+    "low": 780,
+    "volume": 16100,
+    "market_cap": 1828125000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-21",
+    "close": 790,
+    "open": 785,
+    "high": 795,
+    "low": 780,
+    "volume": 8600,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-22",
+    "close": 790,
+    "open": 795,
+    "high": 810,
+    "low": 790,
+    "volume": 14800,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-23",
+    "close": 810,
+    "open": 795,
+    "high": 815,
+    "low": 795,
+    "volume": 18500,
+    "market_cap": 1898437500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-24",
+    "close": 800,
+    "open": 810,
+    "high": 810,
+    "low": 800,
+    "volume": 6300,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-27",
+    "close": 785,
+    "open": 800,
+    "high": 805,
+    "low": 785,
+    "volume": 7800,
+    "market_cap": 1839843750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-28",
+    "close": 780,
+    "open": 790,
+    "high": 790,
+    "low": 780,
+    "volume": 7100,
+    "market_cap": 1828125000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-29",
+    "close": 775,
+    "open": 785,
+    "high": 795,
+    "low": 770,
+    "volume": 15900,
+    "market_cap": 1816406250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-30",
+    "close": 795,
+    "open": 780,
+    "high": 795,
+    "low": 780,
+    "volume": 7200,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-07-31",
+    "close": 805,
+    "open": 795,
+    "high": 805,
+    "low": 795,
+    "volume": 9300,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-03",
+    "close": 800,
+    "open": 805,
+    "high": 805,
+    "low": 790,
+    "volume": 8200,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-04",
+    "close": 800,
+    "open": 800,
+    "high": 800,
+    "low": 790,
+    "volume": 6800,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-05",
+    "close": 805,
+    "open": 800,
+    "high": 805,
+    "low": 790,
+    "volume": 9000,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-06",
+    "close": 800,
+    "open": 805,
+    "high": 810,
+    "low": 800,
+    "volume": 9200,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-07",
+    "close": 805,
+    "open": 805,
+    "high": 805,
+    "low": 795,
+    "volume": 6400,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-10",
+    "close": 805,
+    "open": 810,
+    "high": 810,
+    "low": 800,
+    "volume": 7300,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-11",
+    "close": 805,
+    "open": 810,
+    "high": 810,
+    "low": 800,
+    "volume": 8800,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-12",
+    "close": 790,
+    "open": 805,
+    "high": 810,
+    "low": 790,
+    "volume": 12100,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-13",
+    "close": 790,
+    "open": 795,
+    "high": 800,
+    "low": 790,
+    "volume": 6900,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-14",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 795,
+    "volume": 6600,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-18",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 790,
+    "volume": 8600,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-19",
+    "close": 795,
+    "open": 800,
+    "high": 800,
+    "low": 790,
+    "volume": 6600,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-20",
+    "close": 790,
+    "open": 795,
+    "high": 795,
+    "low": 790,
+    "volume": 7700,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-21",
+    "close": 790,
+    "open": 795,
+    "high": 800,
+    "low": 790,
+    "volume": 6500,
+    "market_cap": 1851562500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-24",
+    "close": 800,
+    "open": 795,
+    "high": 800,
+    "low": 790,
+    "volume": 11500,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-26",
+    "close": 795,
+    "open": 805,
+    "high": 810,
+    "low": 795,
+    "volume": 7400,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-27",
+    "close": 810,
+    "open": 800,
+    "high": 810,
+    "low": 795,
+    "volume": 14100,
+    "market_cap": 1898437500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-28",
+    "close": 780,
+    "open": 810,
+    "high": 1010,
+    "low": 770,
+    "volume": 318900,
+    "market_cap": 1828125000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-08-31",
+    "close": 800,
+    "open": 785,
+    "high": 805,
+    "low": 785,
+    "volume": 29900,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-01",
+    "close": 795,
+    "open": 800,
+    "high": 810,
+    "low": 790,
+    "volume": 18500,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-02",
+    "close": 800,
+    "open": 800,
+    "high": 810,
+    "low": 795,
+    "volume": 12100,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-03",
+    "close": 810,
+    "open": 800,
+    "high": 810,
+    "low": 790,
+    "volume": 18300,
+    "market_cap": 1898437500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-04",
+    "close": 810,
+    "open": 815,
+    "high": 815,
+    "low": 800,
+    "volume": 9400,
+    "market_cap": 1898437500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-07",
+    "close": 800,
+    "open": 810,
+    "high": 810,
+    "low": 800,
+    "volume": 14600,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-08",
+    "close": 800,
+    "open": 805,
+    "high": 805,
+    "low": 795,
+    "volume": 7400,
+    "market_cap": 1875000000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-09",
+    "close": 815,
+    "open": 800,
+    "high": 815,
+    "low": 795,
+    "volume": 22100,
+    "market_cap": 1910156250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-10",
+    "close": 785,
+    "open": 815,
+    "high": 815,
+    "low": 785,
+    "volume": 14900,
+    "market_cap": 1839843750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-11",
+    "close": 810,
+    "open": 790,
+    "high": 810,
+    "low": 790,
+    "volume": 16700,
+    "market_cap": 1898437500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-14",
+    "close": 795,
+    "open": 805,
+    "high": 830,
+    "low": 795,
+    "volume": 44400,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-15",
+    "close": 795,
+    "open": 795,
+    "high": 800,
+    "low": 785,
+    "volume": 9000,
+    "market_cap": 1863281250000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-16",
+    "close": 805,
+    "open": 800,
+    "high": 805,
+    "low": 795,
+    "volume": 6500,
+    "market_cap": 1886718750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-17",
+    "close": 820,
+    "open": 805,
+    "high": 825,
+    "low": 805,
+    "volume": 61200,
+    "market_cap": 1921875000000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-18",
+    "close": 825,
+    "open": 820,
+    "high": 825,
+    "low": 800,
+    "volume": 15200,
+    "market_cap": 1933593750000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-21",
+    "close": 830,
+    "open": 845,
+    "high": 855,
+    "low": 820,
+    "volume": 44400,
+    "market_cap": 1945312500000
+  },
+  {
+    "symbol": "BOLT.JK",
+    "date": "2026-09-22",
+    "close": 785,
+    "open": 830,
+    "high": 835,
+    "low": 765,
+    "volume": 52200,
+    "market_cap": 1839843750000
+  }
+]

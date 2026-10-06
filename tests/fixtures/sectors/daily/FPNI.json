@@ -1,0 +1,632 @@
+[
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-06-24",
+    "close": 354,
+    "open": 368,
+    "high": 378,
+    "low": 348,
+    "volume": 3666700,
+    "market_cap": 1970510556000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-06-25",
+    "close": 368,
+    "open": 354,
+    "high": 380,
+    "low": 346,
+    "volume": 2453000,
+    "market_cap": 2048440352000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-06-26",
+    "close": 356,
+    "open": 368,
+    "high": 376,
+    "low": 354,
+    "volume": 1355200,
+    "market_cap": 1981643384000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-06-29",
+    "close": 342,
+    "open": 358,
+    "high": 360,
+    "low": 340,
+    "volume": 1345500,
+    "market_cap": 1903713588000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-06-30",
+    "close": 316,
+    "open": 346,
+    "high": 350,
+    "low": 312,
+    "volume": 2006500,
+    "market_cap": 1758986824000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-01",
+    "close": 314,
+    "open": 328,
+    "high": 328,
+    "low": 314,
+    "volume": 2392500,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-02",
+    "close": 316,
+    "open": 316,
+    "high": 342,
+    "low": 312,
+    "volume": 4547600,
+    "market_cap": 1758986824000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-03",
+    "close": 316,
+    "open": 318,
+    "high": 326,
+    "low": 314,
+    "volume": 2327600,
+    "market_cap": 1758986824000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-06",
+    "close": 318,
+    "open": 318,
+    "high": 324,
+    "low": 310,
+    "volume": 1182100,
+    "market_cap": 1770119652000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-07",
+    "close": 316,
+    "open": 318,
+    "high": 320,
+    "low": 314,
+    "volume": 1966600,
+    "market_cap": 1758986824000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-08",
+    "close": 314,
+    "open": 316,
+    "high": 320,
+    "low": 310,
+    "volume": 936300,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-09",
+    "close": 314,
+    "open": 314,
+    "high": 316,
+    "low": 308,
+    "volume": 1599800,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-10",
+    "close": 314,
+    "open": 314,
+    "high": 316,
+    "low": 310,
+    "volume": 497800,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-13",
+    "close": 314,
+    "open": 314,
+    "high": 314,
+    "low": 310,
+    "volume": 1621700,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-14",
+    "close": 318,
+    "open": 314,
+    "high": 328,
+    "low": 314,
+    "volume": 3211900,
+    "market_cap": 1770119652000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-15",
+    "close": 328,
+    "open": 320,
+    "high": 330,
+    "low": 318,
+    "volume": 3242300,
+    "market_cap": 1825783792000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-16",
+    "close": 336,
+    "open": 332,
+    "high": 336,
+    "low": 322,
+    "volume": 1983200,
+    "market_cap": 1870315104000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-17",
+    "close": 330,
+    "open": 336,
+    "high": 336,
+    "low": 330,
+    "volume": 1324300,
+    "market_cap": 1836916620000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-20",
+    "close": 332,
+    "open": 332,
+    "high": 340,
+    "low": 330,
+    "volume": 2653700,
+    "market_cap": 1848049448000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-21",
+    "close": 332,
+    "open": 334,
+    "high": 338,
+    "low": 330,
+    "volume": 2015100,
+    "market_cap": 1848049448000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-22",
+    "close": 332,
+    "open": 332,
+    "high": 340,
+    "low": 330,
+    "volume": 2459100,
+    "market_cap": 1848049448000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-23",
+    "close": 332,
+    "open": 336,
+    "high": 340,
+    "low": 326,
+    "volume": 3209300,
+    "market_cap": 1848049448000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-24",
+    "close": 326,
+    "open": 332,
+    "high": 334,
+    "low": 320,
+    "volume": 2943700,
+    "market_cap": 1814650964000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-27",
+    "close": 312,
+    "open": 322,
+    "high": 322,
+    "low": 290,
+    "volume": 2720600,
+    "market_cap": 1736721168000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-28",
+    "close": 314,
+    "open": 314,
+    "high": 318,
+    "low": 310,
+    "volume": 724000,
+    "market_cap": 1747853996000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-29",
+    "close": 324,
+    "open": 312,
+    "high": 338,
+    "low": 302,
+    "volume": 7983600,
+    "market_cap": 1803518136000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-30",
+    "close": 326,
+    "open": 330,
+    "high": 332,
+    "low": 322,
+    "volume": 1705900,
+    "market_cap": 1814650964000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-07-31",
+    "close": 406,
+    "open": 342,
+    "high": 406,
+    "low": 342,
+    "volume": 17110200,
+    "market_cap": 2259964084000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-03",
+    "close": 424,
+    "open": 505,
+    "high": 505,
+    "low": 420,
+    "volume": 50863900,
+    "market_cap": 2360159536000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-04",
+    "close": 420,
+    "open": 424,
+    "high": 436,
+    "low": 402,
+    "volume": 10109500,
+    "market_cap": 2337893880000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-05",
+    "close": 444,
+    "open": 420,
+    "high": 452,
+    "low": 412,
+    "volume": 11370900,
+    "market_cap": 2471487816000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-06",
+    "close": 432,
+    "open": 452,
+    "high": 452,
+    "low": 432,
+    "volume": 5108800,
+    "market_cap": 2404690848000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-07",
+    "close": 426,
+    "open": 432,
+    "high": 436,
+    "low": 418,
+    "volume": 4167700,
+    "market_cap": 2371292364000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-10",
+    "close": 426,
+    "open": 428,
+    "high": 438,
+    "low": 422,
+    "volume": 3236000,
+    "market_cap": 2371292364000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-11",
+    "close": 416,
+    "open": 430,
+    "high": 446,
+    "low": 408,
+    "volume": 10923900,
+    "market_cap": 2315628224000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-12",
+    "close": 432,
+    "open": 416,
+    "high": 438,
+    "low": 416,
+    "volume": 5927300,
+    "market_cap": 2404690848000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-13",
+    "close": 424,
+    "open": 434,
+    "high": 436,
+    "low": 420,
+    "volume": 2260000,
+    "market_cap": 2360159536000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-14",
+    "close": 418,
+    "open": 420,
+    "high": 424,
+    "low": 410,
+    "volume": 1994800,
+    "market_cap": 2326761052000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-18",
+    "close": 434,
+    "open": 432,
+    "high": 434,
+    "low": 424,
+    "volume": 3312300,
+    "market_cap": 2415823676000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-19",
+    "close": 540,
+    "open": 440,
+    "high": 540,
+    "low": 432,
+    "volume": 110195700,
+    "market_cap": 3005863560000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-20",
+    "close": 530,
+    "open": 570,
+    "high": 600,
+    "low": 505,
+    "volume": 72111200,
+    "market_cap": 2950199420000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-21",
+    "close": 540,
+    "open": 550,
+    "high": 630,
+    "low": 530,
+    "volume": 38430600,
+    "market_cap": 3005863560000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-24",
+    "close": 550,
+    "open": 540,
+    "high": 565,
+    "low": 530,
+    "volume": 8176500,
+    "market_cap": 3061527700000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-26",
+    "close": 665,
+    "open": 555,
+    "high": 670,
+    "low": 530,
+    "volume": 63893100,
+    "market_cap": 3701665310000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-27",
+    "close": 630,
+    "open": 620,
+    "high": 655,
+    "low": 600,
+    "volume": 27417500,
+    "market_cap": 3506840820000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-28",
+    "close": 615,
+    "open": 630,
+    "high": 660,
+    "low": 610,
+    "volume": 13578100,
+    "market_cap": 3423344610000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-08-31",
+    "close": 625,
+    "open": 615,
+    "high": 635,
+    "low": 595,
+    "volume": 8260300,
+    "market_cap": 3479008750000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-01",
+    "close": 615,
+    "open": 630,
+    "high": 630,
+    "low": 605,
+    "volume": 6595300,
+    "market_cap": 3423344610000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-02",
+    "close": 620,
+    "open": 620,
+    "high": 655,
+    "low": 605,
+    "volume": 14342700,
+    "market_cap": 3451176680000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-03",
+    "close": 635,
+    "open": 620,
+    "high": 655,
+    "low": 615,
+    "volume": 14457200,
+    "market_cap": 3534672890000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-04",
+    "close": 615,
+    "open": 650,
+    "high": 660,
+    "low": 610,
+    "volume": 7898200,
+    "market_cap": 3423344610000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-07",
+    "close": 660,
+    "open": 615,
+    "high": 685,
+    "low": 605,
+    "volume": 22971000,
+    "market_cap": 3673833240000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-08",
+    "close": 570,
+    "open": 670,
+    "high": 685,
+    "low": 565,
+    "volume": 51797500,
+    "market_cap": 3172855980000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-09",
+    "close": 555,
+    "open": 565,
+    "high": 570,
+    "low": 530,
+    "volume": 12853400,
+    "market_cap": 3089359770000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-10",
+    "close": 565,
+    "open": 560,
+    "high": 595,
+    "low": 560,
+    "volume": 14822500,
+    "market_cap": 3145023910000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-11",
+    "close": 545,
+    "open": 560,
+    "high": 560,
+    "low": 520,
+    "volume": 3731100,
+    "market_cap": 3033695630000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-14",
+    "close": 520,
+    "open": 560,
+    "high": 565,
+    "low": 505,
+    "volume": 6711200,
+    "market_cap": 2894535280000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-15",
+    "close": 520,
+    "open": 530,
+    "high": 530,
+    "low": 505,
+    "volume": 2511600,
+    "market_cap": 2894535280000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-16",
+    "close": 505,
+    "open": 520,
+    "high": 535,
+    "low": 505,
+    "volume": 2309600,
+    "market_cap": 2811039070000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-17",
+    "close": 515,
+    "open": 505,
+    "high": 530,
+    "low": 500,
+    "volume": 3397900,
+    "market_cap": 2866703210000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-18",
+    "close": 600,
+    "open": 520,
+    "high": 625,
+    "low": 515,
+    "volume": 59128300,
+    "market_cap": 3339848400000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-21",
+    "close": 540,
+    "open": 630,
+    "high": 660,
+    "low": 540,
+    "volume": 50505100,
+    "market_cap": 3005863560000
+  },
+  {
+    "symbol": "FPNI.JK",
+    "date": "2026-09-22",
+    "close": 525,
+    "open": 545,
+    "high": 555,
+    "low": 515,
+    "volume": 6894500,
+    "market_cap": 2922367350000
+  }
+]
