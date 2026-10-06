@@ -31,8 +31,10 @@ def pct(x: float) -> str:
 
 
 def idr(x: float) -> str:
+    if x < 0:
+        return f"-{idr(-x)}"
     for size, unit in IDR_UNITS:
-        if abs(x) >= size:
+        if x >= size:
             return f"Rp{num(x / size)} {unit}"
     return f"Rp{num(x, 0)}"
 
@@ -43,3 +45,7 @@ def shares(x: float) -> str:
 
 def day(d: date) -> str:
     return f"{d.day} {MONTHS[d.month - 1]} {d.year}"
+
+
+def points(x: float) -> str:
+    return f"{'+' if x > 0 else ''}{num(x * 100)} poin persen"

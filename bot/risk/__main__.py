@@ -1,11 +1,11 @@
 import argparse
 import asyncio
 
+from bot.assess import prepare
 from bot.config import Settings
 from bot.db import make_session_factory
 from bot.risk.build_json import build_indicators, dumps
 from bot.sectors.client import make_client
-from bot.snapshot.build import take_snapshot
 
 
 async def run(symbol: str) -> str:
@@ -13,7 +13,14 @@ async def run(symbol: str) -> str:
     session_factory = make_session_factory(settings.database_url)
     async with make_client(settings) as client:
         with session_factory() as session:
-            snap, _ = await take_snapshot(client, session, symbol)
+            # Mengisi distribusi subsektor dan riwayat broker memakai kredit, jadi hanya di mode offline.
+            snap = await prepare(
+                client,
+                session,
+                symbol,
+                fill_peers=settings.sectors_offline,
+                fill_broker=settings.sectors_offline,
+            )
     return dumps(build_indicators(snap))
 
 

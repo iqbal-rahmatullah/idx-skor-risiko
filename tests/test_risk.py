@@ -8,7 +8,6 @@ from pathlib import Path
 import pytest
 
 from bot.db import make_session_factory
-from bot.idx.lists import idx_lists_for
 from bot.risk.build_json import build_indicators, dumps
 from bot.risk.format import day, idr, pct
 from bot.risk.indicators.p1_ukuran import daily_liquidity, free_float, sub_51_price
@@ -22,6 +21,7 @@ from bot.risk.score import final_score, grade, pillar_score
 from bot.sectors.client import FIXTURES_DIR, SectorsClient, fixture_transport
 from bot.snapshot.build import normalize, normalize_suspensions, take_snapshot
 from bot.snapshot.models import Bar, IdxLists, Price, TickerSnapshot
+from tests.test_pillars import TEST_SYMBOLS, full_snapshot
 from tests.test_snapshot import raw_for
 
 BIG_CAP = 76_177_524_178_250
@@ -411,10 +411,20 @@ def test_ldr_one_sided(ratio, status, low_note):
     assert ("84%" in ind.note) is low_note
 
 
-def test_free_float_note_only_when_below_target():
-    assert free_float(fixture_snapshot("ANTM")).note is None
-    snap = with_overview(fixture_snapshot("ANTM"), "Main", free_float=0.13)
-    assert "31 Maret 2028" in free_float(snap).note
+def test_free_float_note_follows_bei_transition_tiers():
+    antm = fixture_snapshot("ANTM")
+    assert free_float(antm).note is None
+
+    near = free_float(with_overview(antm, "Main", free_float=0.13)).note
+    far = free_float(with_overview(antm, "Main", free_float=0.10)).note
+    small = free_float(
+        with_overview(antm, "Main", free_float=0.10, market_cap=10**12)
+    ).note
+
+    assert "15% paling lambat 31 Maret 2027" in near
+    assert "12,5% paling lambat 31 Maret 2027" in far
+    assert "15% paling lambat 31 Maret 2028" in far
+    assert small == "masa transisi: 15% paling lambat 31 Maret 2029"
 
 
 def with_suspensions(symbol: str, as_of: date) -> TickerSnapshot:
@@ -484,22 +494,14 @@ def test_snapshot_carries_real_idx_lists():
     assert snap.idx_lists.as_of == date(2026, 9, 22)
 
 
-FROZEN_IDX_CSV = Path(__file__).parent / "fixtures" / "idx" / "notasi_khusus.csv"
 GOLDEN_DIR = Path(__file__).parent / "golden"
 
 
-def golden_snapshot(symbol: str) -> TickerSnapshot:
-    # CSV dibekukan supaya golden tidak berubah saat bot/data/idx diperbarui.
-    return fixture_snapshot(symbol).model_copy(
-        update={"idx_lists": idx_lists_for(symbol, FROZEN_IDX_CSV)}
-    )
-
-
-@pytest.mark.parametrize("symbol", ["ANTM", "BBCA"])
+@pytest.mark.parametrize("symbol", TEST_SYMBOLS)
 def test_indicators_match_golden(symbol):
     expected = (GOLDEN_DIR / f"indicators_{symbol}.json").read_text()
 
-    assert dumps(build_indicators(golden_snapshot(symbol))) == expected
+    assert dumps(build_indicators(full_snapshot(symbol))) == expected
 
 
 def test_indicators_ignore_raw_input_order():

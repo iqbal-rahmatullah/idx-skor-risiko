@@ -15,7 +15,11 @@ def pillar_score(indicators: list[Indicator]) -> float | None:
     total = sum(i.weight for i in assessable)
     if not total:
         return None
-    flagged = sum(i.weight for i in assessable if i.status == "bermasalah")
+    flagged = sum(
+        i.weight
+        for i in assessable
+        if i.status == "bermasalah" and i.dismissed_reason is None
+    )
     return 100 * flagged / total
 
 

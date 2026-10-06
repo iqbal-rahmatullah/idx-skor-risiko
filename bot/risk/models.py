@@ -35,6 +35,7 @@ class Indicator(BaseModel):
     weight: int
     evidence_path: str
     note: str | None = None
+    dismissed_reason: str | None = None
 
 
 def make_indicator(rule: Rule, **fields: object) -> Indicator:
